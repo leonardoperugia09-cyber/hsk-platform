@@ -1,0 +1,9379 @@
+{
+ "meta": {
+  "level": 2,
+  "syllabus": "New HSK list (MandarinBean)",
+  "source": "New-HSK-Vocabulary-Level-2.pdf (MandarinBean)",
+  "ranking": "general word frequency (jieba dictionary)",
+  "word_count": 198,
+  "char_count": 200,
+  "new_char_count": 148,
+  "examples": 198
+ },
+ "words": [
+  {
+   "hanzi": "就",
+   "pinyin": "jiù",
+   "pinyin_spaced": "jiù",
+   "pos": "adv.",
+   "english": "just, then; (as early as, only, as soon as)",
+   "accepted": [
+    "just",
+    "then",
+    "as early as",
+    "only",
+    "as soon as"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我七点就起来了。",
+    "en": "I was already up at seven.",
+    "py": "Wǒ qīdiǎn jiù qǐlái le."
+   },
+   "src_no": [
+    76
+   ],
+   "source_def": "just, then; (as early as, only, as soon as)",
+   "freq": 273122,
+   "priority": 1.0,
+   "tests_count": null,
+   "id": 1,
+   "rank": 1
+  },
+  {
+   "hanzi": "等",
+   "pinyin": "děng",
+   "pinyin_spaced": "děng",
+   "pos": "v.",
+   "english": "to wait; and so on",
+   "accepted": [
+    "wait",
+    "and so on"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你在这儿等我一会儿。",
+    "en": "Wait here for me for a moment.",
+    "py": "Nǐ zài zhèr děng wǒ yíhuìr."
+   },
+   "src_no": [
+    34
+   ],
+   "source_def": "to wait; and so on",
+   "freq": 195934,
+   "priority": 0.9735,
+   "tests_count": null,
+   "id": 2,
+   "rank": 2
+  },
+  {
+   "hanzi": "着",
+   "pinyin": "zhe",
+   "pinyin_spaced": "zhe",
+   "pos": "part.",
+   "english": "particle indicating ongoing action or state",
+   "accepted": [
+    "particle indicating ongoing action or state"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她笑着说：\"你好！\"",
+    "en": "She said \"hello\" with a smile.",
+    "py": "Tā xiào zhe shuō : \" nǐhǎo! \""
+   },
+   "src_no": [
+    190
+   ],
+   "source_def": "particle indicating ongoing action or state",
+   "freq": 188584,
+   "priority": 0.9704,
+   "tests_count": null,
+   "id": 3,
+   "rank": 3
+  },
+  {
+   "hanzi": "地",
+   "pinyin": "de",
+   "pinyin_spaced": "de",
+   "pos": "part.",
+   "english": "particle modifying an adjective into an adverb",
+   "accepted": [
+    "particle modifying an adjective into an adverb"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她高兴地笑了。",
+    "en": "She laughed happily.",
+    "py": "Tā gāoxìng de xiào le."
+   },
+   "src_no": [
+    33
+   ],
+   "source_def": "particle modifying an adjective into an adverb",
+   "freq": 160541,
+   "priority": 0.9576,
+   "tests_count": null,
+   "id": 4,
+   "rank": 4
+  },
+  {
+   "hanzi": "得",
+   "pinyin": "de",
+   "pinyin_spaced": "de",
+   "pos": "part.",
+   "english": "particle indicating degree or manner",
+   "accepted": [
+    "particle indicating degree or manner"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "dé"
+   ],
+   "example": {
+    "zh": "他跑得很快。",
+    "en": "He runs very fast.",
+    "py": "Tā pǎo de hěnkuài."
+   },
+   "src_no": [
+    32
+   ],
+   "source_def": "particle indicating degree or manner",
+   "freq": 134479,
+   "priority": 0.9434,
+   "tests_count": null,
+   "id": 5,
+   "rank": 5
+  },
+  {
+   "hanzi": "但",
+   "pinyin": "dàn",
+   "pinyin_spaced": "dàn",
+   "pos": "conj.",
+   "english": "but, however; (only, merely)",
+   "accepted": [
+    "but",
+    "however",
+    "only",
+    "merely"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我想去，但没有时间。",
+    "en": "I want to go, but I don't have time.",
+    "py": "Wǒ xiǎng qù, dàn méiyǒu shíjiān."
+   },
+   "src_no": [
+    30
+   ],
+   "source_def": "but, however; (only, merely)",
+   "freq": 110709,
+   "priority": 0.9279,
+   "tests_count": null,
+   "id": 6,
+   "rank": 6
+  },
+  {
+   "hanzi": "从",
+   "pinyin": "cóng",
+   "pinyin_spaced": "cóng",
+   "pos": "prep.",
+   "english": "from; (ever)",
+   "accepted": [
+    "from"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我从学校回来了。",
+    "en": "I've come back from school.",
+    "py": "Wǒ cóng xuéxiào huílái le."
+   },
+   "src_no": [
+    24
+   ],
+   "source_def": "from; (ever)",
+   "freq": 110435,
+   "priority": 0.9277,
+   "tests_count": null,
+   "id": 7,
+   "rank": 7
+  },
+  {
+   "hanzi": "时",
+   "pinyin": "shí",
+   "pinyin_spaced": "shí",
+   "pos": "n.",
+   "english": "time; hour; when",
+   "accepted": [
+    "time",
+    "hour",
+    "when"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我到家时，妈妈在做饭。",
+    "en": "When I got home, mum was cooking.",
+    "py": "Wǒ dào jiā shí, māma zài zuòfàn."
+   },
+   "src_no": [
+    131
+   ],
+   "source_def": "time; hour; when",
+   "freq": 103735,
+   "priority": 0.9227,
+   "tests_count": null,
+   "id": 8,
+   "rank": 8
+  },
+  {
+   "hanzi": "过",
+   "pinyin": "guò",
+   "pinyin_spaced": "guò",
+   "pos": "v./part.",
+   "english": "to pass, to cross; excessive; particle indicating past experience",
+   "accepted": [
+    "pass",
+    "cross",
+    "excessive",
+    "particle indicating past experience"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你去过中国吗？",
+    "en": "Have you ever been to China?",
+    "py": "Nǐ qù guò zhōngguó ma?"
+   },
+   "src_no": [
+    47,
+    51
+   ],
+   "source_def": "to pass, to cross; excessive; particle indicating past experience",
+   "freq": 97817,
+   "priority": 0.918,
+   "tests_count": null,
+   "id": 9,
+   "rank": 9
+  },
+  {
+   "hanzi": "自己",
+   "pinyin": "zìjǐ",
+   "pinyin_spaced": "zì jǐ",
+   "pos": "pron.",
+   "english": "oneself",
+   "accepted": [
+    "oneself"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我自己去吧。",
+    "en": "I'll go by myself.",
+    "py": "Wǒ zìjǐ qù ba."
+   },
+   "src_no": [
+    194
+   ],
+   "source_def": "oneself",
+   "freq": 90938,
+   "priority": 0.9121,
+   "tests_count": null,
+   "id": 10,
+   "rank": 10
+  },
+  {
+   "hanzi": "出",
+   "pinyin": "chū",
+   "pinyin_spaced": "chū",
+   "pos": "v.",
+   "english": "to go out, to leave",
+   "accepted": [
+    "go out",
+    "leave"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他出了门就去车站了。",
+    "en": "As soon as he left the house he went to the station.",
+    "py": "Tā chū le mén jiù qù chēzhàn le."
+   },
+   "src_no": [
+    16
+   ],
+   "source_def": "to go out, to leave",
+   "freq": 85847,
+   "priority": 0.9075,
+   "tests_count": null,
+   "id": 11,
+   "rank": 11
+  },
+  {
+   "hanzi": "最",
+   "pinyin": "zuì",
+   "pinyin_spaced": "zuì",
+   "pos": "adv.",
+   "english": "most, -est",
+   "accepted": [
+    "most",
+    "-est"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我最喜欢的水果是苹果。",
+    "en": "My favourite fruit is the apple.",
+    "py": "Wǒ zuì xǐhuan de shuǐguǒ shì píngguǒ."
+   },
+   "src_no": [
+    198
+   ],
+   "source_def": "most, -est",
+   "freq": 60450,
+   "priority": 0.8795,
+   "tests_count": null,
+   "id": 12,
+   "rank": 12
+  },
+  {
+   "hanzi": "高",
+   "pinyin": "gāo",
+   "pinyin_spaced": "gāo",
+   "pos": "adj./n.",
+   "english": "tall, high; height",
+   "accepted": [
+    "tall",
+    "high",
+    "height"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我爸爸个子很高。",
+    "en": "My dad is very tall.",
+    "py": "Wǒ bàba gèzi hěn gāo."
+   },
+   "src_no": [
+    41
+   ],
+   "source_def": "tall, high; height",
+   "freq": 57483,
+   "priority": 0.8755,
+   "tests_count": null,
+   "id": 13,
+   "rank": 13
+  },
+  {
+   "hanzi": "已经",
+   "pinyin": "yǐjīng",
+   "pinyin_spaced": "yǐ jīng",
+   "pos": "adv.",
+   "english": "already",
+   "accepted": [
+    "already"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我已经吃饭了。",
+    "en": "I have already eaten.",
+    "py": "Wǒ yǐjīng chīfàn le."
+   },
+   "src_no": [
+    172
+   ],
+   "source_def": "already",
+   "freq": 51292,
+   "priority": 0.8664,
+   "tests_count": null,
+   "id": 14,
+   "rank": 14
+  },
+  {
+   "hanzi": "走",
+   "pinyin": "zǒu",
+   "pinyin_spaced": "zǒu",
+   "pos": "v.",
+   "english": "to walk",
+   "accepted": [
+    "walk"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们走吧。",
+    "en": "Let's go.",
+    "py": "Wǒmen zǒu ba."
+   },
+   "src_no": [
+    195
+   ],
+   "source_def": "to walk",
+   "freq": 50437,
+   "priority": 0.8651,
+   "tests_count": null,
+   "id": 15,
+   "rank": 15
+  },
+  {
+   "hanzi": "让",
+   "pinyin": "ràng",
+   "pinyin_spaced": "ràng",
+   "pos": "v.",
+   "english": "to let, to allow; (by)",
+   "accepted": [
+    "let",
+    "allow"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "妈妈不让我看电视。",
+    "en": "Mum doesn't let me watch TV.",
+    "py": "Māma bù ràng wǒ kàndiànshì."
+   },
+   "src_no": [
+    122
+   ],
+   "source_def": "to let, to allow; (by)",
+   "freq": 50310,
+   "priority": 0.8649,
+   "tests_count": null,
+   "id": 16,
+   "rank": 16
+  },
+  {
+   "hanzi": "这样",
+   "pinyin": "zhèyàng",
+   "pinyin_spaced": "zhè yàng",
+   "pos": "pron.",
+   "english": "like this, so",
+   "accepted": [
+    "like this",
+    "so"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个字要这样写。",
+    "en": "This character should be written like this.",
+    "py": "Zhège zì yào zhèyàng xiě."
+   },
+   "src_no": [
+    189
+   ],
+   "source_def": "like this, so",
+   "freq": 48931,
+   "priority": 0.8626,
+   "tests_count": null,
+   "id": 17,
+   "rank": 17
+  },
+  {
+   "hanzi": "长",
+   "pinyin": "cháng",
+   "pinyin_spaced": "cháng",
+   "pos": "adj.",
+   "english": "long",
+   "accepted": [
+    "long"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这条路很长。",
+    "en": "This road is very long.",
+    "py": "Zhè tiáo lù hěn cháng."
+   },
+   "src_no": [
+    14
+   ],
+   "source_def": "long",
+   "freq": 40281,
+   "priority": 0.8471,
+   "tests_count": null,
+   "id": 18,
+   "rank": 18
+  },
+  {
+   "hanzi": "门",
+   "pinyin": "mén",
+   "pinyin_spaced": "mén",
+   "pos": "n.",
+   "english": "door, gate",
+   "accepted": [
+    "door",
+    "gate"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请开一下门。",
+    "en": "Please open the door.",
+    "py": "Qǐng kāi yíxià mén."
+   },
+   "src_no": [
+    100
+   ],
+   "source_def": "door, gate",
+   "freq": 39823,
+   "priority": 0.8462,
+   "tests_count": null,
+   "id": 19,
+   "rank": 19
+  },
+  {
+   "hanzi": "起来",
+   "pinyin": "qǐlái",
+   "pinyin_spaced": "qǐ lái",
+   "pos": "v.",
+   "english": "to get up, to stand up; used after verbs to indicate upward movement or beginning",
+   "accepted": [
+    "get up",
+    "stand up",
+    "used after verbs to indicate upward movement or beginning"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你快起来，已经八点了！",
+    "en": "Get up quickly, it's already eight!",
+    "py": "Nǐ kuài qǐlái, yǐjīng bādiǎn le!"
+   },
+   "src_no": [
+    118
+   ],
+   "source_def": "to get up, to stand up; used after verbs to indicate upward movement or beginning",
+   "freq": 39793,
+   "priority": 0.8461,
+   "tests_count": null,
+   "id": 20,
+   "rank": 20
+  },
+  {
+   "hanzi": "开始",
+   "pinyin": "kāishǐ",
+   "pinyin_spaced": "kāi shǐ",
+   "pos": "v./n.",
+   "english": "to start; beginning",
+   "accepted": [
+    "start",
+    "beginning"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们九点开始上课。",
+    "en": "We start class at nine.",
+    "py": "Wǒmen jiǔdiǎn kāishǐ shàngkè."
+   },
+   "src_no": [
+    78
+   ],
+   "source_def": "to start; beginning",
+   "freq": 38144,
+   "priority": 0.8427,
+   "tests_count": null,
+   "id": 21,
+   "rank": 21
+  },
+  {
+   "hanzi": "正",
+   "pinyin": "zhèng",
+   "pinyin_spaced": "zhèng",
+   "pos": "adv.",
+   "english": "just, exactly, right; (straight)",
+   "accepted": [
+    "just",
+    "exactly",
+    "right"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我正在吃饭。",
+    "en": "I'm just eating.",
+    "py": "Wǒ zhèng zài chīfàn."
+   },
+   "src_no": [
+    191
+   ],
+   "source_def": "just, exactly, right; (straight)",
+   "freq": 37763,
+   "priority": 0.8419,
+   "tests_count": null,
+   "id": 22,
+   "rank": 22
+  },
+  {
+   "hanzi": "因为",
+   "pinyin": "yīnwèi",
+   "pinyin_spaced": "yīn wèi",
+   "pos": "prep./conj.",
+   "english": "because; because of",
+   "accepted": [
+    "because",
+    "because of"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "因为下雨，所以我没去。",
+    "en": "Because it rained, I didn't go.",
+    "py": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi qù."
+   },
+   "src_no": [
+    176
+   ],
+   "source_def": "because; because of",
+   "freq": 35703,
+   "priority": 0.8375,
+   "tests_count": null,
+   "id": 23,
+   "rank": 23
+  },
+  {
+   "hanzi": "比",
+   "pinyin": "bǐ",
+   "pinyin_spaced": "bǐ",
+   "pos": "v./prep.",
+   "english": "to compare; than",
+   "accepted": [
+    "compare",
+    "than"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我比我哥哥高。",
+    "en": "I'm taller than my older brother.",
+    "py": "Wǒ bǐ wǒ gēge gāo."
+   },
+   "src_no": [
+    9
+   ],
+   "source_def": "to compare; than",
+   "freq": 35305,
+   "priority": 0.8366,
+   "tests_count": null,
+   "id": 24,
+   "rank": 24
+  },
+  {
+   "hanzi": "打",
+   "pinyin": "dǎ",
+   "pinyin_spaced": "dǎ",
+   "pos": "v.",
+   "english": "to hit, to play, to make",
+   "accepted": [
+    "hit",
+    "play",
+    "make"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们下午去打篮球吧。",
+    "en": "Let's play basketball this afternoon.",
+    "py": "Wǒmen xiàwǔ qù dǎ lánqiú ba."
+   },
+   "src_no": [
+    27
+   ],
+   "source_def": "to hit, to play, to make",
+   "freq": 33853,
+   "priority": 0.8332,
+   "tests_count": null,
+   "id": 25,
+   "rank": 25
+  },
+  {
+   "hanzi": "跟",
+   "pinyin": "gēn",
+   "pinyin_spaced": "gēn",
+   "pos": "prep./conj.",
+   "english": "with; and; (heel; to follow, to accompany)",
+   "accepted": [
+    "with",
+    "and",
+    "heel",
+    "follow",
+    "accompany"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我跟朋友一起去看电影。",
+    "en": "I'm going to see a film with a friend.",
+    "py": "Wǒ gēn péngyou yìqǐ qù kàn diànyǐng."
+   },
+   "src_no": [
+    45
+   ],
+   "source_def": "with; and; (heel; to follow, to accompany)",
+   "freq": 32393,
+   "priority": 0.8297,
+   "tests_count": null,
+   "id": 26,
+   "rank": 26
+  },
+  {
+   "hanzi": "笑",
+   "pinyin": "xiào",
+   "pinyin_spaced": "xiào",
+   "pos": "v.",
+   "english": "to laugh, to smile",
+   "accepted": [
+    "laugh",
+    "smile"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她笑得很高兴。",
+    "en": "She smiled happily.",
+    "py": "Tā xiào de hěn gāoxìng."
+   },
+   "src_no": [
+    163
+   ],
+   "source_def": "to laugh, to smile",
+   "freq": 32256,
+   "priority": 0.8293,
+   "tests_count": null,
+   "id": 27,
+   "rank": 27
+  },
+  {
+   "hanzi": "可能",
+   "pinyin": "kěnéng",
+   "pinyin_spaced": "kě néng",
+   "pos": "adj./n./v.",
+   "english": "possible; possibility; may",
+   "accepted": [
+    "possible",
+    "possibility",
+    "may"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "明天可能会下雨。",
+    "en": "It may rain tomorrow.",
+    "py": "Míngtiān kěnéng huì xiàyǔ."
+   },
+   "src_no": [
+    82
+   ],
+   "source_def": "possible; possibility; may",
+   "freq": 31218,
+   "priority": 0.8267,
+   "tests_count": null,
+   "id": 28,
+   "rank": 28
+  },
+  {
+   "hanzi": "出来",
+   "pinyin": "chūlái",
+   "pinyin_spaced": "chū lái",
+   "pos": "v.",
+   "english": "to come out",
+   "accepted": [
+    "come out"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你快出来吧，我在门口。",
+    "en": "Come out quickly, I'm at the door.",
+    "py": "Nǐ kuài chūlái ba, wǒ zài ménkǒu."
+   },
+   "src_no": [
+    18
+   ],
+   "source_def": "to come out",
+   "freq": 31022,
+   "priority": 0.8262,
+   "tests_count": null,
+   "id": 29,
+   "rank": 29
+  },
+  {
+   "hanzi": "万",
+   "pinyin": "wàn",
+   "pinyin_spaced": "wàn",
+   "pos": "num.",
+   "english": "ten thousand",
+   "accepted": [
+    "ten thousand"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个电脑一万块钱。",
+    "en": "This computer costs ten thousand yuan.",
+    "py": "Zhège diànnǎo yī wàn kuàiqián."
+   },
+   "src_no": [
+    149
+   ],
+   "source_def": "ten thousand",
+   "freq": 29391,
+   "priority": 0.8219,
+   "tests_count": null,
+   "id": 30,
+   "rank": 30
+  },
+  {
+   "hanzi": "所以",
+   "pinyin": "suǒyǐ",
+   "pinyin_spaced": "suǒ yǐ",
+   "pos": "conj.",
+   "english": "so, therefore",
+   "accepted": [
+    "so",
+    "therefore"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "今天很冷，所以我不想出门。",
+    "en": "It's cold today, so I don't want to go out.",
+    "py": "Jīntiān hěn lěng, suǒyǐ wǒ bùxiǎng chūmén."
+   },
+   "src_no": [
+    139
+   ],
+   "source_def": "so, therefore",
+   "freq": 29401,
+   "priority": 0.8219,
+   "tests_count": null,
+   "id": 31,
+   "rank": 31
+  },
+  {
+   "hanzi": "手",
+   "pinyin": "shǒu",
+   "pinyin_spaced": "shǒu",
+   "pos": "n.",
+   "english": "hand",
+   "accepted": [
+    "hand"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "吃饭前要洗手。",
+    "en": "Wash your hands before eating.",
+    "py": "Chīfàn qián yào xǐ shǒu."
+   },
+   "src_no": [
+    133
+   ],
+   "source_def": "hand",
+   "freq": 28466,
+   "priority": 0.8194,
+   "tests_count": null,
+   "id": 32,
+   "rank": 32
+  },
+  {
+   "hanzi": "头",
+   "pinyin": "tóu",
+   "pinyin_spaced": "tóu",
+   "pos": "n.",
+   "english": "head; (measure word for animals); (first)",
+   "accepted": [
+    "head"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我今天头很疼。",
+    "en": "I have a headache today.",
+    "py": "Wǒ jīntiān tóu hěn téng."
+   },
+   "src_no": [
+    145
+   ],
+   "source_def": "head; (measure word for animals); (first)",
+   "freq": 28177,
+   "priority": 0.8185,
+   "tests_count": null,
+   "id": 33,
+   "rank": 33
+  },
+  {
+   "hanzi": "但是",
+   "pinyin": "dànshì",
+   "pinyin_spaced": "dàn shì",
+   "pos": "conj.",
+   "english": "but, however",
+   "accepted": [
+    "but",
+    "however"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这件衣服很漂亮，但是太贵了。",
+    "en": "This piece of clothing is pretty, but it's too expensive.",
+    "py": "Zhèjiàn yīfu hěnpiàoliàng, dànshì tàiguì le."
+   },
+   "src_no": [
+    31
+   ],
+   "source_def": "but, however",
+   "freq": 28060,
+   "priority": 0.8182,
+   "tests_count": null,
+   "id": 34,
+   "rank": 34
+  },
+  {
+   "hanzi": "路",
+   "pinyin": "lù",
+   "pinyin_spaced": "lù",
+   "pos": "n.",
+   "english": "road, path",
+   "accepted": [
+    "road",
+    "path"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这条路去机场吗？",
+    "en": "Does this road go to the airport?",
+    "py": "Zhè tiáo lù qù jīchǎng ma?"
+   },
+   "src_no": [
+    92
+   ],
+   "source_def": "road, path",
+   "freq": 27626,
+   "priority": 0.817,
+   "tests_count": null,
+   "id": 35,
+   "rank": 35
+  },
+  {
+   "hanzi": "名",
+   "pinyin": "míng",
+   "pinyin_spaced": "míng",
+   "pos": "n./mw.",
+   "english": "name, reputation; measure word for people",
+   "accepted": [
+    "name",
+    "reputation",
+    "measure word for people"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们班有三十名学生。",
+    "en": "Our class has thirty students.",
+    "py": "Wǒmen bān yǒu sānshí míng xuésheng."
+   },
+   "src_no": [
+    104
+   ],
+   "source_def": "name, reputation; measure word for people",
+   "freq": 26255,
+   "priority": 0.8129,
+   "tests_count": null,
+   "id": 36,
+   "rank": 36
+  },
+  {
+   "hanzi": "每",
+   "pinyin": "měi",
+   "pinyin_spaced": "měi",
+   "pos": "pron.",
+   "english": "every, each; (per)",
+   "accepted": [
+    "every",
+    "each"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我每天都学习汉语。",
+    "en": "I study Chinese every day.",
+    "py": "Wǒ měi tiāndōu xuéxí hànyǔ."
+   },
+   "src_no": [
+    99
+   ],
+   "source_def": "every, each; (per)",
+   "freq": 26048,
+   "priority": 0.8123,
+   "tests_count": null,
+   "id": 37,
+   "rank": 37
+  },
+  {
+   "hanzi": "进",
+   "pinyin": "jìn",
+   "pinyin_spaced": "jìn",
+   "pos": "v.",
+   "english": "to enter",
+   "accepted": [
+    "enter"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请进，请坐。",
+    "en": "Please come in and sit down.",
+    "py": "Qǐng jìn, qǐng zuò."
+   },
+   "src_no": [
+    70
+   ],
+   "source_def": "to enter",
+   "freq": 25668,
+   "priority": 0.8111,
+   "tests_count": null,
+   "id": 38,
+   "rank": 38
+  },
+  {
+   "hanzi": "点",
+   "pinyin": "diǎn",
+   "pinyin_spaced": "diǎn",
+   "pos": "v.",
+   "english": "to order (food); to light; dot; point",
+   "accepted": [
+    "order",
+    "light",
+    "dot",
+    "point"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你想点什么菜？",
+    "en": "What dishes would you like to order?",
+    "py": "Nǐ xiǎng diǎn shénme cài?"
+   },
+   "src_no": [
+    36
+   ],
+   "source_def": "to order (food); to light; dot; point",
+   "freq": 24685,
+   "priority": 0.808,
+   "tests_count": null,
+   "id": 39,
+   "rank": 39
+  },
+  {
+   "hanzi": "虽然",
+   "pinyin": "suīrán",
+   "pinyin_spaced": "suī rán",
+   "pos": "conj.",
+   "english": "although",
+   "accepted": [
+    "although"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "虽然下雨了，但是他还是来了。",
+    "en": "Although it rained, he still came.",
+    "py": "Suīrán xiàyǔ le, dànshì tā háishi lái le."
+   },
+   "src_no": [
+    138
+   ],
+   "source_def": "although",
+   "freq": 24272,
+   "priority": 0.8066,
+   "tests_count": null,
+   "id": 40,
+   "rank": 40
+  },
+  {
+   "hanzi": "间",
+   "pinyin": "jiān",
+   "pinyin_spaced": "jiān",
+   "pos": "mw.",
+   "english": "measure word for rooms; between",
+   "accepted": [
+    "measure word for rooms",
+    "between"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这间教室很大。",
+    "en": "This classroom is very big.",
+    "py": "Zhè jiān jiàoshì hěndà."
+   },
+   "src_no": [
+    66
+   ],
+   "source_def": "measure word for rooms; between",
+   "freq": 23632,
+   "priority": 0.8045,
+   "tests_count": null,
+   "id": 41,
+   "rank": 41
+  },
+  {
+   "hanzi": "站",
+   "pinyin": "zhàn",
+   "pinyin_spaced": "zhàn",
+   "pos": "n.",
+   "english": "station, stop; to stand",
+   "accepted": [
+    "station",
+    "stop",
+    "stand"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们在下一站下车。",
+    "en": "We get off at the next stop.",
+    "py": "Wǒmen zài xià yī zhàn xiàchē."
+   },
+   "src_no": [
+    186
+   ],
+   "source_def": "station, stop; to stand",
+   "freq": 23194,
+   "priority": 0.803,
+   "tests_count": null,
+   "id": 42,
+   "rank": 42
+  },
+  {
+   "hanzi": "快",
+   "pinyin": "kuài",
+   "pinyin_spaced": "kuài",
+   "pos": "adj./adv.",
+   "english": "fast; soon, quickly",
+   "accepted": [
+    "fast",
+    "soon",
+    "quickly"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你走得太快了！",
+    "en": "You walk too fast!",
+    "py": "Nǐ zǒu de tài kuài le!"
+   },
+   "src_no": [
+    84
+   ],
+   "source_def": "fast; soon, quickly",
+   "freq": 21973,
+   "priority": 0.7987,
+   "tests_count": null,
+   "id": 43,
+   "rank": 43
+  },
+  {
+   "hanzi": "啊",
+   "pinyin": "a",
+   "pinyin_spaced": "a",
+   "pos": "part.",
+   "english": "ah, oh",
+   "accepted": [
+    "ah",
+    "oh"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "今天天气很好啊！",
+    "en": "What nice weather today!",
+    "py": "Jīntiāntiānqì hěn hǎo a!"
+   },
+   "src_no": [
+    1
+   ],
+   "source_def": "ah, oh",
+   "freq": 21810,
+   "priority": 0.7981,
+   "tests_count": null,
+   "id": 44,
+   "rank": 44
+  },
+  {
+   "hanzi": "拿",
+   "pinyin": "ná",
+   "pinyin_spaced": "ná",
+   "pos": "v.",
+   "english": "to take, to hold",
+   "accepted": [
+    "take",
+    "hold"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请帮我拿一下这个包。",
+    "en": "Please hold this bag for me.",
+    "py": "Qǐng bāng wǒ ná yíxià zhège bāo."
+   },
+   "src_no": [
+    105
+   ],
+   "source_def": "to take, to hold",
+   "freq": 19956,
+   "priority": 0.791,
+   "tests_count": null,
+   "id": 45,
+   "rank": 45
+  },
+  {
+   "hanzi": "那么",
+   "pinyin": "nàme",
+   "pinyin_spaced": "nà me",
+   "pos": "pron./conj.",
+   "english": "so, like that; then",
+   "accepted": [
+    "so",
+    "like that",
+    "then"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你那么喜欢他，就告诉他吧。",
+    "en": "If you like him that much, tell him.",
+    "py": "Nǐ nàme xǐhuan tā, jiù gàosu tā ba."
+   },
+   "src_no": [
+    106
+   ],
+   "source_def": "so, like that; then",
+   "freq": 18928,
+   "priority": 0.7868,
+   "tests_count": null,
+   "id": 46,
+   "rank": 46
+  },
+  {
+   "hanzi": "这么",
+   "pinyin": "zhème",
+   "pinyin_spaced": "zhè me",
+   "pos": "pron.",
+   "english": "so, such, like this",
+   "accepted": [
+    "so",
+    "such",
+    "like this"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你怎么来得这么晚？",
+    "en": "Why did you come so late?",
+    "py": "Nǐ zěnme láide zhème wǎn?"
+   },
+   "src_no": [
+    188
+   ],
+   "source_def": "so, such, like this",
+   "freq": 18891,
+   "priority": 0.7866,
+   "tests_count": null,
+   "id": 47,
+   "rank": 47
+  },
+  {
+   "hanzi": "运动",
+   "pinyin": "yùndòng",
+   "pinyin_spaced": "yùn dòng",
+   "pos": "v./n.",
+   "english": "to move, to exercise; sports, exercise",
+   "accepted": [
+    "move",
+    "exercise",
+    "sports"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你喜欢什么运动？",
+    "en": "What sports do you like?",
+    "py": "Nǐ xǐhuan shénme yùndòng?"
+   },
+   "src_no": [
+    185
+   ],
+   "source_def": "to move, to exercise; sports, exercise",
+   "freq": 18440,
+   "priority": 0.7847,
+   "tests_count": null,
+   "id": 48,
+   "rank": 48
+  },
+  {
+   "hanzi": "次",
+   "pinyin": "cì",
+   "pinyin_spaced": "cì",
+   "pos": "mw.",
+   "english": "measure word of time or occasion; (next in order)",
+   "accepted": [
+    "measure word of time or occasion"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我去过北京两次。",
+    "en": "I've been to Beijing twice.",
+    "py": "Wǒ qùguò běijīng liǎng cì."
+   },
+   "src_no": [
+    23
+   ],
+   "source_def": "measure word of time or occasion; (next in order)",
+   "freq": 17947,
+   "priority": 0.7825,
+   "tests_count": null,
+   "id": 49,
+   "rank": 49
+  },
+  {
+   "hanzi": "近",
+   "pinyin": "jìn",
+   "pinyin_spaced": "jìn",
+   "pos": "adj.",
+   "english": "near, close",
+   "accepted": [
+    "near",
+    "close"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我家离学校很近。",
+    "en": "My home is very close to school.",
+    "py": "Wǒjiā lí xuéxiào hěn jìn."
+   },
+   "src_no": [
+    71
+   ],
+   "source_def": "near, close",
+   "freq": 17557,
+   "priority": 0.7808,
+   "tests_count": null,
+   "id": 50,
+   "rank": 50
+  },
+  {
+   "hanzi": "过去",
+   "pinyin": "guòqù",
+   "pinyin_spaced": "guò qù",
+   "pos": "v./n.",
+   "english": "to go over; the past",
+   "accepted": [
+    "go over",
+    "past"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "过去他不喜欢运动。",
+    "en": "In the past he didn't like sport.",
+    "py": "Guòqù tā bù xǐhuan yùndòng."
+   },
+   "src_no": [
+    50
+   ],
+   "source_def": "to go over; the past",
+   "freq": 17449,
+   "priority": 0.7803,
+   "tests_count": null,
+   "id": 51,
+   "rank": 51
+  },
+  {
+   "hanzi": "往",
+   "pinyin": "wǎng",
+   "pinyin_spaced": "wǎng",
+   "pos": "v./prep.",
+   "english": "to go; toward",
+   "accepted": [
+    "go",
+    "toward"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "一直往前走就到了。",
+    "en": "Go straight ahead and you'll be there.",
+    "py": "Yìzhí wǎng qián zǒu jiù dào le."
+   },
+   "src_no": [
+    150
+   ],
+   "source_def": "to go; toward",
+   "freq": 16974,
+   "priority": 0.7781,
+   "tests_count": null,
+   "id": 52,
+   "rank": 52
+  },
+  {
+   "hanzi": "下来",
+   "pinyin": "xiàlái",
+   "pinyin_spaced": "xià lái",
+   "pos": "v.",
+   "english": "to come down",
+   "accepted": [
+    "come down"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你快下来吧！",
+    "en": "Come down quickly!",
+    "py": "Nǐ kuài xiàlái ba!"
+   },
+   "src_no": [
+    158
+   ],
+   "source_def": "to come down",
+   "freq": 16625,
+   "priority": 0.7764,
+   "tests_count": null,
+   "id": 53,
+   "rank": 53
+  },
+  {
+   "hanzi": "位",
+   "pinyin": "wèi",
+   "pinyin_spaced": "wèi",
+   "pos": "mw.",
+   "english": "measure word for people",
+   "accepted": [
+    "measure word for people"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这位是我们的王老师。",
+    "en": "This is our teacher, Teacher Wang.",
+    "py": "Zhè wèi shì wǒmen de wánglǎoshī."
+   },
+   "src_no": [
+    153
+   ],
+   "source_def": "measure word for people",
+   "freq": 16243,
+   "priority": 0.7745,
+   "tests_count": null,
+   "id": 54,
+   "rank": 54
+  },
+  {
+   "hanzi": "准备",
+   "pinyin": "zhǔnbèi",
+   "pinyin_spaced": "zhǔn bèi",
+   "pos": "v.",
+   "english": "to prepare",
+   "accepted": [
+    "prepare"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你准备好了吗？",
+    "en": "Are you ready?",
+    "py": "Nǐ zhǔnbèi hǎolema?"
+   },
+   "src_no": [
+    193
+   ],
+   "source_def": "to prepare",
+   "freq": 16204,
+   "priority": 0.7744,
+   "tests_count": null,
+   "id": 55,
+   "rank": 55
+  },
+  {
+   "hanzi": "鱼",
+   "pinyin": "yú",
+   "pinyin_spaced": "yú",
+   "pos": "n.",
+   "english": "fish",
+   "accepted": [
+    "fish"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我很喜欢吃鱼。",
+    "en": "I really like eating fish.",
+    "py": "Wǒ hěn xǐhuan chī yú."
+   },
+   "src_no": [
+    183
+   ],
+   "source_def": "fish",
+   "freq": 16190,
+   "priority": 0.7743,
+   "tests_count": null,
+   "id": 56,
+   "rank": 56
+  },
+  {
+   "hanzi": "旅游",
+   "pinyin": "lǚyóu",
+   "pinyin_spaced": "lǚ yóu",
+   "pos": "v.",
+   "english": "to travel",
+   "accepted": [
+    "travel"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们明年去中国旅游。",
+    "en": "Next year we're travelling to China.",
+    "py": "Wǒmen míngnián qù zhōngguó lǚyóu."
+   },
+   "src_no": [
+    94
+   ],
+   "source_def": "to travel",
+   "freq": 16129,
+   "priority": 0.774,
+   "tests_count": null,
+   "id": 57,
+   "rank": 57
+  },
+  {
+   "hanzi": "一起",
+   "pinyin": "yìqǐ",
+   "pinyin_spaced": "yì qǐ",
+   "pos": "adv.",
+   "english": "together",
+   "accepted": [
+    "together"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们一起去吧。",
+    "en": "Let's go together.",
+    "py": "Wǒmen yìqǐ qù ba."
+   },
+   "src_no": [
+    173
+   ],
+   "source_def": "together",
+   "freq": 15981,
+   "priority": 0.7732,
+   "tests_count": null,
+   "id": 58,
+   "rank": 58
+  },
+  {
+   "hanzi": "事情",
+   "pinyin": "shìqing",
+   "pinyin_spaced": "shì qing",
+   "pos": "n.",
+   "english": "matter, affair",
+   "accepted": [
+    "matter",
+    "affair"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "shìqíng"
+   ],
+   "example": {
+    "zh": "我有一件事情想告诉你。",
+    "en": "I have something I want to tell you.",
+    "py": "Wǒ yǒu yí jiàn shìqing xiǎng gàosu nǐ."
+   },
+   "src_no": [
+    132
+   ],
+   "source_def": "matter, affair",
+   "freq": 15359,
+   "priority": 0.7701,
+   "tests_count": null,
+   "id": 59,
+   "rank": 59
+  },
+  {
+   "hanzi": "面",
+   "pinyin": "miàn",
+   "pinyin_spaced": "miàn",
+   "pos": "n./mw.",
+   "english": "side; surface; face (measure word for flat objects)",
+   "accepted": [
+    "side",
+    "surface",
+    "face"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "书的这一面写着我的名字。",
+    "en": "My name is written on this side of the book.",
+    "py": "Shū de zhè yī miàn xiě zhe wǒ de míngzi."
+   },
+   "src_no": [
+    103
+   ],
+   "source_def": "side; surface; face (measure word for flat objects)",
+   "freq": 14337,
+   "priority": 0.7646,
+   "tests_count": null,
+   "id": 60,
+   "rank": 60
+  },
+  {
+   "hanzi": "别",
+   "pinyin": "bié",
+   "pinyin_spaced": "bié",
+   "pos": "adv.",
+   "english": "don't; other",
+   "accepted": [
+    "don't",
+    "other"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你别走，我们一起吃饭吧。",
+    "en": "Don't go — let's eat together.",
+    "py": "Nǐ bié zǒu, wǒmen yìqǐ chīfàn ba."
+   },
+   "src_no": [
+    11
+   ],
+   "source_def": "don't; other",
+   "freq": 14132,
+   "priority": 0.7634,
+   "tests_count": null,
+   "id": 61,
+   "rank": 61
+  },
+  {
+   "hanzi": "送",
+   "pinyin": "sòng",
+   "pinyin_spaced": "sòng",
+   "pos": "v.",
+   "english": "to give, to send, to see off",
+   "accepted": [
+    "give",
+    "send",
+    "see off"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我送你回家吧。",
+    "en": "Let me take you home.",
+    "py": "Wǒ sòng nǐ huíjiāba."
+   },
+   "src_no": [
+    137
+   ],
+   "source_def": "to give, to send, to see off",
+   "freq": 13539,
+   "priority": 0.76,
+   "tests_count": null,
+   "id": 62,
+   "rank": 62
+  },
+  {
+   "hanzi": "远",
+   "pinyin": "yuǎn",
+   "pinyin_spaced": "yuǎn",
+   "pos": "adj.",
+   "english": "far",
+   "accepted": [
+    "far"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "机场离这儿很远。",
+    "en": "The airport is far from here.",
+    "py": "Jīchǎng lí zhèr hěn yuǎn."
+   },
+   "src_no": [
+    184
+   ],
+   "source_def": "far",
+   "freq": 13523,
+   "priority": 0.7599,
+   "tests_count": null,
+   "id": 63,
+   "rank": 63
+  },
+  {
+   "hanzi": "完",
+   "pinyin": "wán",
+   "pinyin_spaced": "wán",
+   "pos": "v.",
+   "english": "to finish",
+   "accepted": [
+    "finish"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我吃完饭就去学习。",
+    "en": "I'll study as soon as I finish eating.",
+    "py": "Wǒ chī wán fàn jiù qù xuéxí."
+   },
+   "src_no": [
+    148
+   ],
+   "source_def": "to finish",
+   "freq": 13042,
+   "priority": 0.757,
+   "tests_count": null,
+   "id": 64,
+   "rank": 64
+  },
+  {
+   "hanzi": "左",
+   "pinyin": "zuǒ",
+   "pinyin_spaced": "zuǒ",
+   "pos": "n.",
+   "english": "left",
+   "accepted": [
+    "left"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "往左走，就是医院。",
+    "en": "Go left and you'll find the hospital.",
+    "py": "Wǎng zuǒ zǒu, jiùshì yīyuàn."
+   },
+   "src_no": [
+    199
+   ],
+   "source_def": "left",
+   "freq": 12823,
+   "priority": 0.7557,
+   "tests_count": null,
+   "id": 65,
+   "rank": 65
+  },
+  {
+   "hanzi": "花",
+   "pinyin": "huā",
+   "pinyin_spaced": "huā",
+   "pos": "v./n.",
+   "english": "to spend (money or time); flower; (colorful)",
+   "accepted": [
+    "spend",
+    "flower"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你花了多少钱？",
+    "en": "How much money did you spend?",
+    "py": "Nǐ huā le duōshǎoqián?"
+   },
+   "src_no": [
+    57,
+    58
+   ],
+   "source_def": "to spend (money or time); flower; (colorful)",
+   "freq": 12710,
+   "priority": 0.755,
+   "tests_count": null,
+   "id": 66,
+   "rank": 66
+  },
+  {
+   "hanzi": "希望",
+   "pinyin": "xīwàng",
+   "pinyin_spaced": "xī wàng",
+   "pos": "v.",
+   "english": "to hope",
+   "accepted": [
+    "hope"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我希望明天是晴天。",
+    "en": "I hope tomorrow will be sunny.",
+    "py": "Wǒ xīwàng míngtiān shì qíngtiān."
+   },
+   "src_no": [
+    155
+   ],
+   "source_def": "to hope",
+   "freq": 12602,
+   "priority": 0.7543,
+   "tests_count": null,
+   "id": 67,
+   "rank": 67
+  },
+  {
+   "hanzi": "条",
+   "pinyin": "tiáo",
+   "pinyin_spaced": "tiáo",
+   "pos": "mw.",
+   "english": "measure word for long, thin, or strip-like objects; (clause, item)",
+   "accepted": [
+    "measure word for long",
+    "thin",
+    "or strip-like objects",
+    "clause",
+    "item"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这条裤子很好看。",
+    "en": "These trousers look nice.",
+    "py": "Zhè tiáo kùzi hěn hǎokàn."
+   },
+   "src_no": [
+    143
+   ],
+   "source_def": "measure word for long, thin, or strip-like objects; (clause, item)",
+   "freq": 12583,
+   "priority": 0.7541,
+   "tests_count": null,
+   "id": 68,
+   "rank": 68
+  },
+  {
+   "hanzi": "动",
+   "pinyin": "dòng",
+   "pinyin_spaced": "dòng",
+   "pos": "v.",
+   "english": "to move, to act",
+   "accepted": [
+    "move",
+    "act"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "别动，我看看你的手。",
+    "en": "Don't move — let me look at your hand.",
+    "py": "Bié dòng, wǒ kànkan nǐ de shǒu."
+   },
+   "src_no": [
+    38
+   ],
+   "source_def": "to move, to act",
+   "freq": 12509,
+   "priority": 0.7537,
+   "tests_count": null,
+   "id": 69,
+   "rank": 69
+  },
+  {
+   "hanzi": "教",
+   "pinyin": "jiāo",
+   "pinyin_spaced": "jiāo",
+   "pos": "v.",
+   "english": "to teach",
+   "accepted": [
+    "teach"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "jiào"
+   ],
+   "example": {
+    "zh": "王老师教我们汉语。",
+    "en": "Teacher Wang teaches us Chinese.",
+    "py": "Wánglǎoshī jiāo wǒmen hànyǔ."
+   },
+   "src_no": [
+    67
+   ],
+   "source_def": "to teach",
+   "freq": 12172,
+   "priority": 0.7515,
+   "tests_count": null,
+   "id": 70,
+   "rank": 70
+  },
+  {
+   "hanzi": "回来",
+   "pinyin": "huílái",
+   "pinyin_spaced": "huí lái",
+   "pos": "v.",
+   "english": "to come back",
+   "accepted": [
+    "come back"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "爸爸什么时候回来？",
+    "en": "When is dad coming back?",
+    "py": "Bàba shénme shíhou huílái?"
+   },
+   "src_no": [
+    61
+   ],
+   "source_def": "to come back",
+   "freq": 12133,
+   "priority": 0.7512,
+   "tests_count": null,
+   "id": 71,
+   "rank": 71
+  },
+  {
+   "hanzi": "跑",
+   "pinyin": "pǎo",
+   "pinyin_spaced": "pǎo",
+   "pos": "v.",
+   "english": "to run",
+   "accepted": [
+    "run"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "小狗跑得很快。",
+    "en": "The puppy runs very fast.",
+    "py": "Xiǎogǒu pǎo de hěnkuài."
+   },
+   "src_no": [
+    114
+   ],
+   "source_def": "to run",
+   "freq": 11414,
+   "priority": 0.7464,
+   "tests_count": null,
+   "id": 72,
+   "rank": 72
+  },
+  {
+   "hanzi": "眼睛",
+   "pinyin": "yǎnjing",
+   "pinyin_spaced": "yǎn jing",
+   "pos": "n.",
+   "english": "eye",
+   "accepted": [
+    "eye"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "yǎnjīng"
+   ],
+   "example": {
+    "zh": "她的眼睛很大。",
+    "en": "Her eyes are very big.",
+    "py": "Tā de yǎnjing hěndà."
+   },
+   "src_no": [
+    167
+   ],
+   "source_def": "eye",
+   "freq": 11195,
+   "priority": 0.7448,
+   "tests_count": null,
+   "id": 73,
+   "rank": 73
+  },
+  {
+   "hanzi": "告诉",
+   "pinyin": "gàosu",
+   "pinyin_spaced": "gào su",
+   "pos": "v.",
+   "english": "to tell",
+   "accepted": [
+    "tell"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "gàosù"
+   ],
+   "example": {
+    "zh": "请告诉我你的名字。",
+    "en": "Please tell me your name.",
+    "py": "Qǐng gàosu wǒ nǐ de míngzi."
+   },
+   "src_no": [
+    43
+   ],
+   "source_def": "to tell",
+   "freq": 10958,
+   "priority": 0.7431,
+   "tests_count": null,
+   "id": 74,
+   "rank": 74
+  },
+  {
+   "hanzi": "下去",
+   "pinyin": "xiàqù",
+   "pinyin_spaced": "xià qù",
+   "pos": "v.",
+   "english": "to go down",
+   "accepted": [
+    "go down"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们下去吃饭吧。",
+    "en": "Let's go down and eat.",
+    "py": "Wǒmen xiàqù chīfàn ba."
+   },
+   "src_no": [
+    160
+   ],
+   "source_def": "to go down",
+   "freq": 10479,
+   "priority": 0.7395,
+   "tests_count": null,
+   "id": 75,
+   "rank": 75
+  },
+  {
+   "hanzi": "过来",
+   "pinyin": "guòlái",
+   "pinyin_spaced": "guò lái",
+   "pos": "v.",
+   "english": "to come over",
+   "accepted": [
+    "come over"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你过来一下，我有事情。",
+    "en": "Come over here, I need something.",
+    "py": "Nǐ guòlái yíxià, wǒ yǒu shìqing."
+   },
+   "src_no": [
+    48
+   ],
+   "source_def": "to come over",
+   "freq": 10273,
+   "priority": 0.7379,
+   "tests_count": null,
+   "id": 76,
+   "rank": 76
+  },
+  {
+   "hanzi": "出去",
+   "pinyin": "chūqù",
+   "pinyin_spaced": "chū qù",
+   "pos": "v.",
+   "english": "to go out",
+   "accepted": [
+    "go out"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们出去走走吧。",
+    "en": "Let's go out for a walk.",
+    "py": "Wǒmen chūqù zǒuzou ba."
+   },
+   "src_no": [
+    20
+   ],
+   "source_def": "to go out",
+   "freq": 9984,
+   "priority": 0.7357,
+   "tests_count": null,
+   "id": 77,
+   "rank": 77
+  },
+  {
+   "hanzi": "还是",
+   "pinyin": "háishi",
+   "pinyin_spaced": "hái shi",
+   "pos": "adv./conj.",
+   "english": "still; or",
+   "accepted": [
+    "still",
+    "or"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "háishì"
+   ],
+   "example": {
+    "zh": "你想喝茶还是咖啡？",
+    "en": "Would you like tea or coffee?",
+    "py": "Nǐ xiǎng hēchá háishi kāfēi?"
+   },
+   "src_no": [
+    52
+   ],
+   "source_def": "still; or",
+   "freq": 9927,
+   "priority": 0.7352,
+   "tests_count": null,
+   "id": 78,
+   "rank": 78
+  },
+  {
+   "hanzi": "离",
+   "pinyin": "lí",
+   "pinyin_spaced": "lí",
+   "pos": "v.",
+   "english": "to leave, to be away from",
+   "accepted": [
+    "leave",
+    "be away from"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "医院离这儿远吗？",
+    "en": "Is the hospital far from here?",
+    "py": "Yīyuàn lí zhèr yuǎn ma?"
+   },
+   "src_no": [
+    89
+   ],
+   "source_def": "to leave, to be away from",
+   "freq": 9736,
+   "priority": 0.7337,
+   "tests_count": null,
+   "id": 79,
+   "rank": 79
+  },
+  {
+   "hanzi": "为什么",
+   "pinyin": "wèishénme",
+   "pinyin_spaced": "wèi shén me",
+   "pos": "phr.",
+   "english": "why",
+   "accepted": [
+    "why"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你为什么不来？",
+    "en": "Why aren't you coming?",
+    "py": "Nǐ wèishénme bù lái?"
+   },
+   "src_no": [
+    154
+   ],
+   "source_def": "why",
+   "freq": 9566,
+   "priority": 0.7323,
+   "tests_count": null,
+   "id": 80,
+   "rank": 80
+  },
+  {
+   "hanzi": "飞",
+   "pinyin": "fēi",
+   "pinyin_spaced": "fēi",
+   "pos": "v.",
+   "english": "to fly",
+   "accepted": [
+    "fly"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "鸟在天上飞。",
+    "en": "Birds are flying in the sky.",
+    "py": "Niǎo zài tiānshàng fēi."
+   },
+   "src_no": [
+    40
+   ],
+   "source_def": "to fly",
+   "freq": 9563,
+   "priority": 0.7322,
+   "tests_count": null,
+   "id": 81,
+   "rank": 81
+  },
+  {
+   "hanzi": "右",
+   "pinyin": "yòu",
+   "pinyin_spaced": "yòu",
+   "pos": "n.",
+   "english": "right",
+   "accepted": [
+    "right"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "往右走就是车站。",
+    "en": "Go right and you'll reach the station.",
+    "py": "Wǎng yòu zǒu jiùshì chēzhàn."
+   },
+   "src_no": [
+    181
+   ],
+   "source_def": "right",
+   "freq": 9451,
+   "priority": 0.7313,
+   "tests_count": null,
+   "id": 82,
+   "rank": 82
+  },
+  {
+   "hanzi": "介绍",
+   "pinyin": "jièshào",
+   "pinyin_spaced": "jiè shào",
+   "pos": "v.",
+   "english": "to introduce",
+   "accepted": [
+    "introduce"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我来介绍一下，这是我朋友。",
+    "en": "Let me introduce — this is my friend.",
+    "py": "Wǒ lái jièshào yíxià, zhè shì wǒ péngyou."
+   },
+   "src_no": [
+    69
+   ],
+   "source_def": "to introduce",
+   "freq": 8931,
+   "priority": 0.7268,
+   "tests_count": null,
+   "id": 83,
+   "rank": 83
+  },
+  {
+   "hanzi": "那样",
+   "pinyin": "nàyàng",
+   "pinyin_spaced": "nà yàng",
+   "pos": "pron.",
+   "english": "like that",
+   "accepted": [
+    "like that"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你别那样说他。",
+    "en": "Don't talk about him like that.",
+    "py": "Nǐ bié nàyàng shuō tā."
+   },
+   "src_no": [
+    107
+   ],
+   "source_def": "like that",
+   "freq": 8817,
+   "priority": 0.7257,
+   "tests_count": null,
+   "id": 84,
+   "rank": 84
+  },
+  {
+   "hanzi": "药",
+   "pinyin": "yào",
+   "pinyin_spaced": "yào",
+   "pos": "n.",
+   "english": "medicine, drug",
+   "accepted": [
+    "medicine",
+    "drug"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你吃药了吗？",
+    "en": "Have you taken your medicine?",
+    "py": "Nǐ chī yào le ma?"
+   },
+   "src_no": [
+    168
+   ],
+   "source_def": "medicine, drug",
+   "freq": 8404,
+   "priority": 0.7219,
+   "tests_count": null,
+   "id": 85,
+   "rank": 85
+  },
+  {
+   "hanzi": "周",
+   "pinyin": "zhōu",
+   "pinyin_spaced": "zhōu",
+   "pos": "n.",
+   "english": "week; (measure word for circumference, cycle)",
+   "accepted": [
+    "week",
+    "measure word for circumference",
+    "cycle"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我下周去旅游。",
+    "en": "I'm going travelling next week.",
+    "py": "Wǒ xià zhōu qù lǚyóu."
+   },
+   "src_no": [
+    192
+   ],
+   "source_def": "week; (measure word for circumference, cycle)",
+   "freq": 8326,
+   "priority": 0.7212,
+   "tests_count": null,
+   "id": 86,
+   "rank": 86
+  },
+  {
+   "hanzi": "身体",
+   "pinyin": "shēntǐ",
+   "pinyin_spaced": "shēn tǐ",
+   "pos": "n.",
+   "english": "body",
+   "accepted": [
+    "body"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我爷爷的身体很好。",
+    "en": "My grandpa is in good health.",
+    "py": "Wǒ yéye de shēntǐ hěn hǎo."
+   },
+   "src_no": [
+    129
+   ],
+   "source_def": "body",
+   "freq": 7965,
+   "priority": 0.7176,
+   "tests_count": null,
+   "id": 87,
+   "rank": 87
+  },
+  {
+   "hanzi": "考试",
+   "pinyin": "kǎoshì",
+   "pinyin_spaced": "kǎo shì",
+   "pos": "v./n.",
+   "english": "to take an exam; exam",
+   "accepted": [
+    "take an exam",
+    "exam"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他考试考得很好。",
+    "en": "He did very well in the exam.",
+    "py": "Tā kǎoshì kǎo de hěn hǎo."
+   },
+   "src_no": [
+    81
+   ],
+   "source_def": "to take an exam; exam",
+   "freq": 7819,
+   "priority": 0.7161,
+   "tests_count": null,
+   "id": 88,
+   "rank": 88
+  },
+  {
+   "hanzi": "机场",
+   "pinyin": "jīchǎng",
+   "pinyin_spaced": "jī chǎng",
+   "pos": "n.",
+   "english": "airport",
+   "accepted": [
+    "airport"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我去机场送朋友。",
+    "en": "I'm going to the airport to see a friend off.",
+    "py": "Wǒ qù jīchǎng sòng péngyou."
+   },
+   "src_no": [
+    63
+   ],
+   "source_def": "airport",
+   "freq": 7746,
+   "priority": 0.7154,
+   "tests_count": null,
+   "id": 89,
+   "rank": 89
+  },
+  {
+   "hanzi": "画",
+   "pinyin": "huà",
+   "pinyin_spaced": "huà",
+   "pos": "v./n.",
+   "english": "to draw, to paint; painting, picture",
+   "accepted": [
+    "draw",
+    "paint",
+    "painting",
+    "picture"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她在画一只小鸟。",
+    "en": "She is drawing a little bird.",
+    "py": "Tā zài huà yì zhī xiǎoniǎo."
+   },
+   "src_no": [
+    59
+   ],
+   "source_def": "to draw, to paint; painting, picture",
+   "freq": 7559,
+   "priority": 0.7134,
+   "tests_count": null,
+   "id": 90,
+   "rank": 90
+  },
+  {
+   "hanzi": "游",
+   "pinyin": "yóu",
+   "pinyin_spaced": "yóu",
+   "pos": "v.",
+   "english": "to swim",
+   "accepted": [
+    "swim"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "那条鱼游得很快。",
+    "en": "That fish swims very fast.",
+    "py": "Nàtiáo yú yóu de hěnkuài."
+   },
+   "src_no": [
+    177
+   ],
+   "source_def": "to swim",
+   "freq": 7272,
+   "priority": 0.7103,
+   "tests_count": null,
+   "id": 91,
+   "rank": 91
+  },
+  {
+   "hanzi": "经常",
+   "pinyin": "jīngcháng",
+   "pinyin_spaced": "jīng cháng",
+   "pos": "adv.",
+   "english": "often",
+   "accepted": [
+    "often"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我经常跟朋友去跑步。",
+    "en": "I often go running with friends.",
+    "py": "Wǒ jīngcháng gēn péngyou qù pǎobù."
+   },
+   "src_no": [
+    74
+   ],
+   "source_def": "often",
+   "freq": 7257,
+   "priority": 0.7102,
+   "tests_count": null,
+   "id": 92,
+   "rank": 92
+  },
+  {
+   "hanzi": "姓",
+   "pinyin": "xìng",
+   "pinyin_spaced": "xìng",
+   "pos": "n./v.",
+   "english": "surname; to be surnamed",
+   "accepted": [
+    "surname",
+    "be surnamed"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我姓王，叫王明。",
+    "en": "My surname is Wang; my name is Wang Ming.",
+    "py": "Wǒ xìng wáng, jiào wángmíng."
+   },
+   "src_no": [
+    164
+   ],
+   "source_def": "surname; to be surnamed",
+   "freq": 7240,
+   "priority": 0.71,
+   "tests_count": null,
+   "id": 93,
+   "rank": 93
+  },
+  {
+   "hanzi": "外国",
+   "pinyin": "wàiguó",
+   "pinyin_spaced": "wài guó",
+   "pos": "n.",
+   "english": "foreign country",
+   "accepted": [
+    "foreign country"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们学校有很多外国学生。",
+    "en": "Our school has many foreign students.",
+    "py": "Wǒmen xuéxiào yǒu hěnduō wàiguó xuésheng."
+   },
+   "src_no": [
+    146
+   ],
+   "source_def": "foreign country",
+   "freq": 7209,
+   "priority": 0.7097,
+   "tests_count": null,
+   "id": 94,
+   "rank": 94
+  },
+  {
+   "hanzi": "有时",
+   "pinyin": "yǒushí",
+   "pinyin_spaced": "yǒu shí",
+   "pos": "adv.",
+   "english": "sometimes",
+   "accepted": [
+    "sometimes"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我有时坐公交车去学校。",
+    "en": "Sometimes I take the bus to school.",
+    "py": "Wǒ yǒushí zuò gōngjiāochē qù xuéxiào."
+   },
+   "src_no": [
+    180
+   ],
+   "source_def": "sometimes",
+   "freq": 6921,
+   "priority": 0.7064,
+   "tests_count": null,
+   "id": 95,
+   "rank": 95
+  },
+  {
+   "hanzi": "进来",
+   "pinyin": "jìnlái",
+   "pinyin_spaced": "jìn lái",
+   "pos": "v.",
+   "english": "to come in",
+   "accepted": [
+    "come in"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "外面很冷，快进来吧。",
+    "en": "It's cold outside; come in quickly.",
+    "py": "Wàimian hěn lěng, kuài jìnlái ba."
+   },
+   "src_no": [
+    72
+   ],
+   "source_def": "to come in",
+   "freq": 6883,
+   "priority": 0.706,
+   "tests_count": null,
+   "id": 96,
+   "rank": 96
+  },
+  {
+   "hanzi": "肉",
+   "pinyin": "ròu",
+   "pinyin_spaced": "ròu",
+   "pos": "n.",
+   "english": "meat",
+   "accepted": [
+    "meat"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我不吃肉。",
+    "en": "I don't eat meat.",
+    "py": "Wǒ bùchī ròu."
+   },
+   "src_no": [
+    123
+   ],
+   "source_def": "meat",
+   "freq": 6683,
+   "priority": 0.7036,
+   "tests_count": null,
+   "id": 97,
+   "rank": 97
+  },
+  {
+   "hanzi": "帮",
+   "pinyin": "bāng",
+   "pinyin_spaced": "bāng",
+   "pos": "v.",
+   "english": "to help",
+   "accepted": [
+    "help"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你能帮我一下吗？",
+    "en": "Can you help me for a moment?",
+    "py": "Nǐ néng bāng wǒ yíxià ma?"
+   },
+   "src_no": [
+    5
+   ],
+   "source_def": "to help",
+   "freq": 6493,
+   "priority": 0.7013,
+   "tests_count": null,
+   "id": 98,
+   "rank": 98
+  },
+  {
+   "hanzi": "错",
+   "pinyin": "cuò",
+   "pinyin_spaced": "cuò",
+   "pos": "adj.",
+   "english": "wrong, mistaken",
+   "accepted": [
+    "wrong",
+    "mistaken"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "对不起，我写错了。",
+    "en": "Sorry, I wrote it wrong.",
+    "py": "Duìbuqǐ, wǒ xiě cuò le."
+   },
+   "src_no": [
+    26
+   ],
+   "source_def": "wrong, mistaken",
+   "freq": 6340,
+   "priority": 0.6994,
+   "tests_count": null,
+   "id": 99,
+   "rank": 99
+  },
+  {
+   "hanzi": "楼",
+   "pinyin": "lóu",
+   "pinyin_spaced": "lóu",
+   "pos": "n.",
+   "english": "building, floor",
+   "accepted": [
+    "building",
+    "floor"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我住在五楼。",
+    "en": "I live on the fifth floor.",
+    "py": "Wǒ zhùzài wǔ lóu."
+   },
+   "src_no": [
+    91
+   ],
+   "source_def": "building, floor",
+   "freq": 6245,
+   "priority": 0.6982,
+   "tests_count": null,
+   "id": 100,
+   "rank": 100
+  },
+  {
+   "hanzi": "回去",
+   "pinyin": "huíqù",
+   "pinyin_spaced": "huí qù",
+   "pos": "v.",
+   "english": "to go back",
+   "accepted": [
+    "go back"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "太晚了，我们回去吧。",
+    "en": "It's late — let's go back.",
+    "py": "Tàiwǎn le, wǒmen huíqù ba."
+   },
+   "src_no": [
+    62
+   ],
+   "source_def": "to go back",
+   "freq": 6214,
+   "priority": 0.6978,
+   "tests_count": null,
+   "id": 101,
+   "rank": 101
+  },
+  {
+   "hanzi": "意思",
+   "pinyin": "yìsi",
+   "pinyin_spaced": "yì si",
+   "pos": "n.",
+   "english": "meaning, idea",
+   "accepted": [
+    "meaning",
+    "idea"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个字是什么意思？",
+    "en": "What does this character mean?",
+    "py": "Zhège zì shì shénme yìsi?"
+   },
+   "src_no": [
+    174
+   ],
+   "source_def": "meaning, idea",
+   "freq": 6094,
+   "priority": 0.6962,
+   "tests_count": null,
+   "id": 102,
+   "rank": 102
+  },
+  {
+   "hanzi": "里面",
+   "pinyin": "lǐmian",
+   "pinyin_spaced": "lǐ mian",
+   "pos": "n.",
+   "english": "inside",
+   "accepted": [
+    "inside"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "lǐmiàn"
+   ],
+   "example": {
+    "zh": "商场里面人很多。",
+    "en": "There are lots of people inside the mall.",
+    "py": "Shāngchǎng lǐmian rén hěnduō."
+   },
+   "src_no": [
+    90
+   ],
+   "source_def": "inside",
+   "freq": 5999,
+   "priority": 0.695,
+   "tests_count": null,
+   "id": 103,
+   "rank": 103
+  },
+  {
+   "hanzi": "考",
+   "pinyin": "kǎo",
+   "pinyin_spaced": "kǎo",
+   "pos": "v.",
+   "english": "to test, to take an exam",
+   "accepted": [
+    "test",
+    "take an exam"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "明天考汉语。",
+    "en": "We have a Chinese exam tomorrow.",
+    "py": "Míngtiān kǎo hànyǔ."
+   },
+   "src_no": [
+    80
+   ],
+   "source_def": "to test, to take an exam",
+   "freq": 5973,
+   "priority": 0.6946,
+   "tests_count": null,
+   "id": 104,
+   "rank": 104
+  },
+  {
+   "hanzi": "词",
+   "pinyin": "cí",
+   "pinyin_spaced": "cí",
+   "pos": "n.",
+   "english": "word, term",
+   "accepted": [
+    "word",
+    "term"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个词是什么意思？",
+    "en": "What does this word mean?",
+    "py": "Zhège cí shì shénme yìsi?"
+   },
+   "src_no": [
+    22
+   ],
+   "source_def": "word, term",
+   "freq": 5735,
+   "priority": 0.6914,
+   "tests_count": null,
+   "id": 105,
+   "rank": 105
+  },
+  {
+   "hanzi": "题",
+   "pinyin": "tí",
+   "pinyin_spaced": "tí",
+   "pos": "n.",
+   "english": "question, problem, topic",
+   "accepted": [
+    "question",
+    "problem",
+    "topic"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个题太难了。",
+    "en": "This question is too hard.",
+    "py": "Zhège tí tài nán le."
+   },
+   "src_no": [
+    142
+   ],
+   "source_def": "question, problem, topic",
+   "freq": 5668,
+   "priority": 0.6904,
+   "tests_count": null,
+   "id": 106,
+   "rank": 106
+  },
+  {
+   "hanzi": "球",
+   "pinyin": "qiú",
+   "pinyin_spaced": "qiú",
+   "pos": "n.",
+   "english": "ball, sphere",
+   "accepted": [
+    "ball",
+    "sphere"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你会踢球吗？",
+    "en": "Can you play football?",
+    "py": "Nǐ huì tī qiú ma?"
+   },
+   "src_no": [
+    121
+   ],
+   "source_def": "ball, sphere",
+   "freq": 5650,
+   "priority": 0.6902,
+   "tests_count": null,
+   "id": 107,
+   "rank": 107
+  },
+  {
+   "hanzi": "不错",
+   "pinyin": "búcuò",
+   "pinyin_spaced": "bú cuò",
+   "pos": "adj.",
+   "english": "not bad, pretty good",
+   "accepted": [
+    "not bad",
+    "pretty good"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "bùcuò"
+   ],
+   "example": {
+    "zh": "这家饭馆的菜很不错。",
+    "en": "The food at this restaurant is pretty good.",
+    "py": "Zhèjiā fànguǎn de cài hěn búcuò."
+   },
+   "src_no": [
+    12
+   ],
+   "source_def": "not bad, pretty good",
+   "freq": 5327,
+   "priority": 0.6855,
+   "tests_count": null,
+   "id": 108,
+   "rank": 108
+  },
+  {
+   "hanzi": "包",
+   "pinyin": "bāo",
+   "pinyin_spaced": "bāo",
+   "pos": "v./n./mw.",
+   "english": "to wrap, to pack; bag; measure word for bundles",
+   "accepted": [
+    "wrap",
+    "pack",
+    "bag",
+    "measure word for bundles"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个包是我妈妈的。",
+    "en": "This bag is my mum's.",
+    "py": "Zhège bāo shì wǒ māma de."
+   },
+   "src_no": [
+    7
+   ],
+   "source_def": "to wrap, to pack; bag; measure word for bundles",
+   "freq": 5289,
+   "priority": 0.6849,
+   "tests_count": null,
+   "id": 109,
+   "rank": 109
+  },
+  {
+   "hanzi": "前面",
+   "pinyin": "qiánmian",
+   "pinyin_spaced": "qián mian",
+   "pos": "n.",
+   "english": "front; ahead",
+   "accepted": [
+    "front",
+    "ahead"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "qiánmiàn"
+   ],
+   "example": {
+    "zh": "前面就是车站。",
+    "en": "The station is just ahead.",
+    "py": "Qiánmian jiùshì chēzhàn."
+   },
+   "src_no": [
+    119
+   ],
+   "source_def": "front; ahead",
+   "freq": 5029,
+   "priority": 0.6809,
+   "tests_count": null,
+   "id": 110,
+   "rank": 110
+  },
+  {
+   "hanzi": "上面",
+   "pinyin": "shàngmian",
+   "pinyin_spaced": "shàng mian",
+   "pos": "n.",
+   "english": "above; on top",
+   "accepted": [
+    "above",
+    "on top"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "shàngmiàn"
+   ],
+   "example": {
+    "zh": "桌子上面有一本书。",
+    "en": "There is a book on the table.",
+    "py": "Zhuōzi shàngmian yǒu yī běnshū."
+   },
+   "src_no": [
+    126
+   ],
+   "source_def": "above; on top",
+   "freq": 4981,
+   "priority": 0.6801,
+   "tests_count": null,
+   "id": 111,
+   "rank": 111
+  },
+  {
+   "hanzi": "忘",
+   "pinyin": "wàng",
+   "pinyin_spaced": "wàng",
+   "pos": "v.",
+   "english": "to forget",
+   "accepted": [
+    "forget"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我忘了带书包。",
+    "en": "I forgot to bring my schoolbag.",
+    "py": "Wǒ wàng le dài shūbāo."
+   },
+   "src_no": [
+    152
+   ],
+   "source_def": "to forget",
+   "freq": 4957,
+   "priority": 0.6797,
+   "tests_count": null,
+   "id": 112,
+   "rank": 112
+  },
+  {
+   "hanzi": "进去",
+   "pinyin": "jìnqù",
+   "pinyin_spaced": "jìn qù",
+   "pos": "v.",
+   "english": "to go in",
+   "accepted": [
+    "go in"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你先进去，我等一会儿。",
+    "en": "You go in first; I'll wait a moment.",
+    "py": "Nǐ xiān jìnqù, wǒ děng yíhuìr."
+   },
+   "src_no": [
+    73
+   ],
+   "source_def": "to go in",
+   "freq": 4934,
+   "priority": 0.6794,
+   "tests_count": null,
+   "id": 113,
+   "rank": 113
+  },
+  {
+   "hanzi": "高中",
+   "pinyin": "gāozhōng",
+   "pinyin_spaced": "gāo zhōng",
+   "pos": "n.",
+   "english": "high school",
+   "accepted": [
+    "high school"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我哥哥是高中学生。",
+    "en": "My older brother is a high-school student.",
+    "py": "Wǒ gēge shì gāozhōng xuésheng."
+   },
+   "src_no": [
+    42
+   ],
+   "source_def": "high school",
+   "freq": 4737,
+   "priority": 0.6761,
+   "tests_count": null,
+   "id": 114,
+   "rank": 114
+  },
+  {
+   "hanzi": "班",
+   "pinyin": "bān",
+   "pinyin_spaced": "bān",
+   "pos": "n.",
+   "english": "class, team; (measure word for groups)",
+   "accepted": [
+    "class",
+    "team"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们班有二十个学生。",
+    "en": "Our class has twenty students.",
+    "py": "Wǒmen bān yǒu èrshígè xuésheng."
+   },
+   "src_no": [
+    4
+   ],
+   "source_def": "class, team; (measure word for groups)",
+   "freq": 4674,
+   "priority": 0.675,
+   "tests_count": null,
+   "id": 115,
+   "rank": 115
+  },
+  {
+   "hanzi": "坏",
+   "pinyin": "huài",
+   "pinyin_spaced": "huài",
+   "pos": "adj.",
+   "english": "bad, broken",
+   "accepted": [
+    "bad",
+    "broken"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的电脑坏了。",
+    "en": "My computer is broken.",
+    "py": "Wǒ de diànnǎo huài le."
+   },
+   "src_no": [
+    60
+   ],
+   "source_def": "bad, broken",
+   "freq": 4624,
+   "priority": 0.6742,
+   "tests_count": null,
+   "id": 116,
+   "rank": 116
+  },
+  {
+   "hanzi": "妻子",
+   "pinyin": "qīzi",
+   "pinyin_spaced": "qī zi",
+   "pos": "n.",
+   "english": "wife",
+   "accepted": [
+    "wife"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "qīzǐ"
+   ],
+   "example": {
+    "zh": "他的妻子是医生。",
+    "en": "His wife is a doctor.",
+    "py": "Tā de qīzi shì yīshēng."
+   },
+   "src_no": [
+    117
+   ],
+   "source_def": "wife",
+   "freq": 4537,
+   "priority": 0.6727,
+   "tests_count": null,
+   "id": 117,
+   "rank": 117
+  },
+  {
+   "hanzi": "后面",
+   "pinyin": "hòumian",
+   "pinyin_spaced": "hòu mian",
+   "pos": "n.",
+   "english": "behind; back",
+   "accepted": [
+    "behind",
+    "back"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "hòumiàn"
+   ],
+   "example": {
+    "zh": "车站后面有一个商场。",
+    "en": "There is a mall behind the station.",
+    "py": "Chēzhàn hòumian yǒu yí gè shāngchǎng."
+   },
+   "src_no": [
+    56
+   ],
+   "source_def": "behind; back",
+   "freq": 4313,
+   "priority": 0.6686,
+   "tests_count": null,
+   "id": 118,
+   "rank": 118
+  },
+  {
+   "hanzi": "丈夫",
+   "pinyin": "zhàngfu",
+   "pinyin_spaced": "zhàng fu",
+   "pos": "n.",
+   "english": "husband",
+   "accepted": [
+    "husband"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "zhàngfū"
+   ],
+   "example": {
+    "zh": "她丈夫是老师。",
+    "en": "Her husband is a teacher.",
+    "py": "Tā zhàngfu shì lǎoshī."
+   },
+   "src_no": [
+    187
+   ],
+   "source_def": "husband",
+   "freq": 4288,
+   "priority": 0.6682,
+   "tests_count": null,
+   "id": 119,
+   "rank": 119
+  },
+  {
+   "hanzi": "红色",
+   "pinyin": "hóngsè",
+   "pinyin_spaced": "hóng sè",
+   "pos": "n.",
+   "english": "red",
+   "accepted": [
+    "red"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她喜欢红色的衣服。",
+    "en": "She likes red clothes.",
+    "py": "Tā xǐhuan hóngsè de yīfu."
+   },
+   "src_no": [
+    55
+   ],
+   "source_def": "red",
+   "freq": 4248,
+   "priority": 0.6674,
+   "tests_count": null,
+   "id": 120,
+   "rank": 120
+  },
+  {
+   "hanzi": "打开",
+   "pinyin": "dǎkāi",
+   "pinyin_spaced": "dǎ kāi",
+   "pos": "v.",
+   "english": "to open",
+   "accepted": [
+    "open"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请打开你的书。",
+    "en": "Please open your book.",
+    "py": "Qǐng dǎkāi nǐ de shū."
+   },
+   "src_no": [
+    29
+   ],
+   "source_def": "to open",
+   "freq": 4142,
+   "priority": 0.6654,
+   "tests_count": null,
+   "id": 121,
+   "rank": 121
+  },
+  {
+   "hanzi": "外面",
+   "pinyin": "wàimian",
+   "pinyin_spaced": "wài mian",
+   "pos": "n.",
+   "english": "outside",
+   "accepted": [
+    "outside"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "wàimiàn"
+   ],
+   "example": {
+    "zh": "外面下雨了。",
+    "en": "It's raining outside.",
+    "py": "Wàimian xiàyǔ le."
+   },
+   "src_no": [
+    147
+   ],
+   "source_def": "outside",
+   "freq": 4053,
+   "priority": 0.6637,
+   "tests_count": null,
+   "id": 122,
+   "rank": 122
+  },
+  {
+   "hanzi": "懂",
+   "pinyin": "dǒng",
+   "pinyin_spaced": "dǒng",
+   "pos": "v.",
+   "english": "to understand",
+   "accepted": [
+    "understand"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "老师说的我都懂。",
+    "en": "I understand everything the teacher says.",
+    "py": "Lǎoshī shuō de wǒ dōu dǒng."
+   },
+   "src_no": [
+    37
+   ],
+   "source_def": "to understand",
+   "freq": 3998,
+   "priority": 0.6626,
+   "tests_count": null,
+   "id": 123,
+   "rank": 123
+  },
+  {
+   "hanzi": "下面",
+   "pinyin": "xiàmian",
+   "pinyin_spaced": "xià mian",
+   "pos": "n.",
+   "english": "below; under",
+   "accepted": [
+    "below",
+    "under"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "xiàmiàn"
+   ],
+   "example": {
+    "zh": "椅子下面有一只猫。",
+    "en": "There is a cat under the chair.",
+    "py": "Yǐzi xiàmian yǒu yì zhī māo."
+   },
+   "src_no": [
+    159
+   ],
+   "source_def": "below; under",
+   "freq": 3984,
+   "priority": 0.6623,
+   "tests_count": null,
+   "id": 124,
+   "rank": 124
+  },
+  {
+   "hanzi": "上来",
+   "pinyin": "shànglái",
+   "pinyin_spaced": "shàng lái",
+   "pos": "v.",
+   "english": "to come up",
+   "accepted": [
+    "come up"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你上来吧，我在二楼。",
+    "en": "Come up, I'm on the second floor.",
+    "py": "Nǐ shànglái ba, wǒ zài èrlóu."
+   },
+   "src_no": [
+    125
+   ],
+   "source_def": "to come up",
+   "freq": 3975,
+   "priority": 0.6621,
+   "tests_count": null,
+   "id": 125,
+   "rank": 125
+  },
+  {
+   "hanzi": "旁边",
+   "pinyin": "pángbiān",
+   "pinyin_spaced": "páng biān",
+   "pos": "n.",
+   "english": "side",
+   "accepted": [
+    "side"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的家在医院旁边。",
+    "en": "My home is next to the hospital.",
+    "py": "Wǒ de jiā zài yīyuàn pángbiān."
+   },
+   "src_no": [
+    113
+   ],
+   "source_def": "side",
+   "freq": 3733,
+   "priority": 0.6571,
+   "tests_count": null,
+   "id": 126,
+   "rank": 126
+  },
+  {
+   "hanzi": "门口",
+   "pinyin": "ménkǒu",
+   "pinyin_spaced": "mén kǒu",
+   "pos": "n.",
+   "english": "doorway, entrance",
+   "accepted": [
+    "doorway",
+    "entrance"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我在学校门口等你。",
+    "en": "I'll wait for you at the school gate.",
+    "py": "Wǒ zài xuéxiào ménkǒu děng nǐ."
+   },
+   "src_no": [
+    101
+   ],
+   "source_def": "doorway, entrance",
+   "freq": 3718,
+   "priority": 0.6568,
+   "tests_count": null,
+   "id": 127,
+   "rank": 127
+  },
+  {
+   "hanzi": "上去",
+   "pinyin": "shàngqù",
+   "pinyin_spaced": "shàng qù",
+   "pos": "v.",
+   "english": "to go up",
+   "accepted": [
+    "go up"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们走上去吧。",
+    "en": "Let's walk up.",
+    "py": "Wǒmen zǒu shàngqù ba."
+   },
+   "src_no": [
+    127
+   ],
+   "source_def": "to go up",
+   "freq": 3426,
+   "priority": 0.6502,
+   "tests_count": null,
+   "id": 128,
+   "rank": 128
+  },
+  {
+   "hanzi": "笔",
+   "pinyin": "bǐ",
+   "pinyin_spaced": "bǐ",
+   "pos": "n.",
+   "english": "pen; (measure word for writing tools)",
+   "accepted": [
+    "pen"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的笔在书包里。",
+    "en": "My pen is in my schoolbag.",
+    "py": "Wǒ de bǐ zài shūbāo lǐ."
+   },
+   "src_no": [
+    10
+   ],
+   "source_def": "pen; (measure word for writing tools)",
+   "freq": 3249,
+   "priority": 0.646,
+   "tests_count": null,
+   "id": 129,
+   "rank": 129
+  },
+  {
+   "hanzi": "一会儿",
+   "pinyin": "yíhuìr",
+   "pinyin_spaced": "yí huìr",
+   "pos": "phr.",
+   "english": "a while, a moment; (soon, in a little while)",
+   "accepted": [
+    "while",
+    "moment",
+    "soon",
+    "in a little while"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请等一会儿。",
+    "en": "Please wait a moment.",
+    "py": "Qǐng děng yíhuìr."
+   },
+   "src_no": [
+    171
+   ],
+   "source_def": "a while, a moment; (soon, in a little while)",
+   "freq": 3205,
+   "priority": 0.6449,
+   "tests_count": null,
+   "id": 130,
+   "rank": 130
+  },
+  {
+   "hanzi": "床",
+   "pinyin": "chuáng",
+   "pinyin_spaced": "chuáng",
+   "pos": "n.",
+   "english": "bed",
+   "accepted": [
+    "bed"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的床很舒服。",
+    "en": "My bed is very comfortable.",
+    "py": "Wǒ de chuáng hěn shūfu."
+   },
+   "src_no": [
+    21
+   ],
+   "source_def": "bed",
+   "freq": 3204,
+   "priority": 0.6449,
+   "tests_count": null,
+   "id": 131,
+   "rank": 131
+  },
+  {
+   "hanzi": "洗",
+   "pinyin": "xǐ",
+   "pinyin_spaced": "xǐ",
+   "pos": "v.",
+   "english": "to wash",
+   "accepted": [
+    "wash"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我在洗衣服。",
+    "en": "I'm washing clothes.",
+    "py": "Wǒ zài xǐ yīfu."
+   },
+   "src_no": [
+    156
+   ],
+   "source_def": "to wash",
+   "freq": 3202,
+   "priority": 0.6448,
+   "tests_count": null,
+   "id": 132,
+   "rank": 132
+  },
+  {
+   "hanzi": "颜色",
+   "pinyin": "yánsè",
+   "pinyin_spaced": "yán sè",
+   "pos": "n.",
+   "english": "color",
+   "accepted": [
+    "color"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你喜欢什么颜色？",
+    "en": "What colour do you like?",
+    "py": "Nǐ xǐhuan shénme yánsè?"
+   },
+   "src_no": [
+    166
+   ],
+   "source_def": "color",
+   "freq": 3105,
+   "priority": 0.6424,
+   "tests_count": null,
+   "id": 133,
+   "rank": 133
+  },
+  {
+   "hanzi": "鸟",
+   "pinyin": "niǎo",
+   "pinyin_spaced": "niǎo",
+   "pos": "n.",
+   "english": "bird",
+   "accepted": [
+    "bird"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "树上有一只小鸟。",
+    "en": "There is a little bird in the tree.",
+    "py": "Shùshàng yǒu yì zhī xiǎo niǎo."
+   },
+   "src_no": [
+    111
+   ],
+   "source_def": "bird",
+   "freq": 3048,
+   "priority": 0.6409,
+   "tests_count": null,
+   "id": 134,
+   "rank": 134
+  },
+  {
+   "hanzi": "奶奶",
+   "pinyin": "nǎinai",
+   "pinyin_spaced": "nǎi nai",
+   "pos": "n.",
+   "english": "grandmother",
+   "accepted": [
+    "grandmother"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "nǎinǎi"
+   ],
+   "example": {
+    "zh": "我奶奶今年八十岁了。",
+    "en": "My grandmother is eighty this year.",
+    "py": "Wǒ nǎinai jīnnián bāshísuì le."
+   },
+   "src_no": [
+    109
+   ],
+   "source_def": "grandmother",
+   "freq": 3023,
+   "priority": 0.6402,
+   "tests_count": null,
+   "id": 135,
+   "rank": 135
+  },
+  {
+   "hanzi": "踢",
+   "pinyin": "tī",
+   "pinyin_spaced": "tī",
+   "pos": "v.",
+   "english": "to kick",
+   "accepted": [
+    "kick"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们下午去踢足球吧。",
+    "en": "Let's play football this afternoon.",
+    "py": "Wǒmen xiàwǔ qù tī zúqiú ba."
+   },
+   "src_no": [
+    141
+   ],
+   "source_def": "to kick",
+   "freq": 2993,
+   "priority": 0.6394,
+   "tests_count": null,
+   "id": 136,
+   "rank": 136
+  },
+  {
+   "hanzi": "累",
+   "pinyin": "lèi",
+   "pinyin_spaced": "lèi",
+   "pos": "adj./v.",
+   "english": "tired; to tire",
+   "accepted": [
+    "tired",
+    "tire"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我今天很累，想早点儿睡觉。",
+    "en": "I'm very tired today and want to sleep early.",
+    "py": "Wǒ jīntiān hěn lèi, xiǎng zǎodiǎnr shuìjiào."
+   },
+   "src_no": [
+    88
+   ],
+   "source_def": "tired; to tire",
+   "freq": 2878,
+   "priority": 0.6363,
+   "tests_count": null,
+   "id": 137,
+   "rank": 137
+  },
+  {
+   "hanzi": "绿色",
+   "pinyin": "lǜsè",
+   "pinyin_spaced": "lǜ sè",
+   "pos": "n.",
+   "english": "green color; (green)",
+   "accepted": [
+    "green color"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我喜欢绿色。",
+    "en": "I like green.",
+    "py": "Wǒ xǐhuan lǜsè."
+   },
+   "src_no": [
+    96
+   ],
+   "source_def": "green color; (green)",
+   "freq": 2856,
+   "priority": 0.6357,
+   "tests_count": null,
+   "id": 138,
+   "rank": 138
+  },
+  {
+   "hanzi": "白色",
+   "pinyin": "báisè",
+   "pinyin_spaced": "bái sè",
+   "pos": "n.",
+   "english": "white",
+   "accepted": [
+    "white"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我想买一件白色的衣服。",
+    "en": "I want to buy a white piece of clothing.",
+    "py": "Wǒ xiǎng mǎi yí jiàn báisè de yīfu."
+   },
+   "src_no": [
+    3
+   ],
+   "source_def": "white",
+   "freq": 2761,
+   "priority": 0.633,
+   "tests_count": null,
+   "id": 139,
+   "rank": 139
+  },
+  {
+   "hanzi": "路上",
+   "pinyin": "lùshang",
+   "pinyin_spaced": "lù shang",
+   "pos": "n.",
+   "english": "on the road",
+   "accepted": [
+    "on the road"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "lùshàng"
+   ],
+   "example": {
+    "zh": "路上车很多。",
+    "en": "There is a lot of traffic on the road.",
+    "py": "Lùshang chē hěnduō."
+   },
+   "src_no": [
+    93
+   ],
+   "source_def": "on the road",
+   "freq": 2711,
+   "priority": 0.6315,
+   "tests_count": null,
+   "id": 140,
+   "rank": 140
+  },
+  {
+   "hanzi": "慢",
+   "pinyin": "màn",
+   "pinyin_spaced": "màn",
+   "pos": "adj.",
+   "english": "slow",
+   "accepted": [
+    "slow"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请说慢一点儿。",
+    "en": "Please speak a bit more slowly.",
+    "py": "Qǐng shuō màn yìdiǎnr."
+   },
+   "src_no": [
+    97
+   ],
+   "source_def": "slow",
+   "freq": 2660,
+   "priority": 0.63,
+   "tests_count": null,
+   "id": 141,
+   "rank": 141
+  },
+  {
+   "hanzi": "记得",
+   "pinyin": "jìde",
+   "pinyin_spaced": "jì de",
+   "pos": "v.",
+   "english": "to remember",
+   "accepted": [
+    "remember"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你还记得我吗？",
+    "en": "Do you still remember me?",
+    "py": "Nǐ hái jìde wǒ ma?"
+   },
+   "src_no": [
+    65
+   ],
+   "source_def": "to remember",
+   "freq": 2549,
+   "priority": 0.6266,
+   "tests_count": null,
+   "id": 142,
+   "rank": 142
+  },
+  {
+   "hanzi": "酒店",
+   "pinyin": "jiǔdiàn",
+   "pinyin_spaced": "jiǔ diàn",
+   "pos": "n.",
+   "english": "hotel",
+   "accepted": [
+    "hotel"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们住在机场旁边的酒店。",
+    "en": "We're staying at a hotel next to the airport.",
+    "py": "Wǒmen zhùzài jīchǎng pángbiān de jiǔdiàn."
+   },
+   "src_no": [
+    75
+   ],
+   "source_def": "hotel",
+   "freq": 2529,
+   "priority": 0.626,
+   "tests_count": null,
+   "id": 143,
+   "rank": 143
+  },
+  {
+   "hanzi": "快乐",
+   "pinyin": "kuàilè",
+   "pinyin_spaced": "kuài lè",
+   "pos": "adj.",
+   "english": "happy, joyful",
+   "accepted": [
+    "happy",
+    "joyful"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "祝你生日快乐！",
+    "en": "Happy birthday to you!",
+    "py": "Zhù nǐ shēngrì kuàilè!"
+   },
+   "src_no": [
+    85
+   ],
+   "source_def": "happy, joyful",
+   "freq": 2521,
+   "priority": 0.6257,
+   "tests_count": null,
+   "id": 144,
+   "rank": 144
+  },
+  {
+   "hanzi": "网上",
+   "pinyin": "wǎngshang",
+   "pinyin_spaced": "wǎng shang",
+   "pos": "n.",
+   "english": "online",
+   "accepted": [
+    "online"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "wǎngshàng"
+   ],
+   "example": {
+    "zh": "我经常在网上买东西。",
+    "en": "I often buy things online.",
+    "py": "Wǒ jīngcháng zài wǎngshang mǎi dōngxi."
+   },
+   "src_no": [
+    151
+   ],
+   "source_def": "online",
+   "freq": 2500,
+   "priority": 0.6251,
+   "tests_count": null,
+   "id": 145,
+   "rank": 145
+  },
+  {
+   "hanzi": "票",
+   "pinyin": "piào",
+   "pinyin_spaced": "piào",
+   "pos": "n.",
+   "english": "ticket",
+   "accepted": [
+    "ticket"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你买到电影票了吗？",
+    "en": "Did you get the film tickets?",
+    "py": "Nǐ mǎi dào diànyǐng piào le ma?"
+   },
+   "src_no": [
+    116
+   ],
+   "source_def": "ticket",
+   "freq": 2353,
+   "priority": 0.6202,
+   "tests_count": null,
+   "id": 146,
+   "rank": 146
+  },
+  {
+   "hanzi": "黑色",
+   "pinyin": "hēisè",
+   "pinyin_spaced": "hēi sè",
+   "pos": "n.",
+   "english": "black",
+   "accepted": [
+    "black"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他有一只黑色的狗。",
+    "en": "He has a black dog.",
+    "py": "Tā yǒu yì zhī hēisè de gǒu."
+   },
+   "src_no": [
+    53
+   ],
+   "source_def": "black",
+   "freq": 2342,
+   "priority": 0.6199,
+   "tests_count": null,
+   "id": 147,
+   "rank": 147
+  },
+  {
+   "hanzi": "阴",
+   "pinyin": "yīn",
+   "pinyin_spaced": "yīn",
+   "pos": "adj.",
+   "english": "cloudy",
+   "accepted": [
+    "cloudy"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "今天是阴天。",
+    "en": "It's cloudy today.",
+    "py": "Jīntiān shì yīn tiān."
+   },
+   "src_no": [
+    175
+   ],
+   "source_def": "cloudy",
+   "freq": 2300,
+   "priority": 0.6184,
+   "tests_count": null,
+   "id": 148,
+   "rank": 148
+  },
+  {
+   "hanzi": "爷爷",
+   "pinyin": "yéye",
+   "pinyin_spaced": "yé ye",
+   "pos": "n.",
+   "english": "grandfather",
+   "accepted": [
+    "grandfather"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "yéyé"
+   ],
+   "example": {
+    "zh": "我爷爷每天早上跑步。",
+    "en": "My grandpa goes running every morning.",
+    "py": "Wǒ yéye měitiān zǎoshang pǎobù."
+   },
+   "src_no": [
+    170
+   ],
+   "source_def": "grandfather",
+   "freq": 2082,
+   "priority": 0.6105,
+   "tests_count": null,
+   "id": 149,
+   "rank": 149
+  },
+  {
+   "hanzi": "足球",
+   "pinyin": "zúqiú",
+   "pinyin_spaced": "zú qiú",
+   "pos": "n.",
+   "english": "soccer, football",
+   "accepted": [
+    "soccer",
+    "football"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他很喜欢踢足球。",
+    "en": "He really likes playing football.",
+    "py": "Tā hěn xǐhuan tī zúqiú."
+   },
+   "src_no": [
+    197
+   ],
+   "source_def": "soccer, football",
+   "freq": 2046,
+   "priority": 0.6091,
+   "tests_count": null,
+   "id": 150,
+   "rank": 150
+  },
+  {
+   "hanzi": "姓名",
+   "pinyin": "xìngmíng",
+   "pinyin_spaced": "xìng míng",
+   "pos": "n.",
+   "english": "full name",
+   "accepted": [
+    "full name"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请写一下你的姓名。",
+    "en": "Please write your full name.",
+    "py": "Qǐng xiě yíxià nǐ de xìngmíng."
+   },
+   "src_no": [
+    165
+   ],
+   "source_def": "full name",
+   "freq": 1929,
+   "priority": 0.6044,
+   "tests_count": null,
+   "id": 151,
+   "rank": 151
+  },
+  {
+   "hanzi": "疼",
+   "pinyin": "téng",
+   "pinyin_spaced": "téng",
+   "pos": "adj.",
+   "english": "painful, sore; (to hurt)",
+   "accepted": [
+    "painful",
+    "sore"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的头很疼。",
+    "en": "My head hurts.",
+    "py": "Wǒ de tóu hěn téng."
+   },
+   "src_no": [
+    140
+   ],
+   "source_def": "painful, sore; (to hurt)",
+   "freq": 1860,
+   "priority": 0.6015,
+   "tests_count": null,
+   "id": 152,
+   "rank": 152
+  },
+  {
+   "hanzi": "出门",
+   "pinyin": "chūmén",
+   "pinyin_spaced": "chū mén",
+   "pos": "v.",
+   "english": "to go out",
+   "accepted": [
+    "go out"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "今天下雨，我不想出门。",
+    "en": "It's raining today; I don't want to go out.",
+    "py": "Jīntiān xiàyǔ, wǒ bùxiǎng chūmén."
+   },
+   "src_no": [
+    19
+   ],
+   "source_def": "to go out",
+   "freq": 1721,
+   "priority": 0.5953,
+   "tests_count": null,
+   "id": 153,
+   "rank": 153
+  },
+  {
+   "hanzi": "咖啡",
+   "pinyin": "kāfēi",
+   "pinyin_spaced": "kā fēi",
+   "pos": "n.",
+   "english": "coffee",
+   "accepted": [
+    "coffee"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我每天早上喝一杯咖啡。",
+    "en": "I drink a cup of coffee every morning.",
+    "py": "Wǒ měitiān zǎoshang hēyībēi kāfēi."
+   },
+   "src_no": [
+    77
+   ],
+   "source_def": "coffee",
+   "freq": 1405,
+   "priority": 0.5791,
+   "tests_count": null,
+   "id": 154,
+   "rank": 154
+  },
+  {
+   "hanzi": "从小",
+   "pinyin": "cóngxiǎo",
+   "pinyin_spaced": "cóng xiǎo",
+   "pos": "adv.",
+   "english": "from childhood",
+   "accepted": [
+    "from childhood"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他从小就喜欢踢足球。",
+    "en": "He has liked playing football since he was little.",
+    "py": "Tā cóngxiǎo jiù xǐhuan tīzúqiú."
+   },
+   "src_no": [
+    25
+   ],
+   "source_def": "from childhood",
+   "freq": 1259,
+   "priority": 0.5703,
+   "tests_count": null,
+   "id": 155,
+   "rank": 155
+  },
+  {
+   "hanzi": "舒服",
+   "pinyin": "shūfu",
+   "pinyin_spaced": "shū fu",
+   "pos": "adj.",
+   "english": "comfortable",
+   "accepted": [
+    "comfortable"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "shūfú"
+   ],
+   "example": {
+    "zh": "我今天身体不舒服。",
+    "en": "I don't feel well today.",
+    "py": "Wǒ jīntiān shēntǐ bù shūfu."
+   },
+   "src_no": [
+    136
+   ],
+   "source_def": "comfortable",
+   "freq": 1149,
+   "priority": 0.563,
+   "tests_count": null,
+   "id": 156,
+   "rank": 156
+  },
+  {
+   "hanzi": "过年",
+   "pinyin": "guònián",
+   "pinyin_spaced": "guò nián",
+   "pos": "v.",
+   "english": "to celebrate the New Year",
+   "accepted": [
+    "celebrate the new year"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "过年的时候，我们都回家。",
+    "en": "At New Year we all go home.",
+    "py": "Guònián de shíhou, wǒmen dōu huíjiā."
+   },
+   "src_no": [
+    49
+   ],
+   "source_def": "to celebrate the New Year",
+   "freq": 1147,
+   "priority": 0.5629,
+   "tests_count": null,
+   "id": 157,
+   "rank": 157
+  },
+  {
+   "hanzi": "地铁",
+   "pinyin": "dìtiě",
+   "pinyin_spaced": "dì tiě",
+   "pos": "n.",
+   "english": "subway, metro",
+   "accepted": [
+    "subway",
+    "metro"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我每天坐地铁去学校。",
+    "en": "I take the subway to school every day.",
+    "py": "Wǒ měitiān zuò dìtiě qù xuéxiào."
+   },
+   "src_no": [
+    35
+   ],
+   "source_def": "subway, metro",
+   "freq": 1132,
+   "priority": 0.5618,
+   "tests_count": null,
+   "id": 158,
+   "rank": 158
+  },
+  {
+   "hanzi": "生日",
+   "pinyin": "shēngrì",
+   "pinyin_spaced": "shēng rì",
+   "pos": "n.",
+   "english": "birthday",
+   "accepted": [
+    "birthday"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "今天是我的生日。",
+    "en": "Today is my birthday.",
+    "py": "Jīntiān shì wǒ de shēngrì."
+   },
+   "src_no": [
+    130
+   ],
+   "source_def": "birthday",
+   "freq": 1033,
+   "priority": 0.5545,
+   "tests_count": null,
+   "id": 159,
+   "rank": 159
+  },
+  {
+   "hanzi": "帮忙",
+   "pinyin": "bāngmáng",
+   "pinyin_spaced": "bāng máng",
+   "pos": "v.",
+   "english": "to help",
+   "accepted": [
+    "help"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "谢谢你来帮忙！",
+    "en": "Thanks for coming to help!",
+    "py": "Xièxie nǐ lái bāngmáng!"
+   },
+   "src_no": [
+    6
+   ],
+   "source_def": "to help",
+   "freq": 995,
+   "priority": 0.5515,
+   "tests_count": null,
+   "id": 160,
+   "rank": 160
+  },
+  {
+   "hanzi": "游泳",
+   "pinyin": "yóuyǒng",
+   "pinyin_spaced": "yóu yǒng",
+   "pos": "v.",
+   "english": "to swim",
+   "accepted": [
+    "swim"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你会游泳吗？",
+    "en": "Can you swim?",
+    "py": "Nǐ huì yóuyǒng ma?"
+   },
+   "src_no": [
+    178
+   ],
+   "source_def": "to swim",
+   "freq": 969,
+   "priority": 0.5494,
+   "tests_count": null,
+   "id": 161,
+   "rank": 161
+  },
+  {
+   "hanzi": "车站",
+   "pinyin": "chēzhàn",
+   "pinyin_spaced": "chē zhàn",
+   "pos": "n.",
+   "english": "station",
+   "accepted": [
+    "station"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我在车站等你。",
+    "en": "I'll wait for you at the station.",
+    "py": "Wǒ zài chēzhàn děng nǐ."
+   },
+   "src_no": [
+    15
+   ],
+   "source_def": "station",
+   "freq": 950,
+   "priority": 0.5478,
+   "tests_count": null,
+   "id": 162,
+   "rank": 162
+  },
+  {
+   "hanzi": "出国",
+   "pinyin": "chūguó",
+   "pinyin_spaced": "chū guó",
+   "pos": "v.",
+   "english": "to go abroad",
+   "accepted": [
+    "go abroad"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她明年想出国学习。",
+    "en": "She wants to go abroad to study next year.",
+    "py": "Tā míngnián xiǎng chūguó xuéxí."
+   },
+   "src_no": [
+    17
+   ],
+   "source_def": "to go abroad",
+   "freq": 920,
+   "priority": 0.5453,
+   "tests_count": null,
+   "id": 163,
+   "rank": 163
+  },
+  {
+   "hanzi": "晴",
+   "pinyin": "qíng",
+   "pinyin_spaced": "qíng",
+   "pos": "adj.",
+   "english": "sunny, clear",
+   "accepted": [
+    "sunny",
+    "clear"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "明天是晴天。",
+    "en": "Tomorrow will be sunny.",
+    "py": "Míngtiān shì qíng tiān."
+   },
+   "src_no": [
+    120
+   ],
+   "source_def": "sunny, clear",
+   "freq": 916,
+   "priority": 0.5449,
+   "tests_count": null,
+   "id": 164,
+   "rank": 164
+  },
+  {
+   "hanzi": "上网",
+   "pinyin": "shàngwǎng",
+   "pinyin_spaced": "shàng wǎng",
+   "pos": "v.",
+   "english": "to go online, to surf the Internet",
+   "accepted": [
+    "go online",
+    "surf the internet"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我每天晚上上网。",
+    "en": "I go online every evening.",
+    "py": "Wǒ měitiānwǎnshàng shàngwǎng."
+   },
+   "src_no": [
+    128
+   ],
+   "source_def": "to go online, to surf the Internet",
+   "freq": 853,
+   "priority": 0.5392,
+   "tests_count": null,
+   "id": 165,
+   "rank": 165
+  },
+  {
+   "hanzi": "不好意思",
+   "pinyin": "bùhǎoyìsi",
+   "pinyin_spaced": "bù hǎo yì si",
+   "pos": "phr.",
+   "english": "sorry, embarrassed",
+   "accepted": [
+    "sorry",
+    "embarrassed"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "bùhǎoyìsī"
+   ],
+   "example": {
+    "zh": "不好意思，我来晚了。",
+    "en": "Sorry, I'm late.",
+    "py": "Bùhǎoyìsi, wǒ lái wǎn le."
+   },
+   "src_no": [
+    13
+   ],
+   "source_def": "sorry, embarrassed",
+   "freq": 834,
+   "priority": 0.5374,
+   "tests_count": null,
+   "id": 166,
+   "rank": 166
+  },
+  {
+   "hanzi": "走路",
+   "pinyin": "zǒulù",
+   "pinyin_spaced": "zǒu lù",
+   "pos": "v.",
+   "english": "to walk",
+   "accepted": [
+    "walk"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我每天走路去学校。",
+    "en": "I walk to school every day.",
+    "py": "Wǒ měitiān zǒulù qù xuéxiào."
+   },
+   "src_no": [
+    196
+   ],
+   "source_def": "to walk",
+   "freq": 818,
+   "priority": 0.5359,
+   "tests_count": null,
+   "id": 167,
+   "rank": 167
+  },
+  {
+   "hanzi": "爱好",
+   "pinyin": "àihào",
+   "pinyin_spaced": "ài hào",
+   "pos": "v./n.",
+   "english": "to like; hobby",
+   "accepted": [
+    "like",
+    "hobby"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你有什么爱好？",
+    "en": "What hobbies do you have?",
+    "py": "Nǐ yǒu shénme àihào?"
+   },
+   "src_no": [
+    2
+   ],
+   "source_def": "to like; hobby",
+   "freq": 815,
+   "priority": 0.5356,
+   "tests_count": null,
+   "id": 168,
+   "rank": 168
+  },
+  {
+   "hanzi": "左边",
+   "pinyin": "zuǒbian",
+   "pinyin_spaced": "zuǒ bian",
+   "pos": "n.",
+   "english": "left side",
+   "accepted": [
+    "left side"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "zuǒbiān"
+   ],
+   "example": {
+    "zh": "书包在床的左边。",
+    "en": "The schoolbag is to the left of the bed.",
+    "py": "Shūbāo zài chuáng de zuǒbian."
+   },
+   "src_no": [
+    200
+   ],
+   "source_def": "left side",
+   "freq": 759,
+   "priority": 0.5299,
+   "tests_count": null,
+   "id": 169,
+   "rank": 169
+  },
+  {
+   "hanzi": "商场",
+   "pinyin": "shāngchǎng",
+   "pinyin_spaced": "shāng chǎng",
+   "pos": "n.",
+   "english": "shopping mall",
+   "accepted": [
+    "shopping mall"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个商场的东西很贵。",
+    "en": "Things in this mall are expensive.",
+    "py": "Zhège shāngchǎng de dōngxi hěnguì."
+   },
+   "src_no": [
+    124
+   ],
+   "source_def": "shopping mall",
+   "freq": 734,
+   "priority": 0.5272,
+   "tests_count": null,
+   "id": 170,
+   "rank": 170
+  },
+  {
+   "hanzi": "右边",
+   "pinyin": "yòubian",
+   "pinyin_spaced": "yòu bian",
+   "pos": "n.",
+   "english": "right side",
+   "accepted": [
+    "right side"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "yòubiān"
+   ],
+   "example": {
+    "zh": "药店在饭馆的右边。",
+    "en": "The pharmacy is to the right of the restaurant.",
+    "py": "Yàodiàn zài fànguǎn de yòubian."
+   },
+   "src_no": [
+    182
+   ],
+   "source_def": "right side",
+   "freq": 677,
+   "priority": 0.5208,
+   "tests_count": null,
+   "id": 171,
+   "rank": 171
+  },
+  {
+   "hanzi": "教室",
+   "pinyin": "jiàoshì",
+   "pinyin_spaced": "jiào shì",
+   "pos": "n.",
+   "english": "classroom",
+   "accepted": [
+    "classroom"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "学生们都在教室里。",
+    "en": "The students are all in the classroom.",
+    "py": "Xuésheng men dōu zài jiàoshì lǐ."
+   },
+   "src_no": [
+    68
+   ],
+   "source_def": "classroom",
+   "freq": 669,
+   "priority": 0.5198,
+   "tests_count": null,
+   "id": 172,
+   "rank": 172
+  },
+  {
+   "hanzi": "裤子",
+   "pinyin": "kùzi",
+   "pinyin_spaced": "kù zi",
+   "pos": "n.",
+   "english": "pants",
+   "accepted": [
+    "pants"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这条裤子太长了。",
+    "en": "These trousers are too long.",
+    "py": "Zhè tiáo kùzi tài zhǎng le."
+   },
+   "src_no": [
+    83
+   ],
+   "source_def": "pants",
+   "freq": 668,
+   "priority": 0.5197,
+   "tests_count": null,
+   "id": 173,
+   "rank": 173
+  },
+  {
+   "hanzi": "门票",
+   "pinyin": "ménpiào",
+   "pinyin_spaced": "mén piào",
+   "pos": "n.",
+   "english": "ticket",
+   "accepted": [
+    "ticket"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "门票多少钱？",
+    "en": "How much is the entrance ticket?",
+    "py": "Ménpiào duōshǎoqián?"
+   },
+   "src_no": [
+    102
+   ],
+   "source_def": "ticket",
+   "freq": 658,
+   "priority": 0.5185,
+   "tests_count": null,
+   "id": 174,
+   "rank": 174
+  },
+  {
+   "hanzi": "机票",
+   "pinyin": "jīpiào",
+   "pinyin_spaced": "jī piào",
+   "pos": "n.",
+   "english": "airplane ticket",
+   "accepted": [
+    "airplane ticket"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我已经买好机票了。",
+    "en": "I've already bought the plane ticket.",
+    "py": "Wǒ yǐjīng mǎihǎo jīpiào le."
+   },
+   "src_no": [
+    64
+   ],
+   "source_def": "airplane ticket",
+   "freq": 651,
+   "priority": 0.5177,
+   "tests_count": null,
+   "id": 175,
+   "rank": 175
+  },
+  {
+   "hanzi": "篮球",
+   "pinyin": "lánqiú",
+   "pinyin_spaced": "lán qiú",
+   "pos": "n.",
+   "english": "basketball",
+   "accepted": [
+    "basketball"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他们在外面打篮球。",
+    "en": "They're playing basketball outside.",
+    "py": "Tāmen zài wàimian dǎ lánqiú."
+   },
+   "src_no": [
+    87
+   ],
+   "source_def": "basketball",
+   "freq": 639,
+   "priority": 0.5162,
+   "tests_count": null,
+   "id": 176,
+   "rank": 176
+  },
+  {
+   "hanzi": "快要",
+   "pinyin": "kuàiyào",
+   "pinyin_spaced": "kuài yào",
+   "pos": "adv.",
+   "english": "soon, almost",
+   "accepted": [
+    "soon",
+    "almost"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "快要考试了，我很忙。",
+    "en": "The exam is coming soon; I'm very busy.",
+    "py": "Kuàiyào kǎoshì le, wǒ hěn máng."
+   },
+   "src_no": [
+    86
+   ],
+   "source_def": "soon, almost",
+   "freq": 602,
+   "priority": 0.5114,
+   "tests_count": null,
+   "id": 177,
+   "rank": 177
+  },
+  {
+   "hanzi": "小时候",
+   "pinyin": "xiǎoshíhou",
+   "pinyin_spaced": "xiǎo shí hou",
+   "pos": "n.",
+   "english": "childhood",
+   "accepted": [
+    "childhood"
+   ],
+   "alt_readings": [],
+   "py_ok": [
+    "xiǎoshíhòu"
+   ],
+   "example": {
+    "zh": "我小时候住在北京。",
+    "en": "I lived in Beijing when I was little.",
+    "py": "Wǒ xiǎoshíhou zhùzài běijīng."
+   },
+   "src_no": [
+    162
+   ],
+   "source_def": "childhood",
+   "freq": 598,
+   "priority": 0.5109,
+   "tests_count": null,
+   "id": 178,
+   "rank": 178
+  },
+  {
+   "hanzi": "药店",
+   "pinyin": "yàodiàn",
+   "pinyin_spaced": "yào diàn",
+   "pos": "n.",
+   "english": "pharmacy",
+   "accepted": [
+    "pharmacy"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "医院旁边有一个药店。",
+    "en": "There is a pharmacy next to the hospital.",
+    "py": "Yīyuàn pángbiān yǒu yí gè yàodiàn."
+   },
+   "src_no": [
+    169
+   ],
+   "source_def": "pharmacy",
+   "freq": 510,
+   "priority": 0.4982,
+   "tests_count": null,
+   "id": 179,
+   "rank": 179
+  },
+  {
+   "hanzi": "有意思",
+   "pinyin": "yǒuyìsi",
+   "pinyin_spaced": "yǒu yì si",
+   "pos": "phr.",
+   "english": "interesting, enjoyable",
+   "accepted": [
+    "interesting",
+    "enjoyable"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这本书很有意思。",
+    "en": "This book is very interesting.",
+    "py": "Zhè běnshū hěn yǒuyìsi."
+   },
+   "src_no": [
+    179
+   ],
+   "source_def": "interesting, enjoyable",
+   "freq": 453,
+   "priority": 0.4888,
+   "tests_count": null,
+   "id": 180,
+   "rank": 180
+  },
+  {
+   "hanzi": "个子",
+   "pinyin": "gèzi",
+   "pinyin_spaced": "gè zi",
+   "pos": "n.",
+   "english": "height, stature",
+   "accepted": [
+    "height",
+    "stature"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她的个子不高。",
+    "en": "She is not tall.",
+    "py": "Tā de gèzi bù gāo."
+   },
+   "src_no": [
+    44
+   ],
+   "source_def": "height, stature",
+   "freq": 408,
+   "priority": 0.4804,
+   "tests_count": null,
+   "id": 181,
+   "rank": 181
+  },
+  {
+   "hanzi": "女孩儿",
+   "pinyin": "nǚháir",
+   "pinyin_spaced": "nǚ háir",
+   "pos": "n.",
+   "english": "girl",
+   "accepted": [
+    "girl"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "那个女孩儿笑得很漂亮。",
+    "en": "That girl has a pretty smile.",
+    "py": "Nàge nǚháir xiào de hěnpiàoliàng."
+   },
+   "src_no": [
+    112
+   ],
+   "source_def": "girl",
+   "freq": 356,
+   "priority": 0.4696,
+   "tests_count": null,
+   "id": 182,
+   "rank": 182
+  },
+  {
+   "hanzi": "跳舞",
+   "pinyin": "tiàowǔ",
+   "pinyin_spaced": "tiào wǔ",
+   "pos": "v.",
+   "english": "to dance",
+   "accepted": [
+    "dance"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "她很喜欢跳舞。",
+    "en": "She really likes dancing.",
+    "py": "Tā hěn xǐhuan tiàowǔ."
+   },
+   "src_no": [
+    144
+   ],
+   "source_def": "to dance",
+   "freq": 341,
+   "priority": 0.4661,
+   "tests_count": null,
+   "id": 183,
+   "rank": 183
+  },
+  {
+   "hanzi": "手表",
+   "pinyin": "shǒubiǎo",
+   "pinyin_spaced": "shǒu biǎo",
+   "pos": "n.",
+   "english": "watch, wristwatch",
+   "accepted": [
+    "watch",
+    "wristwatch"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个手表是我爸爸送的。",
+    "en": "This watch was a gift from my dad.",
+    "py": "Zhège shǒubiǎo shì wǒ bàba sòng de."
+   },
+   "src_no": [
+    134
+   ],
+   "source_def": "watch, wristwatch",
+   "freq": 329,
+   "priority": 0.4633,
+   "tests_count": null,
+   "id": 184,
+   "rank": 184
+  },
+  {
+   "hanzi": "饭馆",
+   "pinyin": "fànguǎn",
+   "pinyin_spaced": "fàn guǎn",
+   "pos": "n.",
+   "english": "restaurant",
+   "accepted": [
+    "restaurant"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "学校旁边有一个饭馆。",
+    "en": "There is a restaurant next to the school.",
+    "py": "Xuéxiào pángbiān yǒu yí gè fànguǎn."
+   },
+   "src_no": [
+    39
+   ],
+   "source_def": "restaurant",
+   "freq": 246,
+   "priority": 0.4401,
+   "tests_count": null,
+   "id": 185,
+   "rank": 185
+  },
+  {
+   "hanzi": "开学",
+   "pinyin": "kāixué",
+   "pinyin_spaced": "kāi xué",
+   "pos": "v.",
+   "english": "school starts",
+   "accepted": [
+    "school starts"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "下个月就开学了。",
+    "en": "School starts next month.",
+    "py": "Xiàgèyuè jiù kāixué le."
+   },
+   "src_no": [
+    79
+   ],
+   "source_def": "school starts",
+   "freq": 234,
+   "priority": 0.4362,
+   "tests_count": null,
+   "id": 186,
+   "rank": 186
+  },
+  {
+   "hanzi": "本子",
+   "pinyin": "běnzi",
+   "pinyin_spaced": "běn zi",
+   "pos": "n.",
+   "english": "notebook",
+   "accepted": [
+    "notebook"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请把名字写在本子上。",
+    "en": "Please write your name in the notebook.",
+    "py": "Qǐng bǎ míngzi xiě zài běnzi shàng."
+   },
+   "src_no": [
+    8
+   ],
+   "source_def": "notebook",
+   "freq": 224,
+   "priority": 0.4327,
+   "tests_count": null,
+   "id": 187,
+   "rank": 187
+  },
+  {
+   "hanzi": "书包",
+   "pinyin": "shūbāo",
+   "pinyin_spaced": "shū bāo",
+   "pos": "n.",
+   "english": "backpack, schoolbag",
+   "accepted": [
+    "backpack",
+    "schoolbag"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的书包里有很多书。",
+    "en": "There are lots of books in my schoolbag.",
+    "py": "Wǒ de shūbāo lǐ yǒu hěnduō shū."
+   },
+   "src_no": [
+    135
+   ],
+   "source_def": "backpack, schoolbag",
+   "freq": 210,
+   "priority": 0.4275,
+   "tests_count": null,
+   "id": 188,
+   "rank": 188
+  },
+  {
+   "hanzi": "小孩儿",
+   "pinyin": "xiǎoháir",
+   "pinyin_spaced": "xiǎo háir",
+   "pos": "n.",
+   "english": "child, little kid",
+   "accepted": [
+    "child",
+    "little kid"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "那个小孩儿很高兴。",
+    "en": "That little kid is very happy.",
+    "py": "Nàge xiǎoháir hěn gāoxìng."
+   },
+   "src_no": [
+    161
+   ],
+   "source_def": "child, little kid",
+   "freq": 186,
+   "priority": 0.4179,
+   "tests_count": null,
+   "id": 189,
+   "rank": 189
+  },
+  {
+   "hanzi": "跑步",
+   "pinyin": "pǎobù",
+   "pinyin_spaced": "pǎo bù",
+   "pos": "v.",
+   "english": "to run, jogging",
+   "accepted": [
+    "run",
+    "jogging"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我每天早上去跑步。",
+    "en": "I go running every morning.",
+    "py": "Wǒ měitiān zǎoshang qù pǎobù."
+   },
+   "src_no": [
+    115
+   ],
+   "source_def": "to run, jogging",
+   "freq": 169,
+   "priority": 0.4103,
+   "tests_count": null,
+   "id": 190,
+   "rank": 190
+  },
+  {
+   "hanzi": "公交车",
+   "pinyin": "gōngjiāochē",
+   "pinyin_spaced": "gōng jiāo chē",
+   "pos": "n.",
+   "english": "bus",
+   "accepted": [
+    "bus"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们坐公交车去吧。",
+    "en": "Let's go by bus.",
+    "py": "Wǒmen zuò gōngjiāochē qù ba."
+   },
+   "src_no": [
+    46
+   ],
+   "source_def": "bus",
+   "freq": 155,
+   "priority": 0.4034,
+   "tests_count": null,
+   "id": 191,
+   "rank": 191
+  },
+  {
+   "hanzi": "绿茶",
+   "pinyin": "lǜchá",
+   "pinyin_spaced": "lǜ chá",
+   "pos": "n.",
+   "english": "green tea",
+   "accepted": [
+    "green tea"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "中国人很喜欢喝绿茶。",
+    "en": "Chinese people really like green tea.",
+    "py": "Zhōngguórén hěn xǐhuan hē lǜchá."
+   },
+   "src_no": [
+    95
+   ],
+   "source_def": "green tea",
+   "freq": 144,
+   "priority": 0.3976,
+   "tests_count": null,
+   "id": 192,
+   "rank": 192
+  },
+  {
+   "hanzi": "没意思",
+   "pinyin": "méiyìsi",
+   "pinyin_spaced": "méi yì si",
+   "pos": "phr.",
+   "english": "boring, uninteresting",
+   "accepted": [
+    "boring",
+    "uninteresting"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这个电影没意思。",
+    "en": "This film is boring.",
+    "py": "Zhège diànyǐng méiyìsi."
+   },
+   "src_no": [
+    98
+   ],
+   "source_def": "boring, uninteresting",
+   "freq": 127,
+   "priority": 0.3876,
+   "tests_count": null,
+   "id": 193,
+   "rank": 193
+  },
+  {
+   "hanzi": "红茶",
+   "pinyin": "hóngchá",
+   "pinyin_spaced": "hóng chá",
+   "pos": "n.",
+   "english": "black tea",
+   "accepted": [
+    "black tea"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我早上喜欢喝红茶。",
+    "en": "I like drinking black tea in the morning.",
+    "py": "Wǒ zǎoshang xǐhuan hē hóngchá."
+   },
+   "src_no": [
+    54
+   ],
+   "source_def": "black tea",
+   "freq": 123,
+   "priority": 0.3851,
+   "tests_count": null,
+   "id": 194,
+   "rank": 194
+  },
+  {
+   "hanzi": "洗手间",
+   "pinyin": "xǐshǒujiān",
+   "pinyin_spaced": "xǐ shǒu jiān",
+   "pos": "n.",
+   "english": "restroom, toilet",
+   "accepted": [
+    "restroom",
+    "toilet"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请问，洗手间在哪儿？",
+    "en": "Excuse me, where is the restroom?",
+    "py": "Qǐngwèn, xǐshǒujiān zài nǎr?"
+   },
+   "src_no": [
+    157
+   ],
+   "source_def": "restroom, toilet",
+   "freq": 110,
+   "priority": 0.3762,
+   "tests_count": null,
+   "id": 195,
+   "rank": 195
+  },
+  {
+   "hanzi": "奶茶",
+   "pinyin": "nǎichá",
+   "pinyin_spaced": "nǎi chá",
+   "pos": "n.",
+   "english": "milk tea",
+   "accepted": [
+    "milk tea"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我想喝一杯奶茶。",
+    "en": "I'd like a cup of milk tea.",
+    "py": "Wǒ xiǎng hēyībēi nǎichá."
+   },
+   "src_no": [
+    108
+   ],
+   "source_def": "milk tea",
+   "freq": 93,
+   "priority": 0.363,
+   "tests_count": null,
+   "id": 196,
+   "rank": 196
+  },
+  {
+   "hanzi": "打车",
+   "pinyin": "dǎchē",
+   "pinyin_spaced": "dǎ chē",
+   "pos": "v.",
+   "english": "to take a taxi",
+   "accepted": [
+    "take a taxi"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "太晚了，我们打车回家吧。",
+    "en": "It's too late — let's take a taxi home.",
+    "py": "Tàiwǎn le, wǒmen dǎchē huíjiāba."
+   },
+   "src_no": [
+    28
+   ],
+   "source_def": "to take a taxi",
+   "freq": 66,
+   "priority": 0.3359,
+   "tests_count": null,
+   "id": 197,
+   "rank": 197
+  },
+  {
+   "hanzi": "男孩儿",
+   "pinyin": "nánháir",
+   "pinyin_spaced": "nán háir",
+   "pos": "n.",
+   "english": "boy",
+   "accepted": [
+    "boy"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "那个男孩儿是我弟弟。",
+    "en": "That boy is my younger brother.",
+    "py": "Nàge nánháir shì wǒ dìdi."
+   },
+   "src_no": [
+    110
+   ],
+   "source_def": "boy",
+   "freq": 35,
+   "priority": 0.2863,
+   "tests_count": null,
+   "id": 198,
+   "rank": 198
+  }
+ ],
+ "chars": [
+  {
+   "char": "来",
+   "pinyin": [
+    "lái"
+   ],
+   "meaning": "to come; to arrive; to come round",
+   "components": [
+    "木",
+    "一",
+    "丷"
+   ],
+   "words": [
+    "起来",
+    "出来",
+    "下来",
+    "回来",
+    "过来",
+    "进来",
+    "上来"
+   ],
+   "word_count": 7,
+   "freq_rank": 15,
+   "new": false,
+   "score": 0.8824,
+   "rank": 1
+  },
+  {
+   "char": "上",
+   "pinyin": [
+    "shàng"
+   ],
+   "meaning": "on top; upon; above",
+   "components": [
+    "⺊",
+    "一"
+   ],
+   "words": [
+    "上面",
+    "上来",
+    "上去",
+    "路上",
+    "网上",
+    "上网"
+   ],
+   "word_count": 6,
+   "freq_rank": 16,
+   "new": false,
+   "score": 0.8411,
+   "rank": 2
+  },
+  {
+   "char": "面",
+   "pinyin": [
+    "miàn"
+   ],
+   "meaning": "face; side; surface",
+   "components": [
+    "面"
+   ],
+   "words": [
+    "面",
+    "里面",
+    "前面",
+    "上面",
+    "后面",
+    "外面",
+    "下面"
+   ],
+   "word_count": 7,
+   "freq_rank": 74,
+   "new": false,
+   "score": 0.8131,
+   "rank": 3
+  },
+  {
+   "char": "去",
+   "pinyin": [
+    "qù"
+   ],
+   "meaning": "to go; to go to (a place); (of a time etc) last",
+   "components": [
+    "土",
+    "厶"
+   ],
+   "words": [
+    "过去",
+    "下去",
+    "出去",
+    "回去",
+    "进去",
+    "上去"
+   ],
+   "word_count": 6,
+   "freq_rank": 64,
+   "new": false,
+   "score": 0.7809,
+   "rank": 4
+  },
+  {
+   "char": "出",
+   "pinyin": [
+    "chū"
+   ],
+   "meaning": "to go out; to come out; to occur",
+   "components": [
+    "出"
+   ],
+   "words": [
+    "出",
+    "出来",
+    "出去",
+    "出门",
+    "出国"
+   ],
+   "word_count": 5,
+   "freq_rank": 28,
+   "new": false,
+   "score": 0.7723,
+   "rank": 5
+  },
+  {
+   "char": "子",
+   "pinyin": [
+    "zi"
+   ],
+   "meaning": "(noun suffix)",
+   "components": [
+    "子"
+   ],
+   "words": [
+    "妻子",
+    "裤子",
+    "个子",
+    "本子"
+   ],
+   "word_count": 4,
+   "freq_rank": 37,
+   "new": false,
+   "score": 0.7076,
+   "rank": 6
+  },
+  {
+   "char": "过",
+   "pinyin": [
+    "guò"
+   ],
+   "meaning": "to cross; to go over; to pass (time)",
+   "components": [
+    "辶",
+    "寸"
+   ],
+   "words": [
+    "过",
+    "过去",
+    "过来",
+    "过年"
+   ],
+   "word_count": 4,
+   "freq_rank": 46,
+   "new": true,
+   "score": 0.6981,
+   "rank": 7
+  },
+  {
+   "char": "一",
+   "pinyin": [
+    "yī",
+    "yì",
+    "yí"
+   ],
+   "meaning": "one; 1; single",
+   "components": [
+    "一"
+   ],
+   "words": [
+    "一起",
+    "一会儿"
+   ],
+   "word_count": 2,
+   "freq_rank": 2,
+   "new": false,
+   "score": 0.6869,
+   "rank": 8
+  },
+  {
+   "char": "是",
+   "pinyin": [
+    "shì"
+   ],
+   "meaning": "is; are; am",
+   "components": [
+    "日",
+    "一",
+    "龰"
+   ],
+   "words": [
+    "但是",
+    "还是"
+   ],
+   "word_count": 2,
+   "freq_rank": 3,
+   "new": false,
+   "score": 0.6693,
+   "rank": 9
+  },
+  {
+   "char": "色",
+   "pinyin": [
+    "sè"
+   ],
+   "meaning": "color; look; appearance",
+   "components": [
+    "色"
+   ],
+   "words": [
+    "红色",
+    "颜色",
+    "绿色",
+    "白色",
+    "黑色"
+   ],
+   "word_count": 5,
+   "freq_rank": 304,
+   "new": true,
+   "score": 0.6687,
+   "rank": 10
+  },
+  {
+   "char": "意",
+   "pinyin": [
+    "yì"
+   ],
+   "meaning": "idea; meaning; thought",
+   "components": [
+    "音",
+    "心"
+   ],
+   "words": [
+    "意思",
+    "不好意思",
+    "有意思",
+    "没意思"
+   ],
+   "word_count": 4,
+   "freq_rank": 104,
+   "new": true,
+   "score": 0.6627,
+   "rank": 11
+  },
+  {
+   "char": "时",
+   "pinyin": [
+    "shí"
+   ],
+   "meaning": "o'clock; time; when",
+   "components": [
+    "日",
+    "寸"
+   ],
+   "words": [
+    "时",
+    "有时",
+    "小时候"
+   ],
+   "word_count": 3,
+   "freq_rank": 25,
+   "new": false,
+   "score": 0.6602,
+   "rank": 12
+  },
+  {
+   "char": "不",
+   "pinyin": [
+    "bù",
+    "bú"
+   ],
+   "meaning": "(negative prefix); not; no",
+   "components": [
+    "一",
+    "丿",
+    "卜"
+   ],
+   "words": [
+    "不错",
+    "不好意思"
+   ],
+   "word_count": 2,
+   "freq_rank": 4,
+   "new": false,
+   "score": 0.6568,
+   "rank": 13
+  },
+  {
+   "char": "下",
+   "pinyin": [
+    "xià"
+   ],
+   "meaning": "down; downwards; below",
+   "components": [
+    "一",
+    "卜"
+   ],
+   "words": [
+    "下来",
+    "下去",
+    "下面"
+   ],
+   "word_count": 3,
+   "freq_rank": 42,
+   "new": false,
+   "score": 0.6377,
+   "rank": 14
+  },
+  {
+   "char": "门",
+   "pinyin": [
+    "mén"
+   ],
+   "meaning": "gate; door; gateway",
+   "components": [
+    "门"
+   ],
+   "words": [
+    "门",
+    "门口",
+    "出门",
+    "门票"
+   ],
+   "word_count": 4,
+   "freq_rank": 185,
+   "new": true,
+   "score": 0.6377,
+   "rank": 15
+  },
+  {
+   "char": "儿",
+   "pinyin": [
+    "ér"
+   ],
+   "meaning": "child; son",
+   "components": [
+    "儿"
+   ],
+   "words": [
+    "一会儿",
+    "女孩儿",
+    "小孩儿",
+    "男孩儿"
+   ],
+   "word_count": 4,
+   "freq_rank": 192,
+   "new": false,
+   "score": 0.6361,
+   "rank": 16
+  },
+  {
+   "char": "有",
+   "pinyin": [
+    "yǒu"
+   ],
+   "meaning": "to have; there is; there are",
+   "components": [
+    "𠂇",
+    "月"
+   ],
+   "words": [
+    "有时",
+    "有意思"
+   ],
+   "word_count": 2,
+   "freq_rank": 8,
+   "new": false,
+   "score": 0.6267,
+   "rank": 17
+  },
+  {
+   "char": "么",
+   "pinyin": [
+    "me"
+   ],
+   "meaning": "suffix, used to form interrogative 什麼|什么[shen2 me5], what?, indefinite 這麼|这么[zhe4 me5] thu",
+   "components": [
+    "丿",
+    "厶"
+   ],
+   "words": [
+    "那么",
+    "这么",
+    "为什么"
+   ],
+   "word_count": 3,
+   "freq_rank": 63,
+   "new": false,
+   "score": 0.6201,
+   "rank": 18
+  },
+  {
+   "char": "思",
+   "pinyin": [
+    "si"
+   ],
+   "meaning": "to think; to consider",
+   "components": [
+    "田",
+    "心"
+   ],
+   "words": [
+    "意思",
+    "不好意思",
+    "有意思",
+    "没意思"
+   ],
+   "word_count": 4,
+   "freq_rank": 298,
+   "new": true,
+   "score": 0.617,
+   "rank": 19
+  },
+  {
+   "char": "这",
+   "pinyin": [
+    "zhè"
+   ],
+   "meaning": "this; these; (commonly pr. [zhei4] before a classifier, esp. in Beijing)",
+   "components": [
+    "辶",
+    "文"
+   ],
+   "words": [
+    "这样",
+    "这么"
+   ],
+   "word_count": 2,
+   "freq_rank": 11,
+   "new": false,
+   "score": 0.6129,
+   "rank": 20
+  },
+  {
+   "char": "进",
+   "pinyin": [
+    "jìn"
+   ],
+   "meaning": "to go forward; to advance; to go in",
+   "components": [
+    "辶",
+    "二"
+   ],
+   "words": [
+    "进",
+    "进来",
+    "进去"
+   ],
+   "word_count": 3,
+   "freq_rank": 81,
+   "new": true,
+   "score": 0.6091,
+   "rank": 21
+  },
+  {
+   "char": "小",
+   "pinyin": [
+    "xiǎo"
+   ],
+   "meaning": "small; tiny; few",
+   "components": [
+    "小"
+   ],
+   "words": [
+    "从小",
+    "小时候",
+    "小孩儿"
+   ],
+   "word_count": 3,
+   "freq_rank": 83,
+   "new": false,
+   "score": 0.6081,
+   "rank": 22
+  },
+  {
+   "char": "开",
+   "pinyin": [
+    "kāi"
+   ],
+   "meaning": "to open; to start; to turn on",
+   "components": [
+    "一",
+    "廾"
+   ],
+   "words": [
+    "开始",
+    "打开",
+    "开学"
+   ],
+   "word_count": 3,
+   "freq_rank": 94,
+   "new": false,
+   "score": 0.6027,
+   "rank": 23
+  },
+  {
+   "char": "为",
+   "pinyin": [
+    "wèi"
+   ],
+   "meaning": "because of; for; to",
+   "components": [
+    "力",
+    "⺀"
+   ],
+   "words": [
+    "因为",
+    "为什么"
+   ],
+   "word_count": 2,
+   "freq_rank": 18,
+   "new": true,
+   "score": 0.5915,
+   "rank": 24
+  },
+  {
+   "char": "国",
+   "pinyin": [
+    "guó"
+   ],
+   "meaning": "country; nation; state",
+   "components": [
+    "囗",
+    "玉"
+   ],
+   "words": [
+    "外国",
+    "出国"
+   ],
+   "word_count": 2,
+   "freq_rank": 20,
+   "new": false,
+   "score": 0.5869,
+   "rank": 25
+  },
+  {
+   "char": "地",
+   "pinyin": [
+    "de",
+    "dì"
+   ],
+   "meaning": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifyi",
+   "components": [
+    "土",
+    "乚",
+    "㇆",
+    "丨"
+   ],
+   "words": [
+    "地",
+    "地铁"
+   ],
+   "word_count": 2,
+   "freq_rank": 21,
+   "new": true,
+   "score": 0.5848,
+   "rank": 26
+  },
+  {
+   "char": "手",
+   "pinyin": [
+    "shǒu"
+   ],
+   "meaning": "hand; (formal) to hold; person engaged in certain types of work",
+   "components": [
+    "手"
+   ],
+   "words": [
+    "手",
+    "手表",
+    "洗手间"
+   ],
+   "word_count": 3,
+   "freq_rank": 143,
+   "new": true,
+   "score": 0.5845,
+   "rank": 27
+  },
+  {
+   "char": "打",
+   "pinyin": [
+    "dǎ"
+   ],
+   "meaning": "to beat; to strike; to hit",
+   "components": [
+    "扌",
+    "一",
+    "亅"
+   ],
+   "words": [
+    "打",
+    "打开",
+    "打车"
+   ],
+   "word_count": 3,
+   "freq_rank": 223,
+   "new": false,
+   "score": 0.5652,
+   "rank": 28
+  },
+  {
+   "char": "那",
+   "pinyin": [
+    "nà"
+   ],
+   "meaning": "that; those; then (in that case)",
+   "components": [
+    "㇆",
+    "二",
+    "丨",
+    "阝"
+   ],
+   "words": [
+    "那么",
+    "那样"
+   ],
+   "word_count": 2,
+   "freq_rank": 38,
+   "new": false,
+   "score": 0.559,
+   "rank": 29
+  },
+  {
+   "char": "得",
+   "pinyin": [
+    "de"
+   ],
+   "meaning": "structural particle: used after a verb (or adjective as main verb), linking it to followin",
+   "components": [
+    "彳",
+    "日",
+    "一",
+    "寸"
+   ],
+   "words": [
+    "得",
+    "记得"
+   ],
+   "word_count": 2,
+   "freq_rank": 39,
+   "new": true,
+   "score": 0.5579,
+   "rank": 30
+  },
+  {
+   "char": "路",
+   "pinyin": [
+    "lù"
+   ],
+   "meaning": "road; journey; route",
+   "components": [
+    "⻊",
+    "夂",
+    "口"
+   ],
+   "words": [
+    "路",
+    "路上",
+    "走路"
+   ],
+   "word_count": 3,
+   "freq_rank": 305,
+   "new": true,
+   "score": 0.5516,
+   "rank": 31
+  },
+  {
+   "char": "边",
+   "pinyin": [
+    "biān"
+   ],
+   "meaning": "side; edge; margin",
+   "components": [
+    "辶",
+    "力"
+   ],
+   "words": [
+    "旁边",
+    "左边",
+    "右边"
+   ],
+   "word_count": 3,
+   "freq_rank": 316,
+   "new": true,
+   "score": 0.55,
+   "rank": 32
+  },
+  {
+   "char": "车",
+   "pinyin": [
+    "chē"
+   ],
+   "meaning": "car; vehicle; machine",
+   "components": [
+    "车"
+   ],
+   "words": [
+    "车站",
+    "公交车",
+    "打车"
+   ],
+   "word_count": 3,
+   "freq_rank": 361,
+   "new": false,
+   "score": 0.5442,
+   "rank": 33
+  },
+  {
+   "char": "快",
+   "pinyin": [
+    "kuài"
+   ],
+   "meaning": "rapid; quick; speed",
+   "components": [
+    "忄",
+    "丨",
+    "人"
+   ],
+   "words": [
+    "快",
+    "快乐",
+    "快要"
+   ],
+   "word_count": 3,
+   "freq_rank": 366,
+   "new": true,
+   "score": 0.5436,
+   "rank": 34
+  },
+  {
+   "char": "经",
+   "pinyin": [
+    "jīng"
+   ],
+   "meaning": "classics; sacred book; scripture",
+   "components": [
+    "纟",
+    "龴",
+    "工"
+   ],
+   "words": [
+    "已经",
+    "经常"
+   ],
+   "word_count": 2,
+   "freq_rank": 62,
+   "new": true,
+   "score": 0.5378,
+   "rank": 35
+  },
+  {
+   "char": "动",
+   "pinyin": [
+    "dòng"
+   ],
+   "meaning": "(of sth) to move; to set in movement; to displace",
+   "components": [
+    "二",
+    "厶",
+    "力"
+   ],
+   "words": [
+    "运动",
+    "动"
+   ],
+   "word_count": 2,
+   "freq_rank": 73,
+   "new": true,
+   "score": 0.5307,
+   "rank": 36
+  },
+  {
+   "char": "起",
+   "pinyin": [
+    "qǐ"
+   ],
+   "meaning": "to rise; to raise; to get up",
+   "components": [
+    "走",
+    "己"
+   ],
+   "words": [
+    "起来",
+    "一起"
+   ],
+   "word_count": 2,
+   "freq_rank": 75,
+   "new": false,
+   "score": 0.5295,
+   "rank": 37
+  },
+  {
+   "char": "孩",
+   "pinyin": [
+    "hái"
+   ],
+   "meaning": "child",
+   "components": [
+    "子",
+    "亠",
+    "丨",
+    "㇙",
+    "人"
+   ],
+   "words": [
+    "女孩儿",
+    "小孩儿",
+    "男孩儿"
+   ],
+   "word_count": 3,
+   "freq_rank": 533,
+   "new": true,
+   "score": 0.5273,
+   "rank": 38
+  },
+  {
+   "char": "好",
+   "pinyin": [
+    "hǎo",
+    "hào"
+   ],
+   "meaning": "good; well; proper",
+   "components": [
+    "女",
+    "子"
+   ],
+   "words": [
+    "不好意思",
+    "爱好"
+   ],
+   "word_count": 2,
+   "freq_rank": 82,
+   "new": false,
+   "score": 0.5256,
+   "rank": 39
+  },
+  {
+   "char": "样",
+   "pinyin": [
+    "yàng"
+   ],
+   "meaning": "manner; pattern; way",
+   "components": [
+    "木",
+    "羊"
+   ],
+   "words": [
+    "这样",
+    "那样"
+   ],
+   "word_count": 2,
+   "freq_rank": 88,
+   "new": false,
+   "score": 0.5225,
+   "rank": 40
+  },
+  {
+   "char": "球",
+   "pinyin": [
+    "qiú"
+   ],
+   "meaning": "ball; sphere; globe",
+   "components": [
+    "王",
+    "𠂇",
+    "丶",
+    "氺"
+   ],
+   "words": [
+    "球",
+    "足球",
+    "篮球"
+   ],
+   "word_count": 3,
+   "freq_rank": 627,
+   "new": true,
+   "score": 0.5203,
+   "rank": 41
+  },
+  {
+   "char": "但",
+   "pinyin": [
+    "dàn"
+   ],
+   "meaning": "but; yet; however",
+   "components": [
+    "亻",
+    "日",
+    "一"
+   ],
+   "words": [
+    "但",
+    "但是"
+   ],
+   "word_count": 2,
+   "freq_rank": 95,
+   "new": true,
+   "score": 0.5192,
+   "rank": 42
+  },
+  {
+   "char": "从",
+   "pinyin": [
+    "cóng"
+   ],
+   "meaning": "from; through; via",
+   "components": [
+    "从"
+   ],
+   "words": [
+    "从",
+    "从小"
+   ],
+   "word_count": 2,
+   "freq_rank": 98,
+   "new": true,
+   "score": 0.5179,
+   "rank": 43
+  },
+  {
+   "char": "游",
+   "pinyin": [
+    "yóu"
+   ],
+   "meaning": "to walk; to tour; to roam",
+   "components": [
+    "氵",
+    "方",
+    "丿",
+    "一",
+    "子"
+   ],
+   "words": [
+    "旅游",
+    "游",
+    "游泳"
+   ],
+   "word_count": 3,
+   "freq_rank": 694,
+   "new": true,
+   "score": 0.5159,
+   "rank": 44
+  },
+  {
+   "char": "机",
+   "pinyin": [
+    "jī"
+   ],
+   "meaning": "machine; engine; opportunity",
+   "components": [
+    "木",
+    "几"
+   ],
+   "words": [
+    "机场",
+    "机票"
+   ],
+   "word_count": 2,
+   "freq_rank": 111,
+   "new": false,
+   "score": 0.5125,
+   "rank": 45
+  },
+  {
+   "char": "外",
+   "pinyin": [
+    "wài"
+   ],
+   "meaning": "outside; in addition; foreign",
+   "components": [
+    "夕",
+    "卜"
+   ],
+   "words": [
+    "外国",
+    "外面"
+   ],
+   "word_count": 2,
+   "freq_rank": 131,
+   "new": true,
+   "score": 0.5053,
+   "rank": 46
+  },
+  {
+   "char": "高",
+   "pinyin": [
+    "gāo"
+   ],
+   "meaning": "high; tall; above average",
+   "components": [
+    "高"
+   ],
+   "words": [
+    "高",
+    "高中"
+   ],
+   "word_count": 2,
+   "freq_rank": 134,
+   "new": false,
+   "score": 0.5043,
+   "rank": 47
+  },
+  {
+   "char": "票",
+   "pinyin": [
+    "piào"
+   ],
+   "meaning": "ticket; ballot; banknote",
+   "components": [
+    "覀",
+    "示"
+   ],
+   "words": [
+    "票",
+    "门票",
+    "机票"
+   ],
+   "word_count": 3,
+   "freq_rank": 908,
+   "new": true,
+   "score": 0.5042,
+   "rank": 48
+  },
+  {
+   "char": "间",
+   "pinyin": [
+    "jiān"
+   ],
+   "meaning": "between; among; within a definite time or space",
+   "components": [
+    "门",
+    "日"
+   ],
+   "words": [
+    "间",
+    "洗手间"
+   ],
+   "word_count": 2,
+   "freq_rank": 135,
+   "new": true,
+   "score": 0.504,
+   "rank": 49
+  },
+  {
+   "char": "回",
+   "pinyin": [
+    "huí"
+   ],
+   "meaning": "to circle; to go back; to turn around",
+   "components": [
+    "回"
+   ],
+   "words": [
+    "回来",
+    "回去"
+   ],
+   "word_count": 2,
+   "freq_rank": 172,
+   "new": false,
+   "score": 0.4934,
+   "rank": 50
+  },
+  {
+   "char": "个",
+   "pinyin": [
+    "gè"
+   ],
+   "meaning": "individual; this; that",
+   "components": [
+    "人",
+    "丨"
+   ],
+   "words": [
+    "个子"
+   ],
+   "word_count": 1,
+   "freq_rank": 12,
+   "new": false,
+   "score": 0.4921,
+   "rank": 51
+  },
+  {
+   "char": "茶",
+   "pinyin": [
+    "chá"
+   ],
+   "meaning": "tea; tea plant",
+   "components": [
+    "艹",
+    "人",
+    "十",
+    "小"
+   ],
+   "words": [
+    "绿茶",
+    "红茶",
+    "奶茶"
+   ],
+   "word_count": 3,
+   "freq_rank": 1270,
+   "new": false,
+   "score": 0.4896,
+   "rank": 52
+  },
+  {
+   "char": "教",
+   "pinyin": [
+    "jiāo",
+    "jiào"
+   ],
+   "meaning": "to teach",
+   "components": [
+    "耂",
+    "子",
+    "⺙"
+   ],
+   "words": [
+    "教",
+    "教室"
+   ],
+   "word_count": 2,
+   "freq_rank": 191,
+   "new": true,
+   "score": 0.4889,
+   "rank": 53
+  },
+  {
+   "char": "名",
+   "pinyin": [
+    "míng"
+   ],
+   "meaning": "name; noun (part of speech); place (e.g. among winners)",
+   "components": [
+    "夕",
+    "口"
+   ],
+   "words": [
+    "名",
+    "姓名"
+   ],
+   "word_count": 2,
+   "freq_rank": 203,
+   "new": false,
+   "score": 0.4862,
+   "rank": 54
+  },
+  {
+   "char": "中",
+   "pinyin": [
+    "zhōng"
+   ],
+   "meaning": "within; among; in",
+   "components": [
+    "口",
+    "丨"
+   ],
+   "words": [
+    "高中"
+   ],
+   "word_count": 1,
+   "freq_rank": 14,
+   "new": false,
+   "score": 0.4854,
+   "rank": 55
+  },
+  {
+   "char": "走",
+   "pinyin": [
+    "zǒu"
+   ],
+   "meaning": "to walk; to go; to run",
+   "components": [
+    "走"
+   ],
+   "words": [
+    "走",
+    "走路"
+   ],
+   "word_count": 2,
+   "freq_rank": 207,
+   "new": true,
+   "score": 0.4854,
+   "rank": 56
+  },
+  {
+   "char": "场",
+   "pinyin": [
+    "chǎng"
+   ],
+   "meaning": "large place used for a specific purpose; stage; scene (of a play)",
+   "components": [
+    "土",
+    "㇎"
+   ],
+   "words": [
+    "机场",
+    "商场"
+   ],
+   "word_count": 2,
+   "freq_rank": 249,
+   "new": true,
+   "score": 0.4774,
+   "rank": 57
+  },
+  {
+   "char": "以",
+   "pinyin": [
+    "yǐ"
+   ],
+   "meaning": "to use; by means of; according to",
+   "components": [
+    "乚",
+    "丶",
+    "人"
+   ],
+   "words": [
+    "所以"
+   ],
+   "word_count": 1,
+   "freq_rank": 23,
+   "new": true,
+   "score": 0.4638,
+   "rank": 58
+  },
+  {
+   "char": "要",
+   "pinyin": [
+    "yào"
+   ],
+   "meaning": "important; vital; to want",
+   "components": [
+    "覀",
+    "女"
+   ],
+   "words": [
+    "快要"
+   ],
+   "word_count": 1,
+   "freq_rank": 26,
+   "new": true,
+   "score": 0.4585,
+   "rank": 59
+  },
+  {
+   "char": "就",
+   "pinyin": [
+    "jiù"
+   ],
+   "meaning": "at once; right away; only",
+   "components": [
+    "亠",
+    "口",
+    "小",
+    "尢",
+    "丶"
+   ],
+   "words": [
+    "就"
+   ],
+   "word_count": 1,
+   "freq_rank": 27,
+   "new": true,
+   "score": 0.4569,
+   "rank": 60
+  },
+  {
+   "char": "会",
+   "pinyin": [
+    "huì"
+   ],
+   "meaning": "can (i.e. have the skill, know how to); likely to; sure to",
+   "components": [
+    "人",
+    "二",
+    "厶"
+   ],
+   "words": [
+    "一会儿"
+   ],
+   "word_count": 1,
+   "freq_rank": 29,
+   "new": false,
+   "score": 0.4538,
+   "rank": 61
+  },
+  {
+   "char": "可",
+   "pinyin": [
+    "kě"
+   ],
+   "meaning": "can; may; able to",
+   "components": [
+    "一",
+    "亅",
+    "口"
+   ],
+   "words": [
+    "可能"
+   ],
+   "word_count": 1,
+   "freq_rank": 30,
+   "new": true,
+   "score": 0.4523,
+   "rank": 62
+  },
+  {
+   "char": "包",
+   "pinyin": [
+    "bāo"
+   ],
+   "meaning": "to cover; to wrap; to hold",
+   "components": [
+    "勹",
+    "巳"
+   ],
+   "words": [
+    "包",
+    "书包"
+   ],
+   "word_count": 2,
+   "freq_rank": 454,
+   "new": true,
+   "score": 0.4513,
+   "rank": 63
+  },
+  {
+   "char": "考",
+   "pinyin": [
+    "kǎo"
+   ],
+   "meaning": "to check; to verify; to test",
+   "components": [
+    "耂",
+    "一",
+    "㇉"
+   ],
+   "words": [
+    "考试",
+    "考"
+   ],
+   "word_count": 2,
+   "freq_rank": 495,
+   "new": true,
+   "score": 0.4475,
+   "rank": 64
+  },
+  {
+   "char": "生",
+   "pinyin": [
+    "shēng"
+   ],
+   "meaning": "to be born; to give birth; life",
+   "components": [
+    "生"
+   ],
+   "words": [
+    "生日"
+   ],
+   "word_count": 1,
+   "freq_rank": 34,
+   "new": false,
+   "score": 0.4469,
+   "rank": 65
+  },
+  {
+   "char": "红",
+   "pinyin": [
+    "hóng"
+   ],
+   "meaning": "red; popular; revolutionary",
+   "components": [
+    "纟",
+    "工"
+   ],
+   "words": [
+    "红色",
+    "红茶"
+   ],
+   "word_count": 2,
+   "freq_rank": 502,
+   "new": true,
+   "score": 0.4469,
+   "rank": 66
+  },
+  {
+   "char": "能",
+   "pinyin": [
+    "néng"
+   ],
+   "meaning": "can; to be able to; might possibly",
+   "components": [
+    "厶",
+    "月"
+   ],
+   "words": [
+    "可能"
+   ],
+   "word_count": 1,
+   "freq_rank": 35,
+   "new": false,
+   "score": 0.4456,
+   "rank": 67
+  },
+  {
+   "char": "站",
+   "pinyin": [
+    "zhàn"
+   ],
+   "meaning": "station; to stand; to halt",
+   "components": [
+    "立",
+    "⺊",
+    "口"
+   ],
+   "words": [
+    "站",
+    "车站"
+   ],
+   "word_count": 2,
+   "freq_rank": 544,
+   "new": true,
+   "score": 0.4434,
+   "rank": 68
+  },
+  {
+   "char": "网",
+   "pinyin": [
+    "wǎng"
+   ],
+   "meaning": "net; network",
+   "components": [
+    "网"
+   ],
+   "words": [
+    "网上",
+    "上网"
+   ],
+   "word_count": 2,
+   "freq_rank": 605,
+   "new": true,
+   "score": 0.4388,
+   "rank": 69
+  },
+  {
+   "char": "着",
+   "pinyin": [
+    "zhe"
+   ],
+   "meaning": "aspect particle indicating action in progress",
+   "components": [
+    "羊",
+    "目"
+   ],
+   "words": [
+    "着"
+   ],
+   "word_count": 1,
+   "freq_rank": 41,
+   "new": true,
+   "score": 0.4387,
+   "rank": 70
+  },
+  {
+   "char": "自",
+   "pinyin": [
+    "zì"
+   ],
+   "meaning": "self; oneself; from",
+   "components": [
+    "自"
+   ],
+   "words": [
+    "自己"
+   ],
+   "word_count": 1,
+   "freq_rank": 43,
+   "new": true,
+   "score": 0.4367,
+   "rank": 71
+  },
+  {
+   "char": "错",
+   "pinyin": [
+    "cuò"
+   ],
+   "meaning": "mistake; wrong; bad",
+   "components": [
+    "钅",
+    "艹",
+    "一",
+    "日"
+   ],
+   "words": [
+    "错",
+    "不错"
+   ],
+   "word_count": 2,
+   "freq_rank": 637,
+   "new": true,
+   "score": 0.4366,
+   "rank": 72
+  },
+  {
+   "char": "药",
+   "pinyin": [
+    "yào"
+   ],
+   "meaning": "medicine; drug; substance used for a specific purpose (e.g. poisoning, explosion, fermenti",
+   "components": [
+    "艹",
+    "纟",
+    "勹",
+    "丶"
+   ],
+   "words": [
+    "药",
+    "药店"
+   ],
+   "word_count": 2,
+   "freq_rank": 661,
+   "new": true,
+   "score": 0.435,
+   "rank": 73
+  },
+  {
+   "char": "年",
+   "pinyin": [
+    "nián"
+   ],
+   "meaning": "year",
+   "components": [
+    "丿",
+    "一",
+    "十",
+    "㇗",
+    "丨"
+   ],
+   "words": [
+    "过年"
+   ],
+   "word_count": 1,
+   "freq_rank": 45,
+   "new": false,
+   "score": 0.4347,
+   "rank": 74
+  },
+  {
+   "char": "后",
+   "pinyin": [
+    "hòu"
+   ],
+   "meaning": "back; behind; rear",
+   "components": [
+    "⺁",
+    "一",
+    "口"
+   ],
+   "words": [
+    "后面"
+   ],
+   "word_count": 1,
+   "freq_rank": 48,
+   "new": false,
+   "score": 0.4319,
+   "rank": 75
+  },
+  {
+   "char": "里",
+   "pinyin": [
+    "lǐ"
+   ],
+   "meaning": "lining; interior; inside",
+   "components": [
+    "里"
+   ],
+   "words": [
+    "里面"
+   ],
+   "word_count": 1,
+   "freq_rank": 50,
+   "new": false,
+   "score": 0.4301,
+   "rank": 76
+  },
+  {
+   "char": "帮",
+   "pinyin": [
+    "bāng"
+   ],
+   "meaning": "to help; to assist; to support",
+   "components": [
+    "一",
+    "二",
+    "丨",
+    "阝",
+    "巾"
+   ],
+   "words": [
+    "帮",
+    "帮忙"
+   ],
+   "word_count": 2,
+   "freq_rank": 768,
+   "new": true,
+   "score": 0.4285,
+   "rank": 77
+  },
+  {
+   "char": "左",
+   "pinyin": [
+    "zuǒ"
+   ],
+   "meaning": "left; the Left (politics); east",
+   "components": [
+    "𠂇",
+    "工"
+   ],
+   "words": [
+    "左",
+    "左边"
+   ],
+   "word_count": 2,
+   "freq_rank": 780,
+   "new": true,
+   "score": 0.4278,
+   "rank": 78
+  },
+  {
+   "char": "右",
+   "pinyin": [
+    "yòu"
+   ],
+   "meaning": "right (-hand); the Right (politics); west (old)",
+   "components": [
+    "𠂇",
+    "口"
+   ],
+   "words": [
+    "右",
+    "右边"
+   ],
+   "word_count": 2,
+   "freq_rank": 781,
+   "new": true,
+   "score": 0.4277,
+   "rank": 79
+  },
+  {
+   "char": "所",
+   "pinyin": [
+    "suǒ"
+   ],
+   "meaning": "actually; place; classifier for houses, small buildings, institutions etc",
+   "components": [
+    "戶",
+    "斤"
+   ],
+   "words": [
+    "所以"
+   ],
+   "word_count": 1,
+   "freq_rank": 54,
+   "new": true,
+   "score": 0.4268,
+   "rank": 80
+  },
+  {
+   "char": "然",
+   "pinyin": [
+    "rán"
+   ],
+   "meaning": "correct; right; so",
+   "components": [
+    "月",
+    "犬",
+    "灬"
+   ],
+   "words": [
+    "虽然"
+   ],
+   "word_count": 1,
+   "freq_rank": 55,
+   "new": true,
+   "score": 0.426,
+   "rank": 81
+  },
+  {
+   "char": "事",
+   "pinyin": [
+    "shì"
+   ],
+   "meaning": "matter; thing; item",
+   "components": [
+    "十",
+    "口",
+    "丨",
+    "⺺",
+    "亅"
+   ],
+   "words": [
+    "事情"
+   ],
+   "word_count": 1,
+   "freq_rank": 58,
+   "new": true,
+   "score": 0.4237,
+   "rank": 82
+  },
+  {
+   "char": "跑",
+   "pinyin": [
+    "pǎo"
+   ],
+   "meaning": "to run; to run away; to escape",
+   "components": [
+    "⻊",
+    "勹",
+    "巳"
+   ],
+   "words": [
+    "跑",
+    "跑步"
+   ],
+   "word_count": 2,
+   "freq_rank": 862,
+   "new": true,
+   "score": 0.4234,
+   "rank": 83
+  },
+  {
+   "char": "学",
+   "pinyin": [
+    "xué"
+   ],
+   "meaning": "to learn; to study; to imitate",
+   "components": [
+    "⺍",
+    "冖",
+    "子"
+   ],
+   "words": [
+    "开学"
+   ],
+   "word_count": 1,
+   "freq_rank": 66,
+   "new": false,
+   "score": 0.418,
+   "rank": 84
+  },
+  {
+   "char": "店",
+   "pinyin": [
+    "diàn"
+   ],
+   "meaning": "inn; shop; store",
+   "components": [
+    "广",
+    "⺊",
+    "口"
+   ],
+   "words": [
+    "酒店",
+    "药店"
+   ],
+   "word_count": 2,
+   "freq_rank": 1039,
+   "new": false,
+   "score": 0.4153,
+   "rank": 85
+  },
+  {
+   "char": "没",
+   "pinyin": [
+    "méi"
+   ],
+   "meaning": "(negative prefix for verbs); have not; not",
+   "components": [
+    "氵",
+    "殳"
+   ],
+   "words": [
+    "没意思"
+   ],
+   "word_count": 1,
+   "freq_rank": 72,
+   "new": false,
+   "score": 0.4143,
+   "rank": 86
+  },
+  {
+   "char": "绿",
+   "pinyin": [
+    "lǜ"
+   ],
+   "meaning": "green; (slang) (derived from 綠帽子|绿帽子[lu:4 mao4 zi5]) to cheat on (one's spouse or boyfrien",
+   "components": [
+    "纟",
+    "彐",
+    "氺"
+   ],
+   "words": [
+    "绿色",
+    "绿茶"
+   ],
+   "word_count": 2,
+   "freq_rank": 1086,
+   "new": true,
+   "score": 0.4134,
+   "rank": 87
+  },
+  {
+   "char": "姓",
+   "pinyin": [
+    "xìng"
+   ],
+   "meaning": "family name; to be surnamed",
+   "components": [
+    "女",
+    "生"
+   ],
+   "words": [
+    "姓",
+    "姓名"
+   ],
+   "word_count": 2,
+   "freq_rank": 1147,
+   "new": true,
+   "score": 0.411,
+   "rank": 88
+  },
+  {
+   "char": "还",
+   "pinyin": [
+    "hái"
+   ],
+   "meaning": "still; still in progress; still more",
+   "components": [
+    "辶",
+    "一",
+    "丿",
+    "卜"
+   ],
+   "words": [
+    "还是"
+   ],
+   "word_count": 1,
+   "freq_rank": 80,
+   "new": true,
+   "score": 0.4097,
+   "rank": 89
+  },
+  {
+   "char": "洗",
+   "pinyin": [
+    "xǐ"
+   ],
+   "meaning": "to wash; to bathe; to develop (photo)",
+   "components": [
+    "氵",
+    "⺧",
+    "儿"
+   ],
+   "words": [
+    "洗",
+    "洗手间"
+   ],
+   "word_count": 2,
+   "freq_rank": 1245,
+   "new": true,
+   "score": 0.4075,
+   "rank": 90
+  },
+  {
+   "char": "奶",
+   "pinyin": [
+    "nǎi"
+   ],
+   "meaning": "breast; milk; to breastfeed",
+   "components": [
+    "女",
+    "㇎",
+    "丿"
+   ],
+   "words": [
+    "奶奶",
+    "奶茶"
+   ],
+   "word_count": 2,
+   "freq_rank": 1276,
+   "new": true,
+   "score": 0.4064,
+   "rank": 91
+  },
+  {
+   "char": "本",
+   "pinyin": [
+    "běn"
+   ],
+   "meaning": "root; stem; origin",
+   "components": [
+    "木",
+    "一"
+   ],
+   "words": [
+    "本子"
+   ],
+   "word_count": 1,
+   "freq_rank": 92,
+   "new": false,
+   "score": 0.4036,
+   "rank": 92
+  },
+  {
+   "char": "前",
+   "pinyin": [
+    "qián"
+   ],
+   "meaning": "front; forward; ahead",
+   "components": [
+    "丷",
+    "一",
+    "月",
+    "刂"
+   ],
+   "words": [
+    "前面"
+   ],
+   "word_count": 1,
+   "freq_rank": 93,
+   "new": false,
+   "score": 0.4031,
+   "rank": 93
+  },
+  {
+   "char": "因",
+   "pinyin": [
+    "yīn"
+   ],
+   "meaning": "cause; reason; because",
+   "components": [
+    "囗",
+    "大"
+   ],
+   "words": [
+    "因为"
+   ],
+   "word_count": 1,
+   "freq_rank": 96,
+   "new": true,
+   "score": 0.4018,
+   "rank": 94
+  },
+  {
+   "char": "日",
+   "pinyin": [
+    "rì"
+   ],
+   "meaning": "sun; day; date, day of the month",
+   "components": [
+    "日"
+   ],
+   "words": [
+    "生日"
+   ],
+   "word_count": 1,
+   "freq_rank": 101,
+   "new": true,
+   "score": 0.3996,
+   "rank": 95
+  },
+  {
+   "char": "长",
+   "pinyin": [
+    "cháng"
+   ],
+   "meaning": "length; long; forever",
+   "components": [
+    "长"
+   ],
+   "words": [
+    "长"
+   ],
+   "word_count": 1,
+   "freq_rank": 109,
+   "new": true,
+   "score": 0.3963,
+   "rank": 96
+  },
+  {
+   "char": "公",
+   "pinyin": [
+    "gōng"
+   ],
+   "meaning": "public; collectively owned; common",
+   "components": [
+    "八",
+    "厶"
+   ],
+   "words": [
+    "公交车"
+   ],
+   "word_count": 1,
+   "freq_rank": 115,
+   "new": true,
+   "score": 0.3939,
+   "rank": 97
+  },
+  {
+   "char": "已",
+   "pinyin": [
+    "yǐ"
+   ],
+   "meaning": "already; to stop; then",
+   "components": [
+    "已"
+   ],
+   "words": [
+    "已经"
+   ],
+   "word_count": 1,
+   "freq_rank": 117,
+   "new": true,
+   "score": 0.3932,
+   "rank": 98
+  },
+  {
+   "char": "情",
+   "pinyin": [
+    "qing"
+   ],
+   "meaning": "feeling; emotion; passion",
+   "components": [
+    "忄",
+    "青"
+   ],
+   "words": [
+    "事情"
+   ],
+   "word_count": 1,
+   "freq_rank": 120,
+   "new": true,
+   "score": 0.3921,
+   "rank": 99
+  },
+  {
+   "char": "点",
+   "pinyin": [
+    "diǎn"
+   ],
+   "meaning": "point; dot; drop",
+   "components": [
+    "⺊",
+    "口",
+    "灬"
+   ],
+   "words": [
+    "点"
+   ],
+   "word_count": 1,
+   "freq_rank": 128,
+   "new": false,
+   "score": 0.3893,
+   "rank": 100
+  },
+  {
+   "char": "正",
+   "pinyin": [
+    "zhèng"
+   ],
+   "meaning": "straight; upright; proper",
+   "components": [
+    "一",
+    "止"
+   ],
+   "words": [
+    "正"
+   ],
+   "word_count": 1,
+   "freq_rank": 129,
+   "new": true,
+   "score": 0.3889,
+   "rank": 101
+  },
+  {
+   "char": "最",
+   "pinyin": [
+    "zuì"
+   ],
+   "meaning": "most; the most; -est (superlative suffix)",
+   "components": [
+    "曰",
+    "耳",
+    "又"
+   ],
+   "words": [
+    "最"
+   ],
+   "word_count": 1,
+   "freq_rank": 139,
+   "new": true,
+   "score": 0.3857,
+   "rank": 102
+  },
+  {
+   "char": "头",
+   "pinyin": [
+    "tóu"
+   ],
+   "meaning": "head; hair style; the top",
+   "components": [
+    "大",
+    "⺀"
+   ],
+   "words": [
+    "头"
+   ],
+   "word_count": 1,
+   "freq_rank": 147,
+   "new": true,
+   "score": 0.3833,
+   "rank": 103
+  },
+  {
+   "char": "体",
+   "pinyin": [
+    "tǐ"
+   ],
+   "meaning": "body; form; style",
+   "components": [
+    "亻",
+    "木",
+    "一"
+   ],
+   "words": [
+    "身体"
+   ],
+   "word_count": 1,
+   "freq_rank": 149,
+   "new": true,
+   "score": 0.3827,
+   "rank": 104
+  },
+  {
+   "char": "什",
+   "pinyin": [
+    "shén"
+   ],
+   "meaning": "what",
+   "components": [
+    "亻",
+    "十"
+   ],
+   "words": [
+    "为什么"
+   ],
+   "word_count": 1,
+   "freq_rank": 156,
+   "new": false,
+   "score": 0.3807,
+   "rank": 105
+  },
+  {
+   "char": "等",
+   "pinyin": [
+    "děng"
+   ],
+   "meaning": "class; rank; grade",
+   "components": [
+    "⺮",
+    "土",
+    "寸"
+   ],
+   "words": [
+    "等"
+   ],
+   "word_count": 1,
+   "freq_rank": 158,
+   "new": true,
+   "score": 0.3801,
+   "rank": 106
+  },
+  {
+   "char": "己",
+   "pinyin": [
+    "jǐ"
+   ],
+   "meaning": "self; oneself; sixth in order",
+   "components": [
+    "己"
+   ],
+   "words": [
+    "自己"
+   ],
+   "word_count": 1,
+   "freq_rank": 162,
+   "new": true,
+   "score": 0.379,
+   "rank": 107
+  },
+  {
+   "char": "身",
+   "pinyin": [
+    "shēn"
+   ],
+   "meaning": "body; life; oneself",
+   "components": [
+    "身"
+   ],
+   "words": [
+    "身体"
+   ],
+   "word_count": 1,
+   "freq_rank": 164,
+   "new": true,
+   "score": 0.3785,
+   "rank": 108
+  },
+  {
+   "char": "表",
+   "pinyin": [
+    "biǎo"
+   ],
+   "meaning": "wrist or pocket watch",
+   "components": [
+    "龶",
+    "㇒",
+    "㇗"
+   ],
+   "words": [
+    "手表"
+   ],
+   "word_count": 1,
+   "freq_rank": 177,
+   "new": true,
+   "score": 0.3752,
+   "rank": 109
+  },
+  {
+   "char": "位",
+   "pinyin": [
+    "wèi"
+   ],
+   "meaning": "position; location; place",
+   "components": [
+    "亻",
+    "立"
+   ],
+   "words": [
+    "位"
+   ],
+   "word_count": 1,
+   "freq_rank": 182,
+   "new": true,
+   "score": 0.374,
+   "rank": 110
+  },
+  {
+   "char": "次",
+   "pinyin": [
+    "cì"
+   ],
+   "meaning": "next in sequence; second; the second (day, time etc)",
+   "components": [
+    "冫",
+    "欠"
+   ],
+   "words": [
+    "次"
+   ],
+   "word_count": 1,
+   "freq_rank": 183,
+   "new": true,
+   "score": 0.3738,
+   "rank": 111
+  },
+  {
+   "char": "常",
+   "pinyin": [
+    "cháng"
+   ],
+   "meaning": "always; ever; often",
+   "components": [
+    "⺌",
+    "冖",
+    "口",
+    "巾"
+   ],
+   "words": [
+    "经常"
+   ],
+   "word_count": 1,
+   "freq_rank": 187,
+   "new": true,
+   "score": 0.3728,
+   "rank": 112
+  },
+  {
+   "char": "比",
+   "pinyin": [
+    "bǐ"
+   ],
+   "meaning": "to compare; (followed by a noun and adjective) more {adj.} than {noun}; ratio",
+   "components": [
+    "比"
+   ],
+   "words": [
+    "比"
+   ],
+   "word_count": 1,
+   "freq_rank": 199,
+   "new": true,
+   "score": 0.3701,
+   "rank": 113
+  },
+  {
+   "char": "口",
+   "pinyin": [
+    "kǒu"
+   ],
+   "meaning": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); c",
+   "components": [
+    "口"
+   ],
+   "words": [
+    "门口"
+   ],
+   "word_count": 1,
+   "freq_rank": 212,
+   "new": true,
+   "score": 0.3674,
+   "rank": 114
+  },
+  {
+   "char": "条",
+   "pinyin": [
+    "tiáo"
+   ],
+   "meaning": "strip; item; article",
+   "components": [
+    "夂",
+    "十",
+    "小"
+   ],
+   "words": [
+    "条"
+   ],
+   "word_count": 1,
+   "freq_rank": 214,
+   "new": true,
+   "score": 0.367,
+   "rank": 115
+  },
+  {
+   "char": "题",
+   "pinyin": [
+    "tí"
+   ],
+   "meaning": "topic; problem for discussion; exam question",
+   "components": [
+    "日",
+    "一",
+    "龰",
+    "页"
+   ],
+   "words": [
+    "题"
+   ],
+   "word_count": 1,
+   "freq_rank": 218,
+   "new": true,
+   "score": 0.3662,
+   "rank": 116
+  },
+  {
+   "char": "别",
+   "pinyin": [
+    "bié"
+   ],
+   "meaning": "to leave; to depart; to separate",
+   "components": [
+    "口",
+    "力",
+    "刂"
+   ],
+   "words": [
+    "别"
+   ],
+   "word_count": 1,
+   "freq_rank": 222,
+   "new": true,
+   "score": 0.3654,
+   "rank": 117
+  },
+  {
+   "char": "女",
+   "pinyin": [
+    "nǚ"
+   ],
+   "meaning": "female; woman; daughter",
+   "components": [
+    "女"
+   ],
+   "words": [
+    "女孩儿"
+   ],
+   "word_count": 1,
+   "freq_rank": 224,
+   "new": false,
+   "score": 0.365,
+   "rank": 118
+  },
+  {
+   "char": "眼",
+   "pinyin": [
+    "yǎn"
+   ],
+   "meaning": "eye; small hole; crux (of a matter)",
+   "components": [
+    "目",
+    "艮"
+   ],
+   "words": [
+    "眼睛"
+   ],
+   "word_count": 1,
+   "freq_rank": 281,
+   "new": true,
+   "score": 0.3551,
+   "rank": 119
+  },
+  {
+   "char": "书",
+   "pinyin": [
+    "shū"
+   ],
+   "meaning": "book; letter; document",
+   "components": [
+    "丨",
+    "丶"
+   ],
+   "words": [
+    "书包"
+   ],
+   "word_count": 1,
+   "freq_rank": 282,
+   "new": false,
+   "score": 0.355,
+   "rank": 120
+  },
+  {
+   "char": "白",
+   "pinyin": [
+    "bái"
+   ],
+   "meaning": "white; snowy; pure",
+   "components": [
+    "白"
+   ],
+   "words": [
+    "白色"
+   ],
+   "word_count": 1,
+   "freq_rank": 286,
+   "new": true,
+   "score": 0.3544,
+   "rank": 121
+  },
+  {
+   "char": "完",
+   "pinyin": [
+    "wán"
+   ],
+   "meaning": "to finish; to be over; whole",
+   "components": [
+    "宀",
+    "二",
+    "儿"
+   ],
+   "words": [
+    "完"
+   ],
+   "word_count": 1,
+   "freq_rank": 301,
+   "new": true,
+   "score": 0.3521,
+   "rank": 122
+  },
+  {
+   "char": "记",
+   "pinyin": [
+    "jì"
+   ],
+   "meaning": "to record; to note; to memorize",
+   "components": [
+    "讠",
+    "己"
+   ],
+   "words": [
+    "记得"
+   ],
+   "word_count": 1,
+   "freq_rank": 306,
+   "new": true,
+   "score": 0.3514,
+   "rank": 123
+  },
+  {
+   "char": "告",
+   "pinyin": [
+    "gào"
+   ],
+   "meaning": "to say; to tell; to announce",
+   "components": [
+    "⺧",
+    "口"
+   ],
+   "words": [
+    "告诉"
+   ],
+   "word_count": 1,
+   "freq_rank": 310,
+   "new": true,
+   "score": 0.3509,
+   "rank": 124
+  },
+  {
+   "char": "交",
+   "pinyin": [
+    "jiāo"
+   ],
+   "meaning": "to hand over; to deliver; to pay (money)",
+   "components": [
+    "亠",
+    "八",
+    "乂"
+   ],
+   "words": [
+    "公交车"
+   ],
+   "word_count": 1,
+   "freq_rank": 320,
+   "new": true,
+   "score": 0.3495,
+   "rank": 125
+  },
+  {
+   "char": "万",
+   "pinyin": [
+    "wàn"
+   ],
+   "meaning": "ten thousand; a great number",
+   "components": [
+    "一",
+    "丿",
+    "㇆"
+   ],
+   "words": [
+    "万"
+   ],
+   "word_count": 1,
+   "freq_rank": 322,
+   "new": true,
+   "score": 0.3492,
+   "rank": 126
+  },
+  {
+   "char": "望",
+   "pinyin": [
+    "wàng"
+   ],
+   "meaning": "full moon; to hope; to expect",
+   "components": [
+    "匸",
+    "丶",
+    "月",
+    "王"
+   ],
+   "words": [
+    "希望"
+   ],
+   "word_count": 1,
+   "freq_rank": 326,
+   "new": true,
+   "score": 0.3487,
+   "rank": 127
+  },
+  {
+   "char": "让",
+   "pinyin": [
+    "ràng"
+   ],
+   "meaning": "to yield; to permit; to let sb do sth",
+   "components": [
+    "讠",
+    "⺊",
+    "一"
+   ],
+   "words": [
+    "让"
+   ],
+   "word_count": 1,
+   "freq_rank": 339,
+   "new": true,
+   "score": 0.347,
+   "rank": 128
+  },
+  {
+   "char": "候",
+   "pinyin": [
+    "hou"
+   ],
+   "meaning": "to wait; to inquire after; to watch",
+   "components": [
+    "亻",
+    "丨",
+    "矢"
+   ],
+   "words": [
+    "小时候"
+   ],
+   "word_count": 1,
+   "freq_rank": 341,
+   "new": false,
+   "score": 0.3467,
+   "rank": 129
+  },
+  {
+   "char": "运",
+   "pinyin": [
+    "yùn"
+   ],
+   "meaning": "to move; to transport; to use",
+   "components": [
+    "辶",
+    "二",
+    "厶"
+   ],
+   "words": [
+    "运动"
+   ],
+   "word_count": 1,
+   "freq_rank": 345,
+   "new": true,
+   "score": 0.3462,
+   "rank": 130
+  },
+  {
+   "char": "笑",
+   "pinyin": [
+    "xiào"
+   ],
+   "meaning": "laugh; smile",
+   "components": [
+    "⺮",
+    "㇒",
+    "大"
+   ],
+   "words": [
+    "笑"
+   ],
+   "word_count": 1,
+   "freq_rank": 346,
+   "new": true,
+   "score": 0.3461,
+   "rank": 131
+  },
+  {
+   "char": "飞",
+   "pinyin": [
+    "fēi"
+   ],
+   "meaning": "to fly",
+   "components": [
+    "飞"
+   ],
+   "words": [
+    "飞"
+   ],
+   "word_count": 1,
+   "freq_rank": 347,
+   "new": false,
+   "score": 0.346,
+   "rank": 132
+  },
+  {
+   "char": "步",
+   "pinyin": [
+    "bù"
+   ],
+   "meaning": "a step; a pace; walk",
+   "components": [
+    "止",
+    "小",
+    "丿"
+   ],
+   "words": [
+    "跑步"
+   ],
+   "word_count": 1,
+   "freq_rank": 349,
+   "new": true,
+   "score": 0.3457,
+   "rank": 133
+  },
+  {
+   "char": "每",
+   "pinyin": [
+    "měi"
+   ],
+   "meaning": "each; every",
+   "components": [
+    "丿",
+    "一",
+    "母"
+   ],
+   "words": [
+    "每"
+   ],
+   "word_count": 1,
+   "freq_rank": 359,
+   "new": true,
+   "score": 0.3445,
+   "rank": 134
+  },
+  {
+   "char": "服",
+   "pinyin": [
+    "fu"
+   ],
+   "meaning": "clothes; dress; garment",
+   "components": [
+    "月",
+    "卩",
+    "又"
+   ],
+   "words": [
+    "舒服"
+   ],
+   "word_count": 1,
+   "freq_rank": 365,
+   "new": false,
+   "score": 0.3438,
+   "rank": 135
+  },
+  {
+   "char": "往",
+   "pinyin": [
+    "wǎng"
+   ],
+   "meaning": "to go (in a direction); to; towards",
+   "components": [
+    "彳",
+    "王",
+    "丶"
+   ],
+   "words": [
+    "往"
+   ],
+   "word_count": 1,
+   "freq_rank": 369,
+   "new": true,
+   "score": 0.3433,
+   "rank": 136
+  },
+  {
+   "char": "近",
+   "pinyin": [
+    "jìn"
+   ],
+   "meaning": "near; close to; approximately",
+   "components": [
+    "辶",
+    "斤"
+   ],
+   "words": [
+    "近"
+   ],
+   "word_count": 1,
+   "freq_rank": 374,
+   "new": true,
+   "score": 0.3427,
+   "rank": 137
+  },
+  {
+   "char": "夫",
+   "pinyin": [
+    "fu"
+   ],
+   "meaning": "husband; man; manual worker",
+   "components": [
+    "人",
+    "二"
+   ],
+   "words": [
+    "丈夫"
+   ],
+   "word_count": 1,
+   "freq_rank": 377,
+   "new": true,
+   "score": 0.3424,
+   "rank": 138
+  },
+  {
+   "char": "准",
+   "pinyin": [
+    "zhǔn"
+   ],
+   "meaning": "accurate; standard; definitely",
+   "components": [
+    "冫",
+    "隹"
+   ],
+   "words": [
+    "准备"
+   ],
+   "word_count": 1,
+   "freq_rank": 379,
+   "new": true,
+   "score": 0.3421,
+   "rank": 139
+  },
+  {
+   "char": "始",
+   "pinyin": [
+    "shǐ"
+   ],
+   "meaning": "to begin; to start; then",
+   "components": [
+    "女",
+    "厶",
+    "口"
+   ],
+   "words": [
+    "开始"
+   ],
+   "word_count": 1,
+   "freq_rank": 381,
+   "new": true,
+   "score": 0.3419,
+   "rank": 140
+  },
+  {
+   "char": "远",
+   "pinyin": [
+    "yuǎn"
+   ],
+   "meaning": "far; distant; remote",
+   "components": [
+    "辶",
+    "二",
+    "儿"
+   ],
+   "words": [
+    "远"
+   ],
+   "word_count": 1,
+   "freq_rank": 386,
+   "new": true,
+   "score": 0.3413,
+   "rank": 141
+  },
+  {
+   "char": "爱",
+   "pinyin": [
+    "ài"
+   ],
+   "meaning": "to love; to be fond of; to like",
+   "components": [
+    "爫",
+    "冖",
+    "𠂇",
+    "又"
+   ],
+   "words": [
+    "爱好"
+   ],
+   "word_count": 1,
+   "freq_rank": 394,
+   "new": false,
+   "score": 0.3404,
+   "rank": 142
+  },
+  {
+   "char": "备",
+   "pinyin": [
+    "bèi"
+   ],
+   "meaning": "to prepare; get ready; to provide or equip",
+   "components": [
+    "夂",
+    "田"
+   ],
+   "words": [
+    "准备"
+   ],
+   "word_count": 1,
+   "freq_rank": 397,
+   "new": true,
+   "score": 0.3401,
+   "rank": 143
+  },
+  {
+   "char": "商",
+   "pinyin": [
+    "shāng"
+   ],
+   "meaning": "commerce; merchant; dealer",
+   "components": [
+    "亠",
+    "丷",
+    "冂",
+    "八",
+    "口"
+   ],
+   "words": [
+    "商场"
+   ],
+   "word_count": 1,
+   "freq_rank": 402,
+   "new": false,
+   "score": 0.3396,
+   "rank": 144
+  },
+  {
+   "char": "花",
+   "pinyin": [
+    "huā"
+   ],
+   "meaning": "flower; blossom; fancy pattern",
+   "components": [
+    "艹",
+    "亻",
+    "匕"
+   ],
+   "words": [
+    "花"
+   ],
+   "word_count": 1,
+   "freq_rank": 410,
+   "new": true,
+   "score": 0.3387,
+   "rank": 145
+  },
+  {
+   "char": "离",
+   "pinyin": [
+    "lí"
+   ],
+   "meaning": "to leave; to part from; to be away from",
+   "components": [
+    "亠",
+    "凵",
+    "乂",
+    "禸"
+   ],
+   "words": [
+    "离"
+   ],
+   "word_count": 1,
+   "freq_rank": 418,
+   "new": true,
+   "score": 0.3379,
+   "rank": 146
+  },
+  {
+   "char": "周",
+   "pinyin": [
+    "zhōu"
+   ],
+   "meaning": "to make a circuit; to circle; circle",
+   "components": [
+    "田",
+    "口"
+   ],
+   "words": [
+    "周"
+   ],
+   "word_count": 1,
+   "freq_rank": 490,
+   "new": true,
+   "score": 0.331,
+   "rank": 147
+  },
+  {
+   "char": "虽",
+   "pinyin": [
+    "suī"
+   ],
+   "meaning": "although; even though",
+   "components": [
+    "口",
+    "虫"
+   ],
+   "words": [
+    "虽然"
+   ],
+   "word_count": 1,
+   "freq_rank": 504,
+   "new": true,
+   "score": 0.3298,
+   "rank": 148
+  },
+  {
+   "char": "希",
+   "pinyin": [
+    "xī"
+   ],
+   "meaning": "to hope; to admire",
+   "components": [
+    "乂",
+    "𠂇",
+    "巾"
+   ],
+   "words": [
+    "希望"
+   ],
+   "word_count": 1,
+   "freq_rank": 508,
+   "new": true,
+   "score": 0.3294,
+   "rank": 149
+  },
+  {
+   "char": "黑",
+   "pinyin": [
+    "hēi"
+   ],
+   "meaning": "black; dark; sinister",
+   "components": [
+    "黑"
+   ],
+   "words": [
+    "黑色"
+   ],
+   "word_count": 1,
+   "freq_rank": 519,
+   "new": true,
+   "score": 0.3285,
+   "rank": 150
+  },
+  {
+   "char": "足",
+   "pinyin": [
+    "zú"
+   ],
+   "meaning": "foot; to be sufficient; ample",
+   "components": [
+    "足"
+   ],
+   "words": [
+    "足球"
+   ],
+   "word_count": 1,
+   "freq_rank": 527,
+   "new": true,
+   "score": 0.3278,
+   "rank": 151
+  },
+  {
+   "char": "跟",
+   "pinyin": [
+    "gēn"
+   ],
+   "meaning": "heel; to follow closely; to go with",
+   "components": [
+    "⻊",
+    "艮"
+   ],
+   "words": [
+    "跟"
+   ],
+   "word_count": 1,
+   "freq_rank": 541,
+   "new": true,
+   "score": 0.3267,
+   "rank": 152
+  },
+  {
+   "char": "诉",
+   "pinyin": [
+    "su"
+   ],
+   "meaning": "to complain; to sue; to tell",
+   "components": [
+    "讠",
+    "斤",
+    "丶"
+   ],
+   "words": [
+    "告诉"
+   ],
+   "word_count": 1,
+   "freq_rank": 595,
+   "new": true,
+   "score": 0.3225,
+   "rank": 153
+  },
+  {
+   "char": "男",
+   "pinyin": [
+    "nán"
+   ],
+   "meaning": "male; Baron, lowest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]",
+   "components": [
+    "田",
+    "力"
+   ],
+   "words": [
+    "男孩儿"
+   ],
+   "word_count": 1,
+   "freq_rank": 602,
+   "new": true,
+   "score": 0.322,
+   "rank": 154
+  },
+  {
+   "char": "乐",
+   "pinyin": [
+    "lè"
+   ],
+   "meaning": "happy; cheerful; to laugh",
+   "components": [
+    "㇒",
+    "㇗",
+    "小"
+   ],
+   "words": [
+    "快乐"
+   ],
+   "word_count": 1,
+   "freq_rank": 619,
+   "new": true,
+   "score": 0.3208,
+   "rank": 155
+  },
+  {
+   "char": "试",
+   "pinyin": [
+    "shì"
+   ],
+   "meaning": "to test; to try; experiment",
+   "components": [
+    "讠",
+    "弋",
+    "工"
+   ],
+   "words": [
+    "考试"
+   ],
+   "word_count": 1,
+   "freq_rank": 642,
+   "new": true,
+   "score": 0.3192,
+   "rank": 156
+  },
+  {
+   "char": "拿",
+   "pinyin": [
+    "ná"
+   ],
+   "meaning": "to hold; to seize; to catch",
+   "components": [
+    "人",
+    "一",
+    "口",
+    "手"
+   ],
+   "words": [
+    "拿"
+   ],
+   "word_count": 1,
+   "freq_rank": 644,
+   "new": true,
+   "score": 0.3191,
+   "rank": 157
+  },
+  {
+   "char": "送",
+   "pinyin": [
+    "sòng"
+   ],
+   "meaning": "to deliver; to carry; to give (as a present)",
+   "components": [
+    "辶",
+    "丷",
+    "一",
+    "大"
+   ],
+   "words": [
+    "送"
+   ],
+   "word_count": 1,
+   "freq_rank": 655,
+   "new": true,
+   "score": 0.3184,
+   "rank": 158
+  },
+  {
+   "char": "室",
+   "pinyin": [
+    "shì"
+   ],
+   "meaning": "room; work unit; grave",
+   "components": [
+    "宀",
+    "至"
+   ],
+   "words": [
+    "教室"
+   ],
+   "word_count": 1,
+   "freq_rank": 707,
+   "new": true,
+   "score": 0.3151,
+   "rank": 159
+  },
+  {
+   "char": "啊",
+   "pinyin": [
+    "a"
+   ],
+   "meaning": "modal particle ending sentence, showing affirmation, approval, or consent",
+   "components": [
+    "口",
+    "阝",
+    "一",
+    "亅",
+    "口"
+   ],
+   "words": [
+    "啊"
+   ],
+   "word_count": 1,
+   "freq_rank": 752,
+   "new": true,
+   "score": 0.3124,
+   "rank": 160
+  },
+  {
+   "char": "铁",
+   "pinyin": [
+    "tiě"
+   ],
+   "meaning": "iron (metal); arms; weapons",
+   "components": [
+    "钅",
+    "人",
+    "二",
+    "㇒"
+   ],
+   "words": [
+    "地铁"
+   ],
+   "word_count": 1,
+   "freq_rank": 777,
+   "new": true,
+   "score": 0.311,
+   "rank": 161
+  },
+  {
+   "char": "酒",
+   "pinyin": [
+    "jiǔ"
+   ],
+   "meaning": "wine (esp. rice wine); liquor; spirits",
+   "components": [
+    "氵",
+    "酉"
+   ],
+   "words": [
+    "酒店"
+   ],
+   "word_count": 1,
+   "freq_rank": 795,
+   "new": true,
+   "score": 0.31,
+   "rank": 162
+  },
+  {
+   "char": "慢",
+   "pinyin": [
+    "màn"
+   ],
+   "meaning": "slow",
+   "components": [
+    "忄",
+    "日",
+    "罒",
+    "又"
+   ],
+   "words": [
+    "慢"
+   ],
+   "word_count": 1,
+   "freq_rank": 820,
+   "new": true,
+   "score": 0.3086,
+   "rank": 163
+  },
+  {
+   "char": "忙",
+   "pinyin": [
+    "máng"
+   ],
+   "meaning": "busy; hurriedly; to hurry",
+   "components": [
+    "忄",
+    "匸",
+    "丶"
+   ],
+   "words": [
+    "帮忙"
+   ],
+   "word_count": 1,
+   "freq_rank": 825,
+   "new": true,
+   "score": 0.3084,
+   "rank": 164
+  },
+  {
+   "char": "介",
+   "pinyin": [
+    "jiè"
+   ],
+   "meaning": "to introduce; to lie between; between",
+   "components": [
+    "人"
+   ],
+   "words": [
+    "介绍"
+   ],
+   "word_count": 1,
+   "freq_rank": 829,
+   "new": true,
+   "score": 0.3081,
+   "rank": 165
+  },
+  {
+   "char": "坏",
+   "pinyin": [
+    "huài"
+   ],
+   "meaning": "bad; spoiled; broken",
+   "components": [
+    "土",
+    "一",
+    "丿",
+    "卜"
+   ],
+   "words": [
+    "坏"
+   ],
+   "word_count": 1,
+   "freq_rank": 830,
+   "new": true,
+   "score": 0.3081,
+   "rank": 166
+  },
+  {
+   "char": "鱼",
+   "pinyin": [
+    "yú"
+   ],
+   "meaning": "fish",
+   "components": [
+    "鱼"
+   ],
+   "words": [
+    "鱼"
+   ],
+   "word_count": 1,
+   "freq_rank": 850,
+   "new": true,
+   "score": 0.3071,
+   "rank": 167
+  },
+  {
+   "char": "楼",
+   "pinyin": [
+    "lóu"
+   ],
+   "meaning": "house with more than 1 story; storied building; floor",
+   "components": [
+    "木",
+    "米",
+    "女"
+   ],
+   "words": [
+    "楼"
+   ],
+   "word_count": 1,
+   "freq_rank": 874,
+   "new": true,
+   "score": 0.3058,
+   "rank": 168
+  },
+  {
+   "char": "画",
+   "pinyin": [
+    "huà"
+   ],
+   "meaning": "to draw; picture; painting",
+   "components": [
+    "一",
+    "田",
+    "凵"
+   ],
+   "words": [
+    "画"
+   ],
+   "word_count": 1,
+   "freq_rank": 881,
+   "new": true,
+   "score": 0.3055,
+   "rank": 169
+  },
+  {
+   "char": "班",
+   "pinyin": [
+    "bān"
+   ],
+   "meaning": "team; class; squad",
+   "components": [
+    "玨",
+    "丿",
+    "丶"
+   ],
+   "words": [
+    "班"
+   ],
+   "word_count": 1,
+   "freq_rank": 882,
+   "new": true,
+   "score": 0.3054,
+   "rank": 170
+  },
+  {
+   "char": "睛",
+   "pinyin": [
+    "jing"
+   ],
+   "meaning": "eye; eyeball",
+   "components": [
+    "目",
+    "青"
+   ],
+   "words": [
+    "眼睛"
+   ],
+   "word_count": 1,
+   "freq_rank": 932,
+   "new": true,
+   "score": 0.3031,
+   "rank": 171
+  },
+  {
+   "char": "饭",
+   "pinyin": [
+    "fàn"
+   ],
+   "meaning": "cooked rice; meal; (loanword) fan",
+   "components": [
+    "饣",
+    "⺁",
+    "又"
+   ],
+   "words": [
+    "饭馆"
+   ],
+   "word_count": 1,
+   "freq_rank": 933,
+   "new": false,
+   "score": 0.303,
+   "rank": 172
+  },
+  {
+   "char": "旅",
+   "pinyin": [
+    "lǚ"
+   ],
+   "meaning": "trip; travel; to travel",
+   "components": [
+    "方",
+    "丿",
+    "一",
+    "氏"
+   ],
+   "words": [
+    "旅游"
+   ],
+   "word_count": 1,
+   "freq_rank": 948,
+   "new": true,
+   "score": 0.3023,
+   "rank": 173
+  },
+  {
+   "char": "笔",
+   "pinyin": [
+    "bǐ"
+   ],
+   "meaning": "pen; pencil; writing brush",
+   "components": [
+    "⺮",
+    "毛"
+   ],
+   "words": [
+    "笔"
+   ],
+   "word_count": 1,
+   "freq_rank": 954,
+   "new": true,
+   "score": 0.302,
+   "rank": 174
+  },
+  {
+   "char": "词",
+   "pinyin": [
+    "cí"
+   ],
+   "meaning": "word; statement; speech",
+   "components": [
+    "讠",
+    "㇆",
+    "一",
+    "口"
+   ],
+   "words": [
+    "词"
+   ],
+   "word_count": 1,
+   "freq_rank": 957,
+   "new": true,
+   "score": 0.3019,
+   "rank": 175
+  },
+  {
+   "char": "旁",
+   "pinyin": [
+    "páng"
+   ],
+   "meaning": "one side; other; different",
+   "components": [
+    "亠",
+    "丷",
+    "冖",
+    "方"
+   ],
+   "words": [
+    "旁边"
+   ],
+   "word_count": 1,
+   "freq_rank": 979,
+   "new": true,
+   "score": 0.3009,
+   "rank": 176
+  },
+  {
+   "char": "阴",
+   "pinyin": [
+    "yīn"
+   ],
+   "meaning": "overcast (weather); cloudy; shady",
+   "components": [
+    "阝",
+    "月"
+   ],
+   "words": [
+    "阴"
+   ],
+   "word_count": 1,
+   "freq_rank": 985,
+   "new": true,
+   "score": 0.3007,
+   "rank": 177
+  },
+  {
+   "char": "跳",
+   "pinyin": [
+    "tiào"
+   ],
+   "meaning": "to jump; to hop; to skip over",
+   "components": [
+    "⻊",
+    "儿",
+    "冫"
+   ],
+   "words": [
+    "跳舞"
+   ],
+   "word_count": 1,
+   "freq_rank": 997,
+   "new": true,
+   "score": 0.3001,
+   "rank": 178
+  },
+  {
+   "char": "爷",
+   "pinyin": [
+    "yé"
+   ],
+   "meaning": "grandpa; old gentleman",
+   "components": [
+    "父",
+    "㇆",
+    "丨"
+   ],
+   "words": [
+    "爷爷"
+   ],
+   "word_count": 1,
+   "freq_rank": 1005,
+   "new": true,
+   "score": 0.2998,
+   "rank": 179
+  },
+  {
+   "char": "肉",
+   "pinyin": [
+    "ròu"
+   ],
+   "meaning": "meat; flesh; pulp (of a fruit)",
+   "components": [
+    "肉"
+   ],
+   "words": [
+    "肉"
+   ],
+   "word_count": 1,
+   "freq_rank": 1007,
+   "new": true,
+   "score": 0.2997,
+   "rank": 180
+  },
+  {
+   "char": "馆",
+   "pinyin": [
+    "guǎn"
+   ],
+   "meaning": "building; shop; term for certain service establishments",
+   "components": [
+    "饣",
+    "宀",
+    "㠯"
+   ],
+   "words": [
+    "饭馆"
+   ],
+   "word_count": 1,
+   "freq_rank": 1009,
+   "new": true,
+   "score": 0.2996,
+   "rank": 181
+  },
+  {
+   "char": "忘",
+   "pinyin": [
+    "wàng"
+   ],
+   "meaning": "to forget; to overlook; to neglect",
+   "components": [
+    "匸",
+    "丶",
+    "心"
+   ],
+   "words": [
+    "忘"
+   ],
+   "word_count": 1,
+   "freq_rank": 1054,
+   "new": true,
+   "score": 0.2977,
+   "rank": 182
+  },
+  {
+   "char": "床",
+   "pinyin": [
+    "chuáng"
+   ],
+   "meaning": "bed; couch; classifier for beds",
+   "components": [
+    "广",
+    "木"
+   ],
+   "words": [
+    "床"
+   ],
+   "word_count": 1,
+   "freq_rank": 1066,
+   "new": true,
+   "score": 0.2972,
+   "rank": 183
+  },
+  {
+   "char": "妻",
+   "pinyin": [
+    "qī"
+   ],
+   "meaning": "wife",
+   "components": [
+    "十",
+    "⺺",
+    "女"
+   ],
+   "words": [
+    "妻子"
+   ],
+   "word_count": 1,
+   "freq_rank": 1074,
+   "new": true,
+   "score": 0.2969,
+   "rank": 184
+  },
+  {
+   "char": "舞",
+   "pinyin": [
+    "wǔ"
+   ],
+   "meaning": "to dance; to wield; to brandish",
+   "components": [
+    "舛"
+   ],
+   "words": [
+    "跳舞"
+   ],
+   "word_count": 1,
+   "freq_rank": 1142,
+   "new": true,
+   "score": 0.2942,
+   "rank": 185
+  },
+  {
+   "char": "懂",
+   "pinyin": [
+    "dǒng"
+   ],
+   "meaning": "to understand; to comprehend",
+   "components": [
+    "忄",
+    "艹",
+    "㇒",
+    "十",
+    "里"
+   ],
+   "words": [
+    "懂"
+   ],
+   "word_count": 1,
+   "freq_rank": 1209,
+   "new": true,
+   "score": 0.2918,
+   "rank": 186
+  },
+  {
+   "char": "绍",
+   "pinyin": [
+    "shào"
+   ],
+   "meaning": "to continue; to carry on",
+   "components": [
+    "纟",
+    "刀",
+    "口"
+   ],
+   "words": [
+    "介绍"
+   ],
+   "word_count": 1,
+   "freq_rank": 1232,
+   "new": true,
+   "score": 0.2909,
+   "rank": 187
+  },
+  {
+   "char": "丈",
+   "pinyin": [
+    "zhàng"
+   ],
+   "meaning": "measure of length, ten Chinese feet (3.3 m); to measure; husband",
+   "components": [
+    "十",
+    "乂"
+   ],
+   "words": [
+    "丈夫"
+   ],
+   "word_count": 1,
+   "freq_rank": 1240,
+   "new": true,
+   "score": 0.2907,
+   "rank": 188
+  },
+  {
+   "char": "鸟",
+   "pinyin": [
+    "niǎo"
+   ],
+   "meaning": "bird; (intensifier) damned; goddam",
+   "components": [
+    "鸟"
+   ],
+   "words": [
+    "鸟"
+   ],
+   "word_count": 1,
+   "freq_rank": 1261,
+   "new": true,
+   "score": 0.2899,
+   "rank": 189
+  },
+  {
+   "char": "累",
+   "pinyin": [
+    "lèi"
+   ],
+   "meaning": "tired; weary; to strain",
+   "components": [
+    "田",
+    "糸"
+   ],
+   "words": [
+    "累"
+   ],
+   "word_count": 1,
+   "freq_rank": 1321,
+   "new": true,
+   "score": 0.2879,
+   "rank": 190
+  },
+  {
+   "char": "舒",
+   "pinyin": [
+    "shū"
+   ],
+   "meaning": "to stretch; to unfold; to relax",
+   "components": [
+    "人",
+    "干",
+    "口",
+    "龴",
+    "㇖",
+    "亅"
+   ],
+   "words": [
+    "舒服"
+   ],
+   "word_count": 1,
+   "freq_rank": 1457,
+   "new": true,
+   "score": 0.2837,
+   "rank": 191
+  },
+  {
+   "char": "颜",
+   "pinyin": [
+    "yán"
+   ],
+   "meaning": "color; face; countenance",
+   "components": [
+    "立",
+    "厂",
+    "彡",
+    "页"
+   ],
+   "words": [
+    "颜色"
+   ],
+   "word_count": 1,
+   "freq_rank": 1543,
+   "new": true,
+   "score": 0.2812,
+   "rank": 192
+  },
+  {
+   "char": "疼",
+   "pinyin": [
+    "téng"
+   ],
+   "meaning": "(it) hurts; sore; to love dearly",
+   "components": [
+    "疒",
+    "夂",
+    "⺀"
+   ],
+   "words": [
+    "疼"
+   ],
+   "word_count": 1,
+   "freq_rank": 1708,
+   "new": true,
+   "score": 0.2767,
+   "rank": 193
+  },
+  {
+   "char": "晴",
+   "pinyin": [
+    "qíng"
+   ],
+   "meaning": "clear; fine (weather)",
+   "components": [
+    "日",
+    "青"
+   ],
+   "words": [
+    "晴"
+   ],
+   "word_count": 1,
+   "freq_rank": 1965,
+   "new": true,
+   "score": 0.2707,
+   "rank": 194
+  },
+  {
+   "char": "裤",
+   "pinyin": [
+    "kù"
+   ],
+   "meaning": "underpants; trousers; pants",
+   "components": [
+    "衤",
+    "广",
+    "车"
+   ],
+   "words": [
+    "裤子"
+   ],
+   "word_count": 1,
+   "freq_rank": 2086,
+   "new": true,
+   "score": 0.2681,
+   "rank": 195
+  },
+  {
+   "char": "啡",
+   "pinyin": [
+    "fēi"
+   ],
+   "meaning": "(used in loanwords for its phonetic value)",
+   "components": [
+    "口",
+    "非"
+   ],
+   "words": [
+    "咖啡"
+   ],
+   "word_count": 1,
+   "freq_rank": 2321,
+   "new": true,
+   "score": 0.2634,
+   "rank": 196
+  },
+  {
+   "char": "篮",
+   "pinyin": [
+    "lán"
+   ],
+   "meaning": "basket (receptacle); basket (in basketball)",
+   "components": [
+    "⺮",
+    "丨",
+    "丨",
+    "丿",
+    "一",
+    "丶",
+    "皿"
+   ],
+   "words": [
+    "篮球"
+   ],
+   "word_count": 1,
+   "freq_rank": 2352,
+   "new": true,
+   "score": 0.2629,
+   "rank": 197
+  },
+  {
+   "char": "咖",
+   "pinyin": [
+    "kā"
+   ],
+   "meaning": "coffee; class; grade",
+   "components": [
+    "口",
+    "力",
+    "口"
+   ],
+   "words": [
+    "咖啡"
+   ],
+   "word_count": 1,
+   "freq_rank": 2374,
+   "new": true,
+   "score": 0.2624,
+   "rank": 198
+  },
+  {
+   "char": "踢",
+   "pinyin": [
+    "tī"
+   ],
+   "meaning": "to kick; to play (e.g. soccer); (slang) butch (in a lesbian relationship)",
+   "components": [
+    "⻊",
+    "日",
+    "勹"
+   ],
+   "words": [
+    "踢"
+   ],
+   "word_count": 1,
+   "freq_rank": 2439,
+   "new": true,
+   "score": 0.2613,
+   "rank": 199
+  },
+  {
+   "char": "泳",
+   "pinyin": [
+    "yǒng"
+   ],
+   "meaning": "swimming; to swim",
+   "components": [
+    "氵",
+    "㇆",
+    "㇇",
+    "丶"
+   ],
+   "words": [
+    "游泳"
+   ],
+   "word_count": 1,
+   "freq_rank": 2602,
+   "new": true,
+   "score": 0.2585,
+   "rank": 200
+  }
+ ]
+}

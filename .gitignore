@@ -1,0 +1,6 @@
+﻿# text extracted from copyrighted PDFs / official practice tests - not redistributed
+build/raw/
+build/raw2/
+__pycache__/
+*.pyc
+.claude/

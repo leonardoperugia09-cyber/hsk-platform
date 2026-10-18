@@ -1,0 +1,150 @@
+我|pron.|I; me|
+我们|pron.|we; us|
+你|pron.|you|
+他|pron.|he; him|
+她|pron.|she; her|
+这|pron.|this; (这儿) here|
+那|pron.|that; (那儿) there|
+哪|pron.|which|
+哪儿|pron.|where|
+谁|pron.|who|
+什么|pron.|what|
+多少|pron.|how many; how much|duōshao
+几|pron.|how many; a few|
+怎么|pron.|how|
+怎么样|pron.|how about; how is it|
+一|num.|one|
+二|num.|two|
+三|num.|three|
+四|num.|four|
+五|num.|five|
+六|num.|six|
+七|num.|seven|
+八|num.|eight|
+九|num.|nine|
+十|num.|ten|
+个|mw.|(general measure word)|
+岁|mw.|year (of age)|
+本|mw.|(measure word for books)|
+些|mw.|some|
+块|mw.|piece; yuan (colloquial)|
+不|adv.|not; no|
+没|adv.|not (have); did not|
+很|adv.|very|
+太|adv.|too; extremely|
+都|adv.|all; both|
+一点儿|num.|a little; a bit|
+和|conj.|and; with|
+在|prep.|in; at; to be (somewhere)|
+的|part.|of; 's (possessive / descriptive particle)|
+了|part.|(particle for a completed action or a change)|
+吗|part.|(question particle for yes/no questions)|
+呢|part.|(question particle: and …? / what about …?)|
+喂|interj.|hello (on the phone)|
+家|n.|home; family|
+学校|n.|school|
+饭店|n.|restaurant; hotel|
+商店|n.|shop; store|
+医院|n.|hospital|
+中国|n.|China|zhōngguó
+北京|n.|Beijing|
+上|n.|up; on; above|
+下|n.|down; under; below|
+前面|n.|front; in front|
+后面|n.|behind; at the back|
+里|n.|inside; in|lǐ
+今天|n.|today|
+明天|n.|tomorrow|
+昨天|n.|yesterday|
+上午|n.|morning|
+中午|n.|noon|
+下午|n.|afternoon|
+年|n.|year|
+月|n.|month; moon|
+号|n.|day of the month; number|
+星期|n.|week|
+点|mw.|o'clock|
+分钟|n.|minute|
+现在|n.|now|
+时候|n.|time; moment|
+爸爸|n.|father; dad|
+妈妈|n.|mother; mum|
+儿子|n.|son|
+女儿|n.|daughter|
+老师|n.|teacher|
+学生|n.|student|xuésheng
+同学|n.|classmate|
+朋友|n.|friend|péngyou
+医生|n.|doctor|
+先生|n.|Mr.; sir; husband|
+小姐|n.|Miss; young lady|
+衣服|n.|clothes|
+水|n.|water|
+菜|n.|dish (of food); vegetable|
+米饭|n.|(cooked) rice|
+水果|n.|fruit|
+苹果|n.|apple|
+茶|n.|tea|
+杯子|n.|cup; glass|
+钱|n.|money|
+飞机|n.|airplane|
+出租车|n.|taxi|
+电视|n.|television; TV|
+电脑|n.|computer|
+电影|n.|film; movie|
+天气|n.|weather|
+猫|n.|cat|
+狗|n.|dog|
+东西|n.|thing; stuff|
+人|n.|person; people|
+名字|n.|name|
+书|n.|book|
+汉语|n.|Chinese (language)|
+字|n.|(Chinese) character; word|
+桌子|n.|table; desk|
+椅子|n.|chair|
+谢谢|v.|thank you; to thank|
+不客气|phr.|you're welcome|búkèqi
+再见|v.|goodbye|
+请|v.|please; to invite|
+对不起|v.|sorry|duìbuqǐ
+没关系|phr.|it doesn't matter; never mind|méi guānxi
+是|v.|to be|
+有|v.|to have; there is|
+看|v.|to look; to watch; to read|
+听|v.|to listen|
+说|v.|to speak; to say|
+读|v.|to read (aloud)|
+写|v.|to write|
+看见|v.|to see|
+叫|v.|to call; to be called|
+来|v.|to come|
+回|v.|to return; to go back|
+去|v.|to go|
+吃|v.|to eat|
+喝|v.|to drink|
+睡觉|v.|to sleep|
+打电话|v.|to make a phone call|
+做|v.|to do; to make|
+买|v.|to buy|
+开|v.|to open; to drive|
+坐|v.|to sit; to take (a bus, plane)|
+住|v.|to live (somewhere)|
+学习|v.|to study; to learn|
+工作|v./n.|to work; job|
+下雨|v.|to rain|
+爱|v.|to love|
+喜欢|v.|to like|xǐhuan
+想|v.|to want; to think; to miss|
+认识|v.|to know (a person); to recognize|
+会|v.|can (learned skill); will|
+能|v.|can; to be able to|
+好|adj.|good; well|
+大|adj.|big; large|
+小|adj.|small; little|
+多|adj.|many; much|
+少|adj.|few; little|
+冷|adj.|cold|
+热|adj.|hot|
+高兴|adj.|happy; glad|
+漂亮|adj.|pretty; beautiful|

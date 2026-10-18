@@ -1,0 +1,93 @@
+TOP 50
+   1  便    	biàn          	×19  in 5/5	freq 55339  	0.957	then; (formal) = 就
+   2  古代   	gǔdài         	×23  in 5/5	freq 8438   	0.940	ancient times
+   3  方式   	fāngshì       	×20  in 5/5	freq 16797  	0.937	way; method; manner
+   4  如何   	rúhé          	×17  in 5/5	freq 19871  	0.919	how; what about
+   5  产生   	chǎnshēng     	×14  in 5/5	freq 19495  	0.894	to produce; to give rise to
+   6  建筑   	jiànzhù       	×14  in 5/5	freq 14397  	0.887	building; architecture
+   7  利用   	lìyòng        	×13  in 5/5	freq 13559  	0.876	to use; to make use of
+   8  目前   	mùqián        	×11  in 5/5	freq 18396  	0.862	at present; currently
+   9  老板   	lǎobǎn        	×14  in 5/5	freq 4402   	0.861	boss; shopkeeper
+  10  制作   	zhìzuò        	×13  in 5/5	freq 4804   	0.853	to make; to produce (crafts, programmes)
+  11  论文   	lùnwén        	×15  in 5/5	freq 1875   	0.851	thesis; paper
+  12  分析   	fēnxī         	×11  in 5/5	freq 11086  	0.850	to analyse
+  13  单位   	dānwèi        	×10  in 5/5	freq 17532  	0.848	unit; workplace
+  14  组织   	zǔzhī         	×9   in 5/5	freq 26922  	0.845	to organize; organization
+  15  结合   	jiéhé         	×11  in 5/5	freq 8462   	0.844	to combine
+  16  行为   	xíngwéi       	×17  in 4/5	freq 8963   	0.842	behaviour; conduct
+  17  目标   	mùbiāo        	×10  in 5/5	freq 11527  	0.839	goal; target
+  18  生产   	shēngchǎn     	×13  in 4/5	freq 32898  	0.836	to produce; to manufacture
+  19  现象   	xiànxiàng     	×10  in 5/5	freq 9054   	0.834	phenomenon
+  20  特色   	tèsè          	×10  in 5/5	freq 8092   	0.831	distinguishing feature; characteristic
+  21  拍    	pāi           	×10  in 5/5	freq 6035   	0.825	to pat; to clap; to take (a photo); to shoot (a film)
+  22  设计   	shèjì         	×14  in 4/5	freq 12474  	0.824	to design; design
+  23  从而   	cóng'ér       	×9   in 5/5	freq 7775   	0.817	thus; thereby
+  24  人员   	rényuán       	×12  in 4/5	freq 19810  	0.814	staff; personnel
+  25  企业   	qǐyè          	×17  in 3/5	freq 34826  	0.812	enterprise; company
+  26  基本   	jīběn         	×7   in 5/5	freq 20479  	0.808	basic; basically
+  27  享受   	xiǎngshòu     	×10  in 5/5	freq 2791   	0.808	to enjoy
+  28  形象   	xíngxiàng     	×9   in 5/5	freq 4911   	0.807	image; vivid
+  29  实验   	shíyàn        	×14  in 4/5	freq 5742   	0.806	experiment
+  30  产品   	chǎnpǐn       	×11  in 4/5	freq 22801  	0.806	product
+  31  评价   	píngjià       	×15  in 4/5	freq 3476   	0.804	to evaluate; evaluation
+  32  办理   	bànlǐ         	×10  in 5/5	freq 2142   	0.802	to handle; to go through (a procedure)
+  33  领导   	lǐngdǎo       	×10  in 4/5	freq 31739  	0.802	leader; to lead
+  34  充分   	chōngfèn      	×8   in 5/5	freq 7052   	0.800	ample; full
+  35  项目   	xiàngmù       	×7   in 5/5	freq 13257  	0.798	project; item
+  36  色彩   	sècǎi         	×9   in 5/5	freq 3195   	0.797	colour; hue
+  37  员工   	yuángōng      	×14  in 4/5	freq 3748   	0.797	staff; employee
+  38  作为   	zuòwéi        	×6   in 5/5	freq 28567  	0.797	as; to act as
+  39  通常   	tōngcháng     	×12  in 4/5	freq 8161   	0.794	usually; normal
+  40  保存   	bǎocún        	×14  in 4/5	freq 3073   	0.793	to preserve; to save (a file)
+  41  专家   	zhuānjiā      	×11  in 4/5	freq 11094  	0.790	expert; specialist
+  42  发表   	fābiǎo        	×7   in 5/5	freq 8028   	0.787	to publish; to express (an opinion)
+  43  未来   	wèilái        	×7   in 5/5	freq 6069   	0.781	future
+  44  属于   	shǔyú         	×11  in 4/5	freq 6871   	0.780	to belong to
+  45  地区   	dìqū          	×8   in 4/5	freq 39590  	0.779	area; region
+  46  人类   	rénlèi        	×10  in 4/5	freq 9464   	0.775	mankind; humanity
+  47  以及   	yǐjí          	×8   in 4/5	freq 30775  	0.773	as well as; and
+  48  表现   	biǎoxiàn      	×9   in 4/5	freq 15867  	0.773	to behave; to show; performance
+  49  改善   	gǎishàn       	×7   in 5/5	freq 4262   	0.773	to improve (conditions)
+  50  训练   	xùnliàn       	×10  in 4/5	freq 7829   	0.770	to train; training
+
+BOTTOM 20
+1282  苗条   	miáotiao      	×0   in 0/5	freq 160    	0.113	slim; slender
+1283  看不起  	kànbuqǐ       	×0   in 0/5	freq 153    	0.112	to look down on
+1284  感想   	gǎnxiǎng      	×0   in 0/5	freq 141    	0.110	thoughts; impressions
+1285  成语   	chéngyǔ       	×0   in 0/5	freq 129    	0.108	idiom (usually four characters)
+1286  灰心   	huīxīn        	×0   in 0/5	freq 120    	0.107	discouraged; to lose heart
+1287  执照   	zhízhào       	×0   in 0/5	freq 107    	0.104	licence; permit
+1288  标点   	biāodiǎn      	×0   in 0/5	freq 106    	0.104	punctuation
+1289  着火   	zháohuǒ       	×0   in 0/5	freq 98     	0.102	to catch fire
+1290  梳子   	shūzi         	×0   in 0/5	freq 85     	0.099	comb
+1291  小气   	xiǎoqi        	×0   in 0/5	freq 84     	0.099	stingy; petty
+1292  朗读   	lǎngdú        	×0   in 0/5	freq 77     	0.097	to read aloud
+1293  能干   	nénggàn       	×0   in 0/5	freq 77     	0.097	capable; competent
+1294  胆小鬼  	dǎnxiǎoguǐ    	×0   in 0/5	freq 76     	0.097	coward
+1295  退步   	tuìbù         	×0   in 0/5	freq 71     	0.095	to regress; to fall behind
+1296  夹子   	jiāzi         	×0   in 0/5	freq 61     	0.092	clip; folder
+1297  粘贴   	zhāntiē       	×0   in 0/5	freq 59     	0.091	to paste; to stick
+1298  时差   	shíchā        	×0   in 0/5	freq 52     	0.088	time difference; jet lag
+1299  桔子   	júzi          	×0   in 0/5	freq 35     	0.080	tangerine; orange
+1300  叉子   	chāzi         	×0   in 0/5	freq 31     	0.077	fork
+1301  系领带  	jìlǐngdài     	×0   in 0/5	freq 9      	0.051	to tie a necktie
+
+HSK5 words that appear in the tests: 939 / 1301
+HSK4 words that appear in the tests: 474 / 600
+
+DAY BATCHES
+Day  1: 100 words, ranks 1-100, 100 seen in tests | 便 古代 方式 如何 产生 建筑 利用 目前 …
+Day  2: 100 words, ranks 101-200, 100 seen in tests | 具体 食物 观察 取消 自动 政府 从事 感受 …
+Day  3: 100 words, ranks 201-300, 100 seen in tests | 地理 指导 恢复 单独 建设 甲 发挥 决赛 …
+Day  4: 100 words, ranks 301-400, 100 seen in tests | 灵活 教材 过分 平常 雾 宣传 闻 摄影 …
+Day  5: 100 words, ranks 401-500, 100 seen in tests | 武术 象棋 意外 导演 涨 官 平 劳动 …
+Day  6: 100 words, ranks 501-600, 100 seen in tests | 围巾 结论 差别 简直 病毒 想象 成长 口味 …
+Day  7: 100 words, ranks 601-700, 100 seen in tests | 恭喜 亮 金属 象征 承担 厘米 密切 出示 …
+Day  8: 100 words, ranks 701-800, 100 seen in tests | 分配 一致 枪 始终 突出 绝对 硬 公开 …
+Day  9: 100 words, ranks 801-900, 100 seen in tests | 拆 日用品 输入 小麦 奋斗 严肃 交往 庆祝 …
+Day 10: 100 words, ranks 901-1000, 39 seen in tests | 零件 幼儿园 字幕 上当 冷淡 光盘 改正 刻苦 …
+Day 11: 100 words, ranks 1001-1100, 0 seen in tests | 呆 套 必然 具备 吓 恨 原料 挥 …
+Day 12: 100 words, ranks 1101-1200, 0 seen in tests | 煤炭 伙伴 去世 欠 一律 戒 不安 悄悄 …
+Day 13: 101 words, ranks 1201-1301, 0 seen in tests | 绳子 王子 作文 总共 发抖 被子 假装 熟练 …
+
+HSK4 words in tests (top 40): 得×61 而×50 正确×48 等×44 当×36 刚×29 研究×28 与×27 却×25 通过×25 内×24 使×24 因此×24 进行×23 生活×23 许多×23 由×22 感觉×21 出现×20 顾客×19 家具×19 同时×18 以×17 过程×16 活动×16 使用×16 对话×15 于是×15 结果×14 篇×14 情况×14 比如×13 不仅×13 特点×13 原因×13 不过×12 成为×12 发展×12 方法×12 国际×12

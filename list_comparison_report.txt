@@ -1,0 +1,31 @@
+HanziStroke entries: 1300 (unique 1300)
+MandarinBean HSK5 entries: 1300 (unique 1300)
+MandarinBean HSK4 entries: 600 (unique 600)
+duplicates in HanziStroke: []
+duplicates in MandarinBean5: []
+duplicates in MandarinBean4: []
+only in HanziStroke (1): ['差别']
+only in MandarinBean (1): ['方式']
+pinyin differences (21):
+  唉: HanziStroke=ài | MandarinBean=āi
+  不见得: HanziStroke=bú jiàn de | MandarinBean=bújiàndé
+  打交道: HanziStroke=dǎ jiāo dào | MandarinBean=dǎjiāodao
+  动画片: HanziStroke=dòng huà piān | MandarinBean=dònghuàpiàn
+  干活儿: HanziStroke=gàn huó er | MandarinBean=gànhuór
+  划: HanziStroke=huà | MandarinBean=huá
+  教训: HanziStroke=jiào xun | MandarinBean=jiàoxùn
+  老婆: HanziStroke=lǎo po | MandarinBean=lǎopó
+  力量: HanziStroke=lì liang | MandarinBean=lìliàng
+  苗条: HanziStroke=miáo tiáo | MandarinBean=miáotiao
+  脑袋: HanziStroke=nǎo dài | MandarinBean=nǎodai
+  嗯: HanziStroke=ng | MandarinBean=en
+  欧洲: HanziStroke=oū zhōu | MandarinBean=Ōuzhōu
+  佩服: HanziStroke=pèi fú | MandarinBean=pèifu
+  使劲儿: HanziStroke=shǐ jìn er | MandarinBean=shǐjìnr
+  委屈: HanziStroke=wěi qū | MandarinBean=wěiqu
+  位置: HanziStroke=wèi zhi | MandarinBean=wèizhì
+  下载: HanziStroke=xià zǎi | MandarinBean=xiàzài
+  学问: HanziStroke=xué wèn | MandarinBean=xuéwen
+  元旦: HanziStroke=yuán dàn | MandarinBean=uándàn
+  周到: HanziStroke=zhōu dao | MandarinBean=zhōudào
+HSK5 words also in HSK4 list: []

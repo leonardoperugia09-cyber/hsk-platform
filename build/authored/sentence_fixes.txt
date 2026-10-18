@@ -1,0 +1,118 @@
+被子|天冷了，晚上睡觉要用厚被子。|It's getting cold; use a thick quilt when you sleep at night.
+册|这些历史书一共有三册。|These history books come in three volumes.
+超级|今天的作业超级多，我写了三个小时。|There was a super amount of homework today; it took me three hours.
+程度|他的汉语水平已经到了很高的程度。|His Chinese has already reached a very high level.
+翅膀|这只小鸟的翅膀很漂亮。|This little bird's wings are very pretty.
+除非|除非你自己去请他，否则他不会来。|He won't come unless you go and invite him yourself.
+处理|这件事情我会马上处理。|I'll deal with this matter right away.
+从此|他们毕业后去了不同的城市，从此再也没见过面。|After graduating they went to different cities and never met again from then on.
+粗糙|这种纸很粗糙，不适合用来写字。|This kind of paper is rough and not suitable for writing on.
+贷款|他向银行贷款买了一辆汽车。|He took out a bank loan to buy a car.
+代替|今天王老师有事，由李老师代替他上课。|Teacher Wang is busy today, so Teacher Li is teaching in his place.
+当心|下雪了，开车要当心。|It's snowing; be careful driving.
+岛屿|这个国家有很多美丽的岛屿。|This country has many beautiful islands.
+的确|这个地方的景色的确很美。|The scenery here is indeed beautiful.
+兑换|我想去银行兑换一些美元。|I want to go to the bank to exchange some US dollars.
+吨|这辆车一次可以拉五吨水果。|This truck can carry five tons of fruit at a time.
+多亏|多亏你提醒我，否则我就忘了。|Thanks to your reminder; otherwise I would have forgotten.
+疯狂|为了买到这场演出的票，很多人都疯狂了。|Many people went crazy trying to get tickets for this show.
+盖|他用报纸把桌子上的菜盖了起来。|He covered the dishes on the table with a newspaper.
+公寓|他在学校附近租了一个公寓。|He rented an apartment near the school.
+规矩|每个地方都有自己的规矩。|Every place has its own rules.
+规则|参加比赛的人都应该了解比赛规则。|Everyone taking part should know the rules of the competition.
+国王|很久以前，有一个国王，他有三个女儿。|Long ago there was a king who had three daughters.
+过敏|我对牛奶过敏，不能喝。|I'm allergic to milk and can't drink it.
+忽视|我们不能忽视孩子的健康问题。|We must not neglect children's health problems.
+幻想|他总是幻想自己能成为有名的演员。|He always fantasizes about becoming a famous actor.
+恢复|休息了几天，他的身体恢复得很快。|After a few days' rest, he recovered quickly.
+汇率|今天美元的汇率是多少？|What is the dollar exchange rate today?
+夹子|请用夹子把这些纸放在一起。|Please keep these papers together with a clip.
+甲|对话里的甲是一位老师。|Speaker A in the dialogue is a teacher.
+乙|对话里的乙是一名学生。|Speaker B in the dialogue is a student.
+肩膀|他让孩子坐在自己的肩膀上看表演。|He let the child sit on his shoulders to watch the show.
+剪刀|请把那把剪刀拿给我。|Please bring me that pair of scissors.
+简直|这里的景色简直太美了！|The scenery here is simply too beautiful!
+胶水|信封需要用胶水封好再寄出去。|The envelope needs to be sealed with glue before being posted.
+扩大|公司打算明年扩大招聘的人数。|The company plans to increase the number of people it recruits next year.
+劳动|我们的美好生活是通过劳动得来的。|Our good life comes through hard work.
+力量|一个人的力量很小，大家一起做才能成功。|One person's strength is small; only by working together can we succeed.
+落后|这个地方的经济还比较落后。|This place's economy is still rather backward.
+媒体|很多媒体的记者都来参加了今天的活动。|Reporters from many media outlets came to today's event.
+面积|这个房间的面积有多大？|How big is this room?
+苗条|她每天锻炼，所以一直很苗条。|She exercises every day, so she has always been slim.
+描写|这本小说描写了北京人的生活。|This novel depicts the lives of Beijing people.
+模糊|我没戴眼镜，看什么都很模糊。|I'm not wearing my glasses, so everything looks blurry.
+农业|这个国家的农业发展得很快。|This country's agriculture is developing fast.
+平|这条路很平，开车很舒服。|This road is very flat and comfortable to drive on.
+轻视|我们不能轻视任何一场比赛。|We must not underestimate any match.
+娶|他去年娶了自己的大学同学。|Last year he married his university classmate.
+圈|他每天早上在公园里跑两圈。|Every morning he runs two laps in the park.
+人事|她在公司负责人事工作。|She is in charge of personnel work at the company.
+软件|这个软件可以帮助你学习汉语。|This software can help you learn Chinese.
+色彩|这张画的色彩非常丰富。|The colours of this painting are very rich.
+晒|今天太阳很好，把衣服拿出去晒一晒。|The sun is nice today; take the clothes out to dry in the sun.
+闪电|天上突然出现了一道闪电。|A flash of lightning suddenly appeared in the sky.
+身材|为了有一个好身材，她每天都去跑步。|To have a good figure, she goes running every day.
+身份|请带上能证明您身份的材料。|Please bring documents that prove your identity.
+神话|这是一个很有名的中国神话故事。|This is a very famous Chinese myth.
+生产|这家公司主要生产儿童家具。|This company mainly produces children's furniture.
+绳子|这条绳子太短了，换一条长的吧。|This rope is too short; get a longer one.
+诗|他从小就喜欢读诗。|He has liked reading poetry since childhood.
+手续|出国留学的手续需要很长时间才能办好。|The formalities for studying abroad take a long time to complete.
+寿命|人的寿命越来越长了。|People's lifespans are getting longer and longer.
+摔倒|他跑得太快，不小心摔倒了。|He ran too fast and fell over.
+思想|这本书介绍了他的主要思想。|This book introduces his main ideas.
+损失|这次失败给公司带来了很大的损失。|This failure brought the company great losses.
+逃|那只小鸟从窗户逃走了。|That little bird escaped through the window.
+特殊|今天对我来说是特殊的一天。|Today is a special day for me.
+体验|我想去南方体验一下那里的生活。|I'd like to go to the south to experience life there.
+痛苦|这次失败让他非常痛苦。|This failure caused him great pain.
+土地|这里的土地很适合种水果。|The land here is very suitable for growing fruit.
+歪|你的帽子戴歪了。|Your hat is on crooked.
+外公|外公每天早上去公园散步。|Grandpa goes for a walk in the park every morning.
+王子|故事里的王子爱上了一个穷人家的女儿。|The prince in the story fell in love with the daughter of a poor family.
+违反|他因为违反交通规定被警察批评了。|He was reprimanded by the police for breaking traffic regulations.
+围巾|妈妈送给我一条红围巾。|Mum gave me a red scarf.
+尾巴|小狗的尾巴又短又可爱。|The puppy's tail is short and cute.
+文字|汉字是世界上历史最长的文字之一。|Chinese characters are one of the scripts with the longest history in the world.
+问候|他每年春节都打电话问候老师。|Every Spring Festival he phones to send his regards to his teacher.
+卧室|我家有两个卧室和一个客厅。|My home has two bedrooms and a living room.
+握手|比赛结束后，两个人友好地握手。|After the match, the two shook hands in a friendly way.
+无数|晚上的天上有无数的星星。|There are countless stars in the night sky.
+物质|这种物质对人的身体没有好处。|This substance does the human body no good.
+享受|周末他喜欢在家享受安静的生活。|At weekends he likes to enjoy a quiet life at home.
+消失|太阳出来以后，地上的雪很快就消失了。|After the sun came out, the snow on the ground soon disappeared.
+小麦|北方人主要种小麦。|Northerners mainly grow wheat.
+欣赏|我们一边喝茶一边欣赏窗外的景色。|We enjoyed the scenery outside the window while drinking tea.
+形状|这个蛋糕的形状很像一只熊猫。|The shape of this cake looks very much like a panda.
+延长|图书馆的开门时间延长了一个小时。|The library's opening hours have been extended by one hour.
+痒|我的鼻子很痒，可能是感冒了。|My nose is itchy; maybe I've caught a cold.
+遗憾|很遗憾，我不能参加你的生日聚会。|Regrettably, I can't come to your birthday party.
+银|这双筷子是银的，非常贵。|These chopsticks are silver and very expensive.
+应用|这种新技术已经被应用到很多方面。|This new technology has already been applied in many areas.
+玉米|他最喜欢喝妈妈做的玉米汤。|He loves the corn soup his mum makes best.
+灾害|今年这里发生了严重的自然灾害。|A serious natural disaster happened here this year.
+赞美|大家都赞美这里的景色。|Everyone praises the scenery here.
+造成|这场大雨造成了严重的堵车。|This heavy rain caused serious traffic jams.
+展览|图书馆正在举办一个画儿的展览。|The library is holding an exhibition of paintings.
+战争|战争改变了很多人的生活。|War changed many people's lives.
+涨|最近水果的价格又涨了。|Fruit prices have gone up again recently.
+着凉|晚上睡觉别开窗户，小心着凉。|Don't leave the window open when you sleep at night, or you may catch a chill.
+证件|进入大楼时，请带好您的证件。|Please have your ID with you when entering the building.
+执照|他去年拿到了律师执照。|He got his lawyer's licence last year.
+指导|在老师的指导下，他的成绩提高得很快。|Under the teacher's guidance, his grades improved quickly.
+至今|他十年前离开了这里，至今没有回来过。|He left here ten years ago and has not come back to this day.
+中介|我是通过中介租到这个房子的。|I rented this place through an agent.
+抓|警察终于抓住了那个坏人。|The police finally caught that bad man.
+追求|每个人都在追求幸福的生活。|Everyone is pursuing a happy life.
+资格|只有通过考试才有资格参加比赛。|Only by passing the exam are you qualified to take part in the competition.
+字母|密码必须有数字和字母。|The password must have numbers and letters.
+组成|这个班由二十名学生组成。|This class is made up of twenty students.
+组织|学校组织学生去参观长城。|The school organized a student visit to the Great Wall.
+挥|他向我挥手，然后就走了。|He waved at me and then left.
+克|这块蛋糕重一百克。|This piece of cake weighs one hundred grams.
+摸|妈妈用手摸了一下孩子的头。|The mother stroked the child's head with her hand.
+晒|今天太阳很好，把衣服拿出去晒吧。|The sun is nice today; take the clothes out to dry in the sun.
+闻|你闻一下，这花多香啊！|Have a smell — how fragrant this flower is!
+摇|他摇头表示不同意。|He shook his head to show he disagreed.
+直|这条路很直，开车很方便。|This road is very straight and easy to drive on.

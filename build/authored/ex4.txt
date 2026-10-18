@@ -1,0 +1,600 @@
+爱情|这是一个关于爱情的故事。|This is a story about love.
+安排|明天的工作我已经安排好了。|I've already arranged tomorrow's work.
+安全|开车的时候要注意安全。|Pay attention to safety when driving.
+按时|请按时完成作业。|Please finish your homework on time.
+按照|请按照老师说的去做。|Please do as the teacher said.
+百分之|我们班百分之八十的学生都通过了考试。|Eighty percent of our class passed the exam.
+棒|你的汉语说得真棒！|Your Chinese is really great!
+包子|我早上吃了两个包子。|I ate two steamed buns this morning.
+保护|我们应该保护环境。|We should protect the environment.
+保证|我保证明天不会迟到。|I promise I won't be late tomorrow.
+抱|妈妈抱着孩子走进了房间。|The mother walked into the room holding the child.
+抱歉|很抱歉，我来晚了。|I'm very sorry I'm late.
+报名|你报名参加比赛了吗？|Have you signed up for the competition?
+倍|今年的收入是去年的两倍。|This year's income is twice last year's.
+本来|我本来想去，后来没时间了。|I originally wanted to go, but later had no time.
+笨|我真笨，又把钥匙忘了。|How stupid of me — I forgot my keys again.
+比如|我喜欢吃水果，比如苹果和香蕉。|I like fruit, for example apples and bananas.
+毕业|他去年大学毕业了。|He graduated from university last year.
+遍|这本书我看了三遍。|I've read this book three times.
+标准|他的普通话很标准。|His Mandarin is very standard.
+表格|请先把这张表格填好。|Please fill in this form first.
+表示|他点头表示同意。|He nodded to show he agreed.
+表演|孩子们的表演很精彩。|The children's performance was wonderful.
+表扬|老师表扬了他。|The teacher praised him.
+饼干|我买了一盒饼干。|I bought a box of biscuits.
+并且|他会说汉语，并且说得很流利。|He speaks Chinese, and speaks it fluently.
+博士|她是一位历史学博士。|She has a PhD in history.
+不过|这件衣服很漂亮，不过有点儿贵。|This garment is pretty, but a bit expensive.
+不得不|下雨了，我们不得不留在家里。|It rained, so we had to stay at home.
+不管|不管多忙，他每天都锻炼。|No matter how busy he is, he exercises every day.
+不仅|她不仅漂亮，而且很聪明。|She's not only pretty but also very clever.
+部分|这本书的第一部分很有意思。|The first part of this book is very interesting.
+擦|请把桌子擦干净。|Please wipe the table clean.
+猜|你猜我今年多大？|Guess how old I am this year.
+材料|会议的材料已经准备好了。|The meeting materials are ready.
+参观|我们下午去参观北京大学。|We're visiting Peking University this afternoon.
+餐厅|学校的餐厅饭菜很便宜。|The food in the school canteen is cheap.
+差不多|我们俩的个子差不多。|The two of us are about the same height.
+尝|你尝一下这个汤。|Have a taste of this soup.
+长城|我们明天去爬长城。|We're climbing the Great Wall tomorrow.
+长江|长江是中国最长的河。|The Yangtze is China's longest river.
+场|昨天的那场比赛很精彩。|Yesterday's match was brilliant.
+超过|这个行李箱超过二十公斤了。|This suitcase is over twenty kilos.
+厕所|请问，厕所在哪儿？|Excuse me, where is the toilet?
+成功|只要坚持，你一定会成功。|As long as you persevere, you'll definitely succeed.
+成为|他的理想是成为一名医生。|His ideal is to become a doctor.
+诚实|他是一个诚实的人。|He is an honest person.
+乘坐|欢迎乘坐本次航班。|Welcome aboard this flight.
+吃惊|听到这个消息，大家都很吃惊。|Everyone was surprised to hear the news.
+重新|这篇文章你得重新写。|You'll have to rewrite this essay.
+抽烟|这里禁止抽烟。|Smoking is not allowed here.
+出差|经理下周去上海出差。|The manager is going to Shanghai on business next week.
+出发|我们明天早上七点出发。|We set off at seven tomorrow morning.
+出生|我出生在一个小城市。|I was born in a small city.
+出现|天上出现了很多云。|Lots of clouds appeared in the sky.
+厨房|妈妈在厨房做饭。|Mum is cooking in the kitchen.
+传真|请把这些材料传真给我。|Please fax me these materials.
+窗户|请把窗户打开。|Please open the window.
+词语|请用这些词语写一个句子。|Please write a sentence with these words.
+从来|他从来不喝酒。|He never drinks alcohol.
+粗心|他太粗心了，又写错了。|He's too careless — he wrote it wrong again.
+存|我想去银行存钱。|I want to go to the bank to deposit money.
+错误|这篇文章有很多错误。|This essay has a lot of mistakes.
+答案|这个问题的答案是什么？|What's the answer to this question?
+打招呼|见到老师要打招呼。|Say hello when you see your teacher.
+打扮|她今天打扮得很漂亮。|She's dressed up beautifully today.
+打扰|对不起，打扰一下。|Sorry to bother you.
+打印|请帮我打印一下这份材料。|Please print this document for me.
+打折|这家商店的衣服正在打折。|This shop's clothes are on sale.
+打针|孩子很害怕打针。|The child is very afraid of injections.
+大概|他大概明天到。|He'll probably arrive tomorrow.
+大使馆|我去大使馆办签证。|I'm going to the embassy to get a visa.
+大约|从这儿到机场大约要一个小时。|It takes about an hour from here to the airport.
+戴|他戴着一个新手表。|He is wearing a new watch.
+大夫|大夫说我得多休息。|The doctor said I need to rest more.
+当|当我到家的时候，他已经睡了。|When I got home, he was already asleep.
+当时|当时我还很年轻。|At that time I was still very young.
+刀|做饭的时候用刀要小心。|Be careful with the knife when cooking.
+导游|导游带我们参观了长城。|The tour guide showed us around the Great Wall.
+倒|请给我倒一杯水。|Please pour me a glass of water.
+到处|房间里到处都是书。|There are books everywhere in the room.
+到底|你到底想说什么？|What on earth do you want to say?
+道歉|你应该向他道歉。|You should apologise to him.
+得意|考了第一名，他很得意。|He was very pleased with himself for coming first.
+地点|会议的地点改了。|The meeting place has changed.
+得|太晚了，我得回家了。|It's late; I have to go home.
+登机牌|请拿好您的登机牌。|Please keep hold of your boarding pass.
+等|我在门口等你。|I'll wait for you at the door.
+低|这里的温度很低。|The temperature here is very low.
+底|杯子底有一点儿水。|There's a little water at the bottom of the cup.
+地球|我们只有一个地球。|We only have one Earth.
+地址|请写一下你的地址。|Please write down your address.
+掉|我的手机掉在地上了。|My phone fell on the floor.
+调查|我们做了一个关于学生生活的调查。|We did a survey on student life.
+丢|我的钱包丢了。|I've lost my wallet.
+动作|他的动作很快。|His movements are very quick.
+堵车|路上堵车，所以我迟到了。|There was a traffic jam, so I was late.
+肚子|我肚子疼。|I have a stomach ache.
+短信|我给你发了一条短信。|I sent you a text message.
+对于|对于这个问题，你有什么看法？|What's your view on this question?
+对话|请听一段对话。|Please listen to a dialogue.
+对面|银行就在学校对面。|The bank is right opposite the school.
+而|这个菜便宜而好吃。|This dish is cheap and tasty.
+儿童|儿童不能一个人过马路。|Children shouldn't cross the road alone.
+发生|昨天这里发生了什么事？|What happened here yesterday?
+发展|这个城市发展得很快。|This city is developing quickly.
+法律|我们都应该按照法律做事。|We should all act according to the law.
+翻译|你能帮我翻译这句话吗？|Can you translate this sentence for me?
+烦恼|别为这件小事烦恼了。|Don't worry about such a small thing.
+反对|我反对这个计划。|I oppose this plan.
+方法|你学习汉语的方法很好。|Your method of learning Chinese is very good.
+方面|在学习方面，他很努力。|In terms of study, he works very hard.
+方向|我们走错方向了。|We went the wrong way.
+房东|房东人很好。|The landlord is very nice.
+放弃|遇到困难的时候不要放弃。|Don't give up when you meet difficulties.
+放暑假|我们七月放暑假。|Our summer holidays start in July.
+放松|周末好好放松一下吧。|Have a good rest at the weekend.
+份|我要一份饺子。|I'd like a portion of dumplings.
+丰富|这里的水果很丰富。|Fruit here is plentiful.
+否则|快点儿走，否则就来不及了。|Hurry up, otherwise we'll be too late.
+符合|这个答案不符合要求。|This answer doesn't meet the requirements.
+富|他家很富。|His family is very rich.
+付款|您可以用信用卡付款。|You can pay by credit card.
+父亲|我父亲是一名警察。|My father is a police officer.
+复印|请帮我复印两份。|Please make two copies for me.
+复杂|这个问题很复杂。|This problem is very complicated.
+负责|他负责这个工作。|He is responsible for this job.
+改变|来中国以后，他的生活改变了很多。|His life has changed a lot since coming to China.
+干杯|为我们的友谊干杯！|To our friendship — cheers!
+赶|我得赶最后一班车。|I have to catch the last bus.
+敢|她不敢一个人睡觉。|She doesn't dare to sleep alone.
+感动|这个故事让我很感动。|This story moved me a lot.
+感觉|我感觉有点儿冷。|I feel a little cold.
+感情|他们的感情很好。|They are very close.
+感谢|感谢你的帮助。|Thank you for your help.
+干|天气很干，多喝点儿水。|The weather is very dry; drink more water.
+刚|我刚到家。|I've just got home.
+高速公路|高速公路上车很多。|There are lots of cars on the expressway.
+胳膊|我的胳膊很疼。|My arm hurts.
+各|各位同学，大家好！|Hello, everyone!
+公里|学校离我家三公里。|The school is three kilometres from my home.
+工资|他的工资不高。|His salary isn't high.
+功夫|很多外国人喜欢中国功夫。|Many foreigners like Chinese kung fu.
+共同|我们有很多共同的爱好。|We have many hobbies in common.
+够|这些钱够了吗？|Is this money enough?
+购物|周末我喜欢去购物。|I like going shopping at the weekend.
+估计|我估计他不会来了。|I reckon he won't come.
+鼓励|父母一直鼓励我学习汉语。|My parents have always encouraged me to learn Chinese.
+顾客|这家店的顾客很多。|This shop has lots of customers.
+故意|对不起，我不是故意的。|Sorry, I didn't do it on purpose.
+挂|他的衣服挂在门后面。|His clothes are hanging behind the door.
+关键|这次考试很关键。|This exam is crucial.
+观众|观众们都站了起来。|The audience all stood up.
+管理|他负责管理这个饭馆。|He is in charge of managing this restaurant.
+光|房间里没有光，我什么都看不见。|There's no light in the room; I can't see anything.
+广播|我每天早上听广播。|I listen to the radio every morning.
+广告|电视上的广告太多了。|There are too many adverts on TV.
+逛|周末我们去商场逛一下吧。|Let's go and look around the mall at the weekend.
+规定|学校规定学生不能带手机。|The school rules say students can't bring phones.
+国际|这是一所国际学校。|This is an international school.
+国籍|请写一下你的国籍。|Please write your nationality.
+果汁|你想喝果汁还是咖啡？|Would you like juice or coffee?
+过程|学习的过程很重要。|The learning process is very important.
+海洋|海洋里有很多鱼。|There are many fish in the ocean.
+害羞|这个孩子很害羞。|This child is very shy.
+寒假|寒假你打算去哪儿？|Where are you going in the winter holidays?
+汗|跑完步，他出了很多汗。|After running, he sweated a lot.
+航班|我们的航班推迟了。|Our flight has been delayed.
+好处|多运动有很多好处。|Exercising more has many benefits.
+好像|他好像不太高兴。|He seems not very happy.
+号码|这是我的手机号码。|This is my mobile number.
+合格|他的考试成绩合格了。|His exam result was a pass.
+合适|这双鞋我穿很合适。|These shoes fit me well.
+盒子|盒子里有一个礼物。|There's a present in the box.
+厚|今天很冷，你多穿一件厚衣服吧。|It's cold today; wear a thick extra layer.
+后悔|我很后悔没有早点儿学汉语。|I really regret not learning Chinese sooner.
+护士|她是这家医院的护士。|She is a nurse at this hospital.
+互联网|互联网改变了我们的生活。|The Internet has changed our lives.
+互相|同学之间应该互相帮助。|Classmates should help each other.
+怀疑|我怀疑他说的不是真的。|I suspect what he said isn't true.
+回忆|那是我最美的回忆。|That's my most beautiful memory.
+活动|学校下周有很多活动。|The school has lots of activities next week.
+活泼|这个女孩儿很活泼。|This girl is very lively.
+火|天太冷了，我们点个火吧。|It's too cold; let's light a fire.
+获得|他获得了第一名。|He won first place.
+基础|他的汉语基础很好。|He has a good foundation in Chinese.
+激动|听到这个好消息，她激动得哭了。|She was so excited by the good news that she cried.
+积极|他上课回答问题很积极。|He answers questions actively in class.
+积累|学习汉语要多积累词语。|To learn Chinese you need to build up vocabulary.
+及时|谢谢你及时告诉我。|Thanks for telling me in time.
+即使|即使下雨，我也要去。|Even if it rains, I'm going.
+寄|我给妈妈寄了一封信。|I posted a letter to my mum.
+记者|她是一名记者。|She is a journalist.
+计划|你有什么计划？|What plans do you have?
+既然|既然你来了，就一起吃饭吧。|Since you're here, let's eat together.
+技术|他的开车技术很好。|His driving skills are very good.
+继续|休息一下，我们再继续。|Let's rest a bit, then continue.
+家具|我们买了一些新家具。|We bought some new furniture.
+加班|他今天又要加班。|He has to work overtime again today.
+加油站|前面有一个加油站。|There's a petrol station ahead.
+假|这张钱是假的。|This banknote is fake.
+价格|这个手机的价格太高了。|The price of this phone is too high.
+坚持|学习汉语要坚持。|Learning Chinese takes perseverance.
+减肥|她最近在减肥。|She's been trying to lose weight recently.
+减少|我们应该减少用塑料袋。|We should use fewer plastic bags.
+建议|我建议你早点儿出发。|I suggest you set off early.
+将来|你将来想做什么工作？|What job do you want to do in the future?
+奖金|今年的奖金很多。|This year's bonus is big.
+降低|这个月的价格降低了。|Prices went down this month.
+降落|飞机马上就要降落了。|The plane is about to land.
+交|请明天交作业。|Please hand in your homework tomorrow.
+交流|我们经常用汉语交流。|We often communicate in Chinese.
+交通|这个城市的交通很方便。|Transport in this city is very convenient.
+郊区|他住在郊区。|He lives in the suburbs.
+骄傲|父母为他感到骄傲。|His parents are proud of him.
+饺子|过年的时候我们吃饺子。|We eat dumplings at New Year.
+教授|王教授的课很有意思。|Professor Wang's classes are very interesting.
+教育|父母很重视孩子的教育。|Parents value their children's education.
+接受|他接受了我的建议。|He accepted my suggestion.
+接着|吃完饭，他接着工作。|After eating, he carried on working.
+结果|比赛的结果怎么样？|What was the result of the match?
+节|今天上午有三节课。|There are three classes this morning.
+节约|我们要节约用水。|We should save water.
+解释|请你解释一下这个词。|Please explain this word.
+尽管|尽管很累，他还是坚持工作。|Although tired, he kept on working.
+紧张|考试前我很紧张。|I'm very nervous before exams.
+进行|会议正在进行。|The meeting is in progress.
+禁止|这里禁止停车。|Parking is prohibited here.
+精彩|今天的表演很精彩。|Today's performance was wonderful.
+经济|这个国家的经济发展得很快。|This country's economy is growing fast.
+经历|这是我第一次经历这样的事。|This is the first time I've experienced something like this.
+经验|他有很多工作经验。|He has a lot of work experience.
+京剧|你看过京剧吗？|Have you ever seen Beijing opera?
+警察|有问题可以找警察。|If you have a problem you can go to the police.
+景色|这里的景色很美。|The scenery here is beautiful.
+竟然|他竟然不认识我了。|To my surprise, he didn't recognise me.
+竞争|现在找工作竞争很大。|Competition for jobs is fierce now.
+镜子|她在照镜子。|She's looking in the mirror.
+究竟|你究竟去不去？|Are you going or not, after all?
+举|有问题请举手。|Raise your hand if you have a question.
+举办|学校举办了一场音乐会。|The school held a concert.
+举行|新年晚会在下午举行。|The New Year party is held in the afternoon.
+拒绝|他拒绝了我的邀请。|He refused my invitation.
+距离|这两个城市的距离很远。|These two cities are far apart.
+聚会|周末我们有一个聚会。|We have a get-together at the weekend.
+开玩笑|别生气，我在开玩笑。|Don't be angry, I'm joking.
+开心|今天玩儿得很开心。|I had a lot of fun today.
+看法|你对这件事有什么看法？|What's your view on this?
+考虑|让我考虑一下。|Let me think about it.
+烤鸭|北京烤鸭很有名。|Beijing roast duck is famous.
+棵|门口有一棵大树。|There's a big tree by the door.
+科学|他对科学很感兴趣。|He is very interested in science.
+咳嗽|你咳嗽得很厉害，去看医生吧。|Your cough is bad; go and see a doctor.
+可怜|这只小狗真可怜。|This little dog is so pitiful.
+可是|我想去，可是没有时间。|I'd like to go, but I have no time.
+可惜|你没来，真可惜。|What a pity you didn't come.
+客厅|客人坐在客厅里。|The guests are sitting in the living room.
+肯定|他肯定会来的。|He'll definitely come.
+空|冰箱是空的。|The fridge is empty.
+空气|这里的空气很新鲜。|The air here is very fresh.
+恐怕|恐怕明天会下雨。|I'm afraid it may rain tomorrow.
+苦|这个药很苦。|This medicine is very bitter.
+矿泉水|请给我一瓶矿泉水。|Please give me a bottle of mineral water.
+困|我很困，想睡觉。|I'm very sleepy and want to go to bed.
+困难|遇到困难的时候，朋友会帮助你。|When you meet difficulties, friends will help you.
+拉|他拉着我的手。|He was holding my hand.
+垃圾桶|请把它扔进垃圾桶。|Please throw it in the bin.
+辣|我不能吃辣的。|I can't eat spicy food.
+来自|这些留学生来自世界各地。|These overseas students come from all over the world.
+来不及|快点儿，要来不及了！|Hurry up, we're going to be late!
+来得及|别着急，还来得及。|Don't worry, there's still time.
+懒|他太懒了，什么都不想做。|He's too lazy; he doesn't want to do anything.
+浪费|不要浪费时间。|Don't waste time.
+浪漫|这个电影很浪漫。|This film is very romantic.
+老虎|动物园里有两只老虎。|There are two tigers at the zoo.
+冷静|遇到问题要冷静。|Stay calm when you meet problems.
+理发|我想去理发。|I'd like to get a haircut.
+理解|我能理解你的心情。|I understand how you feel.
+理想|你的理想是什么？|What is your ideal?
+礼貌|他是一个很有礼貌的孩子。|He is a very polite child.
+礼拜天|礼拜天我们去公园吧。|Let's go to the park on Sunday.
+厉害|他的汉语真厉害！|His Chinese is really impressive!
+力气|我没有力气了。|I have no strength left.
+例如|我去过很多城市，例如北京、上海。|I've been to many cities, for example Beijing and Shanghai.
+俩|他们俩是好朋友。|The two of them are good friends.
+连|他连饭都没吃就走了。|He left without even eating.
+联系|我们以后多联系。|Let's keep in touch.
+凉快|下雨以后，天气凉快多了。|After the rain it's much cooler.
+零钱|我没有零钱。|I don't have any small change.
+另外|另外，我还想说一件事。|In addition, I want to mention one more thing.
+留|我想留在这儿工作。|I want to stay and work here.
+流利|她的汉语说得很流利。|She speaks Chinese fluently.
+流行|这种衣服现在很流行。|This kind of clothing is very fashionable now.
+乱|你的房间太乱了。|Your room is too messy.
+旅行|我喜欢一个人去旅行。|I like to travel alone.
+律师|他的父亲是律师。|His father is a lawyer.
+麻烦|麻烦你帮我拿一下。|Could I trouble you to hold this for me?
+马虎|做作业不能马虎。|You can't be careless with your homework.
+满|教室里坐满了人。|The classroom is full of people.
+毛|这只小猫的毛很白。|This kitten's fur is very white.
+毛巾|请给我一条毛巾。|Please give me a towel.
+美丽|这是一个美丽的城市。|This is a beautiful city.
+梦|我昨天晚上做了一个梦。|I had a dream last night.
+迷路|我在这个城市迷路了。|I got lost in this city.
+密码|我忘了我的密码。|I forgot my password.
+免费|这个公园是免费的。|This park is free.
+秒|一分钟有六十秒。|A minute has sixty seconds.
+民族|中国有五十六个民族。|China has fifty-six ethnic groups.
+母亲|我的母亲是老师。|My mother is a teacher.
+目的|你来中国的目的是什么？|What's your purpose in coming to China?
+耐心|老师对学生很有耐心。|The teacher is very patient with the students.
+难道|难道你不知道吗？|Don't tell me you didn't know?
+难受|我今天身体很难受。|I feel unwell today.
+内|请在三天内完成。|Please finish within three days.
+内容|这本书的内容很丰富。|This book's content is very rich.
+能力|他的工作能力很高。|His work ability is very high.
+年龄|你的年龄是多少？|What is your age?
+弄|你把我的电脑弄坏了。|You broke my computer.
+暖和|今天天气很暖和。|The weather is warm today.
+偶尔|我偶尔会喝一点儿酒。|I occasionally drink a little alcohol.
+排队|请大家排队上车。|Please queue to get on the bus.
+排列|请按照顺序排列这些句子。|Please put these sentences in order.
+判断|你的判断是对的。|Your judgement is right.
+陪|我陪你去医院吧。|Let me go to the hospital with you.
+批评|老师批评了他。|The teacher criticised him.
+皮肤|她的皮肤很白。|Her skin is very fair.
+脾气|他的脾气不太好。|He has a bad temper.
+篇|我写了一篇文章。|I wrote an article.
+骗|别骗我了！|Stop lying to me!
+乒乓球|中国人很喜欢打乒乓球。|Chinese people love playing table tennis.
+平时|我平时很少看电视。|I seldom watch TV usually.
+破|我的衣服破了。|My clothes are torn.
+葡萄|这些葡萄很甜。|These grapes are very sweet.
+普遍|这种情况很普遍。|This situation is very common.
+普通话|他的普通话很标准。|His Mandarin is very standard.
+其次|首先要努力，其次要有好方法。|First you must work hard; second you need a good method.
+其中|我们班有三十人，其中十个是男生。|There are thirty people in our class, ten of whom are boys.
+气候|这里的气候很好。|The climate here is very good.
+千万|你千万别忘了。|Whatever you do, don't forget.
+签证|我明天要去大使馆办签证。|Tomorrow I have to go to the embassy to get a visa.
+敲|有人在敲门。|Someone is knocking at the door.
+桥|河上有一座桥。|There's a bridge over the river.
+巧克力|孩子们都喜欢吃巧克力。|Children all like chocolate.
+亲戚|过年的时候，亲戚们都来了。|At New Year all the relatives came.
+轻|这个箱子很轻。|This box is very light.
+轻松|考完试，我感到很轻松。|After the exam I felt very relaxed.
+情况|现在的情况怎么样？|What's the situation now?
+穷|他小时候家里很穷。|His family was very poor when he was little.
+区别|这两个词有什么区别？|What's the difference between these two words?
+取|我去银行取钱。|I'm going to the bank to withdraw money.
+全部|我把作业全部做完了。|I've finished all my homework.
+缺点|每个人都有缺点。|Everyone has shortcomings.
+缺少|他缺少工作经验。|He lacks work experience.
+却|他很聪明，却不努力。|He's clever, but doesn't work hard.
+确实|他说的确实是真的。|What he said is indeed true.
+然而|他很努力，然而还是失败了。|He worked hard, but still failed.
+热闹|春节的时候街上很热闹。|The streets are lively at Spring Festival.
+任何|我没有任何问题。|I don't have any questions.
+任务|这个任务很难。|This task is very hard.
+扔|别把东西扔在地上。|Don't throw things on the ground.
+仍然|他仍然住在那个小区。|He still lives in that residential area.
+日记|她每天都写日记。|She writes a diary every day.
+入口|地铁的入口在哪儿？|Where is the subway entrance?
+散步|晚饭后我们去散步吧。|Let's go for a walk after dinner.
+森林|森林里有很多动物。|There are many animals in the forest.
+沙发|他躺在沙发上看电视。|He's lying on the sofa watching TV.
+商量|我们商量一下吧。|Let's talk it over.
+伤心|她哭得很伤心。|She cried very sadly.
+稍微|请稍微等一下。|Please wait a moment.
+勺子|请给我一把勺子。|Please give me a spoon.
+社会|他对社会问题很感兴趣。|He's very interested in social issues.
+深|这条河很深。|This river is very deep.
+申请|我申请了一所美国大学。|I applied to an American university.
+甚至|他忙得甚至没时间吃饭。|He's so busy he doesn't even have time to eat.
+生活|我很喜欢现在的生活。|I really like my life now.
+生命|生命是最重要的。|Life is the most important thing.
+生意|他在做生意。|He's doing business.
+省|坐地铁可以省很多时间。|Taking the subway can save a lot of time.
+剩|冰箱里只剩一个苹果了。|There's only one apple left in the fridge.
+失败|失败了也不要难过。|Don't be sad if you fail.
+失望|他的成绩让父母很失望。|His grades disappointed his parents.
+师傅|师傅，去火车站多少钱？|Driver, how much to the railway station?
+十分|今天十分热。|It's extremely hot today.
+实际|他的实际年龄比看起来大。|His actual age is older than he looks.
+实在|我实在太累了。|I'm really too tired.
+使|这个消息使我很高兴。|This news made me very happy.
+使用|你会使用电脑吗？|Can you use a computer?
+是否|我不知道他是否同意。|I don't know whether he agrees.
+适合|这件衣服很适合你。|This garment really suits you.
+适应|你适应这里的生活了吗？|Have you got used to life here?
+世纪|现在是二十一世纪。|It's now the twenty-first century.
+收|这家店不收信用卡。|This shop doesn't accept credit cards.
+收入|他的收入很高。|His income is very high.
+收拾|快把房间收拾一下。|Hurry up and tidy your room.
+首都|北京是中国的首都。|Beijing is China's capital.
+首先|首先，我要感谢大家。|First of all, I want to thank everyone.
+受不了|天气太热了，我受不了。|It's too hot; I can't stand it.
+受到|他受到了大家的欢迎。|He was welcomed by everyone.
+售货员|售货员很热情。|The shop assistant is very friendly.
+输|我们输了这场比赛。|We lost this match.
+熟悉|我对这个城市很熟悉。|I'm very familiar with this city.
+数量|学生的数量越来越多。|The number of students keeps growing.
+数字|请写下这些数字。|Please write down these numbers.
+帅|她的男朋友很帅。|Her boyfriend is very handsome.
+顺便|你去商店的话，顺便帮我买瓶水。|If you go to the shop, buy me a bottle of water while you're there.
+顺利|祝你考试顺利！|Good luck in your exam!
+顺序|请按照顺序排队。|Please queue in order.
+说明|请看一下使用说明。|Please read the instructions.
+硕士|她正在读硕士。|She is doing a master's degree.
+死|这棵树死了。|This tree has died.
+速度|他开车的速度太快了。|He drives too fast.
+塑料袋|请不要用塑料袋。|Please don't use plastic bags.
+酸|这个苹果有点儿酸。|This apple is a bit sour.
+随便|你随便坐。|Sit wherever you like.
+随着|随着年龄增加，他变得更冷静了。|As he got older, he became calmer.
+孙子|爷爷很爱他的孙子。|Grandpa loves his grandson very much.
+所有|所有的人都来了。|Everyone came.
+台|我买了一台新电脑。|I bought a new computer.
+抬|请帮我抬一下这张桌子。|Please help me lift this table.
+态度|他的工作态度很好。|His attitude to work is very good.
+谈|我们谈一下这件事吧。|Let's talk about this matter.
+弹钢琴|她从小就会弹钢琴。|She has played the piano since she was little.
+汤|这个汤太咸了。|This soup is too salty.
+糖|我喝咖啡不加糖。|I don't take sugar in my coffee.
+躺|他躺在床上看书。|He's lying in bed reading.
+趟|我去了一趟商店。|I made a trip to the shop.
+讨论|我们正在讨论这个问题。|We're discussing this question.
+讨厌|我讨厌下雨天。|I hate rainy days.
+特点|这个城市有什么特点？|What are the features of this city?
+提|他提着一个大箱子。|He's carrying a big suitcase.
+提供|宾馆提供免费早饭。|The hotel provides free breakfast.
+提前|请提前十分钟到。|Please arrive ten minutes early.
+提醒|谢谢你提醒我。|Thanks for reminding me.
+填空|请用下面的词语填空。|Fill in the blanks with the words below.
+条件|这里的生活条件很好。|Living conditions here are very good.
+停|车停在门口。|The car is parked at the door.
+挺|这个电影挺有意思的。|This film is pretty interesting.
+通过|他通过了考试。|He passed the exam.
+通知|会议的时间改了，请通知大家。|The meeting time has changed; please notify everyone.
+同时|他们同时到了。|They arrived at the same time.
+同情|我很同情他。|I really sympathise with him.
+推|请推门。|Please push the door.
+推迟|会议推迟到下周了。|The meeting has been postponed to next week.
+脱|进门请脱鞋。|Please take off your shoes when you come in.
+袜子|我买了几双袜子。|I bought a few pairs of socks.
+完全|我完全同意你的看法。|I completely agree with you.
+往往|周末商场里往往人很多。|Malls tend to be crowded at weekends.
+网球|你会打网球吗？|Can you play tennis?
+网站|这个网站很有用。|This website is very useful.
+危险|在河里游泳很危险。|Swimming in the river is dangerous.
+味道|这个菜的味道很好。|This dish tastes very good.
+卫生间|卫生间在楼上。|The bathroom is upstairs.
+温度|今天的温度很高。|Today's temperature is high.
+文章|这篇文章写得很好。|This article is very well written.
+污染|这条河被污染了。|This river has been polluted.
+无|他无事可做。|He has nothing to do.
+无聊|周末一个人在家很无聊。|It's boring being home alone at the weekend.
+无论|无论多难，我都会坚持。|No matter how hard it is, I'll keep going.
+误会|对不起，是我误会你了。|Sorry, I misunderstood you.
+西红柿|我想买几个西红柿。|I want to buy a few tomatoes.
+吸引|这个广告吸引了很多人。|This advert attracted lots of people.
+咸|这个菜太咸了。|This dish is too salty.
+现金|我身上没有现金。|I don't have any cash on me.
+羡慕|我很羡慕你的工作。|I really envy your job.
+香|妈妈做的菜真香！|Mum's cooking smells so good!
+相反|结果和我想的完全相反。|The result was the complete opposite of what I thought.
+相同|我们的爱好相同。|We have the same hobbies.
+详细|请详细说一下。|Please explain in detail.
+响|电话响了。|The phone is ringing.
+橡皮|我可以借一下你的橡皮吗？|Can I borrow your eraser?
+消息|我有一个好消息告诉你。|I have some good news for you.
+小吃|这里的小吃很有名。|The snacks here are famous.
+小伙子|那个小伙子很帅。|That young man is very handsome.
+小说|我在看一本小说。|I'm reading a novel.
+笑话|他给我们讲了一个笑话。|He told us a joke.
+效果|这个药的效果很好。|This medicine works very well.
+辛苦|你辛苦了，休息一下吧。|You've worked hard; take a break.
+心情|今天我的心情很好。|I'm in a good mood today.
+信封|请把信放进信封里。|Please put the letter in the envelope.
+信息|我在网上查到了很多信息。|I found lots of information online.
+信心|我对这次考试很有信心。|I'm very confident about this exam.
+兴奋|孩子们兴奋得睡不着。|The children were too excited to sleep.
+行|你明天来，行吗？|Come tomorrow, OK?
+醒|我早上六点就醒了。|I woke up at six this morning.
+性别|请在表格上写上你的性别。|Please write your gender on the form.
+性格|她的性格很活泼。|She has a lively personality.
+幸福|祝你们幸福！|I wish you happiness!
+修理|我的自行车需要修理。|My bicycle needs repairing.
+许多|公园里有许多人。|There are many people in the park.
+学期|这个学期我选了五门课。|I've chosen five courses this semester.
+压力|最近工作压力很大。|Work pressure has been high recently.
+牙膏|牙膏用完了。|We've run out of toothpaste.
+亚洲|中国在亚洲。|China is in Asia.
+呀|你怎么才来呀？|Why are you only coming now?
+盐|菜里放一点儿盐。|Add a little salt to the dish.
+严格|我们的老师很严格。|Our teacher is very strict.
+严重|他的病很严重。|His illness is very serious.
+研究|他在研究中国历史。|He's researching Chinese history.
+演出|今天晚上的演出几点开始？|What time does tonight's show start?
+演员|她是一位有名的演员。|She is a famous actress.
+眼镜|我的眼镜找不到了。|I can't find my glasses.
+阳光|今天阳光很好。|The sunshine is lovely today.
+养成|他养成了早起的习惯。|He has formed the habit of getting up early.
+样子|他看起来很累的样子。|He looks very tired.
+邀请|谢谢你的邀请。|Thank you for the invitation.
+要是|要是明天下雨，我们就不去了。|If it rains tomorrow, we won't go.
+钥匙|我的钥匙在哪儿？|Where are my keys?
+也许|也许他已经走了。|Perhaps he has already left.
+页|请打开书，看第五页。|Please open your book to page five.
+叶子|秋天到了，叶子变黄了。|Autumn is here and the leaves have turned yellow.
+一切|一切都会好的。|Everything will be fine.
+以|他以第一名的成绩毕业了。|He graduated with the top results.
+以为|我以为你今天不来了。|I thought you weren't coming today.
+意见|你有什么意见吗？|Do you have any suggestions?
+艺术|她对艺术很感兴趣。|She is very interested in art.
+因此|他生病了，因此没来上课。|He was ill, so he didn't come to class.
+引起|这件事引起了大家的注意。|This matter caught everyone's attention.
+印象|他给我留下了很好的印象。|He left a very good impression on me.
+应聘|他去那家公司应聘了。|He applied for a job at that company.
+赢|我们赢了这场比赛！|We won this match!
+勇敢|这个孩子很勇敢。|This child is very brave.
+永远|我永远不会忘记你。|I'll never forget you.
+优点|他的优点是很认真。|His strong point is that he's conscientious.
+优秀|她是一个优秀的学生。|She is an outstanding student.
+幽默|我们老师说话很幽默。|Our teacher is very funny.
+由|这件事由我负责。|I'm responsible for this.
+由于|由于下雨，比赛推迟了。|Due to rain, the match was postponed.
+邮局|邮局几点关门？|What time does the post office close?
+尤其|我喜欢运动，尤其是游泳。|I like sport, especially swimming.
+有趣|这个游戏很有趣。|This game is very interesting.
+友好|这里的人很友好。|The people here are very friendly.
+友谊|我们的友谊很重要。|Our friendship is very important.
+愉快|祝你周末愉快！|Have a pleasant weekend!
+于是|下雨了，于是我们回家了。|It rained, so we went home.
+与|这是我与朋友的照片。|This is a photo of me and my friend.
+语法|汉语语法不太难。|Chinese grammar isn't very hard.
+语言|学习一门语言需要时间。|Learning a language takes time.
+羽毛球|我们去打羽毛球吧。|Let's go and play badminton.
+预习|上课前要预习课文。|Preview the text before class.
+原来|原来是你啊！|Oh, so it's you!
+原谅|请原谅我。|Please forgive me.
+原因|他迟到的原因是什么？|Why was he late?
+约会|今天晚上我有一个约会。|I have a date tonight.
+阅读|阅读可以使人学到很多知识。|Reading lets people gain a lot of knowledge.
+云|天上有很多白云。|There are lots of white clouds in the sky.
+允许|这里不允许抽烟。|Smoking isn't allowed here.
+杂志|我在看一本杂志。|I'm reading a magazine.
+咱们|咱们一起去吧。|Let's go together.
+暂时|我暂时住在朋友家。|I'm staying at a friend's place for the time being.
+脏|你的鞋太脏了。|Your shoes are too dirty.
+责任|这是我的责任。|This is my responsibility.
+增加|学生人数增加了很多。|The number of students has increased a lot.
+占线|他的电话一直占线。|His phone has been engaged the whole time.
+招聘|这家公司在招聘司机。|This company is recruiting drivers.
+照|她在照镜子。|She is looking in the mirror.
+真正|他是我真正的朋友。|He is a true friend of mine.
+整理|我要整理一下房间。|I need to tidy up my room.
+正常|这种情况很正常。|This situation is quite normal.
+正好|你来得正好！|You've come at just the right time!
+正确|这个答案是正确的。|This answer is correct.
+正式|今天的会议很正式。|Today's meeting is very formal.
+证明|请证明你说的是真的。|Please prove that what you say is true.
+之|这是我最喜欢的城市之一。|This is one of my favourite cities.
+支持|谢谢你一直支持我。|Thank you for always supporting me.
+知识|读书可以增加知识。|Reading can increase your knowledge.
+值得|这本书值得一看。|This book is worth reading.
+直接|你直接去找他吧。|Go and find him directly.
+植物|我家里有很多植物。|There are lots of plants in my home.
+职业|你的职业是什么？|What's your occupation?
+指|他指着地图说："我们在这儿。"|Pointing at the map he said, "We're here."
+只好|没有车了，我们只好走回家。|There were no buses, so we had to walk home.
+只要|只要努力，就会成功。|As long as you work hard, you'll succeed.
+质量|这件衣服质量很好。|This garment is of good quality.
+至少|我至少要学习两个小时。|I have to study for at least two hours.
+重|这个箱子太重了。|This box is too heavy.
+重点|这是这节课的重点。|This is the key point of this lesson.
+重视|父母很重视我的学习。|My parents attach great importance to my studies.
+周围|学校周围有很多饭馆。|There are many restaurants around the school.
+主意|这是个好主意。|That's a good idea.
+祝贺|祝贺你考上大学！|Congratulations on getting into university!
+著名|他是一位著名的作家。|He is a famous writer.
+专门|我是专门来看你的。|I came specially to see you.
+专业|你学的是什么专业？|What's your major?
+转|在前面的路口往左转。|Turn left at the junction ahead.
+赚|他每个月赚很多钱。|He earns a lot of money every month.
+准确|他的回答很准确。|His answer is very accurate.
+准时|他每天都准时上班。|He gets to work on time every day.
+仔细|请仔细检查一下。|Please check carefully.
+自然|我们要保护自然。|We should protect nature.
+自信|她是一个很自信的人。|She is a very confident person.
+总结|请总结一下这篇文章的内容。|Please summarise this article.
+租|我在学校附近租了一个房子。|I rented a place near the school.
+最好|你最好早点儿睡。|You'd better go to bed early.
+尊重|我们要尊重老人。|We should respect the elderly.
+左右|他三十岁左右。|He's about thirty.
+座|这座山很高。|This mountain is very high.
+作家|她想成为一名作家。|She wants to become a writer.
+座位|这个座位有人吗？|Is this seat taken?
+作用|这个药没有什么作用。|This medicine has no real effect.
+作者|这本书的作者是谁？|Who is the author of this book?

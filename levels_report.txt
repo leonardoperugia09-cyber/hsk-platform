@@ -1,0 +1,28 @@
+L1: example sentences 150/150
+L2: example sentences 198/198
+L3: example sentences 499/499
+L4: example sentences 600/600
+L6: example sentences 1794/1794
+L1: sentence issues 2
+L2: sentence issues 1
+L3: sentence issues 0
+L4: sentence issues 0
+L6: sentence issues 5
+HSK 1: 150 words, 174 characters (174 not in lower levels), 150 examples — HSK 2.0 (2010)
+HSK 2: 198 words, 200 characters (148 not in lower levels), 198 examples — New HSK list (MandarinBean)
+HSK 3: 499 words, 480 characters (303 not in lower levels), 499 examples — New HSK list (MandarinBean)
+HSK 4: 600 words, 716 characters (422 not in lower levels), 600 examples — HSK 2.0 (2010)
+HSK 5: 1301 words, 1207 characters (625 not in lower levels), 1301 examples — HSK 2.0 (2010)
+HSK 6: 1794 words, 1342 characters (289 not in lower levels), 1794 examples — New HSK list (MandarinBean)
+
+Words that appear in more than one level file:
+  HSK 1 ∩ HSK 2: 3  e.g. 前面 后面 点
+  HSK 1 ∩ HSK 3: 1  e.g. 会
+  HSK 2 ∩ HSK 3: 5  e.g. 地 得 站 过去 长
+  HSK 2 ∩ HSK 4: 2  e.g. 得 等
+  HSK 2 ∩ HSK 5: 1  e.g. 正
+  HSK 3 ∩ HSK 4: 53  e.g. 丢 以为 凉快 出发 出生 刚 到处 勺子 卫生间 发展 发生 受到
+  HSK 3 ∩ HSK 5: 2  e.g. 冰激凌 屋子
+  HSK 3 ∩ HSK 6: 3  e.g. 中 地方 该
+  HSK 4 ∩ HSK 6: 5  e.g. 传真 可怜 结果 转 马虎
+  HSK 5 ∩ HSK 6: 240  e.g. 一再 一律 一辈子 上当 不安 不耐烦 与其 中旬 主张 乐器 争论 交际

@@ -1,0 +1,198 @@
+啊|今天天气很好啊！|What nice weather today!
+爱好|你有什么爱好？|What hobbies do you have?
+白色|我想买一件白色的衣服。|I want to buy a white piece of clothing.
+班|我们班有二十个学生。|Our class has twenty students.
+帮|你能帮我一下吗？|Can you help me for a moment?
+帮忙|谢谢你来帮忙！|Thanks for coming to help!
+包|这个包是我妈妈的。|This bag is my mum's.
+本子|请把名字写在本子上。|Please write your name in the notebook.
+比|我比我哥哥高。|I'm taller than my older brother.
+笔|我的笔在书包里。|My pen is in my schoolbag.
+别|你别走，我们一起吃饭吧。|Don't go — let's eat together.
+不错|这家饭馆的菜很不错。|The food at this restaurant is pretty good.
+不好意思|不好意思，我来晚了。|Sorry, I'm late.
+长|这条路很长。|This road is very long.
+车站|我在车站等你。|I'll wait for you at the station.
+出|他出了门就去车站了。|As soon as he left the house he went to the station.
+出国|她明年想出国学习。|She wants to go abroad to study next year.
+出来|你快出来吧，我在门口。|Come out quickly, I'm at the door.
+出门|今天下雨，我不想出门。|It's raining today; I don't want to go out.
+出去|我们出去走走吧。|Let's go out for a walk.
+床|我的床很舒服。|My bed is very comfortable.
+词|这个词是什么意思？|What does this word mean?
+次|我去过北京两次。|I've been to Beijing twice.
+从|我从学校回来了。|I've come back from school.
+从小|他从小就喜欢踢足球。|He has liked playing football since he was little.
+错|对不起，我写错了。|Sorry, I wrote it wrong.
+打|我们下午去打篮球吧。|Let's play basketball this afternoon.
+打车|太晚了，我们打车回家吧。|It's too late — let's take a taxi home.
+打开|请打开你的书。|Please open your book.
+但|我想去，但没有时间。|I want to go, but I don't have time.
+但是|这件衣服很漂亮，但是太贵了。|This piece of clothing is pretty, but it's too expensive.
+得|他跑得很快。|He runs very fast.
+地|她高兴地笑了。|She laughed happily.
+等|你在这儿等我一会儿。|Wait here for me for a moment.
+地铁|我每天坐地铁去学校。|I take the subway to school every day.
+点|你想点什么菜？|What dishes would you like to order?
+懂|老师说的我都懂。|I understand everything the teacher says.
+动|别动，我看看你的手。|Don't move — let me look at your hand.
+饭馆|学校旁边有一个饭馆。|There is a restaurant next to the school.
+飞|鸟在天上飞。|Birds are flying in the sky.
+高|我爸爸个子很高。|My dad is very tall.
+高中|我哥哥是高中学生。|My older brother is a high-school student.
+告诉|请告诉我你的名字。|Please tell me your name.
+个子|她的个子不高。|She is not tall.
+跟|我跟朋友一起去看电影。|I'm going to see a film with a friend.
+公交车|我们坐公交车去吧。|Let's go by bus.
+过|你去过中国吗？|Have you ever been to China?
+过来|你过来一下，我有事情。|Come over here, I need something.
+过年|过年的时候，我们都回家。|At New Year we all go home.
+过去|过去他不喜欢运动。|In the past he didn't like sport.
+还是|你想喝茶还是咖啡？|Would you like tea or coffee?
+黑色|他有一只黑色的狗。|He has a black dog.
+红茶|我早上喜欢喝红茶。|I like drinking black tea in the morning.
+红色|她喜欢红色的衣服。|She likes red clothes.
+后面|车站后面有一个商场。|There is a mall behind the station.
+花|你花了多少钱？|How much money did you spend?
+画|她在画一只小鸟。|She is drawing a little bird.
+坏|我的电脑坏了。|My computer is broken.
+回来|爸爸什么时候回来？|When is dad coming back?
+回去|太晚了，我们回去吧。|It's late — let's go back.
+机场|我去机场送朋友。|I'm going to the airport to see a friend off.
+机票|我已经买好机票了。|I've already bought the plane ticket.
+记得|你还记得我吗？|Do you still remember me?
+间|这间教室很大。|This classroom is very big.
+教|王老师教我们汉语。|Teacher Wang teaches us Chinese.
+教室|学生们都在教室里。|The students are all in the classroom.
+介绍|我来介绍一下，这是我朋友。|Let me introduce — this is my friend.
+进|请进，请坐。|Please come in and sit down.
+近|我家离学校很近。|My home is very close to school.
+进来|外面很冷，快进来吧。|It's cold outside; come in quickly.
+进去|你先进去，我等一会儿。|You go in first; I'll wait a moment.
+经常|我经常跟朋友去跑步。|I often go running with friends.
+酒店|我们住在机场旁边的酒店。|We're staying at a hotel next to the airport.
+就|我七点就起来了。|I was already up at seven.
+咖啡|我每天早上喝一杯咖啡。|I drink a cup of coffee every morning.
+开始|我们九点开始上课。|We start class at nine.
+开学|下个月就开学了。|School starts next month.
+考|明天考汉语。|We have a Chinese exam tomorrow.
+考试|他考试考得很好。|He did very well in the exam.
+可能|明天可能会下雨。|It may rain tomorrow.
+裤子|这条裤子太长了。|These trousers are too long.
+快|你走得太快了！|You walk too fast!
+快乐|祝你生日快乐！|Happy birthday to you!
+快要|快要考试了，我很忙。|The exam is coming soon; I'm very busy.
+篮球|他们在外面打篮球。|They're playing basketball outside.
+累|我今天很累，想早点儿睡觉。|I'm very tired today and want to sleep early.
+离|医院离这儿远吗？|Is the hospital far from here?
+里面|商场里面人很多。|There are lots of people inside the mall.
+楼|我住在五楼。|I live on the fifth floor.
+路|这条路去机场吗？|Does this road go to the airport?
+路上|路上车很多。|There is a lot of traffic on the road.
+旅游|我们明年去中国旅游。|Next year we're travelling to China.
+绿茶|中国人很喜欢喝绿茶。|Chinese people really like green tea.
+绿色|我喜欢绿色。|I like green.
+慢|请说慢一点儿。|Please speak a bit more slowly.
+没意思|这个电影没意思。|This film is boring.
+每|我每天都学习汉语。|I study Chinese every day.
+门|请开一下门。|Please open the door.
+门口|我在学校门口等你。|I'll wait for you at the school gate.
+门票|门票多少钱？|How much is the entrance ticket?
+面|书的这一面写着我的名字。|My name is written on this side of the book.
+名|我们班有三十名学生。|Our class has thirty students.
+拿|请帮我拿一下这个包。|Please hold this bag for me.
+那么|你那么喜欢他，就告诉他吧。|If you like him that much, tell him.
+那样|你别那样说他。|Don't talk about him like that.
+奶茶|我想喝一杯奶茶。|I'd like a cup of milk tea.
+奶奶|我奶奶今年八十岁了。|My grandmother is eighty this year.
+男孩儿|那个男孩儿是我弟弟。|That boy is my younger brother.
+鸟|树上有一只小鸟。|There is a little bird in the tree.
+女孩儿|那个女孩儿笑得很漂亮。|That girl has a pretty smile.
+旁边|我的家在医院旁边。|My home is next to the hospital.
+跑|小狗跑得很快。|The puppy runs very fast.
+跑步|我每天早上去跑步。|I go running every morning.
+票|你买到电影票了吗？|Did you get the film tickets?
+妻子|他的妻子是医生。|His wife is a doctor.
+起来|你快起来，已经八点了！|Get up quickly, it's already eight!
+前面|前面就是车站。|The station is just ahead.
+晴|明天是晴天。|Tomorrow will be sunny.
+球|你会踢球吗？|Can you play football?
+让|妈妈不让我看电视。|Mum doesn't let me watch TV.
+肉|我不吃肉。|I don't eat meat.
+商场|这个商场的东西很贵。|Things in this mall are expensive.
+上来|你上来吧，我在二楼。|Come up, I'm on the second floor.
+上面|桌子上面有一本书。|There is a book on the table.
+上去|我们走上去吧。|Let's walk up.
+上网|我每天晚上上网。|I go online every evening.
+身体|我爷爷的身体很好。|My grandpa is in good health.
+生日|今天是我的生日。|Today is my birthday.
+时|我到家时，妈妈在做饭。|When I got home, mum was cooking.
+事情|我有一件事情想告诉你。|I have something I want to tell you.
+手|吃饭前要洗手。|Wash your hands before eating.
+手表|这个手表是我爸爸送的。|This watch was a gift from my dad.
+书包|我的书包里有很多书。|There are lots of books in my schoolbag.
+舒服|我今天身体不舒服。|I don't feel well today.
+送|我送你回家吧。|Let me take you home.
+虽然|虽然下雨了，但是他还是来了。|Although it rained, he still came.
+所以|今天很冷，所以我不想出门。|It's cold today, so I don't want to go out.
+疼|我的头很疼。|My head hurts.
+踢|我们下午去踢足球吧。|Let's play football this afternoon.
+题|这个题太难了。|This question is too hard.
+条|这条裤子很好看。|These trousers look nice.
+跳舞|她很喜欢跳舞。|She really likes dancing.
+头|我今天头很疼。|I have a headache today.
+外国|我们学校有很多外国学生。|Our school has many foreign students.
+外面|外面下雨了。|It's raining outside.
+完|我吃完饭就去学习。|I'll study as soon as I finish eating.
+万|这个电脑一万块钱。|This computer costs ten thousand yuan.
+往|一直往前走就到了。|Go straight ahead and you'll be there.
+网上|我经常在网上买东西。|I often buy things online.
+忘|我忘了带书包。|I forgot to bring my schoolbag.
+位|这位是我们的王老师。|This is our teacher, Teacher Wang.
+为什么|你为什么不来？|Why aren't you coming?
+希望|我希望明天是晴天。|I hope tomorrow will be sunny.
+洗|我在洗衣服。|I'm washing clothes.
+洗手间|请问，洗手间在哪儿？|Excuse me, where is the restroom?
+下来|你快下来吧！|Come down quickly!
+下面|椅子下面有一只猫。|There is a cat under the chair.
+下去|我们下去吃饭吧。|Let's go down and eat.
+小孩儿|那个小孩儿很高兴。|That little kid is very happy.
+小时候|我小时候住在北京。|I lived in Beijing when I was little.
+笑|她笑得很高兴。|She smiled happily.
+姓|我姓王，叫王明。|My surname is Wang; my name is Wang Ming.
+姓名|请写一下你的姓名。|Please write your full name.
+颜色|你喜欢什么颜色？|What colour do you like?
+眼睛|她的眼睛很大。|Her eyes are very big.
+药|你吃药了吗？|Have you taken your medicine?
+药店|医院旁边有一个药店。|There is a pharmacy next to the hospital.
+爷爷|我爷爷每天早上跑步。|My grandpa goes running every morning.
+一会儿|请等一会儿。|Please wait a moment.
+已经|我已经吃饭了。|I have already eaten.
+一起|我们一起去吧。|Let's go together.
+意思|这个字是什么意思？|What does this character mean?
+阴|今天是阴天。|It's cloudy today.
+因为|因为下雨，所以我没去。|Because it rained, I didn't go.
+游|那条鱼游得很快。|That fish swims very fast.
+游泳|你会游泳吗？|Can you swim?
+有意思|这本书很有意思。|This book is very interesting.
+有时|我有时坐公交车去学校。|Sometimes I take the bus to school.
+右|往右走就是车站。|Go right and you'll reach the station.
+右边|药店在饭馆的右边。|The pharmacy is to the right of the restaurant.
+鱼|我很喜欢吃鱼。|I really like eating fish.
+远|机场离这儿很远。|The airport is far from here.
+运动|你喜欢什么运动？|What sports do you like?
+站|我们在下一站下车。|We get off at the next stop.
+丈夫|她丈夫是老师。|Her husband is a teacher.
+这么|你怎么来得这么晚？|Why did you come so late?
+这样|这个字要这样写。|This character should be written like this.
+着|她笑着说："你好！"|She said "hello" with a smile.
+正|我正在吃饭。|I'm just eating.
+周|我下周去旅游。|I'm going travelling next week.
+准备|你准备好了吗？|Are you ready?
+自己|我自己去吧。|I'll go by myself.
+走|我们走吧。|Let's go.
+走路|我每天走路去学校。|I walk to school every day.
+足球|他很喜欢踢足球。|He really likes playing football.
+最|我最喜欢的水果是苹果。|My favourite fruit is the apple.
+左|往左走，就是医院。|Go left and you'll find the hospital.
+左边|书包在床的左边。|The schoolbag is to the left of the bed.

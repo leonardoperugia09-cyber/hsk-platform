@@ -1,0 +1,150 @@
+我|我是学生。|I am a student.
+我们|我们都是中国人。|We are all Chinese.
+你|你叫什么名字？|What is your name?
+他|他是我的老师。|He is my teacher.
+她|她是我妈妈。|She is my mother.
+这|这是我的书。|This is my book.
+那|那是谁的杯子？|Whose cup is that?
+哪|你是哪国人？|Which country are you from?
+哪儿|你家在哪儿？|Where is your home?
+谁|那个人是谁？|Who is that person?
+什么|你想吃什么？|What do you want to eat?
+多少|这个苹果多少钱？|How much is this apple?
+几|你家有几个人？|How many people are in your family?
+怎么|你怎么去学校？|How do you get to school?
+怎么样|今天天气怎么样？|What's the weather like today?
+一|我有一个儿子。|I have one son.
+二|今天是二月三号。|Today is February 3rd.
+三|我在北京住了三年。|I lived in Beijing for three years.
+四|他家有四个人。|There are four people in his family.
+五|我五点回家。|I go home at five o'clock.
+六|我女儿今年六岁。|My daughter is six this year.
+七|我们七点吃米饭。|We eat rice at seven.
+八|我八点去学校。|I go to school at eight.
+九|这本书九块钱。|This book is nine yuan.
+十|我们学校有十个老师。|Our school has ten teachers.
+个|我想买一个杯子。|I want to buy a cup.
+岁|你儿子几岁了？|How old is your son?
+本|我买了三本书。|I bought three books.
+些|我想买一些水果。|I want to buy some fruit.
+块|一杯茶五块钱。|A cup of tea is five yuan.
+不|我不喜欢喝茶。|I don't like drinking tea.
+没|我没看见他。|I didn't see him.
+很|今天很热。|It's very hot today.
+太|这个杯子太大了。|This cup is too big.
+都|我们都喜欢猫。|We all like cats.
+一点儿|我会说一点儿汉语。|I can speak a little Chinese.
+和|我和妈妈去商店。|Mum and I go to the shop.
+在|我爸爸在医院工作。|My dad works at the hospital.
+的|这是我的电脑。|This is my computer.
+了|我吃了一个苹果。|I ate an apple.
+吗|你是老师吗？|Are you a teacher?
+呢|我很好，你呢？|I'm fine, and you?
+喂|喂，你在哪儿？|Hello, where are you?
+家|我家有猫和狗。|My family has a cat and a dog.
+学校|我们的学校很大。|Our school is very big.
+饭店|我们中午去饭店吃饭。|We go to a restaurant at noon.
+商店|那个商店的东西很多。|That shop has lots of things.
+医院|我妈妈在医院工作。|My mother works at a hospital.
+中国|我很喜欢中国菜。|I really like Chinese food.
+北京|我朋友住在北京。|My friend lives in Beijing.
+上|书在桌子上。|The book is on the table.
+下|猫在椅子下面。|The cat is under the chair.
+前面|学校前面有一个商店。|There is a shop in front of the school.
+后面|医院后面有很多人。|There are lots of people behind the hospital.
+里|杯子里有水。|There is water in the cup.
+今天|今天是星期几？|What day of the week is it today?
+明天|明天我们去北京。|We are going to Beijing tomorrow.
+昨天|昨天下雨了。|It rained yesterday.
+上午|我上午在家学习。|I study at home in the morning.
+中午|我们中午吃米饭。|We eat rice at noon.
+下午|下午我去商店买东西。|In the afternoon I go shopping.
+年|我学习汉语三年了。|I have studied Chinese for three years.
+月|我七月去中国。|I'm going to China in July.
+号|今天几号？|What's the date today?
+星期|我星期一去学校。|I go to school on Monday.
+点|现在几点了？|What time is it now?
+分钟|我们再坐十分钟。|Let's sit for ten more minutes.
+现在|现在我不想睡觉。|I don't want to sleep now.
+时候|你什么时候回家？|When are you going home?
+爸爸|我爸爸是医生。|My dad is a doctor.
+妈妈|妈妈在家做菜。|Mum is cooking at home.
+儿子|他儿子今年八岁。|His son is eight this year.
+女儿|她女儿很漂亮。|Her daughter is very pretty.
+老师|我们的老师很好。|Our teacher is very good.
+学生|这个学校有很多学生。|This school has many students.
+同学|他是我的同学。|He is my classmate.
+朋友|我有很多中国朋友。|I have many Chinese friends.
+医生|那个医生是我朋友。|That doctor is my friend.
+先生|王先生在家吗？|Is Mr Wang at home?
+小姐|李小姐，你好！|Hello, Miss Li!
+衣服|我想买一些衣服。|I want to buy some clothes.
+水|我想喝一杯水。|I'd like to drink a glass of water.
+菜|这个菜很好吃。|This dish is delicious.
+米饭|我喜欢吃米饭。|I like eating rice.
+水果|你喜欢吃什么水果？|What fruit do you like?
+苹果|桌子上有三个苹果。|There are three apples on the table.
+茶|你想喝茶吗？|Would you like some tea?
+杯子|这个杯子是谁的？|Whose cup is this?
+钱|我没有钱了。|I have no money left.
+飞机|我们坐飞机去北京。|We are flying to Beijing.
+出租车|我们坐出租车去医院。|We take a taxi to the hospital.
+电视|爸爸在家看电视。|Dad is watching TV at home.
+电脑|我的电脑在桌子上。|My computer is on the desk.
+电影|我们明天去看电影。|We're going to see a film tomorrow.
+天气|北京今天天气很好。|The weather in Beijing is very good today.
+猫|我很喜欢猫。|I really like cats.
+狗|我家的狗很大。|My family's dog is very big.
+东西|我去商店买东西。|I'm going to the shop to buy things.
+人|商店里有很多人。|There are lots of people in the shop.
+名字|你的名字怎么写？|How do you write your name?
+书|我在读一本汉语书。|I'm reading a Chinese book.
+汉语|我在学习汉语。|I'm learning Chinese.
+字|这个字怎么读？|How do you read this character?
+桌子|你的书在桌子上。|Your book is on the table.
+椅子|请坐在这个椅子上。|Please sit on this chair.
+谢谢|谢谢你的茶！|Thank you for the tea!
+不客气|谢谢你！——不客气。|Thank you! — You're welcome.
+再见|老师，再见！|Goodbye, teacher!
+请|请喝茶。|Please have some tea.
+对不起|对不起，我来了。|Sorry, I'm here now.
+没关系|对不起！——没关系。|Sorry! — It doesn't matter.
+是|我爸爸是老师。|My dad is a teacher.
+有|你有电脑吗？|Do you have a computer?
+看|我喜欢看电影。|I like watching films.
+听|我在听老师说话。|I'm listening to the teacher.
+说|你会说汉语吗？|Can you speak Chinese?
+读|请读这个字。|Please read this character.
+写|我会写我的中国名字。|I can write my Chinese name.
+看见|你看见我的猫了吗？|Have you seen my cat?
+叫|我叫王大明。|My name is Wang Daming.
+来|明天你来我家吗？|Are you coming to my home tomorrow?
+回|我五点回家。|I go home at five.
+去|你想去哪儿？|Where do you want to go?
+吃|我们去吃中国菜吧。|Let's go and eat Chinese food.
+喝|我不喜欢喝茶。|I don't like drinking tea.
+睡觉|我十点睡觉。|I go to sleep at ten.
+打电话|我想给妈妈打电话。|I want to phone my mum.
+做|你在做什么？|What are you doing?
+买|妈妈去商店买水果。|Mum goes to the shop to buy fruit.
+开|请开电视。|Please turn on the TV.
+坐|我们坐出租车去吧。|Let's go by taxi.
+住|你住在哪儿？|Where do you live?
+学习|我在学校学习汉语。|I study Chinese at school.
+工作|我爸爸在北京工作。|My dad works in Beijing.
+下雨|今天下雨了，很冷。|It's raining today and it's cold.
+爱|我爱我的家。|I love my family.
+喜欢|我喜欢你的衣服。|I like your clothes.
+想|我想去中国。|I want to go to China.
+认识|我认识那个医生。|I know that doctor.
+会|我会说一点儿汉语。|I can speak a little Chinese.
+能|你明天能来吗？|Can you come tomorrow?
+好|你好！很高兴认识你。|Hello! Nice to meet you.
+大|你的家很大。|Your home is very big.
+小|我家的猫很小。|My family's cat is very small.
+多|商店里有很多东西。|There are lots of things in the shop.
+少|今天学校里人很少。|There are very few people at school today.
+冷|北京今天很冷。|It's very cold in Beijing today.
+热|今天太热了。|It's too hot today.
+高兴|认识你很高兴。|I'm very happy to meet you.
+漂亮|你的女儿很漂亮。|Your daughter is very pretty.
