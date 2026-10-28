@@ -33,10 +33,19 @@ function hdr(title, back, extra) {
 }
 const TABS = [['overview', 'Overview', IC.home], ['chars', 'Characters', IC.grid], ['freq', 'Frequency', IC.bars], ['vocab', 'Vocabulary', IC.book], ['cards', 'Flashcards', IC.cards],
   ['review', 'Review', IC.repeat], ['practice', 'Practice', IC.target], ['mock', 'Mock exams', IC.doc], ['progress', 'Progress', IC.chart], ['exam', 'Exam prep', IC.cal]];
-function levelHdr(n, tab) {
-  const sel = `<select class="lvsel" data-change="level" aria-label="Switch level">${LEVELS.map(k => `<option value="${k}" ${k === n ? 'selected' : ''}>HSK ${k}</option>`).join('')}</select>`;
-  return `<header class="top"><button class="icon" data-a="home" aria-label="All levels">${IC.home}</button><h1>HSK ${n} <span class="mute small" style="font-weight:500">· ${esc(LV[n].meta.syllabus)}</span></h1>${sel}${themeBtn()}</header>
-    <nav class="tabbar" aria-label="Level sections">${TABS.map(([k, l, ic]) => `<button class="${tab === k ? 'on' : ''}" data-a="tab" data-t="${k}">${ic}<span>${l}</span></button>`).join('')}</nav>`;
+const brandmark = () => `<a href="#" class="brandmark" data-a="home"><img src="${LOGO}" alt="">HSK Platform</a>`;
+/* level screens: a labelled sidebar on desktop; below 1100px a slim bar and a sideways-scrolling section row */
+function levelShell(n, tab, body) {
+  const sel = cls => `<select class="lvsel ${cls || ''}" data-change="level" aria-label="Switch level">${LEVELS.map(k => `<option value="${k}" ${k === n ? 'selected' : ''}>HSK ${k}</option>`).join('')}</select>`;
+  const navBtns = TABS.map(([k, l, ic]) => `<button class="${tab === k ? 'on' : ''}" data-a="tab" data-t="${k}" ${tab === k ? 'aria-current="page"' : ''}>${ic}<span>${l}</span></button>`).join('');
+  const label = (TABS.find(t => t[0] === tab) || TABS[0])[1];
+  const st = plan(n), exam = LS(n).examDate;
+  const sub = [esc(LV[n].meta.syllabus), `${LV[n].W.length} words · ${LV[n].C.length} characters`, exam ? `exam ${fmtShort(exam)}${st.days >= 0 ? ` · ${st.days} day${st.days === 1 ? '' : 's'} left` : ''}` : ''].filter(Boolean).join(' · ');
+  return `<div class="shell"><aside class="side">${brandmark()}${sel()}<div class="navlabel">HSK ${n}</div><nav aria-label="Level sections">${navBtns}</nav>
+      <div class="foot"><button class="icon" data-a="settings" title="Settings" aria-label="Settings">${IC.gear}</button>${themeBtn()}</div></aside>
+    <main class="canvas"><div class="mbar">${brandmark()}${sel()}${themeBtn()}</div>
+      <nav class="tabbar" aria-label="Level sections">${navBtns}</nav>
+      <div class="titlerow"><div class="grow"><h1>HSK ${n} · ${label}</h1><div class="sub">${sub}</div></div></div>${body}</main></div>`;
 }
 
 /* ---------------- tooltip (charts) ---------------- */
@@ -60,29 +69,42 @@ function studyStreak() {
 function vHome() {
   const td = LEVELS.reduce((a, n) => { const d = S.levels[n] && S.levels[n].daily[today()]; if (d) { a.n += d.n; a.ok += d.ok; } return a; }, {n: 0, ok: 0});
   const totalDue = LEVELS.reduce((t, n) => t + (S.levels[n] ? levelStats(n).due : 0), 0);
-  let html = `<section class="hero"><div class="brand"><img src="${LOGO}" alt=""><b>HSK Platform <span style="font-weight:500;opacity:.8">· levels 1–6</span></b>
-      <button class="icon" data-a="settings" title="Settings" aria-label="Settings">${IC.gear}</button>${themeBtn()}</div>
-    <div class="kv"><div><b>${studyStreak()}</b>day streak</div><div><b>${td.n}</b>answers today</div><div><b>${td.n ? Math.round(100 * td.ok / td.n) + '%' : '–'}</b>accuracy today</div><div><b>${totalDue}</b>reviews due</div></div></section>`;
+  const plans = Object.fromEntries(LEVELS.map(n => [n, plan(n)]));
+  // the greeting states today's one fact: the nearest exam, or the reviews waiting
+  const upcoming = LEVELS.filter(n => plans[n].days >= 0).sort((a, b) => plans[a].days - plans[b].days);
+  const nx = upcoming[0];
+  const greeting = nx != null ? (plans[nx].days === 0 ? `HSK ${nx} is today.` : `${plans[nx].days} day${plans[nx].days === 1 ? '' : 's'} to HSK ${nx}.`)
+    : totalDue ? `${totalDue} review${totalDue === 1 ? '' : 's'} waiting.` : 'Pick a level and start.';
+  const dateLine = new Intl.DateTimeFormat('en-GB', {weekday: 'long', day: 'numeric', month: 'long', timeZone: 'Asia/Shanghai'}).format(new Date())
+    + (nx != null ? ` · HSK ${nx}: ${plans[nx].st.wSeen} of ${plans[nx].st.words} words studied` : '');
+  let html = `<header class="shellbar">${brandmark()}<button class="icon" data-a="settings" title="Settings" aria-label="Settings">${IC.gear}</button>${themeBtn()}</header>
+    <section class="greetband"><h1 class="greet">${greeting}</h1><p class="greet-sub">${dateLine}</p></section>
+    <div class="kpis">${[[studyStreak(), 'Day streak'], [td.n, 'Answers today'], [td.n ? Math.round(100 * td.ok / td.n) + '<small>%</small>' : '–', 'Right today'], [totalDue, 'Reviews due']]
+      .map(([v, l]) => `<div class="kpi"><span>${l}</span><b>${v}</b></div>`).join('')}</div>`;
   if (S.session) {
     const lvl = S.session.level === 'x' ? 'mixed levels' : 'HSK ' + S.session.level;
-    html += `<div class="card hl"><div class="row"><div class="grow"><b>Unfinished: ${esc(S.session.title)}</b><div class="small mute">${lvl} · question ${S.session.pos + 1} of ${S.session.q.length}</div></div><button class="pri" data-a="resume">Resume</button></div></div>`;
+    html += `<div class="card hl" style="margin:16px 0 0"><div class="row"><div class="grow"><b>Unfinished: ${esc(S.session.title)}</b><div class="small mute">${lvl} · question ${S.session.pos + 1} of ${S.session.q.length}</div></div><button class="pri" data-a="resume">Resume</button></div></div>`;
   }
-  html += `<div class="levels">`;
+  // 9 + 3 row: the levels, then the exam calendar and the cross-level review
+  html += `<div class="g12"><section class="panel span9" aria-labelledby="h-levels"><div class="panel-head"><h2 id="h-levels">Your levels</h2><span class="small mute">next characters to learn in each level</span></div><div class="lvrows">`;
   for (const n of LEVELS) {
-    const L = LV[n], p = plan(n), st = p.st, [stTxt, stCls] = STATUS_TXT[p.status] || ['', ''];
-    const exam = LS(n).examDate;
-    html += `<button class="lvcard" data-a="level" data-n="${n}">
-      <div class="row" style="flex-wrap:nowrap;align-items:flex-start"><div class="grow"><div class="lvnum">HSK ${n}</div><div class="small mute">${esc(LEVEL_BLURB[n])}</div></div>${ring(st.wSeen + st.cSeen, st.words + st.chars, null, 'sm')}</div>
-      <div class="lvfacts"><span><b>${L.W.length}</b> words</span><span><b>${L.C.length}</b> characters</span><span><b>${st.due}</b> due</span></div>
-      ${bar(st.wSeen + st.cSeen, st.words + st.chars)}
-      <div class="row small" style="gap:6px">${chip(stTxt, stCls)}${exam ? chip(`${IC.cal.replace(/20/g, '14')} ${fmtShort(exam)}${p.days >= 0 ? ` · ${p.days} day${p.days === 1 ? '' : 's'} left` : ''}`) : chip('no exam date')}</div>
-      <div class="small mute" style="margin-top:4px">${esc(L.meta.syllabus)}</div></button>`;
+    const L = LV[n], p = plans[n], st = p.st, [stTxt, stCls] = STATUS_TXT[p.status] || ['', ''];
+    const nextC = L.C.filter(c => status(c) === 'new').slice(0, 6).map(c => c.h).join('');
+    html += `<button class="lvrow" data-a="level" data-n="${n}">
+      <span class="lvn">HSK ${n}<small>${n === 1 || n === 4 || n === 5 ? 'HSK 2.0' : 'New HSK'}</small></span>
+      <span class="lvnext zh">${nextC || '—'}<span>${nextC ? 'next to learn' : 'all characters studied'}</span></span>
+      <span><span class="lvcount"><b>${st.wSeen}</b> / ${L.W.length} words · <b>${st.cSeen}</b> / ${L.C.length} characters</span>${bar(st.wSeen + st.cSeen, st.words + st.chars)}</span>
+      <span class="lvstate">${chip(stTxt || 'In progress', stCls)}<span class="small">${st.due ? `${st.due} due today` : 'nothing due'}</span></span></button>`;
   }
-  html += `</div>`;
+  html += `</div></section><aside class="span3"><section class="panel" aria-labelledby="h-exams"><div class="panel-head"><h2 id="h-exams">Exams</h2></div>`;
+  const dated = LEVELS.filter(n => LS(n).examDate);
+  html += dated.length ? `<div class="examlist">${dated.map(n => `<div class="examrow"><b>HSK ${n}</b><span class="d">${plans[n].days >= 0 ? `<b>${plans[n].days} day${plans[n].days === 1 ? '' : 's'}</b>` : '<b>passed</b>'}${fmtShort(LS(n).examDate)}</span></div>`).join('')}</div>`
+    : `<p class="small mute" style="margin:0">No exam dates yet. Set one in a level's Exam prep to get a daily pace.</p>`;
   const anyStudied = LEVELS.some(n => studiedW(n).length || studiedC(n).length);
-  html += `<div class="card"><h2>${IC.repeat} Cross-level review <span class="chip">optional</span></h2><div class="mute small">Mixes due items from every level you've studied. Level sessions and mock exams never mix levels — only this one does.</div><div class="sp"></div>
-    <button data-a="xreview" ${anyStudied ? '' : 'disabled'}>Start mixed review</button></div>`;
-  html += `<div class="small mute" style="text-align:center">Keys: <span class="kbd">1</span>–<span class="kbd">4</span> choose · <span class="kbd">Enter</span> submit / next · <span class="kbd">Space</span> flip · <span class="kbd">L</span> listen · <span class="kbd">S</span> star · <span class="kbd">Esc</span> back</div>`;
+  html += `</section><section class="panel" style="margin-top:16px" aria-labelledby="h-xr"><div class="panel-head"><h2 id="h-xr">Mixed review</h2></div>
+    <p class="small mute" style="margin:0 0 12px">Due items from every level you have studied. Level sessions and mock exams never mix levels.</p>
+    <button data-a="xreview" ${anyStudied ? '' : 'disabled'}>Start mixed review</button></section></aside></div>`;
+  html += `<p class="keys">Keys: <span class="kbd">1</span>–<span class="kbd">4</span> choose · <span class="kbd">Enter</span> submit / next · <span class="kbd">Space</span> flip · <span class="kbd">L</span> listen · <span class="kbd">S</span> star · <span class="kbd">Esc</span> back</p>`;
   return html;
 }
 

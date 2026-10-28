@@ -53,9 +53,12 @@ for n in range(1, 7):
 
 blob = json.dumps({"levels": levels}, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 icon = lambda n: "data:image/png;base64," + base64.b64encode(open(os.path.join(B, f"icon{n}.png"), "rb").read()).decode()
+font = lambda f: "data:font/woff2;base64," + base64.b64encode(open(os.path.join(B, "fonts", f), "rb").read()).decode()
+fonts_css = (f"@font-face{{font-family:'Instrument Sans';font-style:normal;font-weight:400 600;font-display:swap;src:url({font('InstrumentSans-latin.woff2')}) format('woff2')}}\n"
+             f"@font-face{{font-family:'Instrument Serif';font-style:normal;font-weight:400;font-display:swap;src:url({font('InstrumentSerif-latin.woff2')}) format('woff2')}}\n")
 js = "\n".join(rd(p) for p in sorted(glob.glob(os.path.join(B, "js", "*.js"))))
 assert "/*__DATA__*/null" in js
-html = (rd(os.path.join(B, "app_template.html")).replace("/*__CSS__*/", rd(os.path.join(B, "app.css")))
+html = (rd(os.path.join(B, "app_template.html")).replace("/*__CSS__*/", fonts_css + rd(os.path.join(B, "app.css")))
         .replace("/*__JS__*/", js.replace("/*__DATA__*/null", blob))
         .replace("/*__ICON64__*/", icon(64)).replace("/*__ICON180__*/", icon(180)))
 open(out, "w", encoding="utf-8").write(html)

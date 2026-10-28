@@ -85,9 +85,9 @@ function gen(item) {
   if (type === 'listen') { const o = shuffle([x, ...distract(x, 'm2h')]); return Object.assign(base, {mode: 'mc', zh: 1, lab: `Listen and choose the ${what}`, listen: x.h, opts: o.map(y => y.h), ans: o.indexOf(x), correct: x.h}); }
   if (type === 'h2p') { const ds = pinyinDistractors(x); if (ds.length < 3) return gen({k: item.k, type: isC ? 'cword' : 'h2m'}); const o = shuffle([x.p, ...ds]); return Object.assign(base, {mode: 'mc', lab: 'Choose the pinyin', big: x.h, opts: o, ans: o.indexOf(x.p), correct: x.p}); }
   if (type === 'tr' || type === 'lsent') {
-    const pool = shuffle(LV[x.L].W.filter(y => y.ze && y.ze !== x.ze && y !== x)).slice(0, 40)
-      .sort((a, b) => Math.abs(a.ze.length - x.ze.length) - Math.abs(b.ze.length - x.ze.length)).slice(0, 3);
-    const o = shuffle([x.ze, ...pool.map(y => y.ze)]);
+    const pool = shuffle([...new Set(LV[x.L].W.filter(y => y.ze && y.ze !== x.ze).map(y => y.ze))]).slice(0, 40)
+      .sort((a, b) => Math.abs(a.length - x.ze.length) - Math.abs(b.length - x.ze.length)).slice(0, 3);
+    const o = shuffle([x.ze, ...pool]);
     return Object.assign(base, {mode: 'mc', lab: type === 'tr' ? 'What does this sentence mean?' : 'Listen: what does the sentence mean?', sentence: type === 'tr' ? x.z : null, listen: type === 'lsent' ? x.z : null, opts: o, ans: o.indexOf(x.ze), correct: x.ze, small: 1});
   }
   if (type === 'order') {

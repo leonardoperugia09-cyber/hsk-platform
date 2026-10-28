@@ -4,6 +4,7 @@
 function render() {
   document.documentElement.dataset.theme = S.theme || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
   const f = {home: vHome, settings: vSettings, level: vLevel, batch: vBatch, learn: vLearn, quiz: vQuiz, result: vResult, recall: vRecall, mockresult: vMockResult}[V.name] || vHome;
+  $('#app').className = 'v-' + V.name + (V.name === 'quiz' && S.session && S.session.kind === 'mock' ? ' v-mock' : '');
   $('#app').innerHTML = f();
   const inp = (V.name === 'quiz' && S.session && S.session.kind !== 'mock' && $('#ans')) || (V.name === 'recall' && R && R.phase === 'ask' ? $('#rpy') : null);
   if (inp && !inp.disabled) inp.focus();

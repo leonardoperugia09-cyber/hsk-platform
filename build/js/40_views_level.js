@@ -4,24 +4,24 @@
 function vLevel() {
   const n = V.n, tab = V.tab || 'overview';
   const f = {overview: tOverview, chars: tChars, freq: tFreq, vocab: tVocab, cards: tCards, review: tReview, practice: tPractice, mock: tMock, progress: tProgress, exam: tExam}[tab] || tOverview;
-  return levelHdr(n, tab) + f(n);
+  return levelShell(n, tab, f(n));
 }
 const kpi = (v, l, cls) => `<div class="kpi ${cls || ''}"><b>${v}</b><span>${l}</span></div>`;
 
 /* ---------- overview ---------- */
 function tOverview(n) {
   const p = plan(n), st = p.st, [stTxt, stCls] = STATUS_TXT[p.status] || ['', ''], ls = LS(n);
-  let html = `<div class="card"><div class="kpis">
-      ${kpi(`${st.wSeen}<small>/${st.words}</small>`, 'words studied')}${kpi(`${st.cSeen}<small>/${st.chars}</small>`, 'characters studied')}
-      ${kpi(st.due, 'reviews due')}${kpi(st.mist, 'active mistakes')}</div>
-    <div class="sp"></div><div class="row small"><span class="grow">Mastered (reviewed successfully over a week or more)</span><b>${st.wMast + st.cMast} / ${st.words + st.chars}</b></div>${bar(st.wMast + st.cMast, st.words + st.chars)}</div>`;
-  html += `<div class="card"><div class="row"><div class="grow"><h2>${IC.cal} Exam</h2>
-      ${ls.examDate ? `<div><b>${fmtDate(ls.examDate)}</b> ${p.days >= 0 ? `· ${p.days} day${p.days === 1 ? '' : 's'} left` : ''}</div>` : '<div class="mute small">No exam date set — the app works fine without one.</div>'}</div>${chip(stTxt, stCls)}</div>
-      ${p.days >= 0 && p.paceW != null ? `<div class="small mute" style="margin-top:6px">Suggested pace: <b style="color:var(--ink)">${p.paceW} words + ${p.paceC} characters a day</b>, about ${p.dailyMin} min including reviews.${p.over ? ' That is more than is realistic — see Exam prep for a focused plan.' : ''}</div>` : ''}
-      <div class="sp"></div><button class="sm" data-a="tab" data-t="exam">${ls.examDate ? 'Open preparation plan' : 'Set an exam date'}</button></div>`;
+  let html = `<div class="kpis">${kpi(`${st.wSeen}<small> / ${st.words}</small>`, 'Words studied')}${kpi(`${st.cSeen}<small> / ${st.chars}</small>`, 'Characters studied')}
+      ${kpi(st.due, 'Reviews due')}${kpi(st.mist, 'Active mistakes')}</div>`;
   const recs = recommendations(n);
-  html += `<div class="card"><h2>${IC.target} What to do next</h2>${recs.length ? recs.map((r, i) => `<button class="rec ${i === 0 ? 'first' : ''}" data-a="rec" data-i="${i}"><span class="ic">${r.icon}</span><span class="grow"><b>${esc(r.t)}</b><span class="small mute zh">${esc(r.s)}</span></span><span aria-hidden="true">→</span></button>`).join('')
-    : '<div class="mute">Everything in this level is studied and no reviews are due. Take a mock exam to check yourself.</div>'}</div>`;
+  html += `<div class="g12"><section class="span8" aria-labelledby="h-next"><div class="panel-head"><h2 id="h-next">What to do next</h2></div>${recs.length ? recs.map((r, i) => `<button class="rec ${i === 0 ? 'first' : ''}" data-a="rec" data-i="${i}"><span class="ic">${r.icon}</span><span class="grow"><b>${esc(r.t)}</b><span class="small mute zh">${esc(r.s)}</span></span><span aria-hidden="true">→</span></button>`).join('')
+    : '<p class="mute">Everything in this level is studied and no reviews are due. Take a mock exam to check yourself.</p>'}</section>
+    <aside class="span4"><section class="panel" aria-labelledby="h-exam"><div class="panel-head"><h2 id="h-exam">Exam</h2>${chip(stTxt, stCls)}</div>
+      ${ls.examDate ? `<div style="font-size:24px">${p.days >= 0 ? `${p.days} day${p.days === 1 ? '' : 's'}` : 'Passed'}</div><div class="small mute">${fmtDate(ls.examDate)}</div>` : '<p class="small mute" style="margin:0">No exam date set. The app works fine without one.</p>'}
+      ${p.days >= 0 && p.paceW != null ? `<p style="margin:12px 0 0">${p.paceW} words + ${p.paceC} characters a day, about ${p.dailyMin} min with reviews.${p.over ? ' <span class="mute">More than is realistic: see Exam prep.</span>' : ''}</p>` : ''}
+      <div class="sp"></div><button class="sm" data-a="tab" data-t="exam">${ls.examDate ? 'Preparation plan' : 'Set an exam date'}</button></section>
+      <section class="panel" style="margin-top:16px" aria-labelledby="h-mast"><div class="panel-head"><h2 id="h-mast">Mastered</h2><span class="small mute">${st.wMast + st.cMast} / ${st.words + st.chars}</span></div>
+      ${bar(st.wMast + st.cMast, st.words + st.chars)}<p class="small mute" style="margin:6px 0 0">Answered right after a gap of a week or more.</p></section></aside></div>`;
   V.recs = recs;
   return html;
 }
@@ -76,11 +76,11 @@ function tVocab(n) {
     const L = LV[n], cb = currentBatch(n);
     html += `<div class="card"><div class="small mute" style="margin-bottom:8px">${L.W.length} words in ${L.NB} batches of about ${BATCH[n]}, in priority order (${esc(L.meta.ranking)}). Each batch has groups of ${GROUP}: learn the cards, then exercises — every word is tested twice and wrong answers come back until right.</div><div class="days">`;
     for (let d = 1; d <= L.NB; d++) { const dn = batchDone(n, d), ws = batchWords(n, d);
-      html += `<button class="${dn ? 'done' : ''} ${d === cb ? 'cur' : ''}" data-a="batch" data-d="${d}">Batch ${d}<br><span class="small">${dn ? '✓ done' : batchProgress(n, d) + '/' + ws.length}</span><br><span class="small mute">#${ws[0].i}–${ws[ws.length - 1].i}</span></button>`; }
+      html += `<button class="${dn ? 'done' : ''} ${d === cb ? 'cur' : ''}" data-a="batch" data-d="${d}">Batch ${d}<br><span class="small">${dn ? 'done' : batchProgress(n, d) + '/' + ws.length}</span><br><span class="small mute">#${ws[0].i}–${ws[ws.length - 1].i}</span></button>`; }
     html += `</div></div>`;
   } else {
     html += `<input class="txt" id="wq" data-input="wq" type="search" placeholder="Search hanzi, pinyin (e.g. baocun) or English" value="${esc(V.q || '')}" autocomplete="off" autocapitalize="off" spellcheck="false">
-      <div class="sp"></div><div class="tabs">${[['all', 'All'], ['studied', 'Studied'], ['new', 'New'], ['mistake', 'Mistakes'], ['mastered', 'Mastered'], ['starred', '★ Starred'], ['due', 'Due']].map(([k, l]) => `<button class="sm ${(V.f || 'all') === k ? 'on' : ''}" data-a="wfilter" data-f="${k}">${l}</button>`).join('')}</div>
+      <div class="sp"></div><div class="tabs">${[['all', 'All'], ['studied', 'Studied'], ['new', 'New'], ['mistake', 'Mistakes'], ['mastered', 'Mastered'], ['starred', 'Starred'], ['due', 'Due']].map(([k, l]) => `<button class="sm ${(V.f || 'all') === k ? 'on' : ''}" data-a="wfilter" data-f="${k}">${l}</button>`).join('')}</div>
       <div class="card wl" id="wlist">${wordListHtml(n)}</div>`;
   }
   return html;

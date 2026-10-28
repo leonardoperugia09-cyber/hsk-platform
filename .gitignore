@@ -4,3 +4,4 @@ build/raw2/
 __pycache__/
 *.pyc
 .claude/
+.taste-skill/
