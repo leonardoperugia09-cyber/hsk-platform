@@ -58,9 +58,22 @@ const itemByKey = k => { const [n, kind, id] = k.split(':'); const L = LV[+n]; i
 
 /* ---------------- storage (v2: per-level state; migrates the HSK 5 v1 progress) ---------------- */
 function freshLevel() { return {groups: {}, cgroups: {}, items: {}, mist: {}, daily: {}, recall: {r: 0, t: 0}, examDate: null, planStart: null, mocks: [], mockCfg: null}; }
-function fresh() { return {v: 2, theme: null, autoSpeak: false, rate: 0.85, levels: {}, session: null}; }
+function fresh() { return {v: 2, l6: 2, theme: null, autoSpeak: false, rate: 0.85, levels: {}, session: null}; }
+/* HSK 6 moved from the New HSK list to the HSK 2.0 list. Word progress is keyed by rank, so it is re-keyed once by
+   hanzi (DATA.h6old = the old list in rank order); words that left the list drop out, batch/group ticks restart. */
+function migrateL6(S2, wasL6) {
+  const L = S2.levels[6];
+  S2.l6 = 2;
+  if (wasL6 === 2 || !L) return S2;
+  const old = DATA.h6old || [];
+  const rekey = o => { const n = {}; for (const [k, v] of Object.entries(o || {})) { if (!k.startsWith('w:')) { n[k] = v; continue; }
+    const w = LV[6].byHanzi.get(old[+k.slice(2) - 1]); if (w) n['w:' + w.i] = v; } return n; };
+  L.items = rekey(L.items); L.mist = rekey(L.mist); L.groups = {}; L.cgroups = {};
+  if (S2.session && (S2.session.level === 6 || S2.session.level === 'x')) S2.session = null;
+  return S2;
+}
 function migrate(o) {
-  if (o && o.v === 2) return Object.assign(fresh(), o);
+  if (o && o.v === 2) return migrateL6(Object.assign(fresh(), o), o.l6);
   if (!o || o.v !== 1) return fresh();
   const S2 = fresh(), L5 = S2.levels[5] = freshLevel(), today0 = o.start || null;
   const now = dnumToday();

@@ -4,7 +4,7 @@ Inputs: build/raw2/level{1,2,3,6}.json (parsed MandarinBean lists), hsk4.json an
 authored example sentences in build/authored/ex{n}.txt (hanzi|zh|en), CC-CEDICT + Jun Da frequencies via hanzipy.
 usage: build_levels.py <project_dir>
 """
-import json, logging, math, os, re, sys, collections
+import glob, json, logging, math, os, re, sys, collections
 logging.disable(logging.CRITICAL)
 import jieba
 from pypinyin import lazy_pinyin, Style
@@ -143,9 +143,8 @@ def load_new(lv):
 
 def load_fixes(lv):
     """build/authored/fix{lv}.txt: hanzi|pos|english|pinyin  (empty field = keep source value)."""
-    path = os.path.join(B, "authored", f"fix{lv}.txt")
     out = {}
-    if os.path.exists(path):
+    for path in sorted(glob.glob(os.path.join(B, "authored", f"fix{lv}*.txt"))):
         for line in open(path, encoding="utf-8-sig"):
             if line.strip():
                 p = [x.strip() for x in line.rstrip("\n").split("|")] + ["", "", ""]
@@ -153,10 +152,48 @@ def load_fixes(lv):
     return out
 
 
+JPOS = {"n": "名", "v": "动", "a": "形", "d": "副", "q": "量", "p": "介", "c": "连", "r": "代", "m": "数", "u": "助", "e": "叹", "o": "拟声", "y": "助"}
+
+
+def load_hsk20_6():
+    """HSK 2.0 level 6 (MandarinBean HSK-6-Vocabulary.pdf, 2500 words). Words also in the New HSK level 6 list keep
+    that list's curated gloss and part of speech; the 2.0 gloss is added to the accepted answers."""
+    import jieba.posseg as pseg
+    ls = [s.strip() for s in open(os.path.join(B, "raw2", "HSK-6-Vocabulary.txt"), encoding="utf-8")]
+    ls = [s for s in ls if s and not s.startswith("=====PAGE")]
+    ls = ls[ls.index("English") + 1:]
+    es, n, i = [], 1, 0
+    while i < len(ls):
+        s = ls[i]
+        if s == str(n) and i + 1 < len(ls) and CJK.search(ls[i + 1]):
+            es.append({"no": n, "hanzi": re.sub(r"（[^）]*）", "", ls[i + 1]).strip(), "rest": []}); n += 1; i += 2; continue
+        if s not in ("No.", "Chinese", "Pinyin", "English"):
+            es[-1]["rest"].append(s)
+        i += 1
+    assert len(es) == 2500, len(es)
+    old = {e["hanzi"]: e for e in load_new(6)}
+    out = []
+    for e in es:
+        r = e.pop("rest")
+        if len(r) > 2 and r[-1].isdigit():                  # page number
+            r = r[:-1]
+        en = re.sub(r"\s+", " ", " ".join(r[1:])).strip()
+        en = en[:1].lower() + en[1:] if en[:2].istitle() and not en.startswith(("I ", "I'")) else en
+        h, o = e["hanzi"], old.get(e["hanzi"])
+        if o:
+            out.append({"no": e["no"], "hanzi": h, "pinyin": o["pinyin"], "english": o["english"], "pos_raw": o["pos_raw"],
+                        "src_no": [e["no"]], "extra": [en]})
+        else:
+            tags = [JPOS.get(f[:1]) for _, f in pseg.lcut(h)] if len(h) <= 2 else []
+            out.append({"no": e["no"], "hanzi": h, "pinyin": r[0] if r else "", "english": en,
+                        "pos_raw": tags[0] if len(tags) == 1 and tags[0] else "", "src_no": [e["no"]], "extra": []})
+    return out
+
+
 report = []
 LEVELS = {}
 for lv in (1, 2, 3, 6):
-    es, words, fx = load_new(lv), [], load_fixes(lv)
+    es, words, fx = (load_hsk20_6() if lv == 6 else load_new(lv)), [], load_fixes(lv)
     unused = set(fx) - {e["hanzi"] for e in es}
     if unused:
         report.append(f"L{lv} fixes for unknown words: {sorted(unused)}")
@@ -181,7 +218,7 @@ for lv in (1, 2, 3, 6):
         if len(auto) == len(syl) and [strip(a) for a in auto] == [strip(s) for s in syl] and auto != syl:
             ok.append(join_syl(auto))                      # citation-tone variant (e.g. neutral tones)
         words.append({"hanzi": h, "pinyin": joined, "pinyin_spaced": " ".join(syl), "pos": f.get("pos") or norm_pos(e.get("pos_raw", ""), h),
-                      "english": e["english"].strip().rstrip(","), "accepted": accepted(e["english"]), "alt_readings": [],
+                      "english": e["english"].strip().rstrip(","), "accepted": accepted(e["english"], e.get("extra", ())), "alt_readings": [],
                       "py_ok": ok, "example": None, "src_no": e["src_no"], "source_def": e["english"]})
     LEVELS[lv] = words
 
@@ -206,15 +243,15 @@ if os.path.exists(pos4_path):
     for w in LEVELS[4]:
         w["pos"] = p4.get(w["hanzi"], w["pos"])
 for lv in (1, 2, 3, 4, 6):
-    path = os.path.join(B, "authored", f"ex{lv}.txt")
-    if not os.path.exists(path):
+    paths = sorted(glob.glob(os.path.join(B, "authored", f"ex{lv}*.txt")))   # ex6.txt + ex6_20*.txt (HSK 2.0 additions)
+    if not paths:
         continue
     ex = {}
-    for n, line in enumerate(open(path, encoding="utf-8"), 1):
+    for path, n, line in ((p, n, l) for p in paths for n, l in enumerate(open(p, encoding="utf-8-sig"), 1)):
         if line.strip():
             parts = [p.strip() for p in line.rstrip("\n").split("|")]
             if len(parts) != 3:
-                sys.exit(f"bad line ex{lv}.txt:{n}: {line}")
+                sys.exit(f"bad line {os.path.basename(path)}:{n}: {line}")
             ex[parts[0]] = {"zh": parts[1], "en": parts[2]}
     for w in LEVELS[lv]:
         if w["hanzi"] in ex:
@@ -275,15 +312,38 @@ for lv in (1, 2, 3, 4, 6):
 for w in h5:
     WPY.setdefault(w["hanzi"], w["pinyin"])
 
+# HSK 6: occurrences in the H61001 / H61002 sample papers (reading pages, listening options, audio transcript),
+# combined like HSK 5: 0.6 log-count + 0.4 share of papers, then 75% tests + 25% general frequency.
+H6_PAPERS = {"h61001": ["h61001-reading.txt", "h61001-listening.txt", "h61001-audio.txt"], "h61002": ["h61002-reading.txt"]}
+cnt6, pap6 = collections.Counter(), collections.defaultdict(set)
+for w in LEVELS[6]:
+    if len(w["hanzi"]) > 1:
+        jieba.add_word(w["hanzi"])
+set6 = {w["hanzi"] for w in LEVELS[6]}
+for paper, files in H6_PAPERS.items():
+    for fn in files:
+        path = os.path.join(B, "raw2", "h6tests", fn)
+        if not os.path.exists(path):
+            report.append(f"L6 test text missing: {fn}"); continue
+        for t in jieba.lcut(open(path, encoding="utf-8").read(), HMM=False):
+            if t in set6:
+                cnt6[t] += 1; pap6[t].add(paper)
+report.append(f"L6: {len(cnt6)} of {len(set6)} words occur in the sample papers")
+
 final = {}
 for lv in (1, 2, 3, 4, 6):
     ws = LEVELS[lv]
     for w in ws:
         w["freq"] = gen_freq(w["hanzi"])
     mx = max(w["freq"] for w in ws)
+    maxc = max(cnt6.values()) if lv == 6 and cnt6 else 0
     for w in ws:
-        w["priority"] = round(math.log1p(w["freq"]) / math.log1p(mx), 4)
-        w["tests_count"] = None
+        G = math.log1p(w["freq"]) / math.log1p(mx)
+        if maxc:
+            T = 0.6 * math.log1p(cnt6[w["hanzi"]]) / math.log1p(maxc) + 0.4 * len(pap6[w["hanzi"]]) / len(H6_PAPERS)
+            w["priority"], w["tests_count"] = round(0.75 * T + 0.25 * G, 4), cnt6[w["hanzi"]]
+        else:
+            w["priority"], w["tests_count"] = round(G, 4), None
         if w["example"]:
             w["example"]["py"] = sentence_pinyin(w["example"]["zh"], w["hanzi"], w["pinyin"], WPY)
     ws.sort(key=lambda w: (-w["priority"], w["hanzi"]))
@@ -385,10 +445,10 @@ for lv in range(1, 7):
         r["rank"] = i + 1
     cumulative |= set(cnt)
     meta = {"level": lv,
-            "syllabus": "HSK 2.0 (2010)" if lv in (1, 4, 5) else "New HSK list (MandarinBean)",
+            "syllabus": "HSK 2.0 (2010)" if lv in (1, 4, 5, 6) else "New HSK list (MandarinBean)",
             "source": {1: "HSK-1-Vocabulary.pdf (MandarinBean)", 2: "New-HSK-Vocabulary-Level-2.pdf (MandarinBean)", 3: "New-HSK-Vocabulary-Level-3.pdf (MandarinBean)",
-                       4: "HSK-4-Vocabulary.pdf (MandarinBean)", 5: "HSK 2.0 Level 5 Vocabulary List (HanziStroke) + MandarinBean cross-check", 6: "New-HSK-Vocabulary-L6.pdf (MandarinBean)"}[lv],
-            "ranking": "practice-test occurrences (75%) + general frequency (25%)" if lv == 5 else "general word frequency (jieba dictionary)",
+                       4: "HSK-4-Vocabulary.pdf (MandarinBean)", 5: "HSK 2.0 Level 5 Vocabulary List (HanziStroke) + MandarinBean cross-check", 6: "HSK-6-Vocabulary.pdf (MandarinBean)"}[lv],
+            "ranking": "practice-test occurrences (75%) + general frequency (25%)" if lv in (5, 6) else "general word frequency (jieba dictionary)",
             "word_count": len(ws), "char_count": len(rows), "new_char_count": sum(r["new"] for r in rows),
             "examples": sum(1 for w in ws if w["example"])}
     json.dump({"meta": meta, "words": ws, "chars": rows}, open(os.path.join(OUT, f"hsk{lv}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

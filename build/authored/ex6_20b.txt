@@ -1,0 +1,300 @@
+敌视|两个国家曾经互相敌视。|The two countries were once hostile to each other.
+抵制|消费者开始抵制这家公司的产品。|Consumers began to boycott the company's products.
+递增|这家店的顾客每年都在递增。|The shop's customers increase every year.
+地步|事情怎么会发展到这个地步？|How did things get to this point?
+地势|这里地势很高，看得很远。|The ground here is high, so you can see far.
+颠簸|山路很颠簸，我有点儿晕车。|The mountain road is bumpy and I feel a bit carsick.
+颠倒|你把这两个字的顺序颠倒了。|You have reversed the order of these two characters.
+点缀|桌上的鲜花点缀着房间。|The fresh flowers on the table brighten up the room.
+垫|椅子太硬了，我垫了一个枕头。|The chair was too hard, so I put a pillow on it.
+奠定|这次比赛为他的成功奠定了基础。|This competition laid the foundation for his success.
+惦记|妈妈一直惦记着在国外的儿子。|Mum is always thinking about her son abroad.
+叼|小狗叼着一个球跑过来。|The puppy came running with a ball in its mouth.
+雕刻|这块石头上雕刻着美丽的花。|Beautiful flowers are carved on this stone.
+雕塑|广场中间有一座雕塑。|There is a sculpture in the middle of the square.
+丁|甲、乙、丙、丁四个队参加了比赛。|Teams A, B, C and D took part in the competition.
+盯|他一直盯着我看。|He kept staring at me.
+叮嘱|出门前，妈妈叮嘱我注意安全。|Before I left, Mum reminded me to be careful.
+定期|你应该定期检查身体。|You should have regular health checks.
+丢人|在这么多人面前摔倒，真丢人。|Falling over in front of so many people was really embarrassing.
+丢三落四|他总是丢三落四的，今天又忘了带钥匙。|He's always forgetting things; today he forgot his keys again.
+东道主|作为东道主，我们要好好招待客人。|As hosts, we should look after our guests well.
+东张西望|他在门口东张西望，好像在找人。|He was looking around at the door as if searching for someone.
+董事长|董事长决定扩大公司的规模。|The chairman decided to expand the company.
+冻结|他的银行账户被冻结了。|His bank account was frozen.
+动荡|那个国家的局势很动荡。|The situation in that country is very unstable.
+动静|夜里我听到外面有动静。|At night I heard a noise outside.
+动脉|医生说他的动脉有问题。|The doctor said there's a problem with his artery.
+动身|我们明天一早动身去北京。|We set off for Beijing early tomorrow.
+动手|大家一起动手，很快就把房间打扫干净了。|Everyone pitched in and the room was soon clean.
+动员|学校动员学生参加志愿活动。|The school mobilised students to volunteer.
+兜|他把手放在兜里。|He put his hands in his pockets.
+陡峭|这座山非常陡峭。|This mountain is very steep.
+督促|老师督促学生按时完成作业。|The teacher urges students to finish their homework on time.
+独裁|人民反对独裁统治。|The people opposed the dictatorship.
+毒品|毒品对身体危害很大。|Drugs do great harm to the body.
+赌博|赌博让他失去了一切。|Gambling cost him everything.
+堵塞|下水道堵塞了。|The drain is blocked.
+杜绝|我们要杜绝浪费。|We must put an end to waste.
+端午节|端午节的时候，很多地方有龙舟比赛。|At the Dragon Boat Festival, many places hold dragon boat races.
+端正|他学习的态度很端正。|He has a proper attitude to his studies.
+短促|他的呼吸短促，看起来很累。|His breathing was short and he looked very tired.
+断定|我们还不能断定他是不是小偷。|We can't yet be sure whether he's the thief.
+断绝|他们两家断绝了来往。|The two families have broken off contact.
+堆积|桌子上堆积着很多文件。|Lots of documents are piled up on the desk.
+对策|我们得想出一个对策。|We need to come up with a countermeasure.
+对付|这种人很难对付。|This kind of person is hard to deal with.
+对联|春节时，家家门上都贴着对联。|At Spring Festival every door has couplets pasted on it.
+对照|请对照原文检查一下翻译。|Please check the translation against the original.
+兑现|他兑现了自己的承诺。|He kept his promise.
+队伍|参观的队伍排得很长。|The queue of visitors was very long.
+多元化|现在的社会越来越多元化。|Society is becoming more and more diverse.
+哆嗦|他冷得直哆嗦。|He was shivering with cold.
+堕落|他交了坏朋友以后就堕落了。|He went to the bad after making bad friends.
+额外|这项服务需要额外付费。|This service costs extra.
+恶化|病人的情况恶化了。|The patient's condition has worsened.
+遏制|政府采取措施遏制房价上涨。|The government took measures to curb rising house prices.
+恩怨|他们之间的恩怨已经过去了。|The old grievances between them are in the past.
+而已|我只是开个玩笑而已。|I was only joking, that's all.
+发布|公司发布了新产品。|The company launched a new product.
+发财|祝你新年发财！|May you prosper in the New Year!
+发呆|他坐在那儿发呆。|He sat there staring blankly.
+发觉|我回到家才发觉钱包丢了。|I only realised I'd lost my wallet when I got home.
+发射|火箭发射成功了。|The rocket was launched successfully.
+发誓|他发誓再也不抽烟了。|He swore he'd never smoke again.
+发扬|我们要发扬互相帮助的精神。|We should carry forward the spirit of helping each other.
+法人|公司的法人代表签了合同。|The company's legal representative signed the contract.
+繁华|这是城市最繁华的街道。|This is the busiest street in the city.
+繁体字|香港的报纸用繁体字。|Hong Kong newspapers use traditional characters.
+反驳|他很快反驳了对方的观点。|He quickly refuted the other side's point.
+反常|今年冬天的天气很反常。|The weather this winter is very unusual.
+反感|我对他的做法很反感。|I find his behaviour off-putting.
+反抗|人民起来反抗。|The people rose up in resistance.
+反面|请在纸的反面写上名字。|Please write your name on the back of the paper.
+反射|镜子反射着阳光。|The mirror reflects the sunlight.
+反问|他没有回答，而是反问我一个问题。|Instead of answering, he asked me a question back.
+反之|努力就能进步，反之就会落后。|If you work hard you'll improve; otherwise you'll fall behind.
+范畴|这个问题属于法律范畴。|This question falls within the realm of law.
+泛滥|河水泛滥，淹没了农田。|The river flooded the farmland.
+贩卖|贩卖毒品是违法的。|Dealing drugs is illegal.
+方圆|方圆十里内没有一家商店。|There isn't a single shop within ten li.
+方针|公司制定了新的发展方针。|The company drew up a new development policy.
+防守|这个队的防守很强。|This team's defence is very strong.
+防御|城墙是用来防御敌人的。|City walls were built to defend against enemies.
+防止|多洗手可以防止生病。|Washing your hands often can prevent illness.
+访问|总统下个月将访问中国。|The president will visit China next month.
+纺织|这个城市的纺织业很发达。|The city's textile industry is well developed.
+放射|这种物质有放射性。|This substance is radioactive.
+非法|他因为非法经营被罚款。|He was fined for running an illegal business.
+飞禽走兽|森林里有各种飞禽走兽。|The forest is home to all kinds of birds and beasts.
+飞翔|鸟儿在天空中自由飞翔。|Birds fly freely in the sky.
+飞跃|这几年公司的发展有了飞跃。|The company has made a leap forward in recent years.
+诽谤|他在网上诽谤别人，被告上了法庭。|He was taken to court for defaming people online.
+废除|这个国家废除了这项法律。|The country abolished this law.
+废墟|地震后，这里成了一片废墟。|After the earthquake this place was in ruins.
+废寝忘食|他废寝忘食地工作。|He worked so hard he forgot to eat and sleep.
+沸腾|水沸腾了，可以泡茶了。|The water is boiling; we can make tea.
+分辨|我分辨不出这两种颜色。|I can't tell these two colours apart.
+分寸|他说话很有分寸。|He knows how far to go when he speaks.
+分红|年底公司给员工分红。|At the end of the year the company pays staff a bonus.
+分解|这种塑料很难分解。|This kind of plastic is hard to break down.
+分裂|这个党分裂成了两派。|The party split into two factions.
+分泌|紧张的时候，身体会分泌更多汗水。|When you're nervous, your body produces more sweat.
+分明|他分明是在说谎。|He is clearly lying.
+分歧|我们在这个问题上有分歧。|We disagree on this issue.
+吩咐|经理吩咐我把文件送过去。|The manager told me to deliver the documents.
+坟墓|他每年都去爷爷的坟墓前看看。|Every year he visits his grandfather's grave.
+粉末|把药片磨成粉末。|Grind the tablet into powder.
+粉色|她喜欢粉色的衣服。|She likes pink clothes.
+粉碎|杯子掉在地上，摔得粉碎。|The cup fell on the floor and smashed to pieces.
+分量|这些话说得很有分量。|These words carry a lot of weight.
+风暴|海上起了风暴。|A storm blew up at sea.
+风度|他很有风度，大家都喜欢他。|He has great poise and everyone likes him.
+风气|学校里形成了良好的学习风气。|A good culture of study has formed at the school.
+风趣|我们的老师说话很风趣。|Our teacher is very witty.
+风土人情|我想了解当地的风土人情。|I want to learn about local customs.
+风味|这家饭馆的菜很有地方风味。|This restaurant's food has a strong local flavour.
+封建|他的思想太封建了。|His ideas are too feudal.
+封锁|警察封锁了这条街。|The police sealed off this street.
+丰满|她的身材比较丰满。|She has a fairly full figure.
+丰盛|妈妈准备了一桌丰盛的晚餐。|Mum prepared a lavish dinner.
+锋利|这把刀很锋利，小心别切到手。|This knife is very sharp; be careful not to cut yourself.
+逢|每逢春节，我都回家看父母。|Every Spring Festival I go home to see my parents.
+否决|他的提议被否决了。|His proposal was rejected.
+夫妇|这对夫妇结婚已经五十年了。|This couple have been married for fifty years.
+敷衍|他只是敷衍了几句，根本没认真听。|He just gave a few vague replies and wasn't really listening.
+服气|他输了比赛，但心里不服气。|He lost the match but wouldn't accept it.
+福气|有这么好的孩子，你真有福气。|You're really lucky to have such a good child.
+俘虏|士兵们抓了很多俘虏。|The soldiers took many prisoners.
+辐射|手机的辐射对人体有影响吗？|Does mobile-phone radiation affect the human body?
+腐败|政府决心打击腐败。|The government is determined to fight corruption.
+腐烂|这些水果已经腐烂了。|This fruit has already rotted.
+腐蚀|海水会腐蚀铁。|Sea water corrodes iron.
+腐朽|那是一个腐朽的时代。|That was a decadent era.
+抚养|他一个人把三个孩子抚养大。|He raised three children on his own.
+抚摸|她轻轻地抚摸着小猫。|She gently stroked the kitten.
+俯视|从山顶可以俯视整个城市。|From the top of the mountain you can look down over the whole city.
+负担|孩子的学费是很大的负担。|The children's school fees are a heavy burden.
+附和|他总是附和老板的意见。|He always echoes the boss's opinion.
+附属|她在大学附属医院工作。|She works at the university's affiliated hospital.
+复活|春天来了，草木复活了。|Spring has come and the plants are coming back to life.
+复兴|这个民族正在复兴。|This nation is undergoing a revival.
+腹泻|吃了不干净的东西，他开始腹泻。|He got diarrhoea after eating something dirty.
+改良|科学家改良了水稻的品种。|Scientists improved the rice variety.
+盖章|这份文件需要盖章才有效。|This document must be stamped to be valid.
+钙|牛奶里有很多钙。|Milk contains a lot of calcium.
+干涉|父母不应该干涉孩子的婚姻。|Parents shouldn't interfere in their children's marriages.
+干预|政府不应该过多干预市场。|The government shouldn't intervene too much in the market.
+感慨|看到老照片，他感慨万分。|Looking at the old photos stirred deep emotions in him.
+干劲|年轻人干劲十足。|The young people are full of drive.
+纲领|这个党发布了新的纲领。|The party published a new programme.
+港湾|小船停在港湾里。|The boat is moored in the harbour.
+杠杆|他用杠杆把石头抬了起来。|He lifted the stone with a lever.
+高潮|电影的高潮部分非常精彩。|The climax of the film is brilliant.
+高明|这个办法真高明！|What a clever idea!
+高涨|大家的热情很高涨。|Everyone's enthusiasm is running high.
+告辞|时间不早了，我该告辞了。|It's getting late; I should take my leave.
+告诫|父亲告诫我不要轻易相信别人。|My father warned me not to trust people too easily.
+搁|你把东西搁在桌子上吧。|Put your things on the table.
+疙瘩|他的脸上长了一个小疙瘩。|He has a little pimple on his face.
+歌颂|这首诗歌颂了母亲的爱。|This poem celebrates a mother's love.
+鸽子|广场上有很多鸽子。|There are many pigeons in the square.
+隔阂|多沟通可以消除隔阂。|Talking more can remove misunderstandings.
+隔离|病人被隔离了两周。|The patient was quarantined for two weeks.
+格局|这个城市的格局很有特色。|The city's layout is very distinctive.
+格式|请按照这个格式写简历。|Please write your CV in this format.
+各抒己见|会上大家各抒己见。|At the meeting everyone gave their own views.
+根深蒂固|这种观念在人们心中根深蒂固。|This idea is deeply rooted in people's minds.
+根源|我们要找到问题的根源。|We need to find the root of the problem.
+耕地|这个地区的耕地越来越少。|There is less and less farmland in this region.
+更新|请及时更新手机软件。|Please update your phone's software promptly.
+更正|报纸更正了昨天的错误。|The newspaper corrected yesterday's mistake.
+公安局|他到公安局办理护照。|He went to the public security bureau to apply for a passport.
+公道|这家店的价格很公道。|The prices in this shop are fair.
+公关|她在一家公司做公关工作。|She works in public relations at a company.
+公然|他公然违反了公司的规定。|He openly broke company rules.
+公式|请记住这个数学公式。|Please remember this maths formula.
+公务|他出差是为了公务。|He is travelling on official business.
+公证|这份合同需要公证。|This contract needs to be notarised.
+供不应求|这种手机供不应求。|Demand for this phone exceeds supply.
+工艺品|商店里卖各种手工艺品。|The shop sells all kinds of handicrafts.
+宫殿|故宫是中国古代的宫殿。|The Forbidden City is an ancient Chinese palace.
+功劳|这次成功有你的一份功劳。|You deserve credit for this success.
+攻克|科学家终于攻克了这个难题。|The scientists finally cracked this hard problem.
+恭敬|他恭敬地向老师鞠了一躬。|He bowed respectfully to his teacher.
+共和国|中华人民共和国成立于一九四九年。|The People's Republic of China was founded in 1949.
+共鸣|这首歌引起了很多人的共鸣。|This song struck a chord with many people.
+勾结|那个官员和商人勾结在一起。|That official colluded with the businessman.
+钩子|墙上有一个挂衣服的钩子。|There is a hook on the wall for hanging clothes.
+构思|这部小说的构思很巧妙。|The plot of this novel is cleverly conceived.
+孤立|他在班里被孤立了。|He has been isolated in his class.
+辜负|我不会辜负你的期望。|I won't let you down.
+姑且|这个问题姑且不谈。|Let's leave this question aside for now.
+古董|他喜欢收集古董。|He likes collecting antiques.
+古怪|这个人的脾气很古怪。|This person has a very odd temper.
+股东|公司的股东们召开了会议。|The company's shareholders held a meeting.
+股份|他持有这家公司的股份。|He holds shares in this company.
+鼓动|他鼓动大家一起去抗议。|He stirred people up to go and protest together.
+骨干|她是公司的业务骨干。|She is one of the company's key staff.
+固然|这个方法固然好，但是太贵了。|This method is good, admittedly, but it's too expensive.
+固有|每种文化都有它固有的特点。|Every culture has its own inherent features.
+固执|他很固执，谁的话都不听。|He's very stubborn and won't listen to anyone.
+顾虑|你有什么顾虑可以直接说。|If you have any concerns, just say so.
+故乡|我很想念我的故乡。|I miss my hometown very much.
+雇佣|这家工厂雇佣了很多工人。|This factory employs many workers.
+拐杖|爷爷走路要用拐杖。|Grandpa needs a walking stick.
+关照|我第一次来，请大家多多关照。|It's my first time here, so please look after me.
+管辖|这个地区归市政府管辖。|This area is under the city government's jurisdiction.
+贯彻|我们要认真贯彻这项政策。|We must carry out this policy conscientiously.
+灌溉|农民用河水灌溉农田。|Farmers irrigate their fields with river water.
+惯例|按照惯例，新员工要先培训。|By convention, new employees are trained first.
+光彩|做这种事一点儿也不光彩。|There's nothing honourable about doing this.
+光辉|太阳的光辉照着大地。|The sun's light shines over the land.
+光芒|灯塔发出明亮的光芒。|The lighthouse gives off a bright light.
+光荣|能代表国家参加比赛，他感到很光荣。|He felt honoured to represent his country.
+规格|这些零件的规格不一样。|These parts have different specifications.
+规章|员工要遵守公司的规章制度。|Employees must follow company rules and regulations.
+归根到底|归根到底，这是一个钱的问题。|In the final analysis, this is a question of money.
+贵族|他出身贵族家庭。|He comes from an aristocratic family.
+棍棒|教育孩子不能靠棍棒。|You can't raise children with a stick.
+国防|国防对一个国家很重要。|National defence is very important to a country.
+国务院|国务院发布了新的规定。|The State Council issued new regulations.
+果断|他做事很果断。|He acts decisively.
+过度|过度运动对身体不好。|Exercising too much is bad for you.
+过奖|您过奖了，我做得还不够好。|You flatter me; I didn't do that well.
+过滤|这个机器可以过滤水里的杂质。|This machine can filter impurities out of water.
+过失|这次事故是司机的过失。|The accident was the driver's fault.
+过问|这件事你就别过问了。|Don't concern yourself with this matter.
+过瘾|今天玩得真过瘾！|Today was such great fun!
+过于|你过于担心了。|You worry too much.
+嗨|嗨，好久不见！|Hi, long time no see!
+海滨|我们在海滨度过了一个假期。|We spent a holiday at the seaside.
+含糊|他的回答很含糊。|His answer was vague.
+寒暄|两个人寒暄了几句就开始谈工作。|After a few pleasantries the two began talking business.
+捍卫|我们要捍卫自己的权利。|We must defend our rights.
+航天|中国的航天事业发展得很快。|China's space programme is developing fast.
+航行|轮船在大海上航行。|The ship sails on the open sea.
+行列|他加入了志愿者的行列。|He joined the ranks of the volunteers.
+豪迈|他说话的语气很豪迈。|He spoke in a bold, heroic tone.
+耗费|这个工程耗费了大量资金。|This project used up a great deal of money.
+呵|呵，原来是你啊！|Oh, so it's you!
+和蔼|我们的校长很和蔼。|Our headmaster is very kind.
+和解|吵架以后，两个人终于和解了。|After the argument the two finally made up.
+和睦|他们一家人相处得很和睦。|The family gets on very well together.
+和气|老板对谁都很和气。|The boss is friendly to everyone.
+合伙|他和朋友合伙开了一家公司。|He and a friend went into partnership to start a company.
+合算|这个价格买这么多东西，很合算。|Getting so much for this price is a good deal.
+狠心|她狠心离开了自己的孩子。|She hardened her heart and left her child.
+恨不得|我恨不得马上飞回家。|I'm itching to fly home right now.
+哼|他一边走一边哼着歌。|He hummed a song as he walked.
+哄|她在哄孩子睡觉。|She is coaxing the child to sleep.
+烘|把湿衣服放在火边烘干。|Dry the wet clothes by the fire.
+轰动|这个消息轰动了全国。|The news caused a sensation across the country.
+宏观|我们要从宏观上分析经济形势。|We need to analyse the economy from a macro perspective.
+宏伟|这座建筑非常宏伟。|This building is magnificent.
+喉咙|我感冒了，喉咙很疼。|I have a cold and my throat hurts.
+吼|他生气地对孩子吼了一声。|He shouted angrily at the child.
+后顾之忧|有父母帮忙带孩子，她工作没有后顾之忧。|With her parents minding the child, she can work without worrying about home.
+后勤|他在部队负责后勤工作。|He handles logistics in the army.
+候选|他是这次选举的候选人。|He is a candidate in this election.
+呼唤|母亲在门口呼唤孩子回家吃饭。|The mother called her child home for dinner from the door.
+呼啸|北风呼啸着吹过街道。|The north wind howled through the streets.
+呼吁|专家呼吁大家保护环境。|Experts are calling on everyone to protect the environment.
+胡乱|你别胡乱猜了。|Stop making wild guesses.
+胡须|爷爷的胡须全白了。|Grandpa's beard is completely white.
+湖泊|这个地区有很多湖泊。|There are many lakes in this region.
+花瓣|地上落满了花瓣。|The ground is covered with fallen petals.
+花蕾|春天，树上长出了花蕾。|In spring, buds appeared on the trees.
+华丽|她穿着一件华丽的长裙。|She was wearing a gorgeous long dress.
+华侨|他是一位在美国的华侨。|He is an overseas Chinese living in the USA.
+画蛇添足|这句话是画蛇添足，可以删掉。|This sentence is superfluous and can be cut.
+化肥|农民在田里施化肥。|The farmers are spreading fertiliser in the fields.
+化验|医生让我去化验血。|The doctor told me to have a blood test.
+环节|每个环节都不能出错。|Nothing can go wrong at any stage.
+缓和|两国关系有所缓和。|Relations between the two countries have eased somewhat.
+荒凉|这里以前是一片荒凉的土地。|This used to be barren, desolate land.
+荒谬|这种说法太荒谬了。|That claim is absurd.
+荒唐|你怎么能做这么荒唐的事？|How could you do something so ridiculous?
+黄昏|黄昏时，我们在海边散步。|At dusk we walked along the beach.
+皇后|皇后住在宫殿里。|The empress lived in the palace.
+晃|风很大，小船在水上不停地晃。|The wind was strong and the little boat kept rocking on the water.
+恍然大悟|听了老师的解释，我恍然大悟。|After the teacher's explanation, it suddenly dawned on me.
+挥霍|他把父亲留下的钱都挥霍光了。|He squandered all the money his father left him.
+辉煌|这个公司过去很辉煌。|This company had a glorious past.
+回避|他总是回避这个问题。|He always avoids this question.
+回收|这些瓶子可以回收利用。|These bottles can be recycled.
+悔恨|他对自己的错误感到悔恨。|He deeply regrets his mistake.
+毁灭|战争毁灭了这座城市。|The war destroyed the city.
+会晤|两国领导人进行了会晤。|The two countries' leaders held talks.
+贿赂|那个官员因为接受贿赂被抓了。|The official was arrested for taking bribes.
+昏迷|他受伤后昏迷了三天。|He was in a coma for three days after the injury.
+荤|我不吃荤，只吃素。|I don't eat meat; I'm vegetarian.
+浑身|他跑完步浑身是汗。|After running he was sweating all over.
+混淆|不要混淆这两个概念。|Don't confuse these two concepts.
+混浊|下雨后，河水变得混浊了。|After the rain the river water turned muddy.
+活该|谁让你不听话，活该！|Serves you right for not listening!
+火箭|火箭把卫星送上了太空。|The rocket put the satellite into space.
+火焰|火焰越烧越旺。|The flames burned higher and higher.
+火药|火药是中国古代的四大发明之一。|Gunpowder is one of ancient China's four great inventions.
+机动|我们还有一些机动时间。|We still have some time in reserve.
+机构|他在一家研究机构工作。|He works at a research institution.

@@ -567,7 +567,7 @@
     49
    ],
    "source_def": "China",
-   "freq": 129475,
+   "freq": 129474,
    "priority": 0.8597,
    "tests_count": null,
    "id": 21,
@@ -755,7 +755,7 @@
     2
    ],
    "source_def": "we; us",
-   "freq": 98745,
+   "freq": 98744,
    "priority": 0.8399,
    "tests_count": null,
    "id": 28,
@@ -998,7 +998,7 @@
     11
    ],
    "source_def": "what",
-   "freq": 59322,
+   "freq": 59321,
    "priority": 0.8027,
    "tests_count": null,
    "id": 37,
@@ -1373,7 +1373,7 @@
     75
    ],
    "source_def": "student",
-   "freq": 30780,
+   "freq": 30781,
    "priority": 0.7548,
    "tests_count": null,
    "id": 51,
@@ -1479,7 +1479,7 @@
     14
    ],
    "source_def": "how",
-   "freq": 27344,
+   "freq": 27343,
    "priority": 0.7462,
    "tests_count": null,
    "id": 55,
@@ -2651,7 +2651,7 @@
     48
    ],
    "source_def": "hospital",
-   "freq": 7381,
+   "freq": 7380,
    "priority": 0.6505,
    "tests_count": null,
    "id": 99,
@@ -3211,7 +3211,7 @@
     93
    ],
    "source_def": "computer",
-   "freq": 3432,
+   "freq": 3431,
    "priority": 0.5946,
    "tests_count": null,
    "id": 120,
@@ -3263,7 +3263,7 @@
     59
    ],
    "source_def": "morning",
-   "freq": 3093,
+   "freq": 3092,
    "priority": 0.587,
    "tests_count": null,
    "id": 122,
@@ -3505,7 +3505,7 @@
     126
    ],
    "source_def": "to sleep",
-   "freq": 1735,
+   "freq": 1734,
    "priority": 0.5448,
    "tests_count": null,
    "id": 131,
@@ -3531,7 +3531,7 @@
     102
    ],
    "source_def": "Chinese (language)",
-   "freq": 1615,
+   "freq": 1616,
    "priority": 0.5396,
    "tests_count": null,
    "id": 132,
@@ -3609,7 +3609,7 @@
     60
    ],
    "source_def": "noon",
-   "freq": 1453,
+   "freq": 1454,
    "priority": 0.5319,
    "tests_count": null,
    "id": 135,
@@ -3687,8 +3687,8 @@
     127
    ],
    "source_def": "to make a phone call",
-   "freq": 1310,
-   "priority": 0.5243,
+   "freq": 1309,
+   "priority": 0.5242,
    "tests_count": null,
    "id": 138,
    "rank": 138
@@ -3904,8 +3904,8 @@
     84
    ],
    "source_def": "(cooked) rice",
-   "freq": 404,
-   "priority": 0.4385,
+   "freq": 403,
+   "priority": 0.4383,
    "tests_count": null,
    "id": 146,
    "rank": 146
@@ -3930,8 +3930,8 @@
     91
    ],
    "source_def": "taxi",
-   "freq": 400,
-   "priority": 0.4378,
+   "freq": 399,
+   "priority": 0.4376,
    "tests_count": null,
    "id": 147,
    "rank": 147
@@ -3985,8 +3985,8 @@
     111
    ],
    "source_def": "it doesn't matter; never mind",
-   "freq": 241,
-   "priority": 0.4009,
+   "freq": 242,
+   "priority": 0.4012,
    "tests_count": null,
    "id": 149,
    "rank": 149
@@ -4013,8 +4013,8 @@
     107
    ],
    "source_def": "you're welcome",
-   "freq": 11,
-   "priority": 0.1815,
+   "freq": 12,
+   "priority": 0.1873,
    "tests_count": null,
    "id": 150,
    "rank": 150

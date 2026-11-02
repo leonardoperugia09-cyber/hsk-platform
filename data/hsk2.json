@@ -388,7 +388,7 @@
     172
    ],
    "source_def": "already",
-   "freq": 51292,
+   "freq": 51294,
    "priority": 0.8664,
    "tests_count": null,
    "id": 14,
@@ -468,7 +468,7 @@
     189
    ],
    "source_def": "like this, so",
-   "freq": 48931,
+   "freq": 48930,
    "priority": 0.8626,
    "tests_count": null,
    "id": 17,
@@ -771,7 +771,7 @@
     82
    ],
    "source_def": "possible; possibility; may",
-   "freq": 31218,
+   "freq": 31217,
    "priority": 0.8267,
    "tests_count": null,
    "id": 28,
@@ -797,7 +797,7 @@
     18
    ],
    "source_def": "to come out",
-   "freq": 31022,
+   "freq": 31021,
    "priority": 0.8262,
    "tests_count": null,
    "id": 29,
@@ -929,7 +929,7 @@
     31
    ],
    "source_def": "but, however",
-   "freq": 28060,
+   "freq": 28059,
    "priority": 0.8182,
    "tests_count": null,
    "id": 34,
@@ -1092,7 +1092,7 @@
     138
    ],
    "source_def": "although",
-   "freq": 24272,
+   "freq": 24271,
    "priority": 0.8066,
    "tests_count": null,
    "id": 40,
@@ -1498,8 +1498,8 @@
     193
    ],
    "source_def": "to prepare",
-   "freq": 16204,
-   "priority": 0.7744,
+   "freq": 16202,
+   "priority": 0.7743,
    "tests_count": null,
    "id": 55,
    "rank": 55
@@ -1550,7 +1550,7 @@
     94
    ],
    "source_def": "to travel",
-   "freq": 16129,
+   "freq": 16127,
    "priority": 0.774,
    "tests_count": null,
    "id": 57,
@@ -1576,7 +1576,7 @@
     173
    ],
    "source_def": "together",
-   "freq": 15981,
+   "freq": 15980,
    "priority": 0.7732,
    "tests_count": null,
    "id": 58,
@@ -1605,7 +1605,7 @@
     132
    ],
    "source_def": "matter, affair",
-   "freq": 15359,
+   "freq": 15358,
    "priority": 0.7701,
    "tests_count": null,
    "id": 59,
@@ -1985,7 +1985,7 @@
     167
    ],
    "source_def": "eye",
-   "freq": 11195,
+   "freq": 11194,
    "priority": 0.7448,
    "tests_count": null,
    "id": 73,
@@ -2358,7 +2358,7 @@
     129
    ],
    "source_def": "body",
-   "freq": 7965,
+   "freq": 7967,
    "priority": 0.7176,
    "tests_count": null,
    "id": 87,
@@ -2411,7 +2411,7 @@
     63
    ],
    "source_def": "airport",
-   "freq": 7746,
+   "freq": 7745,
    "priority": 0.7154,
    "tests_count": null,
    "id": 89,
@@ -2571,7 +2571,7 @@
     180
    ],
    "source_def": "sometimes",
-   "freq": 6921,
+   "freq": 6922,
    "priority": 0.7064,
    "tests_count": null,
    "id": 95,
@@ -2597,8 +2597,8 @@
     72
    ],
    "source_def": "to come in",
-   "freq": 6883,
-   "priority": 0.706,
+   "freq": 6882,
+   "priority": 0.7059,
    "tests_count": null,
    "id": 96,
    "rank": 96
@@ -2784,7 +2784,7 @@
     90
    ],
    "source_def": "inside",
-   "freq": 5999,
+   "freq": 5998,
    "priority": 0.695,
    "tests_count": null,
    "id": 103,
@@ -3306,7 +3306,7 @@
     147
    ],
    "source_def": "outside",
-   "freq": 4053,
+   "freq": 4054,
    "priority": 0.6637,
    "tests_count": null,
    "id": 122,
@@ -3361,7 +3361,7 @@
     159
    ],
    "source_def": "below; under",
-   "freq": 3984,
+   "freq": 3985,
    "priority": 0.6623,
    "tests_count": null,
    "id": 124,
@@ -3387,7 +3387,7 @@
     125
    ],
    "source_def": "to come up",
-   "freq": 3975,
+   "freq": 3974,
    "priority": 0.6621,
    "tests_count": null,
    "id": 125,
@@ -3838,8 +3838,8 @@
     65
    ],
    "source_def": "to remember",
-   "freq": 2549,
-   "priority": 0.6266,
+   "freq": 2550,
+   "priority": 0.6267,
    "tests_count": null,
    "id": 142,
    "rank": 142
@@ -4052,7 +4052,7 @@
     197
    ],
    "source_def": "soccer, football",
-   "freq": 2046,
+   "freq": 2047,
    "priority": 0.6091,
    "tests_count": null,
    "id": 150,
@@ -4183,8 +4183,8 @@
     25
    ],
    "source_def": "from childhood",
-   "freq": 1259,
-   "priority": 0.5703,
+   "freq": 1258,
+   "priority": 0.5702,
    "tests_count": null,
    "id": 155,
    "rank": 155
@@ -4368,8 +4368,8 @@
     15
    ],
    "source_def": "station",
-   "freq": 950,
-   "priority": 0.5478,
+   "freq": 949,
+   "priority": 0.5477,
    "tests_count": null,
    "id": 162,
    "rank": 162
@@ -4448,8 +4448,8 @@
     128
    ],
    "source_def": "to go online, to surf the Internet",
-   "freq": 853,
-   "priority": 0.5392,
+   "freq": 854,
+   "priority": 0.5393,
    "tests_count": null,
    "id": 165,
    "rank": 165
@@ -4558,8 +4558,8 @@
     200
    ],
    "source_def": "left side",
-   "freq": 759,
-   "priority": 0.5299,
+   "freq": 758,
+   "priority": 0.5298,
    "tests_count": null,
    "id": 169,
    "rank": 169
@@ -4584,8 +4584,8 @@
     124
    ],
    "source_def": "shopping mall",
-   "freq": 734,
-   "priority": 0.5272,
+   "freq": 735,
+   "priority": 0.5274,
    "tests_count": null,
    "id": 170,
    "rank": 170
@@ -4664,8 +4664,8 @@
     83
    ],
    "source_def": "pants",
-   "freq": 668,
-   "priority": 0.5197,
+   "freq": 669,
+   "priority": 0.5198,
    "tests_count": null,
    "id": 173,
    "rank": 173
@@ -4742,8 +4742,8 @@
     87
    ],
    "source_def": "basketball",
-   "freq": 639,
-   "priority": 0.5162,
+   "freq": 638,
+   "priority": 0.5161,
    "tests_count": null,
    "id": 176,
    "rank": 176
@@ -4823,8 +4823,8 @@
     169
    ],
    "source_def": "pharmacy",
-   "freq": 510,
-   "priority": 0.4982,
+   "freq": 509,
+   "priority": 0.498,
    "tests_count": null,
    "id": 179,
    "rank": 179
@@ -4982,8 +4982,8 @@
     39
    ],
    "source_def": "restaurant",
-   "freq": 246,
-   "priority": 0.4401,
+   "freq": 247,
+   "priority": 0.4405,
    "tests_count": null,
    "id": 185,
    "rank": 185
@@ -5088,8 +5088,8 @@
     161
    ],
    "source_def": "child, little kid",
-   "freq": 186,
-   "priority": 0.4179,
+   "freq": 187,
+   "priority": 0.4183,
    "tests_count": null,
    "id": 189,
    "rank": 189
@@ -5247,8 +5247,8 @@
     157
    ],
    "source_def": "restroom, toilet",
-   "freq": 110,
-   "priority": 0.3762,
+   "freq": 109,
+   "priority": 0.3755,
    "tests_count": null,
    "id": 195,
    "rank": 195

@@ -51,7 +51,8 @@ for n in range(1, 7):
            "n": c["word_count"], "f": c["freq_rank"], "nw": 1 if c["new"] else 0} for c in d["chars"]]
     levels[n] = {"meta": d["meta"], "w": ws, "c": cs}
 
-blob = json.dumps({"levels": levels}, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+h6old = open(os.path.join(B, "authored", "hsk6_newhsk_ranks.txt"), encoding="utf-8").read().split()   # for the HSK 6 progress migration
+blob = json.dumps({"levels": levels, "h6old": h6old}, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 icon = lambda n: "data:image/png;base64," + base64.b64encode(open(os.path.join(B, f"icon{n}.png"), "rb").read()).decode()
 font = lambda f: "data:font/woff2;base64," + base64.b64encode(open(os.path.join(B, "fonts", f), "rb").read()).decode()
 fonts_css = (f"@font-face{{font-family:'Instrument Sans';font-style:normal;font-weight:400 600;font-display:swap;src:url({font('InstrumentSans-latin.woff2')}) format('woff2')}}\n"

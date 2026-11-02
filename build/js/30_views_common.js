@@ -91,7 +91,7 @@ function vHome() {
     const L = LV[n], p = plans[n], st = p.st, [stTxt, stCls] = STATUS_TXT[p.status] || ['', ''];
     const nextC = L.C.filter(c => status(c) === 'new').slice(0, 6).map(c => c.h).join('');
     html += `<button class="lvrow" data-a="level" data-n="${n}">
-      <span class="lvn">HSK ${n}<small>${n === 1 || n === 4 || n === 5 ? 'HSK 2.0' : 'New HSK'}</small></span>
+      <span class="lvn">HSK ${n}<small>${/HSK 2.0/.test(LV[n].meta.syllabus) ? 'HSK 2.0' : 'New HSK'}</small></span>
       <span class="lvnext zh">${nextC || '—'}<span>${nextC ? 'next to learn' : 'all characters studied'}</span></span>
       <span><span class="lvcount"><b>${st.wSeen}</b> / ${L.W.length} words · <b>${st.cSeen}</b> / ${L.C.length} characters</span>${bar(st.wSeen + st.cSeen, st.words + st.chars)}</span>
       <span class="lvstate">${chip(stTxt || 'In progress', stCls)}<span class="small">${st.due ? `${st.due} due today` : 'nothing due'}</span></span></button>`;

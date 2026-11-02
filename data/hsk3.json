@@ -490,7 +490,7 @@
     487
    ],
    "source_def": "main",
-   "freq": 57996,
+   "freq": 57995,
    "priority": 0.8706,
    "tests_count": null,
    "id": 18,
@@ -571,7 +571,7 @@
     91
    ],
    "source_def": "place",
-   "freq": 52645,
+   "freq": 52646,
    "priority": 0.8629,
    "tests_count": null,
    "id": 21,
@@ -650,7 +650,7 @@
     319
    ],
    "source_def": "if",
-   "freq": 38379,
+   "freq": 38378,
    "priority": 0.8379,
    "tests_count": null,
    "id": 24,
@@ -863,7 +863,7 @@
     154
    ],
    "source_def": "relationship; (to relate)",
-   "freq": 32110,
+   "freq": 32108,
    "priority": 0.8237,
    "tests_count": null,
    "id": 32,
@@ -922,7 +922,7 @@
     329
    ],
    "source_def": "life; to live",
-   "freq": 31554,
+   "freq": 31555,
    "priority": 0.8223,
    "tests_count": null,
    "id": 34,
@@ -1002,7 +1002,7 @@
     41
    ],
    "source_def": "different",
-   "freq": 29387,
+   "freq": 29388,
    "priority": 0.8167,
    "tests_count": null,
    "id": 37,
@@ -1080,7 +1080,7 @@
     412
    ],
    "source_def": "to need; need",
-   "freq": 27434,
+   "freq": 27435,
    "priority": 0.8112,
    "tests_count": null,
    "id": 40,
@@ -1267,8 +1267,8 @@
     428
    ],
    "source_def": "above, more than",
-   "freq": 24974,
-   "priority": 0.8038,
+   "freq": 24973,
+   "priority": 0.8037,
    "tests_count": null,
    "id": 47,
    "rank": 47
@@ -1294,7 +1294,7 @@
     117
    ],
    "source_def": "to find, to discover",
-   "freq": 24830,
+   "freq": 24831,
    "priority": 0.8033,
    "tests_count": null,
    "id": 48,
@@ -1400,7 +1400,7 @@
     116
    ],
    "source_def": "to happen",
-   "freq": 24056,
+   "freq": 24057,
    "priority": 0.8008,
    "tests_count": null,
    "id": 52,
@@ -1454,7 +1454,7 @@
     420
    ],
    "source_def": "to demand; requirement",
-   "freq": 23948,
+   "freq": 23949,
    "priority": 0.8004,
    "tests_count": null,
    "id": 54,
@@ -2309,7 +2309,7 @@
     368
    ],
    "source_def": "to complete",
-   "freq": 16368,
+   "freq": 16370,
    "priority": 0.7702,
    "tests_count": null,
    "id": 86,
@@ -2392,7 +2392,7 @@
     21
    ],
    "source_def": "to compare; quite, relatively; than",
-   "freq": 15914,
+   "freq": 15915,
    "priority": 0.768,
    "tests_count": null,
    "id": 89,
@@ -2552,7 +2552,7 @@
     29
    ],
    "source_def": "to change; change",
-   "freq": 14938,
+   "freq": 14940,
    "priority": 0.763,
    "tests_count": null,
    "id": 95,
@@ -2578,7 +2578,7 @@
     462
    ],
    "source_def": "we",
-   "freq": 14951,
+   "freq": 14950,
    "priority": 0.763,
    "tests_count": null,
    "id": 96,
@@ -2604,7 +2604,7 @@
     234
    ],
    "source_def": "but",
-   "freq": 14825,
+   "freq": 14824,
    "priority": 0.7624,
    "tests_count": null,
    "id": 97,
@@ -2630,7 +2630,7 @@
     213
    ],
    "source_def": "to solve",
-   "freq": 14472,
+   "freq": 14473,
    "priority": 0.7604,
    "tests_count": null,
    "id": 98,
@@ -2684,8 +2684,8 @@
     346
    ],
    "source_def": "level, standard",
-   "freq": 13883,
-   "priority": 0.7571,
+   "freq": 13884,
+   "priority": 0.7572,
    "tests_count": null,
    "id": 100,
    "rank": 100
@@ -2791,7 +2791,7 @@
     132
    ],
    "source_def": "to serve",
-   "freq": 13041,
+   "freq": 13040,
    "priority": 0.7522,
    "tests_count": null,
    "id": 104,
@@ -2817,7 +2817,7 @@
     81
    ],
    "source_def": "of course",
-   "freq": 12869,
+   "freq": 12868,
    "priority": 0.7511,
    "tests_count": null,
    "id": 105,
@@ -2869,7 +2869,7 @@
     404
    ],
    "source_def": "news",
-   "freq": 12565,
+   "freq": 12567,
    "priority": 0.7492,
    "tests_count": null,
    "id": 107,
@@ -2948,7 +2948,7 @@
     299
    ],
    "source_def": "actually",
-   "freq": 11954,
+   "freq": 11955,
    "priority": 0.7453,
    "tests_count": null,
    "id": 110,
@@ -3160,8 +3160,8 @@
     414
    ],
    "source_def": "to choose",
-   "freq": 11164,
-   "priority": 0.7398,
+   "freq": 11165,
+   "priority": 0.7399,
    "tests_count": null,
    "id": 118,
    "rank": 118
@@ -3740,7 +3740,7 @@
     14
    ],
    "source_def": "help",
-   "freq": 9132,
+   "freq": 9133,
    "priority": 0.7239,
    "tests_count": null,
    "id": 140,
@@ -4057,8 +4057,8 @@
     287
    ],
    "source_def": "woman",
-   "freq": 8178,
-   "priority": 0.7151,
+   "freq": 8179,
+   "priority": 0.7152,
    "tests_count": null,
    "id": 152,
    "rank": 152
@@ -4109,7 +4109,7 @@
     270
    ],
    "source_def": "in front of",
-   "freq": 7899,
+   "freq": 7900,
    "priority": 0.7124,
    "tests_count": null,
    "id": 154,
@@ -4162,7 +4162,7 @@
     66
    ],
    "source_def": "except, besides",
-   "freq": 7790,
+   "freq": 7788,
    "priority": 0.7113,
    "tests_count": null,
    "id": 156,
@@ -4189,7 +4189,7 @@
     286
    ],
    "source_def": "to work hard; hardworking",
-   "freq": 7761,
+   "freq": 7762,
    "priority": 0.711,
    "tests_count": null,
    "id": 157,
@@ -4241,7 +4241,7 @@
     436
    ],
    "source_def": "bank",
-   "freq": 7688,
+   "freq": 7689,
    "priority": 0.7102,
    "tests_count": null,
    "id": 159,
@@ -4346,7 +4346,7 @@
     247
    ],
    "source_def": "to leave",
-   "freq": 7604,
+   "freq": 7605,
    "priority": 0.7094,
    "tests_count": null,
    "id": 163,
@@ -4450,7 +4450,7 @@
     279
    ],
    "source_def": "man",
-   "freq": 7296,
+   "freq": 7295,
    "priority": 0.7061,
    "tests_count": null,
    "id": 167,
@@ -4612,7 +4612,7 @@
     199
    ],
    "source_def": "simple",
-   "freq": 6939,
+   "freq": 6940,
    "priority": 0.7021,
    "tests_count": null,
    "id": 173,
@@ -4638,7 +4638,7 @@
     243
    ],
    "source_def": "to come from",
-   "freq": 6805,
+   "freq": 6806,
    "priority": 0.7006,
    "tests_count": null,
    "id": 174,
@@ -4664,7 +4664,7 @@
     392
    ],
    "source_def": "to believe",
-   "freq": 6792,
+   "freq": 6794,
    "priority": 0.7004,
    "tests_count": null,
    "id": 175,
@@ -5218,7 +5218,7 @@
     201
    ],
    "source_def": "healthy",
-   "freq": 5976,
+   "freq": 5975,
    "priority": 0.6902,
    "tests_count": null,
    "id": 196,
@@ -5378,7 +5378,7 @@
     165
    ],
    "source_def": "to seem, as if; perhaps",
-   "freq": 5786,
+   "freq": 5787,
    "priority": 0.6877,
    "tests_count": null,
    "id": 202,
@@ -5508,7 +5508,7 @@
     381
    ],
    "source_def": "northwest",
-   "freq": 5603,
+   "freq": 5602,
    "priority": 0.6851,
    "tests_count": null,
    "id": 207,
@@ -5639,7 +5639,7 @@
     498
    ],
    "source_def": "recently",
-   "freq": 5360,
+   "freq": 5359,
    "priority": 0.6816,
    "tests_count": null,
    "id": 212,
@@ -5982,7 +5982,7 @@
     79
    ],
    "source_def": "to worry",
-   "freq": 4843,
+   "freq": 4844,
    "priority": 0.6736,
    "tests_count": null,
    "id": 225,
@@ -6488,7 +6488,7 @@
     99
    ],
    "source_def": "east",
-   "freq": 3996,
+   "freq": 3998,
    "priority": 0.6583,
    "tests_count": null,
    "id": 244,
@@ -6514,8 +6514,8 @@
     410
    ],
    "source_def": "interest",
-   "freq": 3960,
-   "priority": 0.6576,
+   "freq": 3958,
+   "priority": 0.6575,
    "tests_count": null,
    "id": 245,
    "rank": 245
@@ -6540,7 +6540,7 @@
     37
    ],
    "source_def": "patient",
-   "freq": 3921,
+   "freq": 3920,
    "priority": 0.6568,
    "tests_count": null,
    "id": 246,
@@ -6566,7 +6566,7 @@
     298
    ],
    "source_def": "strange",
-   "freq": 3902,
+   "freq": 3903,
    "priority": 0.6564,
    "tests_count": null,
    "id": 247,
@@ -6620,7 +6620,7 @@
     126
    ],
    "source_def": "to relax, to feel at ease",
-   "freq": 3860,
+   "freq": 3861,
    "priority": 0.6556,
    "tests_count": null,
    "id": 249,
@@ -6751,7 +6751,7 @@
     276
    ],
    "source_def": "south",
-   "freq": 3740,
+   "freq": 3741,
    "priority": 0.6531,
    "tests_count": null,
    "id": 254,
@@ -6910,7 +6910,7 @@
     74
    ],
    "source_def": "adult",
-   "freq": 3578,
+   "freq": 3576,
    "priority": 0.6495,
    "tests_count": null,
    "id": 260,
@@ -6991,7 +6991,7 @@
     43
    ],
    "source_def": "not allowed, won't do; not good",
-   "freq": 3519,
+   "freq": 3518,
    "priority": 0.6482,
    "tests_count": null,
    "id": 263,
@@ -7045,7 +7045,7 @@
     237
    ],
    "source_def": "guest",
-   "freq": 3448,
+   "freq": 3449,
    "priority": 0.6466,
    "tests_count": null,
    "id": 265,
@@ -7177,7 +7177,7 @@
     82
    ],
    "source_def": "everywhere",
-   "freq": 3419,
+   "freq": 3418,
    "priority": 0.6459,
    "tests_count": null,
    "id": 270,
@@ -7203,7 +7203,7 @@
     162
    ],
    "source_def": "to be afraid",
-   "freq": 3408,
+   "freq": 3409,
    "priority": 0.6457,
    "tests_count": null,
    "id": 271,
@@ -7232,7 +7232,7 @@
     73
    ],
    "source_def": "general, rough; probably, approximately; (general idea)",
-   "freq": 3336,
+   "freq": 3335,
    "priority": 0.644,
    "tests_count": null,
    "id": 272,
@@ -7312,7 +7312,7 @@
     194
    ],
    "source_def": "season",
-   "freq": 3205,
+   "freq": 3206,
    "priority": 0.6408,
    "tests_count": null,
    "id": 275,
@@ -7841,8 +7841,8 @@
     13
    ],
    "source_def": "half a day; a long time",
-   "freq": 2621,
-   "priority": 0.6248,
+   "freq": 2622,
+   "priority": 0.6249,
    "tests_count": null,
    "id": 295,
    "rank": 295
@@ -8607,7 +8607,7 @@
     63
    ],
    "source_def": "to be born",
-   "freq": 1984,
+   "freq": 1982,
    "priority": 0.6027,
    "tests_count": null,
    "id": 324,
@@ -8738,7 +8738,7 @@
     136
    ],
    "source_def": "clean",
-   "freq": 1865,
+   "freq": 1864,
    "priority": 0.5978,
    "tests_count": null,
    "id": 329,
@@ -8896,7 +8896,7 @@
     405
    ],
    "source_def": "fresh",
-   "freq": 1696,
+   "freq": 1695,
    "priority": 0.5903,
    "tests_count": null,
    "id": 335,
@@ -8922,8 +8922,8 @@
     461
    ],
    "source_def": "athlete",
-   "freq": 1695,
-   "priority": 0.5903,
+   "freq": 1694,
+   "priority": 0.5902,
    "tests_count": null,
    "id": 336,
    "rank": 336
@@ -9130,7 +9130,7 @@
     347
    ],
    "source_def": "driver",
-   "freq": 1460,
+   "freq": 1459,
    "priority": 0.5784,
    "tests_count": null,
    "id": 344,
@@ -9157,7 +9157,7 @@
     109
    ],
    "source_def": "dialogue, conversation",
-   "freq": 1437,
+   "freq": 1438,
    "priority": 0.5772,
    "tests_count": null,
    "id": 345,
@@ -9893,7 +9893,7 @@
     233
    ],
    "source_def": "lovely",
-   "freq": 993,
+   "freq": 992,
    "priority": 0.5478,
    "tests_count": null,
    "id": 373,
@@ -10002,8 +10002,8 @@
     409
    ],
    "source_def": "luggage",
-   "freq": 896,
-   "priority": 0.5397,
+   "freq": 894,
+   "priority": 0.5395,
    "tests_count": null,
    "id": 377,
    "rank": 377
@@ -10184,8 +10184,8 @@
     241
    ],
    "source_def": "chopsticks",
-   "freq": 819,
-   "priority": 0.5326,
+   "freq": 818,
+   "priority": 0.5325,
    "tests_count": null,
    "id": 384,
    "rank": 384
@@ -10210,8 +10210,8 @@
     149
    ],
    "source_def": "workday",
-   "freq": 792,
-   "priority": 0.5299,
+   "freq": 794,
+   "priority": 0.5301,
    "tests_count": null,
    "id": 385,
    "rank": 385
@@ -10316,8 +10316,8 @@
     454
    ],
    "source_def": "to meet",
-   "freq": 733,
-   "priority": 0.5238,
+   "freq": 734,
+   "priority": 0.5239,
    "tests_count": null,
    "id": 389,
    "rank": 389
@@ -10685,8 +10685,8 @@
     283
    ],
    "source_def": "grade",
-   "freq": 661,
-   "priority": 0.5156,
+   "freq": 662,
+   "priority": 0.5157,
    "tests_count": null,
    "id": 403,
    "rank": 403
@@ -11052,8 +11052,8 @@
     172
    ],
    "source_def": "the year after next",
-   "freq": 506,
-   "priority": 0.4944,
+   "freq": 515,
+   "priority": 0.4958,
    "tests_count": null,
    "id": 417,
    "rank": 417
@@ -11130,8 +11130,8 @@
     229
    ],
    "source_def": "happy",
-   "freq": 490,
-   "priority": 0.4919,
+   "freq": 491,
+   "priority": 0.492,
    "tests_count": null,
    "id": 420,
    "rank": 420
@@ -11156,8 +11156,8 @@
     223
    ],
    "source_def": "sentence",
-   "freq": 486,
-   "priority": 0.4912,
+   "freq": 485,
+   "priority": 0.491,
    "tests_count": null,
    "id": 421,
    "rank": 421
@@ -11365,8 +11365,8 @@
     280
    ],
    "source_def": "boy student",
-   "freq": 437,
-   "priority": 0.4828,
+   "freq": 436,
+   "priority": 0.4826,
    "tests_count": null,
    "id": 429,
    "rank": 429
@@ -11391,8 +11391,8 @@
     292
    ],
    "source_def": "plate",
-   "freq": 432,
-   "priority": 0.4819,
+   "freq": 431,
+   "priority": 0.4817,
    "tests_count": null,
    "id": 430,
    "rank": 430
@@ -11502,6 +11502,32 @@
    "rank": 434
   },
   {
+   "hanzi": "小区",
+   "pinyin": "xiǎoqū",
+   "pinyin_spaced": "xiǎo qū",
+   "pos": "n.",
+   "english": "residential community",
+   "accepted": [
+    "residential community"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我们小区里有一个公园。",
+    "en": "There is a park in our residential area.",
+    "py": "Wǒmen xiǎoqū lǐ yǒu yí gè gōngyuán."
+   },
+   "src_no": [
+    397
+   ],
+   "source_def": "residential community",
+   "freq": 419,
+   "priority": 0.4795,
+   "tests_count": null,
+   "id": 435,
+   "rank": 435
+  },
+  {
    "hanzi": "洗澡",
    "pinyin": "xǐzǎo",
    "pinyin_spaced": "xǐ zǎo",
@@ -11523,32 +11549,6 @@
    "source_def": "to take a bath",
    "freq": 419,
    "priority": 0.4795,
-   "tests_count": null,
-   "id": 435,
-   "rank": 435
-  },
-  {
-   "hanzi": "小区",
-   "pinyin": "xiǎoqū",
-   "pinyin_spaced": "xiǎo qū",
-   "pos": "n.",
-   "english": "residential community",
-   "accepted": [
-    "residential community"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "我们小区里有一个公园。",
-    "en": "There is a park in our residential area.",
-    "py": "Wǒmen xiǎoqū lǐ yǒu yí gè gōngyuán."
-   },
-   "src_no": [
-    397
-   ],
-   "source_def": "residential community",
-   "freq": 418,
-   "priority": 0.4793,
    "tests_count": null,
    "id": 436,
    "rank": 436
@@ -11573,8 +11573,8 @@
     164
    ],
    "source_def": "a long time",
-   "freq": 414,
-   "priority": 0.4785,
+   "freq": 415,
+   "priority": 0.4787,
    "tests_count": null,
    "id": 437,
    "rank": 437
@@ -11651,8 +11651,8 @@
     71
    ],
    "source_def": "to clean",
-   "freq": 390,
-   "priority": 0.4738,
+   "freq": 391,
+   "priority": 0.474,
    "tests_count": null,
    "id": 440,
    "rank": 440
@@ -11677,8 +11677,8 @@
     278
    ],
    "source_def": "ugly",
-   "freq": 386,
-   "priority": 0.473,
+   "freq": 385,
+   "priority": 0.4728,
    "tests_count": null,
    "id": 441,
    "rank": 441
@@ -11703,8 +11703,8 @@
     473
    ],
    "source_def": "to take a picture",
-   "freq": 383,
-   "priority": 0.4723,
+   "freq": 384,
+   "priority": 0.4726,
    "tests_count": null,
    "id": 442,
    "rank": 442
@@ -11885,8 +11885,8 @@
     58
    ],
    "source_def": "shirt",
-   "freq": 342,
-   "priority": 0.4634,
+   "freq": 343,
+   "priority": 0.4636,
    "tests_count": null,
    "id": 449,
    "rank": 449
@@ -12198,8 +12198,8 @@
     354
    ],
    "source_def": "gymnasium",
-   "freq": 254,
-   "priority": 0.4399,
+   "freq": 255,
+   "priority": 0.4402,
    "tests_count": null,
    "id": 461,
    "rank": 461
@@ -12224,8 +12224,8 @@
     115
    ],
    "source_def": "to have a fever",
-   "freq": 253,
-   "priority": 0.4395,
+   "freq": 252,
+   "priority": 0.4392,
    "tests_count": null,
    "id": 462,
    "rank": 462
@@ -12250,8 +12250,8 @@
     291
    ],
    "source_def": "to take a photo",
-   "freq": 249,
-   "priority": 0.4383,
+   "freq": 251,
+   "priority": 0.4389,
    "tests_count": null,
    "id": 463,
    "rank": 463
@@ -12283,32 +12283,6 @@
    "rank": 464
   },
   {
-   "hanzi": "字典",
-   "pinyin": "zìdiǎn",
-   "pinyin_spaced": "zì diǎn",
-   "pos": "n.",
-   "english": "dictionary",
-   "accepted": [
-    "dictionary"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "我常用这本字典。",
-    "en": "I often use this dictionary.",
-    "py": "Wǒ chángyòng zhèběn zìdiǎn."
-   },
-   "src_no": [
-    490
-   ],
-   "source_def": "dictionary",
-   "freq": 247,
-   "priority": 0.4376,
-   "tests_count": null,
-   "id": 465,
-   "rank": 465
-  },
-  {
    "hanzi": "护照",
    "pinyin": "hùzhào",
    "pinyin_spaced": "hù zhào",
@@ -12328,8 +12302,34 @@
     174
    ],
    "source_def": "passport",
-   "freq": 245,
-   "priority": 0.437,
+   "freq": 247,
+   "priority": 0.4376,
+   "tests_count": null,
+   "id": 465,
+   "rank": 465
+  },
+  {
+   "hanzi": "字典",
+   "pinyin": "zìdiǎn",
+   "pinyin_spaced": "zì diǎn",
+   "pos": "n.",
+   "english": "dictionary",
+   "accepted": [
+    "dictionary"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我常用这本字典。",
+    "en": "I often use this dictionary.",
+    "py": "Wǒ chángyòng zhèběn zìdiǎn."
+   },
+   "src_no": [
+    490
+   ],
+   "source_def": "dictionary",
+   "freq": 246,
+   "priority": 0.4373,
    "tests_count": null,
    "id": 466,
    "rank": 466
@@ -12354,8 +12354,8 @@
     9
    ],
    "source_def": "to move house",
-   "freq": 245,
-   "priority": 0.437,
+   "freq": 246,
+   "priority": 0.4373,
    "tests_count": null,
    "id": 467,
    "rank": 467
@@ -12381,8 +12381,8 @@
     8
    ],
    "source_def": "class, grade",
-   "freq": 241,
-   "priority": 0.4357,
+   "freq": 242,
+   "priority": 0.436,
    "tests_count": null,
    "id": 468,
    "rank": 468
@@ -12407,8 +12407,8 @@
     308
    ],
    "source_def": "to ask for leave",
-   "freq": 234,
-   "priority": 0.4334,
+   "freq": 233,
+   "priority": 0.433,
    "tests_count": null,
    "id": 469,
    "rank": 469
@@ -12433,8 +12433,8 @@
     411
    ],
    "source_def": "to take a holiday",
-   "freq": 232,
-   "priority": 0.4327,
+   "freq": 231,
+   "priority": 0.4324,
    "tests_count": null,
    "id": 470,
    "rank": 470
@@ -12459,8 +12459,8 @@
     437
    ],
    "source_def": "bank card",
-   "freq": 219,
-   "priority": 0.4281,
+   "freq": 221,
+   "priority": 0.4289,
    "tests_count": null,
    "id": 471,
    "rank": 471
@@ -12511,8 +12511,8 @@
     125
    ],
    "source_def": "to have a holiday",
-   "freq": 198,
-   "priority": 0.4202,
+   "freq": 199,
+   "priority": 0.4206,
    "tests_count": null,
    "id": 473,
    "rank": 473
@@ -12774,8 +12774,8 @@
     464
    ],
    "source_def": "what to do",
-   "freq": 122,
-   "priority": 0.382,
+   "freq": 121,
+   "priority": 0.3813,
    "tests_count": null,
    "id": 483,
    "rank": 483
@@ -12800,8 +12800,8 @@
     120
    ],
    "source_def": "instant noodles",
-   "freq": 118,
-   "priority": 0.3794,
+   "freq": 117,
+   "priority": 0.3787,
    "tests_count": null,
    "id": 484,
    "rank": 484
@@ -12878,37 +12878,11 @@
     452
    ],
    "source_def": "raincoat",
-   "freq": 105,
-   "priority": 0.3702,
+   "freq": 107,
+   "priority": 0.3717,
    "tests_count": null,
    "id": 487,
    "rank": 487
-  },
-  {
-   "hanzi": "勺子",
-   "pinyin": "sháozi",
-   "pinyin_spaced": "sháo zi",
-   "pos": "n.",
-   "english": "spoon",
-   "accepted": [
-    "spoon"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "喝汤的时候要用勺子。",
-    "en": "Use a spoon when eating soup.",
-    "py": "Hētāng de shíhou yào yòng sháozi."
-   },
-   "src_no": [
-    325
-   ],
-   "source_def": "spoon",
-   "freq": 100,
-   "priority": 0.3663,
-   "tests_count": null,
-   "id": 488,
-   "rank": 488
   },
   {
    "hanzi": "课文",
@@ -12930,6 +12904,32 @@
     238
    ],
    "source_def": "text",
+   "freq": 101,
+   "priority": 0.3671,
+   "tests_count": null,
+   "id": 488,
+   "rank": 488
+  },
+  {
+   "hanzi": "勺子",
+   "pinyin": "sháozi",
+   "pinyin_spaced": "sháo zi",
+   "pos": "n.",
+   "english": "spoon",
+   "accepted": [
+    "spoon"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "喝汤的时候要用勺子。",
+    "en": "Use a spoon when eating soup.",
+    "py": "Hētāng de shíhou yào yòng sháozi."
+   },
+   "src_no": [
+    325
+   ],
+   "source_def": "spoon",
    "freq": 100,
    "priority": 0.3663,
    "tests_count": null,
@@ -13010,8 +13010,8 @@
     253
    ],
    "source_def": "cool",
-   "freq": 75,
-   "priority": 0.3438,
+   "freq": 74,
+   "priority": 0.3427,
    "tests_count": null,
    "id": 492,
    "rank": 492
@@ -13141,8 +13141,8 @@
     366
    ],
    "source_def": "takeaway; to order takeout",
-   "freq": 24,
-   "priority": 0.2555,
+   "freq": 25,
+   "priority": 0.2586,
    "tests_count": null,
    "id": 497,
    "rank": 497

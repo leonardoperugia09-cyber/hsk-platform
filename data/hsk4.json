@@ -646,7 +646,7 @@
     375
    ],
    "source_def": "Life",
-   "freq": 31554,
+   "freq": 31555,
    "priority": 0.8501,
    "tests_count": null,
    "id": 24,
@@ -672,7 +672,7 @@
     440
    ],
    "source_def": "meanwhile",
-   "freq": 30249,
+   "freq": 30250,
    "priority": 0.8467,
    "tests_count": null,
    "id": 25,
@@ -860,7 +860,7 @@
     112
    ],
    "source_def": "Aspect",
-   "freq": 26968,
+   "freq": 26967,
    "priority": 0.8373,
    "tests_count": null,
    "id": 32,
@@ -913,7 +913,7 @@
     489
    ],
    "source_def": "many",
-   "freq": 25605,
+   "freq": 25604,
    "priority": 0.833,
    "tests_count": null,
    "id": 34,
@@ -966,7 +966,7 @@
     160
    ],
    "source_def": "international",
-   "freq": 24605,
+   "freq": 24606,
    "priority": 0.8297,
    "tests_count": null,
    "id": 36,
@@ -993,7 +993,7 @@
     159
    ],
    "source_def": "Regulations",
-   "freq": 24572,
+   "freq": 24573,
    "priority": 0.8296,
    "tests_count": null,
    "id": 37,
@@ -1045,7 +1045,7 @@
     105
    ],
    "source_def": "Happen",
-   "freq": 24056,
+   "freq": 24057,
    "priority": 0.8279,
    "tests_count": null,
    "id": 39,
@@ -1207,7 +1207,7 @@
     599
    ],
    "source_def": "Effect",
-   "freq": 22083,
+   "freq": 22082,
    "priority": 0.8209,
    "tests_count": null,
    "id": 45,
@@ -1825,7 +1825,7 @@
     511
    ],
    "source_def": "everything",
-   "freq": 16366,
+   "freq": 16365,
    "priority": 0.7963,
    "tests_count": null,
    "id": 68,
@@ -1852,7 +1852,7 @@
     583
    ],
    "source_def": "major",
-   "freq": 16218,
+   "freq": 16219,
    "priority": 0.7955,
    "tests_count": null,
    "id": 69,
@@ -1878,7 +1878,7 @@
     552
    ],
    "source_def": "increase",
-   "freq": 16200,
+   "freq": 16199,
    "priority": 0.7954,
    "tests_count": null,
    "id": 70,
@@ -1905,7 +1905,7 @@
     185
    ],
    "source_def": "Get",
-   "freq": 16131,
+   "freq": 16133,
    "priority": 0.7951,
    "tests_count": null,
    "id": 71,
@@ -1957,7 +1957,7 @@
     446
    ],
    "source_def": "completely",
-   "freq": 15632,
+   "freq": 15630,
    "priority": 0.7925,
    "tests_count": null,
    "id": 73,
@@ -2009,7 +2009,7 @@
     315
    ],
    "source_def": "content",
-   "freq": 15472,
+   "freq": 15473,
    "priority": 0.7917,
    "tests_count": null,
    "id": 75,
@@ -2035,7 +2035,7 @@
     374
    ],
    "source_def": "Even to the extent that",
-   "freq": 15242,
+   "freq": 15243,
    "priority": 0.7904,
    "tests_count": null,
    "id": 76,
@@ -2063,7 +2063,7 @@
     359
    ],
    "source_def": "task",
-   "freq": 15218,
+   "freq": 15217,
    "priority": 0.7903,
    "tests_count": null,
    "id": 77,
@@ -2090,7 +2090,7 @@
     540
    ],
    "source_def": "Original",
-   "freq": 15088,
+   "freq": 15087,
    "priority": 0.7896,
    "tests_count": null,
    "id": 78,
@@ -2117,8 +2117,8 @@
     548
    ],
    "source_def": "We",
-   "freq": 14951,
-   "priority": 0.7889,
+   "freq": 14950,
+   "priority": 0.7888,
    "tests_count": null,
    "id": 79,
    "rank": 79
@@ -2144,7 +2144,7 @@
     567
    ],
    "source_def": "direct",
-   "freq": 14911,
+   "freq": 14910,
    "priority": 0.7886,
    "tests_count": null,
    "id": 80,
@@ -2170,7 +2170,7 @@
     255
    ],
    "source_def": "however",
-   "freq": 14825,
+   "freq": 14824,
    "priority": 0.7882,
    "tests_count": null,
    "id": 81,
@@ -2222,7 +2222,7 @@
     358
    ],
    "source_def": "whatever, any",
-   "freq": 14640,
+   "freq": 14639,
    "priority": 0.7871,
    "tests_count": null,
    "id": 83,
@@ -2249,7 +2249,7 @@
     221
    ],
    "source_def": "Result",
-   "freq": 13967,
+   "freq": 13968,
    "priority": 0.7833,
    "tests_count": null,
    "id": 84,
@@ -2275,7 +2275,7 @@
     9
    ],
    "source_def": "protect",
-   "freq": 13879,
+   "freq": 13878,
    "priority": 0.7827,
    "tests_count": null,
    "id": 85,
@@ -2301,7 +2301,7 @@
     127
    ],
    "source_def": "Be responsible for",
-   "freq": 13750,
+   "freq": 13748,
    "priority": 0.782,
    "tests_count": null,
    "id": 86,
@@ -2327,7 +2327,7 @@
     515
    ],
    "source_def": "Art",
-   "freq": 13631,
+   "freq": 13630,
    "priority": 0.7813,
    "tests_count": null,
    "id": 87,
@@ -2354,7 +2354,7 @@
     534
    ],
    "source_def": "Therefore",
-   "freq": 13541,
+   "freq": 13539,
    "priority": 0.7807,
    "tests_count": null,
    "id": 88,
@@ -2434,7 +2434,7 @@
     141
    ],
    "source_def": "kilometre",
-   "freq": 13088,
+   "freq": 13087,
    "priority": 0.7779,
    "tests_count": null,
    "id": 91,
@@ -2540,7 +2540,7 @@
     542
    ],
    "source_def": "Reason",
-   "freq": 12687,
+   "freq": 12686,
    "priority": 0.7754,
    "tests_count": null,
    "id": 95,
@@ -2755,7 +2755,7 @@
     5
    ],
    "source_def": "according to",
-   "freq": 11562,
+   "freq": 11561,
    "priority": 0.7678,
    "tests_count": null,
    "id": 103,
@@ -2863,7 +2863,7 @@
     595
    ],
    "source_def": "About",
-   "freq": 11173,
+   "freq": 11174,
    "priority": 0.765,
    "tests_count": null,
    "id": 107,
@@ -2916,7 +2916,7 @@
     564
    ],
    "source_def": "Support",
-   "freq": 10932,
+   "freq": 10933,
    "priority": 0.7632,
    "tests_count": null,
    "id": 109,
@@ -2943,7 +2943,7 @@
     213
    ],
    "source_def": "traffic",
-   "freq": 10912,
+   "freq": 10913,
    "priority": 0.763,
    "tests_count": null,
    "id": 110,
@@ -3236,7 +3236,7 @@
     290
    ],
    "source_def": "in addition",
-   "freq": 10244,
+   "freq": 10243,
    "priority": 0.7578,
    "tests_count": null,
    "id": 121,
@@ -3769,7 +3769,7 @@
     206
    ],
    "source_def": "proposal",
-   "freq": 9332,
+   "freq": 9331,
    "priority": 0.7502,
    "tests_count": null,
    "id": 141,
@@ -3902,7 +3902,7 @@
     35
    ],
    "source_def": "Material Science",
-   "freq": 9142,
+   "freq": 9141,
    "priority": 0.7485,
    "tests_count": null,
    "id": 146,
@@ -4435,7 +4435,7 @@
     309
    ],
    "source_def": "mother",
-   "freq": 8015,
+   "freq": 8014,
    "priority": 0.7377,
    "tests_count": null,
    "id": 166,
@@ -4461,7 +4461,7 @@
     573
    ],
    "source_def": "quality",
-   "freq": 8013,
+   "freq": 8014,
    "priority": 0.7377,
    "tests_count": null,
    "id": 167,
@@ -4514,7 +4514,7 @@
     2
    ],
    "source_def": "arrange",
-   "freq": 7841,
+   "freq": 7840,
    "priority": 0.7359,
    "tests_count": null,
    "id": 169,
@@ -4541,8 +4541,8 @@
     133
    ],
    "source_def": "feel",
-   "freq": 7771,
-   "priority": 0.7352,
+   "freq": 7770,
+   "priority": 0.7351,
    "tests_count": null,
    "id": 170,
    "rank": 170
@@ -4677,7 +4677,7 @@
     385
    ],
    "source_def": "really",
-   "freq": 7562,
+   "freq": 7561,
    "priority": 0.7329,
    "tests_count": null,
    "id": 175,
@@ -4782,7 +4782,7 @@
     217
    ],
    "source_def": "professor",
-   "freq": 7424,
+   "freq": 7423,
    "priority": 0.7314,
    "tests_count": null,
    "id": 179,
@@ -4887,7 +4887,7 @@
     529
    ],
    "source_def": "especially",
-   "freq": 7137,
+   "freq": 7139,
    "priority": 0.7282,
    "tests_count": null,
    "id": 183,
@@ -4966,7 +4966,7 @@
     376
    ],
    "source_def": "life",
-   "freq": 6990,
+   "freq": 6991,
    "priority": 0.7265,
    "tests_count": null,
    "id": 186,
@@ -4993,7 +4993,7 @@
     402
    ],
    "source_def": "Number",
-   "freq": 6932,
+   "freq": 6931,
    "priority": 0.7258,
    "tests_count": null,
    "id": 187,
@@ -5020,7 +5020,7 @@
     508
    ],
    "source_def": "perhaps",
-   "freq": 6850,
+   "freq": 6851,
    "priority": 0.7248,
    "tests_count": null,
    "id": 188,
@@ -5046,8 +5046,8 @@
     338
    ],
    "source_def": "climate",
-   "freq": 6835,
-   "priority": 0.7246,
+   "freq": 6837,
+   "priority": 0.7247,
    "tests_count": null,
    "id": 189,
    "rank": 189
@@ -5072,7 +5072,7 @@
     269
    ],
    "source_def": "Come from",
-   "freq": 6805,
+   "freq": 6806,
    "priority": 0.7243,
    "tests_count": null,
    "id": 190,
@@ -5099,7 +5099,7 @@
     454
    ],
    "source_def": "Article",
-   "freq": 6733,
+   "freq": 6732,
    "priority": 0.7234,
    "tests_count": null,
    "id": 191,
@@ -5205,7 +5205,7 @@
     236
    ],
    "source_def": "Unexpectedly",
-   "freq": 6645,
+   "freq": 6644,
    "priority": 0.7223,
    "tests_count": null,
    "id": 195,
@@ -5338,7 +5338,7 @@
     63
    ],
    "source_def": "error",
-   "freq": 6383,
+   "freq": 6384,
    "priority": 0.719,
    "tests_count": null,
    "id": 200,
@@ -5523,8 +5523,8 @@
     560
    ],
    "source_def": "Correct",
-   "freq": 6172,
-   "priority": 0.7163,
+   "freq": 6171,
+   "priority": 0.7162,
    "tests_count": null,
    "id": 207,
    "rank": 207
@@ -5575,7 +5575,7 @@
     126
    ],
    "source_def": "complex",
-   "freq": 6122,
+   "freq": 6121,
    "priority": 0.7156,
    "tests_count": null,
    "id": 209,
@@ -5735,7 +5735,7 @@
     18
    ],
    "source_def": "graduation",
-   "freq": 5992,
+   "freq": 5993,
    "priority": 0.7138,
    "tests_count": null,
    "id": 215,
@@ -5789,7 +5789,7 @@
     390
    ],
    "source_def": "Adapt",
-   "freq": 5975,
+   "freq": 5976,
    "priority": 0.7136,
    "tests_count": null,
    "id": 217,
@@ -5893,7 +5893,7 @@
     558
    ],
    "source_def": "normal",
-   "freq": 5864,
+   "freq": 5865,
    "priority": 0.7121,
    "tests_count": null,
    "id": 221,
@@ -5947,7 +5947,7 @@
     170
    ],
    "source_def": "Be like, seem",
-   "freq": 5786,
+   "freq": 5787,
    "priority": 0.711,
    "tests_count": null,
    "id": 223,
@@ -6028,8 +6028,8 @@
     355
    ],
    "source_def": "Exactly",
-   "freq": 5772,
-   "priority": 0.7108,
+   "freq": 5771,
+   "priority": 0.7107,
    "tests_count": null,
    "id": 226,
    "rank": 226
@@ -6082,7 +6082,7 @@
     578
    ],
    "source_def": "around",
-   "freq": 5685,
+   "freq": 5686,
    "priority": 0.7095,
    "tests_count": null,
    "id": 228,
@@ -6188,7 +6188,7 @@
     474
    ],
    "source_def": "Novel",
-   "freq": 5505,
+   "freq": 5506,
    "priority": 0.7069,
    "tests_count": null,
    "id": 232,
@@ -7437,8 +7437,8 @@
     164
    ],
    "source_def": "ocean",
-   "freq": 4073,
-   "priority": 0.6822,
+   "freq": 4072,
+   "priority": 0.6821,
    "tests_count": null,
    "id": 279,
    "rank": 279
@@ -7489,7 +7489,7 @@
     279
    ],
    "source_def": "ideal",
-   "freq": 3993,
+   "freq": 3992,
    "priority": 0.6805,
    "tests_count": null,
    "id": 281,
@@ -7622,7 +7622,7 @@
     453
    ],
    "source_def": "temperature",
-   "freq": 3958,
+   "freq": 3957,
    "priority": 0.6798,
    "tests_count": null,
    "id": 286,
@@ -7649,7 +7649,7 @@
     466
    ],
    "source_def": "Contrary",
-   "freq": 3900,
+   "freq": 3899,
    "priority": 0.6786,
    "tests_count": null,
    "id": 287,
@@ -7782,7 +7782,7 @@
     73
    ],
    "source_def": "about",
-   "freq": 3861,
+   "freq": 3863,
    "priority": 0.6778,
    "tests_count": null,
    "id": 292,
@@ -7918,7 +7918,7 @@
     349
    ],
    "source_def": "Difference",
-   "freq": 3781,
+   "freq": 3779,
    "priority": 0.676,
    "tests_count": null,
    "id": 297,
@@ -8154,7 +8154,7 @@
     243
    ],
    "source_def": "refuse",
-   "freq": 3582,
+   "freq": 3581,
    "priority": 0.6716,
    "tests_count": null,
    "id": 306,
@@ -8182,7 +8182,7 @@
     60
    ],
    "source_def": "Always",
-   "freq": 3552,
+   "freq": 3553,
    "priority": 0.6709,
    "tests_count": null,
    "id": 307,
@@ -8263,7 +8263,7 @@
     241
    ],
    "source_def": "hold",
-   "freq": 3546,
+   "freq": 3545,
    "priority": 0.6708,
    "tests_count": null,
    "id": 310,
@@ -8341,7 +8341,7 @@
     81
    ],
    "source_def": "everywhere",
-   "freq": 3419,
+   "freq": 3418,
    "priority": 0.6678,
    "tests_count": null,
    "id": 313,
@@ -8419,7 +8419,7 @@
     597
    ],
    "source_def": "writer",
-   "freq": 3363,
+   "freq": 3362,
    "priority": 0.6664,
    "tests_count": null,
    "id": 316,
@@ -8453,6 +8453,33 @@
    "rank": 317
   },
   {
+   "hanzi": "动作",
+   "pinyin": "dòngzuò",
+   "pinyin_spaced": "dòng zuò",
+   "pos": "n.",
+   "english": "action; movement",
+   "accepted": [
+    "action",
+    "movement"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他的动作很快。",
+    "en": "His movements are very quick.",
+    "py": "Tā de dòngzuò hěnkuài."
+   },
+   "src_no": [
+    96
+   ],
+   "source_def": "action",
+   "freq": 3348,
+   "priority": 0.6661,
+   "tests_count": null,
+   "id": 318,
+   "rank": 318
+  },
+  {
    "hanzi": "总结",
    "pinyin": "zǒngjié",
    "pinyin_spaced": "zǒng jié",
@@ -8475,33 +8502,6 @@
    "source_def": "summary",
    "freq": 3351,
    "priority": 0.6661,
-   "tests_count": null,
-   "id": 318,
-   "rank": 318
-  },
-  {
-   "hanzi": "动作",
-   "pinyin": "dòngzuò",
-   "pinyin_spaced": "dòng zuò",
-   "pos": "n.",
-   "english": "action; movement",
-   "accepted": [
-    "action",
-    "movement"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "他的动作很快。",
-    "en": "His movements are very quick.",
-    "py": "Tā de dòngzuò hěnkuài."
-   },
-   "src_no": [
-    96
-   ],
-   "source_def": "action",
-   "freq": 3347,
-   "priority": 0.666,
    "tests_count": null,
    "id": 319,
    "rank": 319
@@ -8527,7 +8527,7 @@
     487
    ],
    "source_def": "happiness",
-   "freq": 3346,
+   "freq": 3344,
    "priority": 0.666,
    "tests_count": null,
    "id": 320,
@@ -8554,7 +8554,7 @@
     71
    ],
    "source_def": "Probably",
-   "freq": 3336,
+   "freq": 3335,
    "priority": 0.6658,
    "tests_count": null,
    "id": 321,
@@ -8580,7 +8580,7 @@
     461
    ],
    "source_def": "Attract",
-   "freq": 3312,
+   "freq": 3311,
    "priority": 0.6652,
    "tests_count": null,
    "id": 322,
@@ -8607,7 +8607,7 @@
     256
    ],
    "source_def": "unfortunately",
-   "freq": 3288,
+   "freq": 3287,
    "priority": 0.6646,
    "tests_count": null,
    "id": 323,
@@ -8661,7 +8661,7 @@
     546
    ],
    "source_def": "allow",
-   "freq": 3251,
+   "freq": 3252,
    "priority": 0.6637,
    "tests_count": null,
    "id": 325,
@@ -8742,7 +8742,7 @@
     439
    ],
    "source_def": "notice",
-   "freq": 3134,
+   "freq": 3135,
    "priority": 0.6607,
    "tests_count": null,
    "id": 328,
@@ -8821,7 +8821,7 @@
     401
    ],
    "source_def": "be familiar with",
-   "freq": 3058,
+   "freq": 3057,
    "priority": 0.6586,
    "tests_count": null,
    "id": 331,
@@ -8848,7 +8848,7 @@
     293
    ],
    "source_def": "Popular",
-   "freq": 3053,
+   "freq": 3054,
    "priority": 0.6585,
    "tests_count": null,
    "id": 332,
@@ -8982,8 +8982,8 @@
     406
    ],
    "source_def": "smoothly",
-   "freq": 2952,
-   "priority": 0.6557,
+   "freq": 2953,
+   "priority": 0.6558,
    "tests_count": null,
    "id": 337,
    "rank": 337
@@ -9036,7 +9036,7 @@
     138
    ],
    "source_def": "Expressway",
-   "freq": 2943,
+   "freq": 2944,
    "priority": 0.6555,
    "tests_count": null,
    "id": 339,
@@ -9116,7 +9116,7 @@
     579
    ],
    "source_def": "idea",
-   "freq": 2905,
+   "freq": 2904,
    "priority": 0.6544,
    "tests_count": null,
    "id": 342,
@@ -9168,7 +9168,7 @@
     373
    ],
    "source_def": "Apply",
-   "freq": 2874,
+   "freq": 2873,
    "priority": 0.6535,
    "tests_count": null,
    "id": 344,
@@ -9273,7 +9273,7 @@
     451
    ],
    "source_def": "taste",
-   "freq": 2812,
+   "freq": 2813,
    "priority": 0.6518,
    "tests_count": null,
    "id": 348,
@@ -9352,8 +9352,8 @@
     336
    ],
    "source_def": "Secondly",
-   "freq": 2782,
-   "priority": 0.6509,
+   "freq": 2781,
+   "priority": 0.6508,
    "tests_count": null,
    "id": 351,
    "rank": 351
@@ -9646,8 +9646,8 @@
     1
    ],
    "source_def": "Love",
-   "freq": 2611,
-   "priority": 0.6457,
+   "freq": 2610,
+   "priority": 0.6456,
    "tests_count": null,
    "id": 362,
    "rank": 362
@@ -9937,8 +9937,8 @@
     248
    ],
    "source_def": "view",
-   "freq": 2495,
-   "priority": 0.6419,
+   "freq": 2496,
+   "priority": 0.642,
    "tests_count": null,
    "id": 373,
    "rank": 373
@@ -10606,7 +10606,7 @@
     54
    ],
    "source_def": "Birth",
-   "freq": 1984,
+   "freq": 1982,
    "priority": 0.6231,
    "tests_count": null,
    "id": 398,
@@ -10632,7 +10632,7 @@
     36
    ],
    "source_def": "visit",
-   "freq": 1982,
+   "freq": 1983,
    "priority": 0.6231,
    "tests_count": null,
    "id": 399,
@@ -10659,7 +10659,7 @@
     346
    ],
    "source_def": "Relaxed",
-   "freq": 1984,
+   "freq": 1983,
    "priority": 0.6231,
    "tests_count": null,
    "id": 400,
@@ -10715,8 +10715,8 @@
     353
    ],
    "source_def": "Lack",
-   "freq": 1954,
-   "priority": 0.6219,
+   "freq": 1956,
+   "priority": 0.622,
    "tests_count": null,
    "id": 402,
    "rank": 402
@@ -10821,8 +10821,8 @@
     254
    ],
    "source_def": "Poor",
-   "freq": 1910,
-   "priority": 0.62,
+   "freq": 1911,
+   "priority": 0.6201,
    "tests_count": null,
    "id": 406,
    "rank": 406
@@ -10900,7 +10900,7 @@
     132
    ],
    "source_def": "Be moved",
-   "freq": 1844,
+   "freq": 1843,
    "priority": 0.6171,
    "tests_count": null,
    "id": 409,
@@ -10952,8 +10952,8 @@
     178
    ],
    "source_def": "Internet",
-   "freq": 1817,
-   "priority": 0.6159,
+   "freq": 1818,
+   "priority": 0.616,
    "tests_count": null,
    "id": 411,
    "rank": 411
@@ -10978,7 +10978,7 @@
     306
    ],
    "source_def": "Free of charge",
-   "freq": 1815,
+   "freq": 1814,
    "priority": 0.6158,
    "tests_count": null,
    "id": 412,
@@ -11031,8 +11031,8 @@
     64
    ],
    "source_def": "Answer",
-   "freq": 1761,
-   "priority": 0.6134,
+   "freq": 1760,
+   "priority": 0.6133,
    "tests_count": null,
    "id": 414,
    "rank": 414
@@ -11088,7 +11088,7 @@
     377
    ],
    "source_def": "business",
-   "freq": 1723,
+   "freq": 1724,
    "priority": 0.6116,
    "tests_count": null,
    "id": 416,
@@ -11114,8 +11114,8 @@
     135
    ],
    "source_def": "Thank",
-   "freq": 1714,
-   "priority": 0.6111,
+   "freq": 1715,
+   "priority": 0.6112,
    "tests_count": null,
    "id": 417,
    "rank": 417
@@ -11247,7 +11247,7 @@
     40
    ],
    "source_def": "The Great Wall",
-   "freq": 1563,
+   "freq": 1564,
    "priority": 0.6036,
    "tests_count": null,
    "id": 422,
@@ -11351,8 +11351,8 @@
     530
    ],
    "source_def": "interesting",
-   "freq": 1476,
-   "priority": 0.5989,
+   "freq": 1475,
+   "priority": 0.5988,
    "tests_count": null,
    "id": 426,
    "rank": 426
@@ -11458,7 +11458,7 @@
     101
    ],
    "source_def": "dialogue",
-   "freq": 1437,
+   "freq": 1438,
    "priority": 0.5967,
    "tests_count": null,
    "id": 430,
@@ -11968,7 +11968,7 @@
     270
    ],
    "source_def": "There's not enough time",
-   "freq": 1182,
+   "freq": 1183,
    "priority": 0.5807,
    "tests_count": null,
    "id": 449,
@@ -12261,7 +12261,7 @@
     305
    ],
    "source_def": "Password",
-   "freq": 1027,
+   "freq": 1026,
    "priority": 0.5691,
    "tests_count": null,
    "id": 460,
@@ -12341,8 +12341,8 @@
     146
    ],
    "source_def": "Shopping",
-   "freq": 999,
-   "priority": 0.5669,
+   "freq": 998,
+   "priority": 0.5668,
    "tests_count": null,
    "id": 463,
    "rank": 463
@@ -12367,8 +12367,8 @@
     176
    ],
    "source_def": "regret",
-   "freq": 991,
-   "priority": 0.5662,
+   "freq": 992,
+   "priority": 0.5663,
    "tests_count": null,
    "id": 464,
    "rank": 464
@@ -12447,8 +12447,8 @@
     485
    ],
    "source_def": "Gender",
-   "freq": 955,
-   "priority": 0.5632,
+   "freq": 954,
+   "priority": 0.5631,
    "tests_count": null,
    "id": 467,
    "rank": 467
@@ -12474,8 +12474,8 @@
     473
    ],
    "source_def": "Young fellow",
-   "freq": 953,
-   "priority": 0.563,
+   "freq": 952,
+   "priority": 0.5629,
    "tests_count": null,
    "id": 468,
    "rank": 468
@@ -12500,8 +12500,8 @@
     598
    ],
    "source_def": "seat",
-   "freq": 951,
-   "priority": 0.5628,
+   "freq": 952,
+   "priority": 0.5629,
    "tests_count": null,
    "id": 469,
    "rank": 469
@@ -12605,8 +12605,8 @@
     44
    ],
    "source_def": "Toilet",
-   "freq": 910,
-   "priority": 0.5592,
+   "freq": 911,
+   "priority": 0.5593,
    "tests_count": null,
    "id": 473,
    "rank": 473
@@ -12631,8 +12631,8 @@
     198
    ],
    "source_def": "furniture",
-   "freq": 890,
-   "priority": 0.5574,
+   "freq": 891,
+   "priority": 0.5575,
    "tests_count": null,
    "id": 474,
    "rank": 474
@@ -12658,8 +12658,8 @@
     223
    ],
    "source_def": "save",
-   "freq": 888,
-   "priority": 0.5572,
+   "freq": 887,
+   "priority": 0.5571,
    "tests_count": null,
    "id": 475,
    "rank": 475
@@ -12684,8 +12684,8 @@
     416
    ],
    "source_def": "Grandson",
-   "freq": 876,
-   "priority": 0.5561,
+   "freq": 875,
+   "priority": 0.556,
    "tests_count": null,
    "id": 476,
    "rank": 476
@@ -12763,8 +12763,8 @@
     313
    ],
    "source_def": "Uncomfortable",
-   "freq": 832,
-   "priority": 0.5519,
+   "freq": 831,
+   "priority": 0.5518,
    "tests_count": null,
    "id": 479,
    "rank": 479
@@ -12790,8 +12790,8 @@
     311
    ],
    "source_def": "patience",
-   "freq": 827,
-   "priority": 0.5514,
+   "freq": 828,
+   "priority": 0.5515,
    "tests_count": null,
    "id": 480,
    "rank": 480
@@ -12977,8 +12977,8 @@
     271
    ],
    "source_def": "In time",
-   "freq": 807,
-   "priority": 0.5494,
+   "freq": 806,
+   "priority": 0.5493,
    "tests_count": null,
    "id": 487,
    "rank": 487
@@ -13162,8 +13162,8 @@
     274
    ],
    "source_def": "romantic",
-   "freq": 758,
-   "priority": 0.5443,
+   "freq": 759,
+   "priority": 0.5444,
    "tests_count": null,
    "id": 494,
    "rank": 494
@@ -13215,8 +13215,8 @@
     183
    ],
    "source_def": "lively",
-   "freq": 743,
-   "priority": 0.5426,
+   "freq": 745,
+   "priority": 0.5428,
    "tests_count": null,
    "id": 496,
    "rank": 496
@@ -13248,32 +13248,6 @@
    "rank": 497
   },
   {
-   "hanzi": "眼镜",
-   "pinyin": "yǎnjìng",
-   "pinyin_spaced": "yǎn jìng",
-   "pos": "n.",
-   "english": "glasses",
-   "accepted": [
-    "glasses"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "我的眼镜找不到了。",
-    "en": "I can't find my glasses.",
-    "py": "Wǒ de yǎnjìng zhǎo bú dào le."
-   },
-   "src_no": [
-    501
-   ],
-   "source_def": "glasses",
-   "freq": 736,
-   "priority": 0.5418,
-   "tests_count": null,
-   "id": 498,
-   "rank": 498
-  },
-  {
    "hanzi": "老虎",
    "pinyin": "lǎohǔ",
    "pinyin_spaced": "lǎo hǔ",
@@ -13293,6 +13267,32 @@
     275
    ],
    "source_def": "Tiger",
+   "freq": 737,
+   "priority": 0.5419,
+   "tests_count": null,
+   "id": 498,
+   "rank": 498
+  },
+  {
+   "hanzi": "眼镜",
+   "pinyin": "yǎnjìng",
+   "pinyin_spaced": "yǎn jìng",
+   "pos": "n.",
+   "english": "glasses",
+   "accepted": [
+    "glasses"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的眼镜找不到了。",
+    "en": "I can't find my glasses.",
+    "py": "Wǒ de yǎnjìng zhǎo bú dào le."
+   },
+   "src_no": [
+    501
+   ],
+   "source_def": "glasses",
    "freq": 736,
    "priority": 0.5418,
    "tests_count": null,
@@ -13453,8 +13453,8 @@
     58
    ],
    "source_def": "Window",
-   "freq": 712,
-   "priority": 0.5391,
+   "freq": 711,
+   "priority": 0.539,
    "tests_count": null,
    "id": 505,
    "rank": 505
@@ -13506,8 +13506,8 @@
     48
    ],
    "source_def": "ride",
-   "freq": 691,
-   "priority": 0.5367,
+   "freq": 692,
+   "priority": 0.5368,
    "tests_count": null,
    "id": 507,
    "rank": 507
@@ -13719,8 +13719,8 @@
     210
    ],
    "source_def": "land",
-   "freq": 653,
-   "priority": 0.532,
+   "freq": 652,
+   "priority": 0.5319,
    "tests_count": null,
    "id": 515,
    "rank": 515
@@ -14043,6 +14043,32 @@
    "rank": 527
   },
   {
+   "hanzi": "开心",
+   "pinyin": "kāixīn",
+   "pinyin_spaced": "kāi xīn",
+   "pos": "adj.",
+   "english": "happy",
+   "accepted": [
+    "happy"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "今天玩儿得很开心。",
+    "en": "I had a lot of fun today.",
+    "py": "Jīntiān wánr de hěn kāixīn."
+   },
+   "src_no": [
+    247
+   ],
+   "source_def": "Happy",
+   "freq": 491,
+   "priority": 0.5087,
+   "tests_count": null,
+   "id": 528,
+   "rank": 528
+  },
+  {
    "hanzi": "笨",
    "pinyin": "bèn",
    "pinyin_spaced": "bèn",
@@ -14064,32 +14090,6 @@
    "source_def": "stupid",
    "freq": 491,
    "priority": 0.5087,
-   "tests_count": null,
-   "id": 528,
-   "rank": 528
-  },
-  {
-   "hanzi": "开心",
-   "pinyin": "kāixīn",
-   "pinyin_spaced": "kāi xīn",
-   "pos": "adj.",
-   "english": "happy",
-   "accepted": [
-    "happy"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "今天玩儿得很开心。",
-    "en": "I had a lot of fun today.",
-    "py": "Jīntiān wánr de hěn kāixīn."
-   },
-   "src_no": [
-    247
-   ],
-   "source_def": "Happy",
-   "freq": 490,
-   "priority": 0.5085,
    "tests_count": null,
    "id": 529,
    "rank": 529
@@ -14166,8 +14166,8 @@
     301
    ],
    "source_def": "Towel",
-   "freq": 471,
-   "priority": 0.5053,
+   "freq": 470,
+   "priority": 0.5051,
    "tests_count": null,
    "id": 532,
    "rank": 532
@@ -14218,8 +14218,8 @@
     57
    ],
    "source_def": "Fax",
-   "freq": 456,
-   "priority": 0.5026,
+   "freq": 455,
+   "priority": 0.5024,
    "tests_count": null,
    "id": 534,
    "rank": 534
@@ -14270,8 +14270,8 @@
     340
    ],
    "source_def": "visa",
-   "freq": 448,
-   "priority": 0.5012,
+   "freq": 449,
+   "priority": 0.5014,
    "tests_count": null,
    "id": 536,
    "rank": 536
@@ -14296,8 +14296,8 @@
     174
    ],
    "source_def": "Box",
-   "freq": 446,
-   "priority": 0.5008,
+   "freq": 448,
+   "priority": 0.5012,
    "tests_count": null,
    "id": 537,
    "rank": 537
@@ -14400,8 +14400,8 @@
     479
    ],
    "source_def": "envelope",
-   "freq": 416,
-   "priority": 0.4951,
+   "freq": 417,
+   "priority": 0.4953,
    "tests_count": null,
    "id": 541,
    "rank": 541
@@ -14426,8 +14426,8 @@
     67
    ],
    "source_def": "Disturb",
-   "freq": 416,
-   "priority": 0.4951,
+   "freq": 417,
+   "priority": 0.4953,
    "tests_count": null,
    "id": 542,
    "rank": 542
@@ -14478,8 +14478,8 @@
     51
    ],
    "source_def": "smoking",
-   "freq": 408,
-   "priority": 0.4935,
+   "freq": 407,
+   "priority": 0.4933,
    "tests_count": null,
    "id": 544,
    "rank": 544
@@ -14504,8 +14504,8 @@
     216
    ],
    "source_def": "Dumplings",
-   "freq": 382,
-   "priority": 0.4881,
+   "freq": 383,
+   "priority": 0.4883,
    "tests_count": null,
    "id": 545,
    "rank": 545
@@ -14533,8 +14533,8 @@
     65
    ],
    "source_def": "Say hello",
-   "freq": 374,
-   "priority": 0.4864,
+   "freq": 375,
+   "priority": 0.4866,
    "tests_count": null,
    "id": 546,
    "rank": 546
@@ -14619,32 +14619,6 @@
    "rank": 549
   },
   {
-   "hanzi": "散步",
-   "pinyin": "sànbù",
-   "pinyin_spaced": "sàn bù",
-   "pos": "v.",
-   "english": "to take a walk",
-   "accepted": [
-    "take a walk"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "晚饭后我们去散步吧。",
-    "en": "Let's go for a walk after dinner.",
-    "py": "Wǎnfàn hòu wǒmen qù sànbù ba."
-   },
-   "src_no": [
-    364
-   ],
-   "source_def": "Take a walk",
-   "freq": 341,
-   "priority": 0.4788,
-   "tests_count": null,
-   "id": 550,
-   "rank": 550
-  },
-  {
    "hanzi": "乒乓球",
    "pinyin": "pīngpāngqiú",
    "pinyin_spaced": "pīng pāng qiú",
@@ -14664,6 +14638,32 @@
     330
    ],
    "source_def": "Table Tennis",
+   "freq": 341,
+   "priority": 0.4788,
+   "tests_count": null,
+   "id": 550,
+   "rank": 550
+  },
+  {
+   "hanzi": "散步",
+   "pinyin": "sànbù",
+   "pinyin_spaced": "sàn bù",
+   "pos": "v.",
+   "english": "to take a walk",
+   "accepted": [
+    "take a walk"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "晚饭后我们去散步吧。",
+    "en": "Let's go for a walk after dinner.",
+    "py": "Wǎnfàn hòu wǒmen qù sànbù ba."
+   },
+   "src_no": [
+    364
+   ],
+   "source_def": "Take a walk",
    "freq": 340,
    "priority": 0.4786,
    "tests_count": null,
@@ -14691,8 +14691,8 @@
     543
    ],
    "source_def": "Date",
-   "freq": 333,
-   "priority": 0.4769,
+   "freq": 334,
+   "priority": 0.4771,
    "tests_count": null,
    "id": 552,
    "rank": 552
@@ -14979,8 +14979,8 @@
     587
    ],
    "source_def": "on time",
-   "freq": 230,
-   "priority": 0.4466,
+   "freq": 231,
+   "priority": 0.447,
    "tests_count": null,
    "id": 563,
    "rank": 563
@@ -15032,8 +15032,8 @@
     25
    ],
    "source_def": "Biscuits",
-   "freq": 207,
-   "priority": 0.438,
+   "freq": 205,
+   "priority": 0.4372,
    "tests_count": null,
    "id": 565,
    "rank": 565
@@ -15189,8 +15189,8 @@
     125
    ],
    "source_def": "To copy",
-   "freq": 186,
-   "priority": 0.4293,
+   "freq": 185,
+   "priority": 0.4288,
    "tests_count": null,
    "id": 571,
    "rank": 571
@@ -15428,37 +15428,11 @@
     434
    ],
    "source_def": "Fill in the blanks",
-   "freq": 105,
-   "priority": 0.3827,
+   "freq": 106,
+   "priority": 0.3835,
    "tests_count": null,
    "id": 580,
    "rank": 580
-  },
-  {
-   "hanzi": "塑料袋",
-   "pinyin": "sùliàodài",
-   "pinyin_spaced": "sù liào dài",
-   "pos": "n.",
-   "english": "plastic bag",
-   "accepted": [
-    "plastic bag"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "请不要用塑料袋。",
-    "en": "Please don't use plastic bags.",
-    "py": "Qǐng bú yào yòng sùliàodài."
-   },
-   "src_no": [
-    412
-   ],
-   "source_def": "Plastic bag",
-   "freq": 101,
-   "priority": 0.3795,
-   "tests_count": null,
-   "id": 581,
-   "rank": 581
   },
   {
    "hanzi": "勺子",
@@ -15483,29 +15457,55 @@
    "freq": 100,
    "priority": 0.3787,
    "tests_count": null,
-   "id": 582,
-   "rank": 582
+   "id": 581,
+   "rank": 581
   },
   {
-   "hanzi": "理发",
-   "pinyin": "lǐfà",
-   "pinyin_spaced": "lǐ fà",
-   "pos": "v.",
-   "english": "to get a haircut",
+   "hanzi": "塑料袋",
+   "pinyin": "sùliàodài",
+   "pinyin_spaced": "sù liào dài",
+   "pos": "n.",
+   "english": "plastic bag",
    "accepted": [
-    "get a haircut"
+    "plastic bag"
    ],
    "alt_readings": [],
    "py_ok": [],
    "example": {
-    "zh": "我想去理发。",
-    "en": "I'd like to get a haircut.",
-    "py": "Wǒ xiǎng qù lǐfà."
+    "zh": "请不要用塑料袋。",
+    "en": "Please don't use plastic bags.",
+    "py": "Qǐng bú yào yòng sùliàodài."
    },
    "src_no": [
-    277
+    412
    ],
-   "source_def": "Haircut",
+   "source_def": "Plastic bag",
+   "freq": 100,
+   "priority": 0.3787,
+   "tests_count": null,
+   "id": 582,
+   "rank": 582
+  },
+  {
+   "hanzi": "寒假",
+   "pinyin": "hánjià",
+   "pinyin_spaced": "hán jià",
+   "pos": "n.",
+   "english": "winter vacation",
+   "accepted": [
+    "winter vacation"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "寒假你打算去哪儿？",
+    "en": "Where are you going in the winter holidays?",
+    "py": "Hánjià nǐ dǎsuàn qù nǎr?"
+   },
+   "src_no": [
+    166
+   ],
+   "source_def": "The winter vacation",
    "freq": 99,
    "priority": 0.3779,
    "tests_count": null,
@@ -15540,27 +15540,27 @@
    "rank": 584
   },
   {
-   "hanzi": "寒假",
-   "pinyin": "hánjià",
-   "pinyin_spaced": "hán jià",
-   "pos": "n.",
-   "english": "winter vacation",
+   "hanzi": "理发",
+   "pinyin": "lǐfà",
+   "pinyin_spaced": "lǐ fà",
+   "pos": "v.",
+   "english": "to get a haircut",
    "accepted": [
-    "winter vacation"
+    "get a haircut"
    ],
    "alt_readings": [],
    "py_ok": [],
    "example": {
-    "zh": "寒假你打算去哪儿？",
-    "en": "Where are you going in the winter holidays?",
-    "py": "Hánjià nǐ dǎsuàn qù nǎr?"
+    "zh": "我想去理发。",
+    "en": "I'd like to get a haircut.",
+    "py": "Wǒ xiǎng qù lǐfà."
    },
    "src_no": [
-    166
+    277
    ],
-   "source_def": "The winter vacation",
-   "freq": 97,
-   "priority": 0.3763,
+   "source_def": "Haircut",
+   "freq": 98,
+   "priority": 0.3771,
    "tests_count": null,
    "id": 585,
    "rank": 585
@@ -15665,8 +15665,8 @@
     288
    ],
    "source_def": "Pleasantly cool",
-   "freq": 75,
-   "priority": 0.3554,
+   "freq": 74,
+   "priority": 0.3543,
    "tests_count": null,
    "id": 589,
    "rank": 589
@@ -15717,8 +15717,8 @@
     6
    ],
    "source_def": "percent",
-   "freq": 55,
-   "priority": 0.3303,
+   "freq": 56,
+   "priority": 0.3318,
    "tests_count": null,
    "id": 591,
    "rank": 591
@@ -15822,8 +15822,8 @@
     281
    ],
    "source_def": "Sunday",
-   "freq": 36,
-   "priority": 0.2963,
+   "freq": 35,
+   "priority": 0.2941,
    "tests_count": null,
    "id": 595,
    "rank": 595
@@ -15848,8 +15848,8 @@
     539
    ],
    "source_def": "Preview",
-   "freq": 27,
-   "priority": 0.2735,
+   "freq": 28,
+   "priority": 0.2763,
    "tests_count": null,
    "id": 596,
    "rank": 596
@@ -15881,6 +15881,32 @@
    "rank": 597
   },
   {
+   "hanzi": "占线",
+   "pinyin": "zhànxiàn",
+   "pinyin_spaced": "zhàn xiàn",
+   "pos": "v.",
+   "english": "(of a phone line) busy",
+   "accepted": [
+    "busy"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "他的电话一直占线。",
+    "en": "His phone has been engaged the whole time.",
+    "py": "Tā de diànhuà yìzhí zhànxiàn."
+   },
+   "src_no": [
+    553
+   ],
+   "source_def": "(line) Busy",
+   "freq": 8,
+   "priority": 0.1803,
+   "tests_count": null,
+   "id": 598,
+   "rank": 598
+  },
+  {
    "hanzi": "弹钢琴",
    "pinyin": "tángāngqín",
    "pinyin_spaced": "tán gāng qín",
@@ -15903,8 +15929,8 @@
    "freq": 8,
    "priority": 0.1803,
    "tests_count": null,
-   "id": 598,
-   "rank": 598
+   "id": 599,
+   "rank": 599
   },
   {
    "hanzi": "放暑假",
@@ -15928,32 +15954,6 @@
    "source_def": "summer vacation",
    "freq": 8,
    "priority": 0.1803,
-   "tests_count": null,
-   "id": 599,
-   "rank": 599
-  },
-  {
-   "hanzi": "占线",
-   "pinyin": "zhànxiàn",
-   "pinyin_spaced": "zhàn xiàn",
-   "pos": "v.",
-   "english": "(of a phone line) busy",
-   "accepted": [
-    "busy"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "他的电话一直占线。",
-    "en": "His phone has been engaged the whole time.",
-    "py": "Tā de diànhuà yìzhí zhànxiàn."
-   },
-   "src_no": [
-    553
-   ],
-   "source_def": "(line) Busy",
-   "freq": 7,
-   "priority": 0.1706,
    "tests_count": null,
    "id": 600,
    "rank": 600
