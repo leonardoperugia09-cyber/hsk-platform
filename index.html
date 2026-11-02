@@ -177,10 +177,18 @@ textarea{width:100%;min-height:90px;font:13px/1.4 var(--font);background:var(--s
 .grp.cur{background:var(--panel);border-radius:var(--radius-card);padding-left:12px;padding-right:12px}
 .grp .zh.big{font-size:20px;color:var(--text);letter-spacing:4px}
 .grp .zh.big a,.fam a,.chargrid a{color:inherit;text-decoration:none}
-.days{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:8px}
-.days button{padding:8px 6px;min-height:64px;font-size:14px;line-height:1.3}
-.days button.cur{border-color:var(--primary);box-shadow:inset 0 0 0 1px var(--primary)}
+/* batch picker: one tile per batch, its first words, progress bar and rank range */
+.days{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin-top:8px}
+.days button{display:flex;flex-direction:column;align-items:stretch;gap:6px;padding:14px 16px;text-align:left;font-size:14px;line-height:1.3;border:1px solid var(--border);background:var(--surface)}
+.days button:hover{border-color:var(--control);background:var(--raised)}
+.days .bt{font-weight:600;font-size:15px}
+.days .bw{font-size:18px;letter-spacing:2px;color:var(--primary);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.days .bar{margin:2px 0 0}
+.days .bm{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:var(--muted)}
+.days button.cur{border:2px solid var(--primary);padding:13px 15px}
 .days button.done{background:var(--pill-positive-bg);color:var(--pill-positive-ink);border-color:transparent}
+.days button.done .bw,.days button.done .bm{color:var(--pill-positive-ink)}
+.days button.done .bar>i{background:var(--positive)}
 table{width:100%;border-collapse:collapse;font-size:14px}
 td,th{padding:8px 8px;border-top:1px solid var(--rule);text-align:left;vertical-align:top}
 th{color:var(--muted);font-weight:400;font-size:12px;border-top:0}
@@ -229,7 +237,7 @@ details.m .inner{padding:10px 0 2px}
 .chargrid a{display:flex;align-items:center;justify-content:center;height:44px;border-radius:var(--radius-control);font-size:22px;background:var(--st-new)}
 a.st-learning{background:var(--st-learning);color:#27374D}a.st-mastered{background:var(--st-mastered);color:var(--surface)}a.st-mistake{background:var(--st-mistake);color:#fff}
 .fam a.st-learning,.fam a.st-mastered,.fam a.st-mistake{border-radius:4px;padding:0 2px}
-.sw{width:10px;height:10px;border-radius:2px;display:inline-block}.sw.st-new{background:var(--st-new);box-shadow:inset 0 0 0 1px var(--border)}.sw.st-learning{background:var(--st-learning)}.sw.st-mastered{background:var(--st-mastered)}.sw.st-mistake{background:var(--st-mistake)}
+.sw{width:10px;height:10px;border-radius:2px;display:inline-block}.sw.st-new{background:var(--st-new);border:1px solid var(--border)}.sw.st-learning{background:var(--st-learning)}.sw.st-mastered{background:var(--st-mastered)}.sw.st-mistake{background:var(--st-mistake)}
 
 /* ---------- quiz & mock ---------- */
 .q{text-align:center;padding:16px 0 8px}
@@ -247,7 +255,7 @@ a.st-learning{background:var(--st-learning);color:#27374D}a.st-mastered{backgrou
 .opt.zhopt{font-size:32px}
 .opt.right{background:var(--pill-positive-bg);border-color:var(--positive);color:var(--pill-positive-ink)}.opt.wrong{background:var(--pill-negative-bg);border-color:var(--negative);color:var(--pill-negative-ink)}
 .opt.right .n{background:var(--positive);color:#fff}.opt.wrong .n{background:var(--negative);color:#fff}
-.opt.sel{border-color:var(--primary);box-shadow:inset 0 0 0 1px var(--primary)}
+.opt.sel{border-color:var(--primary);outline:1px solid var(--primary);outline-offset:-2px}
 .opt.sel .n{background:var(--primary);color:var(--primary-ink)}
 .smallopts .opt{font-size:16px;min-height:56px}
 .v-quiz .card:has(.q){min-height:calc(100vh - 220px);display:flex;flex-direction:column;justify-content:center}
@@ -262,7 +270,7 @@ a.st-learning{background:var(--st-learning);color:#27374D}a.st-mastered{backgrou
 .answerline .chunk{background:var(--surface);border-color:var(--control)}
 .palette{display:flex;flex-wrap:wrap;gap:6px}
 .palette button{min-height:34px;min-width:40px;padding:2px 6px;font-size:13px;border-color:var(--border)}
-.palette button.done{background:var(--panel);border-color:var(--control)}.palette button.cur{border-color:var(--primary);box-shadow:inset 0 0 0 1px var(--primary);font-weight:600}
+.palette button.done{background:var(--panel);border-color:var(--control)}.palette button.cur{border:2px solid var(--primary);font-weight:600}
 .timer{display:inline-flex;align-items:center;gap:6px;font-size:18px;padding:4px 10px;border-radius:var(--radius-control);background:var(--panel)}
 .timer svg{width:16px;height:16px;color:var(--muted)}
 .timer.low{background:var(--pill-negative-bg);color:var(--pill-negative-ink)}
@@ -352,6 +360,8 @@ a.st-learning{background:var(--st-learning);color:#27374D}a.st-mastered{backgrou
 .greetband .greet-sub{color:var(--highlight-ink);margin:12px 0 0}
 ::selection{background:var(--highlight);color:var(--highlight-ink)}
 @media (max-width:640px){.greetband{padding:24px 20px 20px}.greetband .greet{font-size:36px;line-height:1.05}}
+.ftable td:first-child,.ftable th:first-child,.ftable td:nth-child(6),.ftable th:nth-child(6){text-align:right;font-variant-numeric:tabular-nums}
+@media (max-width:640px){.days{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.days button{padding:10px 12px}.days button.cur{padding:9px 11px}.days .bw{font-size:16px;letter-spacing:1px}.days .bm span:last-child{display:none}}
 
 </style>
 </head>
@@ -1105,7 +1115,9 @@ function tVocab(n) {
     const L = LV[n], cb = currentBatch(n);
     html += `<div class="card"><div class="small mute" style="margin-bottom:8px">${L.W.length} words in ${L.NB} batches of about ${BATCH[n]}, in priority order (${esc(L.meta.ranking)}). Each batch has groups of ${GROUP}: learn the cards, then exercises — every word is tested twice and wrong answers come back until right.</div><div class="days">`;
     for (let d = 1; d <= L.NB; d++) { const dn = batchDone(n, d), ws = batchWords(n, d);
-      html += `<button class="${dn ? 'done' : ''} ${d === cb ? 'cur' : ''}" data-a="batch" data-d="${d}">Batch ${d}<br><span class="small">${dn ? 'done' : batchProgress(n, d) + '/' + ws.length}</span><br><span class="small mute">#${ws[0].i}–${ws[ws.length - 1].i}</span></button>`; }
+      const bp = batchProgress(n, d);
+      html += `<button class="${dn ? 'done' : ''} ${d === cb ? 'cur' : ''}" data-a="batch" data-d="${d}"><span class="bt">Batch ${d}</span><span class="zh bw">${ws.slice(0, 4).map(w => esc(w.h)).join(' ')}</span>`
+        + `<span class="bar"><i style="width:${dn ? 100 : Math.round(100 * bp / ws.length)}%"></i></span><span class="bm"><span>${dn ? 'done' : bp + ' of ' + ws.length}</span><span>#${ws[0].i}–${ws[ws.length - 1].i}</span></span></button>`; }
     html += `</div></div>`;
   } else {
     html += `<input class="txt" id="wq" data-input="wq" type="search" placeholder="Search hanzi, pinyin (e.g. baocun) or English" value="${esc(V.q || '')}" autocomplete="off" autocapitalize="off" spellcheck="false">

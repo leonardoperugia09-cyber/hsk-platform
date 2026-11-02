@@ -76,7 +76,9 @@ function tVocab(n) {
     const L = LV[n], cb = currentBatch(n);
     html += `<div class="card"><div class="small mute" style="margin-bottom:8px">${L.W.length} words in ${L.NB} batches of about ${BATCH[n]}, in priority order (${esc(L.meta.ranking)}). Each batch has groups of ${GROUP}: learn the cards, then exercises — every word is tested twice and wrong answers come back until right.</div><div class="days">`;
     for (let d = 1; d <= L.NB; d++) { const dn = batchDone(n, d), ws = batchWords(n, d);
-      html += `<button class="${dn ? 'done' : ''} ${d === cb ? 'cur' : ''}" data-a="batch" data-d="${d}">Batch ${d}<br><span class="small">${dn ? 'done' : batchProgress(n, d) + '/' + ws.length}</span><br><span class="small mute">#${ws[0].i}–${ws[ws.length - 1].i}</span></button>`; }
+      const bp = batchProgress(n, d);
+      html += `<button class="${dn ? 'done' : ''} ${d === cb ? 'cur' : ''}" data-a="batch" data-d="${d}"><span class="bt">Batch ${d}</span><span class="zh bw">${ws.slice(0, 4).map(w => esc(w.h)).join(' ')}</span>`
+        + `<span class="bar"><i style="width:${dn ? 100 : Math.round(100 * bp / ws.length)}%"></i></span><span class="bm"><span>${dn ? 'done' : bp + ' of ' + ws.length}</span><span>#${ws[0].i}–${ws[ws.length - 1].i}</span></span></button>`; }
     html += `</div></div>`;
   } else {
     html += `<input class="txt" id="wq" data-input="wq" type="search" placeholder="Search hanzi, pinyin (e.g. baocun) or English" value="${esc(V.q || '')}" autocomplete="off" autocapitalize="off" spellcheck="false">

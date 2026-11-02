@@ -28,6 +28,10 @@ SCREENS = {
     "quiz": "t.go('batch', {n: 3, d: 1}); t.startGroup ? 0 : 0; document.querySelector('[data-a=ex][data-g=\"1\"]').click(); const s = t.S.session; s.q[0].type = 'cloze'; s.cur = null; t.go('quiz');",
     "mock": "t.go('level', {n: 3, tab: 'mock'}); document.querySelector('[data-a=mockstart]').click(); const s = t.S.session; s.pos = 3; t.go('quiz');",
 }
+for tab in ("chars", "freq", "vocab", "cards", "review", "practice", "mock", "progress", "exam"):
+    SCREENS["tab-" + tab] = f"t.go('level', {{n: 3, tab: '{tab}'}});"
+SCREENS["hsk6-vocab"] = "t.go('level', {n: 6, tab: 'vocab'});"
+SCREENS["settings"] = "t.go('settings');"
 for name, go in SCREENS.items():
     page = html.replace("</body>", "<script>" + SEED.replace("__GO__", go) + "</script></body>")
     open(os.path.join(out, f"{name}.html"), "w", encoding="utf-8").write(page)
