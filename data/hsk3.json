@@ -490,7 +490,7 @@
     487
    ],
    "source_def": "main",
-   "freq": 57995,
+   "freq": 57996,
    "priority": 0.8706,
    "tests_count": null,
    "id": 18,
@@ -650,7 +650,7 @@
     319
    ],
    "source_def": "if",
-   "freq": 38378,
+   "freq": 38379,
    "priority": 0.8379,
    "tests_count": null,
    "id": 24,
@@ -863,7 +863,7 @@
     154
    ],
    "source_def": "relationship; (to relate)",
-   "freq": 32108,
+   "freq": 32107,
    "priority": 0.8237,
    "tests_count": null,
    "id": 32,
@@ -922,7 +922,7 @@
     329
    ],
    "source_def": "life; to live",
-   "freq": 31555,
+   "freq": 31554,
    "priority": 0.8223,
    "tests_count": null,
    "id": 34,
@@ -1080,7 +1080,7 @@
     412
    ],
    "source_def": "to need; need",
-   "freq": 27435,
+   "freq": 27434,
    "priority": 0.8112,
    "tests_count": null,
    "id": 40,
@@ -1347,7 +1347,7 @@
     145
    ],
    "source_def": "to base on; according to; (basis)",
-   "freq": 24226,
+   "freq": 24225,
    "priority": 0.8013,
    "tests_count": null,
    "id": 50,
@@ -1619,7 +1619,7 @@
     111
    ],
    "source_def": "and, moreover",
-   "freq": 22642,
+   "freq": 22643,
    "priority": 0.796,
    "tests_count": null,
    "id": 60,
@@ -1728,7 +1728,7 @@
     426
    ],
    "source_def": "later, after",
-   "freq": 21391,
+   "freq": 21390,
    "priority": 0.7915,
    "tests_count": null,
    "id": 64,
@@ -2363,7 +2363,7 @@
     217
    ],
    "source_def": "to pass; process",
-   "freq": 16223,
+   "freq": 16222,
    "priority": 0.7695,
    "tests_count": null,
    "id": 88,
@@ -2392,7 +2392,7 @@
     21
    ],
    "source_def": "to compare; quite, relatively; than",
-   "freq": 15915,
+   "freq": 15913,
    "priority": 0.768,
    "tests_count": null,
    "id": 89,
@@ -2526,7 +2526,7 @@
     362
    ],
    "source_def": "sudden",
-   "freq": 15003,
+   "freq": 15001,
    "priority": 0.7633,
    "tests_count": null,
    "id": 94,
@@ -2578,7 +2578,7 @@
     462
    ],
    "source_def": "we",
-   "freq": 14950,
+   "freq": 14951,
    "priority": 0.763,
    "tests_count": null,
    "id": 96,
@@ -2630,7 +2630,7 @@
     213
    ],
    "source_def": "to solve",
-   "freq": 14473,
+   "freq": 14472,
    "priority": 0.7604,
    "tests_count": null,
    "id": 98,
@@ -2684,7 +2684,7 @@
     346
    ],
    "source_def": "level, standard",
-   "freq": 13884,
+   "freq": 13885,
    "priority": 0.7572,
    "tests_count": null,
    "id": 100,
@@ -2817,7 +2817,7 @@
     81
    ],
    "source_def": "of course",
-   "freq": 12868,
+   "freq": 12869,
    "priority": 0.7511,
    "tests_count": null,
    "id": 105,
@@ -2948,7 +2948,7 @@
     299
    ],
    "source_def": "actually",
-   "freq": 11955,
+   "freq": 11954,
    "priority": 0.7453,
    "tests_count": null,
    "id": 110,
@@ -3027,7 +3027,7 @@
     340
    ],
    "source_def": "to receive, to be subjected to",
-   "freq": 11433,
+   "freq": 11432,
    "priority": 0.7417,
    "tests_count": null,
    "id": 113,
@@ -4057,7 +4057,7 @@
     287
    ],
    "source_def": "woman",
-   "freq": 8179,
+   "freq": 8180,
    "priority": 0.7152,
    "tests_count": null,
    "id": 152,
@@ -4083,7 +4083,7 @@
     122
    ],
    "source_def": "direction",
-   "freq": 8156,
+   "freq": 8155,
    "priority": 0.7149,
    "tests_count": null,
    "id": 153,
@@ -4162,7 +4162,7 @@
     66
    ],
    "source_def": "except, besides",
-   "freq": 7788,
+   "freq": 7790,
    "priority": 0.7113,
    "tests_count": null,
    "id": 156,
@@ -4241,7 +4241,7 @@
     436
    ],
    "source_def": "bank",
-   "freq": 7689,
+   "freq": 7688,
    "priority": 0.7102,
    "tests_count": null,
    "id": 159,
@@ -4450,7 +4450,7 @@
     279
    ],
    "source_def": "man",
-   "freq": 7295,
+   "freq": 7294,
    "priority": 0.7061,
    "tests_count": null,
    "id": 167,
@@ -4664,7 +4664,7 @@
     392
    ],
    "source_def": "to believe",
-   "freq": 6794,
+   "freq": 6792,
    "priority": 0.7004,
    "tests_count": null,
    "id": 175,
@@ -4875,7 +4875,7 @@
     382
    ],
    "source_def": "west",
-   "freq": 6522,
+   "freq": 6521,
    "priority": 0.6972,
    "tests_count": null,
    "id": 183,
@@ -5218,7 +5218,7 @@
     201
    ],
    "source_def": "healthy",
-   "freq": 5975,
+   "freq": 5976,
    "priority": 0.6902,
    "tests_count": null,
    "id": 196,
@@ -5404,7 +5404,7 @@
     326
    ],
    "source_def": "by one's side",
-   "freq": 5646,
+   "freq": 5645,
    "priority": 0.6857,
    "tests_count": null,
    "id": 203,
@@ -5508,7 +5508,7 @@
     381
    ],
    "source_def": "northwest",
-   "freq": 5602,
+   "freq": 5603,
    "priority": 0.6851,
    "tests_count": null,
    "id": 207,
@@ -5613,7 +5613,7 @@
     384
    ],
    "source_def": "southwest",
-   "freq": 5406,
+   "freq": 5405,
    "priority": 0.6823,
    "tests_count": null,
    "id": 211,
@@ -5639,7 +5639,7 @@
     498
    ],
    "source_def": "recently",
-   "freq": 5359,
+   "freq": 5360,
    "priority": 0.6816,
    "tests_count": null,
    "id": 212,
@@ -6488,7 +6488,7 @@
     99
    ],
    "source_def": "east",
-   "freq": 3998,
+   "freq": 3997,
    "priority": 0.6583,
    "tests_count": null,
    "id": 244,
@@ -6514,8 +6514,8 @@
     410
    ],
    "source_def": "interest",
-   "freq": 3958,
-   "priority": 0.6575,
+   "freq": 3960,
+   "priority": 0.6576,
    "tests_count": null,
    "id": 245,
    "rank": 245
@@ -6566,7 +6566,7 @@
     298
    ],
    "source_def": "strange",
-   "freq": 3903,
+   "freq": 3902,
    "priority": 0.6564,
    "tests_count": null,
    "id": 247,
@@ -6593,7 +6593,7 @@
     62
    ],
    "source_def": "to set out, to leave",
-   "freq": 3891,
+   "freq": 3892,
    "priority": 0.6562,
    "tests_count": null,
    "id": 248,
@@ -6646,8 +6646,8 @@
     18
    ],
    "source_def": "north",
-   "freq": 3855,
-   "priority": 0.6555,
+   "freq": 3854,
+   "priority": 0.6554,
    "tests_count": null,
    "id": 250,
    "rank": 250
@@ -6672,8 +6672,8 @@
     389
    ],
    "source_def": "summer",
-   "freq": 3826,
-   "priority": 0.6549,
+   "freq": 3825,
+   "priority": 0.6548,
    "tests_count": null,
    "id": 251,
    "rank": 251
@@ -6699,7 +6699,7 @@
     400
    ],
    "source_def": "principal, headmaster",
-   "freq": 3795,
+   "freq": 3796,
    "priority": 0.6542,
    "tests_count": null,
    "id": 252,
@@ -6830,7 +6830,7 @@
     119
    ],
    "source_def": "convenient",
-   "freq": 3723,
+   "freq": 3722,
    "priority": 0.6527,
    "tests_count": null,
    "id": 257,
@@ -6882,7 +6882,7 @@
     147
    ],
    "source_def": "kilogram",
-   "freq": 3640,
+   "freq": 3638,
    "priority": 0.6509,
    "tests_count": null,
    "id": 259,
@@ -6910,7 +6910,7 @@
     74
    ],
    "source_def": "adult",
-   "freq": 3576,
+   "freq": 3578,
    "priority": 0.6495,
    "tests_count": null,
    "id": 260,
@@ -6936,8 +6936,8 @@
     295
    ],
    "source_def": "usually",
-   "freq": 3552,
-   "priority": 0.649,
+   "freq": 3551,
+   "priority": 0.6489,
    "tests_count": null,
    "id": 261,
    "rank": 261
@@ -6991,7 +6991,7 @@
     43
    ],
    "source_def": "not allowed, won't do; not good",
-   "freq": 3518,
+   "freq": 3519,
    "priority": 0.6482,
    "tests_count": null,
    "id": 263,
@@ -7045,7 +7045,7 @@
     237
    ],
    "source_def": "guest",
-   "freq": 3449,
+   "freq": 3448,
    "priority": 0.6466,
    "tests_count": null,
    "id": 265,
@@ -7098,7 +7098,7 @@
     429
    ],
    "source_def": "except, besides",
-   "freq": 3441,
+   "freq": 3440,
    "priority": 0.6464,
    "tests_count": null,
    "id": 267,
@@ -7177,7 +7177,7 @@
     82
    ],
    "source_def": "everywhere",
-   "freq": 3418,
+   "freq": 3419,
    "priority": 0.6459,
    "tests_count": null,
    "id": 270,
@@ -7232,7 +7232,7 @@
     73
    ],
    "source_def": "general, rough; probably, approximately; (general idea)",
-   "freq": 3335,
+   "freq": 3336,
    "priority": 0.644,
    "tests_count": null,
    "id": 272,
@@ -7286,7 +7286,7 @@
     155
    ],
    "source_def": "to care about, to be concerned",
-   "freq": 3266,
+   "freq": 3265,
    "priority": 0.6423,
    "tests_count": null,
    "id": 274,
@@ -7472,7 +7472,7 @@
     92
    ],
    "source_def": "map",
-   "freq": 3089,
+   "freq": 3090,
    "priority": 0.6379,
    "tests_count": null,
    "id": 281,
@@ -7550,7 +7550,7 @@
     209
    ],
    "source_def": "to marry",
-   "freq": 2971,
+   "freq": 2970,
    "priority": 0.6348,
    "tests_count": null,
    "id": 284,
@@ -7841,8 +7841,8 @@
     13
    ],
    "source_def": "half a day; a long time",
-   "freq": 2622,
-   "priority": 0.6249,
+   "freq": 2621,
+   "priority": 0.6248,
    "tests_count": null,
    "id": 295,
    "rank": 295
@@ -7867,7 +7867,7 @@
     65
    ],
    "source_def": "junior high school",
-   "freq": 2574,
+   "freq": 2575,
    "priority": 0.6234,
    "tests_count": null,
    "id": 296,
@@ -8167,33 +8167,6 @@
    "rank": 307
   },
   {
-   "hanzi": "不见",
-   "pinyin": "bújiàn",
-   "pinyin_spaced": "bú jiàn",
-   "pos": "v.",
-   "english": "to disappear, to not see",
-   "accepted": [
-    "disappear",
-    "not see"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "我的手机不见了。",
-    "en": "My phone has disappeared.",
-    "py": "Wǒ de shǒujī bújiàn le."
-   },
-   "src_no": [
-    39
-   ],
-   "source_def": "to disappear, to not see",
-   "freq": 2262,
-   "priority": 0.6132,
-   "tests_count": null,
-   "id": 308,
-   "rank": 308
-  },
-  {
    "hanzi": "常用",
    "pinyin": "chángyòng",
    "pinyin_spaced": "cháng yòng",
@@ -8215,6 +8188,33 @@
    "source_def": "commonly used",
    "freq": 2263,
    "priority": 0.6132,
+   "tests_count": null,
+   "id": 308,
+   "rank": 308
+  },
+  {
+   "hanzi": "不见",
+   "pinyin": "bújiàn",
+   "pinyin_spaced": "bú jiàn",
+   "pos": "v.",
+   "english": "to disappear, to not see",
+   "accepted": [
+    "disappear",
+    "not see"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我的手机不见了。",
+    "en": "My phone has disappeared.",
+    "py": "Wǒ de shǒujī bújiàn le."
+   },
+   "src_no": [
+    39
+   ],
+   "source_def": "to disappear, to not see",
+   "freq": 2261,
+   "priority": 0.6131,
    "tests_count": null,
    "id": 309,
    "rank": 309
@@ -8607,7 +8607,7 @@
     63
    ],
    "source_def": "to be born",
-   "freq": 1982,
+   "freq": 1983,
    "priority": 0.6027,
    "tests_count": null,
    "id": 324,
@@ -8640,6 +8640,32 @@
    "rank": 325
   },
   {
+   "hanzi": "扫",
+   "pinyin": "sǎo",
+   "pinyin_spaced": "sǎo",
+   "pos": "v.",
+   "english": "to sweep",
+   "accepted": [
+    "sweep"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请把地扫一下。",
+    "en": "Please sweep the floor.",
+    "py": "Qǐng bǎ de sǎo yíxià."
+   },
+   "src_no": [
+    321
+   ],
+   "source_def": "to sweep",
+   "freq": 1923,
+   "priority": 0.6003,
+   "tests_count": null,
+   "id": 326,
+   "rank": 326
+  },
+  {
    "hanzi": "画家",
    "pinyin": "huàjiā",
    "pinyin_spaced": "huà jiā",
@@ -8660,32 +8686,6 @@
     176
    ],
    "source_def": "painter, artist",
-   "freq": 1925,
-   "priority": 0.6004,
-   "tests_count": null,
-   "id": 326,
-   "rank": 326
-  },
-  {
-   "hanzi": "扫",
-   "pinyin": "sǎo",
-   "pinyin_spaced": "sǎo",
-   "pos": "v.",
-   "english": "to sweep",
-   "accepted": [
-    "sweep"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "请把地扫一下。",
-    "en": "Please sweep the floor.",
-    "py": "Qǐng bǎ de sǎo yíxià."
-   },
-   "src_no": [
-    321
-   ],
-   "source_def": "to sweep",
    "freq": 1923,
    "priority": 0.6003,
    "tests_count": null,
@@ -8738,7 +8738,7 @@
     136
    ],
    "source_def": "clean",
-   "freq": 1864,
+   "freq": 1865,
    "priority": 0.5978,
    "tests_count": null,
    "id": 329,
@@ -8764,7 +8764,7 @@
     272
    ],
    "source_def": "name list",
-   "freq": 1828,
+   "freq": 1827,
    "priority": 0.5962,
    "tests_count": null,
    "id": 330,
@@ -8790,7 +8790,7 @@
     337
    ],
    "source_def": "to receive",
-   "freq": 1828,
+   "freq": 1827,
    "priority": 0.5962,
    "tests_count": null,
    "id": 331,
@@ -8870,7 +8870,7 @@
     379
    ],
    "source_def": "room, house",
-   "freq": 1800,
+   "freq": 1799,
    "priority": 0.595,
    "tests_count": null,
    "id": 334,
@@ -8896,7 +8896,7 @@
     405
    ],
    "source_def": "fresh",
-   "freq": 1695,
+   "freq": 1696,
    "priority": 0.5903,
    "tests_count": null,
    "id": 335,
@@ -8948,7 +8948,7 @@
     108
    ],
    "source_def": "to exercise",
-   "freq": 1694,
+   "freq": 1693,
    "priority": 0.5902,
    "tests_count": null,
    "id": 337,
@@ -9130,7 +9130,7 @@
     347
    ],
    "source_def": "driver",
-   "freq": 1459,
+   "freq": 1460,
    "priority": 0.5784,
    "tests_count": null,
    "id": 344,
@@ -9237,7 +9237,7 @@
     315
    ],
    "source_def": "to recognize, to know",
-   "freq": 1345,
+   "freq": 1344,
    "priority": 0.5719,
    "tests_count": null,
    "id": 348,
@@ -9420,8 +9420,8 @@
     365
    ],
    "source_def": "other place",
-   "freq": 1231,
-   "priority": 0.5649,
+   "freq": 1230,
+   "priority": 0.5648,
    "tests_count": null,
    "id": 355,
    "rank": 355
@@ -9893,7 +9893,7 @@
     233
    ],
    "source_def": "lovely",
-   "freq": 992,
+   "freq": 993,
    "priority": 0.5478,
    "tests_count": null,
    "id": 373,
@@ -9974,8 +9974,8 @@
     22
    ],
    "source_def": "notebook",
-   "freq": 935,
-   "priority": 0.5431,
+   "freq": 934,
+   "priority": 0.543,
    "tests_count": null,
    "id": 376,
    "rank": 376
@@ -10002,8 +10002,8 @@
     409
    ],
    "source_def": "luggage",
-   "freq": 894,
-   "priority": 0.5395,
+   "freq": 895,
+   "priority": 0.5396,
    "tests_count": null,
    "id": 377,
    "rank": 377
@@ -10028,8 +10028,8 @@
     438
    ],
    "source_def": "beverage",
-   "freq": 893,
-   "priority": 0.5394,
+   "freq": 892,
+   "priority": 0.5393,
    "tests_count": null,
    "id": 378,
    "rank": 378
@@ -10087,32 +10087,6 @@
    "rank": 380
   },
   {
-   "hanzi": "词典",
-   "pinyin": "cídiǎn",
-   "pinyin_spaced": "cí diǎn",
-   "pos": "n.",
-   "english": "dictionary",
-   "accepted": [
-    "dictionary"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "这本词典很有用。",
-    "en": "This dictionary is very useful.",
-    "py": "Zhèběn cídiǎn hěn yǒuyòng."
-   },
-   "src_no": [
-    69
-   ],
-   "source_def": "dictionary",
-   "freq": 843,
-   "priority": 0.5349,
-   "tests_count": null,
-   "id": 381,
-   "rank": 381
-  },
-  {
    "hanzi": "晚会",
    "pinyin": "wǎnhuì",
    "pinyin_spaced": "wǎn huì",
@@ -10132,6 +10106,32 @@
     371
    ],
    "source_def": "evening party",
+   "freq": 842,
+   "priority": 0.5348,
+   "tests_count": null,
+   "id": 381,
+   "rank": 381
+  },
+  {
+   "hanzi": "词典",
+   "pinyin": "cídiǎn",
+   "pinyin_spaced": "cí diǎn",
+   "pos": "n.",
+   "english": "dictionary",
+   "accepted": [
+    "dictionary"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "这本词典很有用。",
+    "en": "This dictionary is very useful.",
+    "py": "Zhèběn cídiǎn hěn yǒuyòng."
+   },
+   "src_no": [
+    69
+   ],
+   "source_def": "dictionary",
    "freq": 842,
    "priority": 0.5348,
    "tests_count": null,
@@ -10184,8 +10184,8 @@
     241
    ],
    "source_def": "chopsticks",
-   "freq": 818,
-   "priority": 0.5325,
+   "freq": 819,
+   "priority": 0.5326,
    "tests_count": null,
    "id": 384,
    "rank": 384
@@ -10264,8 +10264,8 @@
     448
    ],
    "source_def": "useful",
-   "freq": 736,
-   "priority": 0.5241,
+   "freq": 735,
+   "priority": 0.524,
    "tests_count": null,
    "id": 387,
    "rank": 387
@@ -10685,8 +10685,8 @@
     283
    ],
    "source_def": "grade",
-   "freq": 662,
-   "priority": 0.5157,
+   "freq": 661,
+   "priority": 0.5156,
    "tests_count": null,
    "id": 403,
    "rank": 403
@@ -11033,32 +11033,6 @@
    "rank": 416
   },
   {
-   "hanzi": "后年",
-   "pinyin": "hòunián",
-   "pinyin_spaced": "hòu nián",
-   "pos": "n.",
-   "english": "the year after next",
-   "accepted": [
-    "year after next"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "我打算后年去中国留学。",
-    "en": "I plan to study in China the year after next.",
-    "py": "Wǒ dǎsuàn hòunián qù zhōngguó liúxué."
-   },
-   "src_no": [
-    172
-   ],
-   "source_def": "the year after next",
-   "freq": 515,
-   "priority": 0.4958,
-   "tests_count": null,
-   "id": 417,
-   "rank": 417
-  },
-  {
    "hanzi": "渴",
    "pinyin": "kě",
    "pinyin_spaced": "kě",
@@ -11081,8 +11055,8 @@
    "freq": 506,
    "priority": 0.4944,
    "tests_count": null,
-   "id": 418,
-   "rank": 418
+   "id": 417,
+   "rank": 417
   },
   {
    "hanzi": "留学生",
@@ -11104,11 +11078,11 @@
     260
    ],
    "source_def": "overseas student",
-   "freq": 499,
-   "priority": 0.4933,
+   "freq": 498,
+   "priority": 0.4931,
    "tests_count": null,
-   "id": 419,
-   "rank": 419
+   "id": 418,
+   "rank": 418
   },
   {
    "hanzi": "开心",
@@ -11133,8 +11107,8 @@
    "freq": 491,
    "priority": 0.492,
    "tests_count": null,
-   "id": 420,
-   "rank": 420
+   "id": 419,
+   "rank": 419
   },
   {
    "hanzi": "句子",
@@ -11156,11 +11130,11 @@
     223
    ],
    "source_def": "sentence",
-   "freq": 485,
-   "priority": 0.491,
+   "freq": 487,
+   "priority": 0.4914,
    "tests_count": null,
-   "id": 421,
-   "rank": 421
+   "id": 420,
+   "rank": 420
   },
   {
    "hanzi": "课本",
@@ -11182,8 +11156,34 @@
     236
    ],
    "source_def": "textbook",
-   "freq": 466,
-   "priority": 0.4879,
+   "freq": 467,
+   "priority": 0.4881,
+   "tests_count": null,
+   "id": 421,
+   "rank": 421
+  },
+  {
+   "hanzi": "后年",
+   "pinyin": "hòunián",
+   "pinyin_spaced": "hòu nián",
+   "pos": "n.",
+   "english": "the year after next",
+   "accepted": [
+    "year after next"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "我打算后年去中国留学。",
+    "en": "I plan to study in China the year after next.",
+    "py": "Wǒ dǎsuàn hòunián qù zhōngguó liúxué."
+   },
+   "src_no": [
+    172
+   ],
+   "source_def": "the year after next",
+   "freq": 465,
+   "priority": 0.4877,
    "tests_count": null,
    "id": 422,
    "rank": 422
@@ -11208,8 +11208,8 @@
     383
    ],
    "source_def": "watermelon",
-   "freq": 454,
-   "priority": 0.4858,
+   "freq": 453,
+   "priority": 0.4856,
    "tests_count": null,
    "id": 423,
    "rank": 423
@@ -11234,8 +11234,8 @@
     450
    ],
    "source_def": "badminton",
-   "freq": 451,
-   "priority": 0.4853,
+   "freq": 450,
+   "priority": 0.4851,
    "tests_count": null,
    "id": 424,
    "rank": 424
@@ -11260,8 +11260,8 @@
     460
    ],
    "source_def": "sports meet",
-   "freq": 445,
-   "priority": 0.4842,
+   "freq": 444,
+   "priority": 0.4841,
    "tests_count": null,
    "id": 425,
    "rank": 425
@@ -11365,8 +11365,8 @@
     280
    ],
    "source_def": "boy student",
-   "freq": 436,
-   "priority": 0.4826,
+   "freq": 437,
+   "priority": 0.4828,
    "tests_count": null,
    "id": 429,
    "rank": 429
@@ -11391,8 +11391,8 @@
     292
    ],
    "source_def": "plate",
-   "freq": 431,
-   "priority": 0.4817,
+   "freq": 432,
+   "priority": 0.4819,
    "tests_count": null,
    "id": 430,
    "rank": 430
@@ -11476,32 +11476,6 @@
    "rank": 433
   },
   {
-   "hanzi": "网球",
-   "pinyin": "wǎngqiú",
-   "pinyin_spaced": "wǎng qiú",
-   "pos": "n.",
-   "english": "tennis",
-   "accepted": [
-    "tennis"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "你会打网球吗？",
-    "en": "Can you play tennis?",
-    "py": "Nǐ huì dǎ wǎngqiú ma?"
-   },
-   "src_no": [
-    372
-   ],
-   "source_def": "tennis",
-   "freq": 420,
-   "priority": 0.4797,
-   "tests_count": null,
-   "id": 434,
-   "rank": 434
-  },
-  {
    "hanzi": "小区",
    "pinyin": "xiǎoqū",
    "pinyin_spaced": "xiǎo qū",
@@ -11524,8 +11498,8 @@
    "freq": 419,
    "priority": 0.4795,
    "tests_count": null,
-   "id": 435,
-   "rank": 435
+   "id": 434,
+   "rank": 434
   },
   {
    "hanzi": "洗澡",
@@ -11547,6 +11521,32 @@
     388
    ],
    "source_def": "to take a bath",
+   "freq": 419,
+   "priority": 0.4795,
+   "tests_count": null,
+   "id": 435,
+   "rank": 435
+  },
+  {
+   "hanzi": "网球",
+   "pinyin": "wǎngqiú",
+   "pinyin_spaced": "wǎng qiú",
+   "pos": "n.",
+   "english": "tennis",
+   "accepted": [
+    "tennis"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "你会打网球吗？",
+    "en": "Can you play tennis?",
+    "py": "Nǐ huì dǎ wǎngqiú ma?"
+   },
+   "src_no": [
+    372
+   ],
+   "source_def": "tennis",
    "freq": 419,
    "priority": 0.4795,
    "tests_count": null,
@@ -11729,8 +11729,8 @@
     173
    ],
    "source_def": "the day after tomorrow",
-   "freq": 357,
-   "priority": 0.4668,
+   "freq": 356,
+   "priority": 0.4666,
    "tests_count": null,
    "id": 443,
    "rank": 443
@@ -12172,8 +12172,8 @@
     159
    ],
    "source_def": "to celebrate a festival",
-   "freq": 256,
-   "priority": 0.4405,
+   "freq": 257,
+   "priority": 0.4408,
    "tests_count": null,
    "id": 460,
    "rank": 460
@@ -12224,8 +12224,8 @@
     115
    ],
    "source_def": "to have a fever",
-   "freq": 252,
-   "priority": 0.4392,
+   "freq": 254,
+   "priority": 0.4399,
    "tests_count": null,
    "id": 462,
    "rank": 462
@@ -12276,37 +12276,11 @@
     499
    ],
    "source_def": "to be a guest",
-   "freq": 247,
-   "priority": 0.4376,
+   "freq": 248,
+   "priority": 0.438,
    "tests_count": null,
    "id": 464,
    "rank": 464
-  },
-  {
-   "hanzi": "护照",
-   "pinyin": "hùzhào",
-   "pinyin_spaced": "hù zhào",
-   "pos": "n.",
-   "english": "passport",
-   "accepted": [
-    "passport"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "别忘了带护照。",
-    "en": "Don't forget your passport.",
-    "py": "Biéwàngle dài hùzhào."
-   },
-   "src_no": [
-    174
-   ],
-   "source_def": "passport",
-   "freq": 247,
-   "priority": 0.4376,
-   "tests_count": null,
-   "id": 465,
-   "rank": 465
   },
   {
    "hanzi": "字典",
@@ -12328,6 +12302,32 @@
     490
    ],
    "source_def": "dictionary",
+   "freq": 246,
+   "priority": 0.4373,
+   "tests_count": null,
+   "id": 465,
+   "rank": 465
+  },
+  {
+   "hanzi": "护照",
+   "pinyin": "hùzhào",
+   "pinyin_spaced": "hù zhào",
+   "pos": "n.",
+   "english": "passport",
+   "accepted": [
+    "passport"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "别忘了带护照。",
+    "en": "Don't forget your passport.",
+    "py": "Biéwàngle dài hùzhào."
+   },
+   "src_no": [
+    174
+   ],
+   "source_def": "passport",
    "freq": 246,
    "priority": 0.4373,
    "tests_count": null,
@@ -12407,8 +12407,8 @@
     308
    ],
    "source_def": "to ask for leave",
-   "freq": 233,
-   "priority": 0.433,
+   "freq": 234,
+   "priority": 0.4334,
    "tests_count": null,
    "id": 469,
    "rank": 469
@@ -12748,8 +12748,8 @@
     106
    ],
    "source_def": "shorts",
-   "freq": 123,
-   "priority": 0.3826,
+   "freq": 121,
+   "priority": 0.3813,
    "tests_count": null,
    "id": 482,
    "rank": 482
@@ -12774,8 +12774,8 @@
     464
    ],
    "source_def": "what to do",
-   "freq": 121,
-   "priority": 0.3813,
+   "freq": 119,
+   "priority": 0.38,
    "tests_count": null,
    "id": 483,
    "rank": 483
@@ -12800,37 +12800,11 @@
     120
    ],
    "source_def": "instant noodles",
-   "freq": 117,
-   "priority": 0.3787,
+   "freq": 118,
+   "priority": 0.3794,
    "tests_count": null,
    "id": 484,
    "rank": 484
-  },
-  {
-   "hanzi": "开机",
-   "pinyin": "kāijī",
-   "pinyin_spaced": "kāi jī",
-   "pos": "v.",
-   "english": "to turn on device",
-   "accepted": [
-    "turn on device"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "飞机到了以后，你才能开机。",
-    "en": "You can only turn your phone on after the plane arrives.",
-    "py": "Fēijī dào le yǐhòu, nǐ cáinéng kāijī."
-   },
-   "src_no": [
-    228
-   ],
-   "source_def": "to turn on device",
-   "freq": 109,
-   "priority": 0.3731,
-   "tests_count": null,
-   "id": 485,
-   "rank": 485
   },
   {
    "hanzi": "关机",
@@ -12852,8 +12826,34 @@
     153
    ],
    "source_def": "to turn off device",
-   "freq": 108,
-   "priority": 0.3724,
+   "freq": 109,
+   "priority": 0.3731,
+   "tests_count": null,
+   "id": 485,
+   "rank": 485
+  },
+  {
+   "hanzi": "开机",
+   "pinyin": "kāijī",
+   "pinyin_spaced": "kāi jī",
+   "pos": "v.",
+   "english": "to turn on device",
+   "accepted": [
+    "turn on device"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "飞机到了以后，你才能开机。",
+    "en": "You can only turn your phone on after the plane arrives.",
+    "py": "Fēijī dào le yǐhòu, nǐ cáinéng kāijī."
+   },
+   "src_no": [
+    228
+   ],
+   "source_def": "to turn on device",
+   "freq": 107,
+   "priority": 0.3717,
    "tests_count": null,
    "id": 486,
    "rank": 486
@@ -13010,8 +13010,8 @@
     253
    ],
    "source_def": "cool",
-   "freq": 74,
-   "priority": 0.3427,
+   "freq": 75,
+   "priority": 0.3438,
    "tests_count": null,
    "id": 492,
    "rank": 492
@@ -13141,8 +13141,8 @@
     366
    ],
    "source_def": "takeaway; to order takeout",
-   "freq": 25,
-   "priority": 0.2586,
+   "freq": 24,
+   "priority": 0.2555,
    "tests_count": null,
    "id": 497,
    "rank": 497
@@ -13600,8 +13600,8 @@
     "相机",
     "耳机",
     "洗衣机",
-    "开机",
-    "关机"
+    "关机",
+    "开机"
    ],
    "word_count": 7,
    "freq_rank": 111,

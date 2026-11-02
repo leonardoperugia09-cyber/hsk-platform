@@ -300,7 +300,7 @@
     227
    ],
    "source_def": "in process of",
-   "freq": 54360,
+   "freq": 54359,
    "priority": 0.8948,
    "tests_count": null,
    "id": 11,
@@ -646,7 +646,7 @@
     375
    ],
    "source_def": "Life",
-   "freq": 31555,
+   "freq": 31554,
    "priority": 0.8501,
    "tests_count": null,
    "id": 24,
@@ -781,7 +781,7 @@
     32
    ],
    "source_def": "Part",
-   "freq": 27623,
+   "freq": 27622,
    "priority": 0.8392,
    "tests_count": null,
    "id": 29,
@@ -834,7 +834,7 @@
     154
    ],
    "source_def": "Administration",
-   "freq": 27195,
+   "freq": 27196,
    "priority": 0.8379,
    "tests_count": null,
    "id": 31,
@@ -886,7 +886,7 @@
     55
    ],
    "source_def": "Appear",
-   "freq": 25637,
+   "freq": 25638,
    "priority": 0.8331,
    "tests_count": null,
    "id": 33,
@@ -913,7 +913,7 @@
     489
    ],
    "source_def": "many",
-   "freq": 25604,
+   "freq": 25606,
    "priority": 0.833,
    "tests_count": null,
    "id": 34,
@@ -1207,7 +1207,7 @@
     599
    ],
    "source_def": "Effect",
-   "freq": 22082,
+   "freq": 22083,
    "priority": 0.8209,
    "tests_count": null,
    "id": 45,
@@ -1825,7 +1825,7 @@
     511
    ],
    "source_def": "everything",
-   "freq": 16365,
+   "freq": 16366,
    "priority": 0.7963,
    "tests_count": null,
    "id": 68,
@@ -2035,7 +2035,7 @@
     374
    ],
    "source_def": "Even to the extent that",
-   "freq": 15243,
+   "freq": 15242,
    "priority": 0.7904,
    "tests_count": null,
    "id": 76,
@@ -2090,7 +2090,7 @@
     540
    ],
    "source_def": "Original",
-   "freq": 15087,
+   "freq": 15089,
    "priority": 0.7896,
    "tests_count": null,
    "id": 78,
@@ -2117,8 +2117,8 @@
     548
    ],
    "source_def": "We",
-   "freq": 14950,
-   "priority": 0.7888,
+   "freq": 14951,
+   "priority": 0.7889,
    "tests_count": null,
    "id": 79,
    "rank": 79
@@ -2196,7 +2196,7 @@
     197
    ],
    "source_def": "Continue",
-   "freq": 14694,
+   "freq": 14695,
    "priority": 0.7874,
    "tests_count": null,
    "id": 82,
@@ -2222,7 +2222,7 @@
     358
    ],
    "source_def": "whatever, any",
-   "freq": 14639,
+   "freq": 14638,
    "priority": 0.7871,
    "tests_count": null,
    "id": 83,
@@ -2275,7 +2275,7 @@
     9
    ],
    "source_def": "protect",
-   "freq": 13878,
+   "freq": 13879,
    "priority": 0.7827,
    "tests_count": null,
    "id": 85,
@@ -2301,7 +2301,7 @@
     127
    ],
    "source_def": "Be responsible for",
-   "freq": 13748,
+   "freq": 13750,
    "priority": 0.782,
    "tests_count": null,
    "id": 86,
@@ -2354,7 +2354,7 @@
     534
    ],
    "source_def": "Therefore",
-   "freq": 13539,
+   "freq": 13541,
    "priority": 0.7807,
    "tests_count": null,
    "id": 88,
@@ -2434,7 +2434,7 @@
     141
    ],
    "source_def": "kilometre",
-   "freq": 13087,
+   "freq": 13088,
    "priority": 0.7779,
    "tests_count": null,
    "id": 91,
@@ -2486,7 +2486,7 @@
     43
    ],
    "source_def": "Exceed",
-   "freq": 12737,
+   "freq": 12736,
    "priority": 0.7757,
    "tests_count": null,
    "id": 93,
@@ -2540,7 +2540,7 @@
     542
    ],
    "source_def": "Reason",
-   "freq": 12686,
+   "freq": 12687,
    "priority": 0.7754,
    "tests_count": null,
    "id": 95,
@@ -2594,7 +2594,7 @@
     517
    ],
    "source_def": "cause",
-   "freq": 12079,
+   "freq": 12078,
    "priority": 0.7713,
    "tests_count": null,
    "id": 97,
@@ -2674,7 +2674,7 @@
     119
    ],
    "source_def": "rich",
-   "freq": 11871,
+   "freq": 11872,
    "priority": 0.7699,
    "tests_count": null,
    "id": 100,
@@ -2755,7 +2755,7 @@
     5
    ],
    "source_def": "according to",
-   "freq": 11561,
+   "freq": 11562,
    "priority": 0.7678,
    "tests_count": null,
    "id": 103,
@@ -2809,7 +2809,7 @@
     398
    ],
    "source_def": "Suffer",
-   "freq": 11433,
+   "freq": 11432,
    "priority": 0.7668,
    "tests_count": null,
    "id": 105,
@@ -2863,7 +2863,7 @@
     595
    ],
    "source_def": "About",
-   "freq": 11174,
+   "freq": 11173,
    "priority": 0.765,
    "tests_count": null,
    "id": 107,
@@ -3236,7 +3236,7 @@
     290
    ],
    "source_def": "in addition",
-   "freq": 10243,
+   "freq": 10244,
    "priority": 0.7578,
    "tests_count": null,
    "id": 121,
@@ -3769,7 +3769,7 @@
     206
    ],
    "source_def": "proposal",
-   "freq": 9331,
+   "freq": 9332,
    "priority": 0.7502,
    "tests_count": null,
    "id": 141,
@@ -3902,7 +3902,7 @@
     35
    ],
    "source_def": "Material Science",
-   "freq": 9141,
+   "freq": 9142,
    "priority": 0.7485,
    "tests_count": null,
    "id": 146,
@@ -4409,7 +4409,7 @@
     113
    ],
    "source_def": "direction",
-   "freq": 8156,
+   "freq": 8155,
    "priority": 0.7391,
    "tests_count": null,
    "id": 165,
@@ -4435,7 +4435,7 @@
     309
    ],
    "source_def": "mother",
-   "freq": 8014,
+   "freq": 8015,
    "priority": 0.7377,
    "tests_count": null,
    "id": 166,
@@ -4541,8 +4541,8 @@
     133
    ],
    "source_def": "feel",
-   "freq": 7770,
-   "priority": 0.7351,
+   "freq": 7772,
+   "priority": 0.7352,
    "tests_count": null,
    "id": 170,
    "rank": 170
@@ -4595,7 +4595,7 @@
     568
    ],
    "source_def": "Botany, plant",
-   "freq": 7740,
+   "freq": 7739,
    "priority": 0.7348,
    "tests_count": null,
    "id": 172,
@@ -4650,7 +4650,7 @@
     265
    ],
    "source_def": "difficulty",
-   "freq": 7604,
+   "freq": 7603,
    "priority": 0.7334,
    "tests_count": null,
    "id": 174,
@@ -4887,7 +4887,7 @@
     529
    ],
    "source_def": "especially",
-   "freq": 7139,
+   "freq": 7138,
    "priority": 0.7282,
    "tests_count": null,
    "id": 183,
@@ -5099,7 +5099,7 @@
     454
    ],
    "source_def": "Article",
-   "freq": 6732,
+   "freq": 6733,
    "priority": 0.7234,
    "tests_count": null,
    "id": 191,
@@ -5258,7 +5258,7 @@
     191
    ],
    "source_def": "even if",
-   "freq": 6467,
+   "freq": 6466,
    "priority": 0.7201,
    "tests_count": null,
    "id": 197,
@@ -5311,7 +5311,7 @@
     562
    ],
    "source_def": "Prove",
-   "freq": 6429,
+   "freq": 6430,
    "priority": 0.7196,
    "tests_count": null,
    "id": 199,
@@ -5416,7 +5416,7 @@
     284
    ],
    "source_def": "for example",
-   "freq": 6237,
+   "freq": 6236,
    "priority": 0.7171,
    "tests_count": null,
    "id": 203,
@@ -5523,8 +5523,8 @@
     560
    ],
    "source_def": "Correct",
-   "freq": 6171,
-   "priority": 0.7162,
+   "freq": 6172,
+   "priority": 0.7163,
    "tests_count": null,
    "id": 207,
    "rank": 207
@@ -5575,7 +5575,7 @@
     126
    ],
    "source_def": "complex",
-   "freq": 6121,
+   "freq": 6122,
    "priority": 0.7156,
    "tests_count": null,
    "id": 209,
@@ -6028,8 +6028,8 @@
     355
    ],
    "source_def": "Exactly",
-   "freq": 5771,
-   "priority": 0.7107,
+   "freq": 5772,
+   "priority": 0.7108,
    "tests_count": null,
    "id": 226,
    "rank": 226
@@ -6511,8 +6511,8 @@
     365
    ],
    "source_def": "Forest",
-   "freq": 5029,
-   "priority": 0.6995,
+   "freq": 5028,
+   "priority": 0.6994,
    "tests_count": null,
    "id": 244,
    "rank": 244
@@ -7463,8 +7463,8 @@
     600
    ],
    "source_def": "author",
-   "freq": 4028,
-   "priority": 0.6812,
+   "freq": 4029,
+   "priority": 0.6813,
    "tests_count": null,
    "id": 280,
    "rank": 280
@@ -7489,7 +7489,7 @@
     279
    ],
    "source_def": "ideal",
-   "freq": 3992,
+   "freq": 3993,
    "priority": 0.6805,
    "tests_count": null,
    "id": 281,
@@ -7516,7 +7516,7 @@
     239
    ],
    "source_def": "exactly",
-   "freq": 3985,
+   "freq": 3986,
    "priority": 0.6804,
    "tests_count": null,
    "id": 282,
@@ -7622,7 +7622,7 @@
     453
    ],
    "source_def": "temperature",
-   "freq": 3957,
+   "freq": 3956,
    "priority": 0.6798,
    "tests_count": null,
    "id": 286,
@@ -7649,7 +7649,7 @@
     466
    ],
    "source_def": "Contrary",
-   "freq": 3899,
+   "freq": 3900,
    "priority": 0.6786,
    "tests_count": null,
    "id": 287,
@@ -7702,7 +7702,7 @@
     147
    ],
    "source_def": "estimate",
-   "freq": 3898,
+   "freq": 3897,
    "priority": 0.6785,
    "tests_count": null,
    "id": 289,
@@ -7729,7 +7729,7 @@
     53
    ],
    "source_def": "Set out",
-   "freq": 3891,
+   "freq": 3892,
    "priority": 0.6784,
    "tests_count": null,
    "id": 290,
@@ -7755,8 +7755,8 @@
     554
    ],
    "source_def": "recruit",
-   "freq": 3889,
-   "priority": 0.6784,
+   "freq": 3887,
+   "priority": 0.6783,
    "tests_count": null,
    "id": 291,
    "rank": 291
@@ -7782,7 +7782,7 @@
     73
    ],
    "source_def": "about",
-   "freq": 3863,
+   "freq": 3862,
    "priority": 0.6778,
    "tests_count": null,
    "id": 292,
@@ -7811,7 +7811,7 @@
     282
    ],
    "source_def": "Fierce",
-   "freq": 3855,
+   "freq": 3853,
    "priority": 0.6776,
    "tests_count": null,
    "id": 293,
@@ -7918,7 +7918,7 @@
     349
    ],
    "source_def": "Difference",
-   "freq": 3779,
+   "freq": 3781,
    "priority": 0.676,
    "tests_count": null,
    "id": 297,
@@ -8154,7 +8154,7 @@
     243
    ],
    "source_def": "refuse",
-   "freq": 3581,
+   "freq": 3582,
    "priority": 0.6716,
    "tests_count": null,
    "id": 306,
@@ -8209,7 +8209,7 @@
     331
    ],
    "source_def": "peacetime",
-   "freq": 3552,
+   "freq": 3551,
    "priority": 0.6709,
    "tests_count": null,
    "id": 308,
@@ -8263,8 +8263,8 @@
     241
    ],
    "source_def": "hold",
-   "freq": 3545,
-   "priority": 0.6708,
+   "freq": 3544,
+   "priority": 0.6707,
    "tests_count": null,
    "id": 310,
    "rank": 310
@@ -8341,7 +8341,7 @@
     81
    ],
    "source_def": "everywhere",
-   "freq": 3418,
+   "freq": 3419,
    "priority": 0.6678,
    "tests_count": null,
    "id": 313,
@@ -8367,7 +8367,7 @@
     92
    ],
    "source_def": "address",
-   "freq": 3390,
+   "freq": 3391,
    "priority": 0.6671,
    "tests_count": null,
    "id": 314,
@@ -8419,7 +8419,7 @@
     597
    ],
    "source_def": "writer",
-   "freq": 3362,
+   "freq": 3363,
    "priority": 0.6664,
    "tests_count": null,
    "id": 316,
@@ -8446,8 +8446,8 @@
     261
    ],
    "source_def": "I'm afraid",
-   "freq": 3360,
-   "priority": 0.6664,
+   "freq": 3359,
+   "priority": 0.6663,
    "tests_count": null,
    "id": 317,
    "rank": 317
@@ -8500,7 +8500,7 @@
     591
    ],
    "source_def": "summary",
-   "freq": 3351,
+   "freq": 3350,
    "priority": 0.6661,
    "tests_count": null,
    "id": 319,
@@ -8527,7 +8527,7 @@
     487
    ],
    "source_def": "happiness",
-   "freq": 3344,
+   "freq": 3347,
    "priority": 0.666,
    "tests_count": null,
    "id": 320,
@@ -8554,7 +8554,7 @@
     71
    ],
    "source_def": "Probably",
-   "freq": 3335,
+   "freq": 3336,
    "priority": 0.6658,
    "tests_count": null,
    "id": 321,
@@ -8580,7 +8580,7 @@
     461
    ],
    "source_def": "Attract",
-   "freq": 3311,
+   "freq": 3312,
    "priority": 0.6652,
    "tests_count": null,
    "id": 322,
@@ -8607,7 +8607,7 @@
     256
    ],
    "source_def": "unfortunately",
-   "freq": 3287,
+   "freq": 3288,
    "priority": 0.6646,
    "tests_count": null,
    "id": 323,
@@ -8689,7 +8689,7 @@
     566
    ],
    "source_def": "Worth",
-   "freq": 3219,
+   "freq": 3217,
    "priority": 0.6628,
    "tests_count": null,
    "id": 326,
@@ -8821,7 +8821,7 @@
     401
    ],
    "source_def": "be familiar with",
-   "freq": 3057,
+   "freq": 3058,
    "priority": 0.6586,
    "tests_count": null,
    "id": 331,
@@ -8901,7 +8901,7 @@
     588
    ],
    "source_def": "careful",
-   "freq": 3002,
+   "freq": 3001,
    "priority": 0.6571,
    "tests_count": null,
    "id": 334,
@@ -9168,7 +9168,7 @@
     373
    ],
    "source_def": "Apply",
-   "freq": 2873,
+   "freq": 2874,
    "priority": 0.6535,
    "tests_count": null,
    "id": 344,
@@ -9352,8 +9352,8 @@
     336
    ],
    "source_def": "Secondly",
-   "freq": 2781,
-   "priority": 0.6508,
+   "freq": 2782,
+   "priority": 0.6509,
    "tests_count": null,
    "id": 351,
    "rank": 351
@@ -9646,8 +9646,8 @@
     1
    ],
    "source_def": "Love",
-   "freq": 2610,
-   "priority": 0.6456,
+   "freq": 2611,
+   "priority": 0.6457,
    "tests_count": null,
    "id": 362,
    "rank": 362
@@ -10606,7 +10606,7 @@
     54
    ],
    "source_def": "Birth",
-   "freq": 1982,
+   "freq": 1983,
    "priority": 0.6231,
    "tests_count": null,
    "id": 398,
@@ -10632,7 +10632,7 @@
     36
    ],
    "source_def": "visit",
-   "freq": 1983,
+   "freq": 1982,
    "priority": 0.6231,
    "tests_count": null,
    "id": 399,
@@ -10659,7 +10659,7 @@
     346
    ],
    "source_def": "Relaxed",
-   "freq": 1983,
+   "freq": 1984,
    "priority": 0.6231,
    "tests_count": null,
    "id": 400,
@@ -10952,8 +10952,8 @@
     178
    ],
    "source_def": "Internet",
-   "freq": 1818,
-   "priority": 0.616,
+   "freq": 1817,
+   "priority": 0.6159,
    "tests_count": null,
    "id": 411,
    "rank": 411
@@ -10978,7 +10978,7 @@
     306
    ],
    "source_def": "Free of charge",
-   "freq": 1814,
+   "freq": 1815,
    "priority": 0.6158,
    "tests_count": null,
    "id": 412,
@@ -11031,8 +11031,8 @@
     64
    ],
    "source_def": "Answer",
-   "freq": 1760,
-   "priority": 0.6133,
+   "freq": 1761,
+   "priority": 0.6134,
    "tests_count": null,
    "id": 414,
    "rank": 414
@@ -11140,7 +11140,7 @@
     234
    ],
    "source_def": "Policeman",
-   "freq": 1682,
+   "freq": 1681,
    "priority": 0.6096,
    "tests_count": null,
    "id": 418,
@@ -11273,7 +11273,7 @@
     102
    ],
    "source_def": "Opposite side",
-   "freq": 1554,
+   "freq": 1553,
    "priority": 0.6031,
    "tests_count": null,
    "id": 423,
@@ -11351,8 +11351,8 @@
     530
    ],
    "source_def": "interesting",
-   "freq": 1475,
-   "priority": 0.5988,
+   "freq": 1476,
+   "priority": 0.5989,
    "tests_count": null,
    "id": 426,
    "rank": 426
@@ -11538,7 +11538,7 @@
     368
    ],
    "source_def": "Sad",
-   "freq": 1393,
+   "freq": 1392,
    "priority": 0.5941,
    "tests_count": null,
    "id": 433,
@@ -12261,8 +12261,8 @@
     305
    ],
    "source_def": "Password",
-   "freq": 1026,
-   "priority": 0.5691,
+   "freq": 1025,
+   "priority": 0.569,
    "tests_count": null,
    "id": 460,
    "rank": 460
@@ -12314,7 +12314,7 @@
     405
    ],
    "source_def": "Incidentally",
-   "freq": 1012,
+   "freq": 1011,
    "priority": 0.5679,
    "tests_count": null,
    "id": 462,
@@ -12447,8 +12447,8 @@
     485
    ],
    "source_def": "Gender",
-   "freq": 954,
-   "priority": 0.5631,
+   "freq": 955,
+   "priority": 0.5632,
    "tests_count": null,
    "id": 467,
    "rank": 467
@@ -12500,8 +12500,8 @@
     598
    ],
    "source_def": "seat",
-   "freq": 952,
-   "priority": 0.5629,
+   "freq": 951,
+   "priority": 0.5628,
    "tests_count": null,
    "id": 469,
    "rank": 469
@@ -12526,8 +12526,8 @@
     49
    ],
    "source_def": "Be amazed",
-   "freq": 947,
-   "priority": 0.5625,
+   "freq": 946,
+   "priority": 0.5624,
    "tests_count": null,
    "id": 470,
    "rank": 470
@@ -12552,8 +12552,8 @@
     472
    ],
    "source_def": "snack",
-   "freq": 942,
-   "priority": 0.5621,
+   "freq": 943,
+   "priority": 0.5622,
    "tests_count": null,
    "id": 471,
    "rank": 471
@@ -12658,8 +12658,8 @@
     223
    ],
    "source_def": "save",
-   "freq": 887,
-   "priority": 0.5571,
+   "freq": 888,
+   "priority": 0.5572,
    "tests_count": null,
    "id": 475,
    "rank": 475
@@ -12684,8 +12684,8 @@
     416
    ],
    "source_def": "Grandson",
-   "freq": 875,
-   "priority": 0.556,
+   "freq": 876,
+   "priority": 0.5561,
    "tests_count": null,
    "id": 476,
    "rank": 476
@@ -12763,8 +12763,8 @@
     313
    ],
    "source_def": "Uncomfortable",
-   "freq": 831,
-   "priority": 0.5518,
+   "freq": 832,
+   "priority": 0.5519,
    "tests_count": null,
    "id": 479,
    "rank": 479
@@ -12843,8 +12843,8 @@
     233
    ],
    "source_def": "Beijing opera",
-   "freq": 825,
-   "priority": 0.5512,
+   "freq": 824,
+   "priority": 0.5511,
    "tests_count": null,
    "id": 482,
    "rank": 482
@@ -12895,8 +12895,8 @@
     257
    ],
    "source_def": "A living room",
-   "freq": 821,
-   "priority": 0.5508,
+   "freq": 820,
+   "priority": 0.5507,
    "tests_count": null,
    "id": 484,
    "rank": 484
@@ -12923,8 +12923,8 @@
     333
    ],
    "source_def": "Grape",
-   "freq": 815,
-   "priority": 0.5502,
+   "freq": 816,
+   "priority": 0.5503,
    "tests_count": null,
    "id": 485,
    "rank": 485
@@ -12977,8 +12977,8 @@
     271
    ],
    "source_def": "In time",
-   "freq": 806,
-   "priority": 0.5493,
+   "freq": 807,
+   "priority": 0.5494,
    "tests_count": null,
    "id": 487,
    "rank": 487
@@ -13031,8 +13031,8 @@
     215
    ],
    "source_def": "Proud",
-   "freq": 799,
-   "priority": 0.5486,
+   "freq": 798,
+   "priority": 0.5485,
    "tests_count": null,
    "id": 489,
    "rank": 489
@@ -13110,8 +13110,8 @@
     99
    ],
    "source_def": "Short message",
-   "freq": 772,
-   "priority": 0.5458,
+   "freq": 771,
+   "priority": 0.5456,
    "tests_count": null,
    "id": 492,
    "rank": 492
@@ -13453,8 +13453,8 @@
     58
    ],
    "source_def": "Window",
-   "freq": 711,
-   "priority": 0.539,
+   "freq": 712,
+   "priority": 0.5391,
    "tests_count": null,
    "id": 505,
    "rank": 505
@@ -13719,8 +13719,8 @@
     210
    ],
    "source_def": "land",
-   "freq": 652,
-   "priority": 0.5319,
+   "freq": 653,
+   "priority": 0.532,
    "tests_count": null,
    "id": 515,
    "rank": 515
@@ -13901,8 +13901,8 @@
     580
    ],
    "source_def": "Congratulate",
-   "freq": 565,
-   "priority": 0.5202,
+   "freq": 564,
+   "priority": 0.52,
    "tests_count": null,
    "id": 522,
    "rank": 522
@@ -14114,8 +14114,8 @@
     443
    ],
    "source_def": "delay",
-   "freq": 489,
-   "priority": 0.5083,
+   "freq": 488,
+   "priority": 0.5082,
    "tests_count": null,
    "id": 530,
    "rank": 530
@@ -14166,8 +14166,8 @@
     301
    ],
    "source_def": "Towel",
-   "freq": 470,
-   "priority": 0.5051,
+   "freq": 471,
+   "priority": 0.5053,
    "tests_count": null,
    "id": 532,
    "rank": 532
@@ -14218,8 +14218,8 @@
     57
    ],
    "source_def": "Fax",
-   "freq": 455,
-   "priority": 0.5024,
+   "freq": 456,
+   "priority": 0.5026,
    "tests_count": null,
    "id": 534,
    "rank": 534
@@ -14244,8 +14244,8 @@
     538
    ],
    "source_def": "Badminton",
-   "freq": 451,
-   "priority": 0.5017,
+   "freq": 450,
+   "priority": 0.5015,
    "tests_count": null,
    "id": 535,
    "rank": 535
@@ -14296,37 +14296,11 @@
     174
    ],
    "source_def": "Box",
-   "freq": 448,
-   "priority": 0.5012,
+   "freq": 447,
+   "priority": 0.501,
    "tests_count": null,
    "id": 537,
    "rank": 537
-  },
-  {
-   "hanzi": "打印",
-   "pinyin": "dǎyìn",
-   "pinyin_spaced": "dǎ yìn",
-   "pos": "v.",
-   "english": "to print",
-   "accepted": [
-    "print"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "请帮我打印一下这份材料。",
-    "en": "Please print this document for me.",
-    "py": "Qǐng bāng wǒ dǎyìn yíxià zhèfèn cáiliào."
-   },
-   "src_no": [
-    68
-   ],
-   "source_def": "Print",
-   "freq": 441,
-   "priority": 0.4999,
-   "tests_count": null,
-   "id": 538,
-   "rank": 538
   },
   {
    "hanzi": "咸",
@@ -14351,6 +14325,32 @@
    "freq": 440,
    "priority": 0.4997,
    "tests_count": null,
+   "id": 538,
+   "rank": 538
+  },
+  {
+   "hanzi": "打印",
+   "pinyin": "dǎyìn",
+   "pinyin_spaced": "dǎ yìn",
+   "pos": "v.",
+   "english": "to print",
+   "accepted": [
+    "print"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请帮我打印一下这份材料。",
+    "en": "Please print this document for me.",
+    "py": "Qǐng bāng wǒ dǎyìn yíxià zhèfèn cáiliào."
+   },
+   "src_no": [
+    68
+   ],
+   "source_def": "Print",
+   "freq": 439,
+   "priority": 0.4995,
+   "tests_count": null,
    "id": 539,
    "rank": 539
   },
@@ -14374,8 +14374,8 @@
     448
    ],
    "source_def": "Tennis",
-   "freq": 420,
-   "priority": 0.4959,
+   "freq": 419,
+   "priority": 0.4957,
    "tests_count": null,
    "id": 540,
    "rank": 540
@@ -14426,8 +14426,8 @@
     67
    ],
    "source_def": "Disturb",
-   "freq": 417,
-   "priority": 0.4953,
+   "freq": 416,
+   "priority": 0.4951,
    "tests_count": null,
    "id": 542,
    "rank": 542
@@ -14478,8 +14478,8 @@
     51
    ],
    "source_def": "smoking",
-   "freq": 407,
-   "priority": 0.4933,
+   "freq": 408,
+   "priority": 0.4935,
    "tests_count": null,
    "id": 544,
    "rank": 544
@@ -14533,8 +14533,8 @@
     65
    ],
    "source_def": "Say hello",
-   "freq": 375,
-   "priority": 0.4866,
+   "freq": 374,
+   "priority": 0.4864,
    "tests_count": null,
    "id": 546,
    "rank": 546
@@ -14664,8 +14664,8 @@
     364
    ],
    "source_def": "Take a walk",
-   "freq": 340,
-   "priority": 0.4786,
+   "freq": 341,
+   "priority": 0.4788,
    "tests_count": null,
    "id": 551,
    "rank": 551
@@ -14691,8 +14691,8 @@
     543
    ],
    "source_def": "Date",
-   "freq": 334,
-   "priority": 0.4771,
+   "freq": 333,
+   "priority": 0.4769,
    "tests_count": null,
    "id": 552,
    "rank": 552
@@ -14979,8 +14979,8 @@
     587
    ],
    "source_def": "on time",
-   "freq": 231,
-   "priority": 0.447,
+   "freq": 230,
+   "priority": 0.4466,
    "tests_count": null,
    "id": 563,
    "rank": 563
@@ -15032,8 +15032,8 @@
     25
    ],
    "source_def": "Biscuits",
-   "freq": 205,
-   "priority": 0.4372,
+   "freq": 207,
+   "priority": 0.438,
    "tests_count": null,
    "id": 565,
    "rank": 565
@@ -15137,8 +15137,8 @@
     460
    ],
    "source_def": "Tomato",
-   "freq": 193,
-   "priority": 0.4323,
+   "freq": 192,
+   "priority": 0.4319,
    "tests_count": null,
    "id": 569,
    "rank": 569
@@ -15189,8 +15189,8 @@
     125
    ],
    "source_def": "To copy",
-   "freq": 185,
-   "priority": 0.4288,
+   "freq": 186,
+   "priority": 0.4293,
    "tests_count": null,
    "id": 571,
    "rank": 571
@@ -15435,6 +15435,32 @@
    "rank": 580
   },
   {
+   "hanzi": "塑料袋",
+   "pinyin": "sùliàodài",
+   "pinyin_spaced": "sù liào dài",
+   "pos": "n.",
+   "english": "plastic bag",
+   "accepted": [
+    "plastic bag"
+   ],
+   "alt_readings": [],
+   "py_ok": [],
+   "example": {
+    "zh": "请不要用塑料袋。",
+    "en": "Please don't use plastic bags.",
+    "py": "Qǐng bú yào yòng sùliàodài."
+   },
+   "src_no": [
+    412
+   ],
+   "source_def": "Plastic bag",
+   "freq": 101,
+   "priority": 0.3795,
+   "tests_count": null,
+   "id": 581,
+   "rank": 581
+  },
+  {
    "hanzi": "勺子",
    "pinyin": "sháozi",
    "pinyin_spaced": "sháo zi",
@@ -15457,34 +15483,34 @@
    "freq": 100,
    "priority": 0.3787,
    "tests_count": null,
-   "id": 581,
-   "rank": 581
+   "id": 582,
+   "rank": 582
   },
   {
-   "hanzi": "塑料袋",
-   "pinyin": "sùliàodài",
-   "pinyin_spaced": "sù liào dài",
-   "pos": "n.",
-   "english": "plastic bag",
+   "hanzi": "理发",
+   "pinyin": "lǐfà",
+   "pinyin_spaced": "lǐ fà",
+   "pos": "v.",
+   "english": "to get a haircut",
    "accepted": [
-    "plastic bag"
+    "get a haircut"
    ],
    "alt_readings": [],
    "py_ok": [],
    "example": {
-    "zh": "请不要用塑料袋。",
-    "en": "Please don't use plastic bags.",
-    "py": "Qǐng bú yào yòng sùliàodài."
+    "zh": "我想去理发。",
+    "en": "I'd like to get a haircut.",
+    "py": "Wǒ xiǎng qù lǐfà."
    },
    "src_no": [
-    412
+    277
    ],
-   "source_def": "Plastic bag",
-   "freq": 100,
-   "priority": 0.3787,
+   "source_def": "Haircut",
+   "freq": 99,
+   "priority": 0.3779,
    "tests_count": null,
-   "id": 582,
-   "rank": 582
+   "id": 583,
+   "rank": 583
   },
   {
    "hanzi": "寒假",
@@ -15506,11 +15532,11 @@
     166
    ],
    "source_def": "The winter vacation",
-   "freq": 99,
-   "priority": 0.3779,
+   "freq": 98,
+   "priority": 0.3771,
    "tests_count": null,
-   "id": 583,
-   "rank": 583
+   "id": 584,
+   "rank": 584
   },
   {
    "hanzi": "干杯",
@@ -15533,32 +15559,6 @@
     129
    ],
    "source_def": "Cheers!",
-   "freq": 98,
-   "priority": 0.3771,
-   "tests_count": null,
-   "id": 584,
-   "rank": 584
-  },
-  {
-   "hanzi": "理发",
-   "pinyin": "lǐfà",
-   "pinyin_spaced": "lǐ fà",
-   "pos": "v.",
-   "english": "to get a haircut",
-   "accepted": [
-    "get a haircut"
-   ],
-   "alt_readings": [],
-   "py_ok": [],
-   "example": {
-    "zh": "我想去理发。",
-    "en": "I'd like to get a haircut.",
-    "py": "Wǒ xiǎng qù lǐfà."
-   },
-   "src_no": [
-    277
-   ],
-   "source_def": "Haircut",
    "freq": 98,
    "priority": 0.3771,
    "tests_count": null,
@@ -15665,8 +15665,8 @@
     288
    ],
    "source_def": "Pleasantly cool",
-   "freq": 74,
-   "priority": 0.3543,
+   "freq": 75,
+   "priority": 0.3554,
    "tests_count": null,
    "id": 589,
    "rank": 589
@@ -15822,8 +15822,8 @@
     281
    ],
    "source_def": "Sunday",
-   "freq": 35,
-   "priority": 0.2941,
+   "freq": 36,
+   "priority": 0.2963,
    "tests_count": null,
    "id": 595,
    "rank": 595

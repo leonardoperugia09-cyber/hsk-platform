@@ -567,7 +567,7 @@
     49
    ],
    "source_def": "China",
-   "freq": 129474,
+   "freq": 129473,
    "priority": 0.8597,
    "tests_count": null,
    "id": 21,
@@ -1373,7 +1373,7 @@
     75
    ],
    "source_def": "student",
-   "freq": 30781,
+   "freq": 30780,
    "priority": 0.7548,
    "tests_count": null,
    "id": 51,
@@ -1479,7 +1479,7 @@
     14
    ],
    "source_def": "how",
-   "freq": 27343,
+   "freq": 27344,
    "priority": 0.7462,
    "tests_count": null,
    "id": 55,
@@ -2651,7 +2651,7 @@
     48
    ],
    "source_def": "hospital",
-   "freq": 7380,
+   "freq": 7381,
    "priority": 0.6505,
    "tests_count": null,
    "id": 99,
@@ -2704,7 +2704,7 @@
     73
    ],
    "source_def": "daughter",
-   "freq": 6704,
+   "freq": 6705,
    "priority": 0.6435,
    "tests_count": null,
    "id": 101,
@@ -3053,7 +3053,7 @@
     71
    ],
    "source_def": "mother; mum",
-   "freq": 4530,
+   "freq": 4529,
    "priority": 0.6149,
    "tests_count": null,
    "id": 114,
@@ -3211,7 +3211,7 @@
     93
    ],
    "source_def": "computer",
-   "freq": 3431,
+   "freq": 3432,
    "priority": 0.5946,
    "tests_count": null,
    "id": 120,
@@ -3263,7 +3263,7 @@
     59
    ],
    "source_def": "morning",
-   "freq": 3092,
+   "freq": 3093,
    "priority": 0.587,
    "tests_count": null,
    "id": 122,
@@ -3505,8 +3505,8 @@
     126
    ],
    "source_def": "to sleep",
-   "freq": 1734,
-   "priority": 0.5448,
+   "freq": 1732,
+   "priority": 0.5447,
    "tests_count": null,
    "id": 131,
    "rank": 131
@@ -3583,7 +3583,7 @@
     85
    ],
    "source_def": "fruit",
-   "freq": 1514,
+   "freq": 1515,
    "priority": 0.5349,
    "tests_count": null,
    "id": 134,
@@ -3687,8 +3687,8 @@
     127
    ],
    "source_def": "to make a phone call",
-   "freq": 1309,
-   "priority": 0.5242,
+   "freq": 1310,
+   "priority": 0.5243,
    "tests_count": null,
    "id": 138,
    "rank": 138
@@ -3851,8 +3851,8 @@
     135
    ],
    "source_def": "to rain",
-   "freq": 486,
-   "priority": 0.452,
+   "freq": 485,
+   "priority": 0.4518,
    "tests_count": null,
    "id": 144,
    "rank": 144
@@ -3930,8 +3930,8 @@
     91
    ],
    "source_def": "taxi",
-   "freq": 399,
-   "priority": 0.4376,
+   "freq": 400,
+   "priority": 0.4378,
    "tests_count": null,
    "id": 147,
    "rank": 147
@@ -3985,8 +3985,8 @@
     111
    ],
    "source_def": "it doesn't matter; never mind",
-   "freq": 242,
-   "priority": 0.4012,
+   "freq": 241,
+   "priority": 0.4009,
    "tests_count": null,
    "id": 149,
    "rank": 149

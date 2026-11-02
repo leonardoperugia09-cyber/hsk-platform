@@ -1,0 +1,300 @@
+事态|事态正在向好的方向发展。|The situation is developing in a good direction.
+事业|他把一生都献给了教育事业。|He devoted his whole life to education.
+视频|他在网上看了一个有趣的视频。|He watched a funny video online.
+视线|前面的车挡住了我的视线。|The car in front is blocking my view.
+视野|旅行可以开阔我们的视野。|Travel can broaden our horizons.
+逝世|这位老作家昨天逝世了。|The old writer passed away yesterday.
+收缩|天冷的时候，铁会收缩。|Iron contracts when it's cold.
+收音机|爷爷每天早上听收音机。|Grandpa listens to the radio every morning.
+手艺|这位师傅的手艺很好。|This craftsman is very skilled.
+首饰|她不喜欢戴首饰。|She doesn't like wearing jewellery.
+守护|这只狗一直守护着主人的家。|The dog always guards its owner's home.
+受罪|这么热的天还要上班，真受罪。|Having to work on such a hot day is torture.
+授予|学校授予他名誉博士学位。|The university awarded him an honorary doctorate.
+书法|他从小就开始练习书法。|He has practised calligraphy since he was a child.
+书记|他是我们村的书记。|He is our village party secretary.
+舒畅|散步以后，我心情很舒畅。|After a walk I feel relaxed and happy.
+疏忽|这是我的疏忽，对不起。|This was my oversight; I'm sorry.
+疏远|他们两个人越来越疏远了。|The two of them have drifted further and further apart.
+束|他送了女朋友一束花。|He gave his girlfriend a bunch of flowers.
+束缚|他不想被传统观念束缚。|He doesn't want to be bound by traditional ideas.
+数额|这笔钱的数额很大。|This is a very large sum of money.
+耍|你别耍我了，快告诉我真相。|Stop messing with me and tell me the truth.
+衰退|今年经济有所衰退。|The economy has declined somewhat this year.
+涮火锅|冬天我们喜欢涮火锅。|In winter we like having hotpot.
+双胞胎|这对双胞胎长得一模一样。|These twins look exactly alike.
+爽快|他很爽快地答应了我的要求。|He readily agreed to my request.
+水利|政府加大了对水利工程的投资。|The government increased investment in water conservancy projects.
+水龙头|请随手关好水龙头。|Please turn off the tap after use.
+司法|司法部门正在调查这件事。|The judicial authorities are investigating this matter.
+司令|司令下达了进攻的命令。|The commander gave the order to attack.
+思索|他坐在那儿思索了很久。|He sat there thinking for a long time.
+思维|学数学可以锻炼思维能力。|Studying maths trains your thinking.
+私自|你不能私自使用公司的车。|You can't use the company car without permission.
+斯文|他看起来很斯文。|He looks very refined.
+四肢|运动可以让四肢更灵活。|Exercise keeps your limbs supple.
+寺庙|山上有一座古老的寺庙。|There is an ancient temple on the mountain.
+肆无忌惮|他肆无忌惮地说别人的坏话。|He speaks ill of others without any restraint.
+饲养|这个农场饲养了很多牛。|This farm raises a lot of cattle.
+耸|他耸着肩说：“我也不知道。”|He shrugged and said, "I don't know either."
+苏醒|病人终于苏醒过来了。|The patient finally came round.
+俗话|俗话说：“早起的鸟儿有虫吃。”|As the saying goes, the early bird catches the worm.
+素食|她只吃素食。|She only eats vegetarian food.
+诉讼|他决定通过诉讼解决这个问题。|He decided to settle the matter through a lawsuit.
+算数|我说话算数，一定会帮你的。|I keep my word; I'll definitely help you.
+随即|他接到电话，随即离开了。|He got a call and left at once.
+随意|你可以随意参观。|Feel free to look around.
+隧道|火车正在穿过一条长长的隧道。|The train is passing through a long tunnel.
+索性|雨太大了，我们索性不出去了。|It's raining so hard we might as well not go out.
+索取|他向公司索取赔偿。|He demanded compensation from the company.
+塌|大雨后，那座旧房子塌了。|After the heavy rain the old house collapsed.
+泰斗|他是中国文学界的泰斗。|He is a leading authority in Chinese literature.
+瘫痪|地震后，城市交通瘫痪了。|After the earthquake the city's traffic was paralysed.
+贪婪|他的眼里充满了贪婪。|His eyes were full of greed.
+贪污|那个官员因为贪污被抓了。|The official was arrested for embezzlement.
+摊|他在路边摆了一个水果摊。|He set up a fruit stall by the road.
+坦白|你就坦白告诉我吧。|Just tell me honestly.
+探测|科学家用仪器探测海底。|Scientists use instruments to survey the seabed.
+探望|周末我去医院探望了生病的朋友。|At the weekend I visited a sick friend in hospital.
+叹气|别总是叹气，问题总能解决的。|Stop sighing all the time; problems can always be solved.
+倘若|倘若明天下雨，我们就不去了。|If it rains tomorrow, we won't go.
+滔滔不绝|他一说起足球就滔滔不绝。|Once he starts on football, he talks on and on.
+陶瓷|这个地方生产的陶瓷很有名。|The ceramics made here are famous.
+陶醉|大家都陶醉在美妙的音乐中。|Everyone was enchanted by the beautiful music.
+讨好|他总是想办法讨好老板。|He's always trying to please the boss.
+提拔|他工作出色，很快被提拔了。|He did excellent work and was soon promoted.
+提炼|从这种植物中可以提炼出药物。|Medicine can be extracted from this plant.
+提议|我提议大家休息一下。|I suggest we all take a break.
+体裁|这篇文章是什么体裁？|What genre is this piece of writing?
+体谅|你要体谅父母的辛苦。|You should appreciate how hard your parents work.
+体面|他找了一份体面的工作。|He found a respectable job.
+天伦之乐|老人退休后享受天伦之乐。|After retiring, the old couple enjoy family happiness.
+天生|她天生就有一副好嗓子。|She was born with a good voice.
+天堂|对孩子来说，这个游乐场就像天堂。|To children this amusement park is like paradise.
+天赋|他很有音乐天赋。|He has a great gift for music.
+田野|秋天的田野一片金黄。|In autumn the fields are all golden.
+舔|小狗高兴地舔着主人的手。|The puppy happily licked its owner's hand.
+挑剔|他对吃的东西很挑剔。|He is very fussy about food.
+条款|签合同前要仔细看每一个条款。|Read every clause carefully before signing a contract.
+条理|他说话很有条理。|He speaks in a well-organised way.
+条约|两国签订了和平条约。|The two countries signed a peace treaty.
+调和|他在两个朋友之间进行调和。|He tried to reconcile his two friends.
+调剂|周末去爬山可以调剂一下生活。|Going hiking at the weekend adds some variety to life.
+调解|社区工作人员帮他们调解矛盾。|Community workers helped them resolve their dispute.
+调料|做中国菜需要很多调料。|Chinese cooking needs a lot of seasonings.
+挑拨|有人在挑拨我们的关系。|Someone is trying to drive a wedge between us.
+挑衅|对方的行为是一种挑衅。|The other side's actions are a provocation.
+跳跃|运动员在空中跳跃。|The athlete leapt through the air.
+停泊|港口停泊着很多船。|Many ships are anchored in the harbour.
+停顿|他说到这里停顿了一下。|He paused at this point.
+停滞|这个项目停滞不前。|This project has stalled.
+亭子|公园里有一个小亭子。|There is a little pavilion in the park.
+挺拔|山上的松树很挺拔。|The pines on the mountain are tall and straight.
+通货膨胀|通货膨胀让物价上涨了。|Inflation has pushed prices up.
+通俗|这本书写得很通俗，大家都看得懂。|This book is written in plain language that everyone can understand.
+通缉|警方正在通缉那个逃犯。|The police have put out a warrant for the fugitive.
+同胞|我们都是同胞，应该互相帮助。|We are all compatriots and should help each other.
+同志|他是一位好同志。|He is a good comrade.
+统筹兼顾|做计划时要统筹兼顾。|When planning, you should take everything into account.
+统计|根据统计，今年游客增加了一倍。|According to statistics, visitors doubled this year.
+统统|把这些东西统统拿走。|Take all these things away.
+统治|这个国家曾经被外国统治。|This country was once ruled by a foreign power.
+投机|我们俩谈得很投机。|We two got on very well in conversation.
+投降|敌人终于投降了。|The enemy finally surrendered.
+投掷|他投掷得很远。|He threw it a long way.
+秃|他三十岁头就秃了。|He was bald by thirty.
+涂抹|她在脸上涂抹了一些面霜。|She put some cream on her face.
+吞吞吐吐|他说话吞吞吐吐的，好像有什么秘密。|He was hemming and hawing as if he had a secret.
+推翻|人民推翻了旧政府。|The people overthrew the old government.
+推理|这本推理小说很精彩。|This detective novel is brilliant.
+推论|从这些数据可以得出一个推论。|A conclusion can be drawn from this data.
+脱离|病人已经脱离了危险。|The patient is out of danger.
+妥当|这件事你处理得很妥当。|You handled this matter very properly.
+妥善|政府妥善安置了受灾群众。|The government properly settled the disaster victims.
+妥协|双方都不愿意妥协。|Neither side is willing to compromise.
+椭圆|这个盘子是椭圆的。|This plate is oval.
+唾弃|这种行为被人们唾弃。|This behaviour is scorned by everyone.
+挖掘|我们要挖掘员工的潜力。|We need to tap our employees' potential.
+瓦解|这个组织很快就瓦解了。|The organisation soon fell apart.
+歪曲|他歪曲了我的意思。|He twisted my meaning.
+外行|在电脑方面我是外行。|When it comes to computers, I'm an amateur.
+外向|她性格外向，很喜欢交朋友。|She's outgoing and loves making friends.
+丸|医生给我开了几丸药。|The doctor prescribed me some pills.
+完备|这里的设施很完备。|The facilities here are complete.
+完毕|考试完毕，请交卷。|The exam is over; please hand in your papers.
+玩弄|他玩弄了她的感情。|He toyed with her feelings.
+玩意儿|这是什么玩意儿？|What's this thing?
+顽固|他的态度很顽固。|His attitude is very stubborn.
+挽回|他想挽回自己的面子。|He wants to save face.
+挽救|医生们挽救了他的生命。|The doctors saved his life.
+惋惜|大家都为他的失败感到惋惜。|Everyone felt sorry about his failure.
+万分|听到这个消息，我万分高兴。|I was overjoyed to hear the news.
+往常|他和往常一样，七点起床。|As usual, he got up at seven.
+往事|他常常想起过去的往事。|He often thinks back to the past.
+妄想|他妄想不劳动就发财。|He has the delusion of getting rich without working.
+微不足道|这点儿小事微不足道。|This little thing isn't worth mentioning.
+微观|科学家研究微观世界。|Scientists study the microscopic world.
+威风|穿上军装，他显得很威风。|In his uniform he looked very impressive.
+威力|台风的威力非常大。|The power of the typhoon is enormous.
+威望|他在村里很有威望。|He commands great respect in the village.
+威信|这个老师在学生中很有威信。|This teacher has great authority among the students.
+违背|你不能违背自己的承诺。|You can't go back on your promise.
+维持|他靠打工维持生活。|He supports himself with part-time work.
+唯独|大家都来了，唯独他没来。|Everyone came except him.
+委员|他被选为学生会的委员。|He was elected to the student union committee.
+伪造|他伪造了一份文件。|He forged a document.
+喂|喂，你好，请问王老师在吗？|Hello, is Mr Wang there please?
+未免|你这样说未免太过分了。|It's going too far to say that.
+畏惧|他从不畏惧困难。|He never fears difficulties.
+卫星|中国又发射了一颗卫星。|China has launched another satellite.
+慰问|领导到医院慰问受伤的工人。|The leaders went to the hospital to visit the injured workers.
+蔚蓝|蔚蓝的天空中飘着白云。|White clouds float in the azure sky.
+温带|这个国家位于温带。|This country lies in the temperate zone.
+文凭|现在找工作很看重文凭。|Qualifications matter a lot when looking for a job now.
+文雅|她说话很文雅。|She speaks very elegantly.
+问世|这本书去年问世。|This book came out last year.
+窝|小鸟回到了自己的窝。|The little bird returned to its nest.
+乌黑|她有一头乌黑的长发。|She has long jet-black hair.
+污蔑|你不能污蔑别人。|You mustn't slander other people.
+诬陷|他被人诬陷偷了东西。|He was falsely accused of stealing.
+无比|他心里无比高兴。|He was incredibly happy.
+无偿|他无偿地帮助了很多人。|He helped many people free of charge.
+无耻|这种做法太无耻了。|That's utterly shameless.
+无动于衷|看到别人有困难，他无动于衷。|He was completely unmoved when he saw others in trouble.
+无非|他说这么多，无非是想让你帮忙。|All he's saying is that he wants your help.
+无精打采|他今天一整天都无精打采的。|He's been listless all day.
+无赖|那个人是个无赖。|That man is a scoundrel.
+无理取闹|你别无理取闹了。|Stop making a scene for no reason.
+无能为力|对这件事，我也无能为力。|There's nothing I can do about this.
+无辜|战争伤害了很多无辜的人。|The war hurt many innocent people.
+无穷无尽|大自然的奥秘无穷无尽。|The mysteries of nature are endless.
+无微不至|妈妈对我的照顾无微不至。|Mum takes care of me in every possible way.
+无忧无虑|孩子们过着无忧无虑的生活。|The children live a carefree life.
+无知|他的无知让人吃惊。|His ignorance is astonishing.
+舞蹈|她从小学习舞蹈。|She has studied dance since she was little.
+武侠|他喜欢看武侠小说。|He likes reading martial arts novels.
+武装|这些士兵全副武装。|These soldiers are fully armed.
+侮辱|他的话是对我的侮辱。|His words were an insult to me.
+务必|请务必按时到达。|Please be sure to arrive on time.
+误差|这台机器的误差很小。|This machine has a very small margin of error.
+物业|有问题可以找物业。|If there's a problem you can contact the property management.
+物美价廉|这家店的东西物美价廉。|The goods in this shop are good and cheap.
+物资|政府给灾区送去了大量物资。|The government sent large amounts of supplies to the disaster area.
+溪|村子旁边有一条小溪。|There is a stream beside the village.
+膝盖|他摔倒了，膝盖受了伤。|He fell and hurt his knee.
+熄灭|离开前请熄灭蜡烛。|Please put out the candles before you leave.
+昔日|昔日的小村庄变成了现代化的城市。|The little village of the past has become a modern city.
+牺牲|他为了救孩子牺牲了自己。|He gave his life to save a child.
+夕阳|我们坐在海边看夕阳。|We sat by the sea watching the sunset.
+袭击|敌人在夜里发动了袭击。|The enemy launched an attack at night.
+喜闻乐见|这是老百姓喜闻乐见的节目。|This is a programme ordinary people love.
+喜悦|她的脸上露出了喜悦的笑容。|A joyful smile appeared on her face.
+霞|傍晚，天边飘着美丽的晚霞。|In the evening, beautiful sunset clouds drifted across the sky.
+狭隘|他的想法太狭隘了。|His thinking is too narrow-minded.
+狭窄|这条街很狭窄。|This street is very narrow.
+峡谷|这个峡谷又深又长。|This gorge is deep and long.
+下属|他对下属很严格。|He is strict with his subordinates.
+先进|这家工厂有先进的设备。|This factory has advanced equipment.
+掀起|这部电影掀起了一股学汉语的热潮。|This film set off a craze for learning Chinese.
+纤维|多吃含纤维的食物对身体好。|Eating plenty of fibre is good for you.
+弦|吉他的一根弦断了。|One of the guitar strings has broken.
+嫌疑|他有很大的嫌疑。|He is under strong suspicion.
+闲话|别在背后说别人的闲话。|Don't gossip about people behind their backs.
+贤惠|他的妻子非常贤惠。|His wife is very virtuous.
+衔接|这两段话衔接得不太好。|These two paragraphs don't link up very well.
+现场|警察很快赶到了现场。|The police quickly arrived at the scene.
+现成|冰箱里有现成的饭菜。|There's ready-made food in the fridge.
+现状|他对现状很不满意。|He is very unhappy with the current situation.
+宪法|宪法是国家的根本大法。|The constitution is the fundamental law of the state.
+陷害|他被人陷害了。|He was framed.
+陷阱|小心，这可能是一个陷阱。|Be careful, this could be a trap.
+馅儿|我最喜欢吃猪肉馅儿的饺子。|My favourite dumplings have a pork filling.
+相辅相成|理论和实践是相辅相成的。|Theory and practice complement each other.
+镶嵌|戒指上镶嵌着一颗钻石。|A diamond is set in the ring.
+乡镇|他在一个小乡镇长大。|He grew up in a small town.
+想方设法|他想方设法帮我解决了问题。|He did everything he could to help me solve the problem.
+响亮|他的声音很响亮。|His voice is loud and clear.
+响应|大家积极响应学校的号召。|Everyone responded actively to the school's call.
+巷|他家住在一条小巷里。|His family lives in a little lane.
+向导|我们请了一位当地的向导。|We hired a local guide.
+向来|他向来说话算数。|He has always kept his word.
+销毁|警察销毁了这些假货。|The police destroyed the fake goods.
+小心翼翼|她小心翼翼地把花瓶放在桌子上。|She very carefully put the vase on the table.
+效益|公司今年的经济效益很好。|The company's profits are good this year.
+肖像|墙上挂着一幅肖像。|A portrait hangs on the wall.
+潇洒|他穿上西装显得很潇洒。|He looks very dashing in a suit.
+协商|双方经过协商解决了问题。|The two sides resolved the issue through consultation.
+协议|他们签订了一份合作协议。|They signed a cooperation agreement.
+屑|桌子上都是面包屑。|The table is covered in breadcrumbs.
+谢绝|这个博物馆谢绝拍照。|Photography is not permitted in this museum.
+泄露|他泄露了公司的机密。|He leaked company secrets.
+泄气|失败了也别泄气。|Don't lose heart if you fail.
+新陈代谢|运动可以促进新陈代谢。|Exercise boosts your metabolism.
+新郎|新郎今天穿得很帅。|The groom looks very handsome today.
+新娘|新娘今天特别漂亮。|The bride looks especially beautiful today.
+心得|他和大家分享了学习心得。|He shared what he had learned with everyone.
+心态|保持好的心态很重要。|It's important to keep a positive attitude.
+心血|这本书花了他十年的心血。|This book took ten years of his painstaking effort.
+心眼儿|他是个心眼儿很好的人。|He is a kind-hearted person.
+心甘情愿|为了孩子，她心甘情愿做任何事。|For her child she would willingly do anything.
+辛勤|农民辛勤地在田里劳动。|The farmers work hard in the fields.
+欣慰|看到孩子长大了，父母感到很欣慰。|Seeing their child grow up gave the parents great comfort.
+欣欣向荣|这个城市一片欣欣向荣的景象。|The city is thriving.
+信仰|每个人都有信仰的自由。|Everyone has freedom of belief.
+信誉|这家公司很讲信誉。|This company values its reputation.
+腥|这条鱼有点儿腥。|This fish smells a bit fishy.
+兴隆|祝你生意兴隆！|I wish you a thriving business!
+兴旺|他们家的生意越来越兴旺。|Their family business is doing better and better.
+行政|他在学校做行政工作。|He does administrative work at a school.
+刑事|这是一起刑事案件。|This is a criminal case.
+性感|她穿着一条性感的裙子。|She is wearing a sexy dress.
+性命|他救了我一条性命。|He saved my life.
+兴高采烈|孩子们兴高采烈地去公园玩。|The children went happily off to play in the park.
+兴致勃勃|大家兴致勃勃地讨论着旅行计划。|Everyone eagerly discussed the travel plans.
+胸怀|他有宽广的胸怀。|He is very broad-minded.
+胸膛|他挺起胸膛，大步向前走。|He threw out his chest and strode forward.
+汹涌|大海波涛汹涌。|The sea was rough and stormy.
+凶恶|那只狗看起来很凶恶。|That dog looks fierce.
+凶手|警察终于抓到了凶手。|The police finally caught the murderer.
+雄厚|这家公司资金雄厚。|This company has abundant funds.
+雄伟|长城非常雄伟。|The Great Wall is magnificent.
+修建|这里正在修建一座新桥。|A new bridge is being built here.
+修养|他是一个很有修养的人。|He is a very cultivated person.
+羞耻|他做了错事，却不感到羞耻。|He did wrong but felt no shame.
+绣|奶奶在衣服上绣了一朵花。|Grandma embroidered a flower on the garment.
+嗅觉|狗的嗅觉非常灵敏。|Dogs have a very keen sense of smell.
+虚假|这个广告内容很虚假。|This advert is misleading.
+虚荣|她有点儿爱虚荣。|She's a bit vain.
+虚伪|我不喜欢虚伪的人。|I don't like hypocritical people.
+需求|市场对这种产品的需求很大。|Market demand for this product is high.
+须知|请先阅读考生须知。|Please read the notes for candidates first.
+酗酒|酗酒对身体伤害很大。|Heavy drinking does great harm to the body.
+畜牧|这个地区以畜牧业为主。|This area relies mainly on animal husbandry.
+序言|这本书的序言写得很好。|The preface of this book is well written.
+喧哗|图书馆里请勿大声喧哗。|Please don't make noise in the library.
+宣誓|新总统在大会上宣誓。|The new president took the oath at the assembly.
+宣扬|他到处宣扬自己的成绩。|He boasts about his achievements everywhere.
+悬挂|墙上悬挂着一幅地图。|A map hangs on the wall.
+悬念|这部电影充满了悬念。|This film is full of suspense.
+悬殊|两个队的实力悬殊。|The two teams are very unevenly matched.
+悬崖峭壁|山上到处是悬崖峭壁。|The mountain is full of sheer cliffs.
+旋律|这首歌的旋律很好听。|This song has a lovely melody.
+选举|明年将举行总统选举。|A presidential election will be held next year.
+选手|这位选手获得了第一名。|This competitor won first place.
+炫耀|他喜欢在朋友面前炫耀自己的新车。|He likes to show off his new car to his friends.
+削|妈妈给我削了一个苹果。|Mum peeled an apple for me.
+削弱|这场病削弱了他的体力。|The illness weakened him.
+学说|他提出了一种新的学说。|He put forward a new theory.
+雪上加霜|他刚丢了工作，又生病了，真是雪上加霜。|He just lost his job and now he's ill. It never rains but it pours.
+熏陶|在父母的熏陶下，他也爱上了音乐。|Influenced by his parents, he too fell in love with music.
+循序渐进|学习要循序渐进。|Learning should proceed step by step.
+巡逻|警察在街上巡逻。|Police are patrolling the streets.
+寻觅|他一直在寻觅自己的理想。|He has always been searching for his ideal.
+压迫|人民不愿意再受压迫。|The people refuse to be oppressed any longer.
+压岁钱|过年时，孩子们都能收到压岁钱。|At New Year children all receive lucky money.
+压抑|这里的气氛让人很压抑。|The atmosphere here is very oppressive.
+压榨|那个老板压榨工人。|That boss exploits the workers.
+压制|你不应该压制别人的意见。|You shouldn't suppress other people's opinions.
+鸦雀无声|老师一进来，教室里鸦雀无声。|As soon as the teacher came in, the classroom went completely silent.
+烟花爆竹|春节时很多人放烟花爆竹。|At Spring Festival many people set off fireworks and firecrackers.
+严峻|我们面临着严峻的挑战。|We face a serious challenge.
